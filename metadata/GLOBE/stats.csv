@@ -1,0 +1,986 @@
+split,field,value,count,split_total
+dev,accent,united states english,5009,9603
+dev,accent,"india and south asia (india, pakistan, sri lanka)",1923,9603
+dev,accent,england english,1012,9603
+dev,accent,canadian english,289,9603
+dev,accent,australian english,287,9603
+dev,accent,"southern african (south africa, zimbabwe, namibia)",147,9603
+dev,accent,irish english,112,9603
+dev,accent,malaysian english,91,9603
+dev,accent,new zealand english,83,9603
+dev,accent,scottish english,75,9603
+dev,accent,filipino,71,9603
+dev,accent,hong kong english,63,9603
+dev,accent,singaporean english,48,9603
+dev,accent,"west indies and bermuda (bahamas, bermuda, jamaica, trinidad)",21,9603
+dev,accent,german,14,9603
+dev,accent,welsh english,14,9603
+dev,accent,"united states english,england english",12,9603
+dev,accent,"united states english,midwestern,minnesotan",12,9603
+dev,accent,nigeria english,9,9603
+dev,accent,"united states english,england english,india and south asia (india, pakistan, sri lanka)",7,9603
+dev,accent,dutch,6,9603
+dev,accent,"german english,non native speaker",6,9603
+dev,accent,french,5,9603
+dev,accent,russian,5,9603
+dev,accent,"united states english,india and south asia (india, pakistan, sri lanka)",5,9603
+dev,accent,"england english,india and south asia (india, pakistan, sri lanka),northern english",4,9603
+dev,accent,"england english,new zealand english",4,9603
+dev,accent,"liverpool english,lancashire english,england english",4,9603
+dev,accent,"south german accent,alemannic german accent,german,south-west german",4,9603
+dev,accent,swedish english,4,9603
+dev,accent,turkish,4,9603
+dev,accent,"united states english,australian english",4,9603
+dev,accent,american,3,9603
+dev,accent,brazilian,3,9603
+dev,accent,central scottish ,3,9603
+dev,accent,chichester,3,9603
+dev,accent,egyptian english ,3,9603
+dev,accent,"england english,british",3,9603
+dev,accent,"england english,dutch",3,9603
+dev,accent,"england english,east midland, united kingdom",3,9603
+dev,accent,"england english,polish english",3,9603
+dev,accent,"england english,southern england english",3,9603
+dev,accent,finnish,3,9603
+dev,accent,korean,3,9603
+dev,accent,"ontario,canadian english",3,9603
+dev,accent,"scottish english,glaswegian ",3,9603
+dev,accent,"scottish english,spanish english",3,9603
+dev,accent,south african english,3,9603
+dev,accent,"south atlantic (falkland islands, saint helena)",3,9603
+dev,accent,"tinged with southern accent,midwestern united states - chicago",3,9603
+dev,accent,"united states english,a combination of michigan and new england",3,9603
+dev,accent,"united states english,appalachian english",3,9603
+dev,accent,"united states english,dutch english",3,9603
+dev,accent,"united states english,filipino",3,9603
+dev,accent,"united states english,kentucky",3,9603
+dev,accent,"united states english,maine",3,9603
+dev,accent,"united states english,midwest american",3,9603
+dev,accent,"united states english,southern with a stutter",3,9603
+dev,accent,argentinian english,2,9603
+dev,accent,brooklyn ,2,9603
+dev,accent,"canadian english,india and south asia (india, pakistan, sri lanka)",2,9603
+dev,accent,czech,2,9603
+dev,accent,dutch modern english,2,9603
+dev,accent,east african khoja,2,9603
+dev,accent,"england english,british english,manchester,mancunian, speech impediment",2,9603
+dev,accent,"england english,east anglian english,east midlands english,fenland english",2,9603
+dev,accent,"england english,esturine, from the region around the thames estuary in england",2,9603
+dev,accent,"england english,i speak like a typical south east england, south london accent",2,9603
+dev,accent,"england english,north of england,lancashire,mild scouse",2,9603
+dev,accent,"england english,northern england",2,9603
+dev,accent,"england english,received pronunciation,london accent ",2,9603
+dev,accent,"england english,south london and essex",2,9603
+dev,accent,"england english,souther english, long-term resident in scotland",2,9603
+dev,accent,"england english,southern african (south africa, zimbabwe, namibia)",2,9603
+dev,accent,"england english,southern english,sussex",2,9603
+dev,accent,"england english,standard english",2,9603
+dev,accent,"england english,yorkshire",2,9603
+dev,accent,english as second language (russian as first),2,9603
+dev,accent,flemish,2,9603
+dev,accent,"france english,germany english",2,9603
+dev,accent,german english,2,9603
+dev,accent,"hello my friend,i love you,hey you are you ok ,ho are you,yes i am",2,9603
+dev,accent,"india and south asia (india, pakistan, sri lanka),indian english ",2,9603
+dev,accent,"indian,neutral,slow",2,9603
+dev,accent,"indonesian,indonesia",2,9603
+dev,accent,latino,2,9603
+dev,accent,"london, england",2,9603
+dev,accent,non native - french speaker,2,9603
+dev,accent,north wales 1st language welsh english,2,9603
+dev,accent,"scottish english,scottish english (west coast),scottish english (ayrshire)",2,9603
+dev,accent,"slavic,east european,polish",2,9603
+dev,accent,"southern californian,united states english",2,9603
+dev,accent,thai english,2,9603
+dev,accent,ukrainian,2,9603
+dev,accent,"united states english,according to aptis, i've got a c1 level",2,9603
+dev,accent,"united states english,caribbean and british mixed with some new york accents",2,9603
+dev,accent,"united states english,colorado",2,9603
+dev,accent,"united states english,england english,hong kong english",2,9603
+dev,accent,"united states english,england english,irish english,scottish english",2,9603
+dev,accent,"united states english,german",2,9603
+dev,accent,"united states english,midwestern",2,9603
+dev,accent,"united states english,midwestern,african american ,midwestern wisconsin,wisconsin",2,9603
+dev,accent,"united states english,midwestern,ohio",2,9603
+dev,accent,"united states english,portuguese",2,9603
+dev,accent,"united states english,puerto rican,latin american english,florida,new york,long island,savannah, georgia",2,9603
+dev,accent,"united states english,russian english accent",2,9603
+dev,accent,"united states english,turkish",2,9603
+dev,accent,"united states english,vietnamese accent",2,9603
+dev,accent,wise canadian english,2,9603
+dev,accent,yoruba,2,9603
+dev,accent,русский,2,9603
+dev,accent,"australian english,educated australian accent",1,9603
+dev,accent,"australian english,teenager",1,9603
+dev,accent,"bangladesh,india and south asia (india, pakistan, sri lanka)",1,9603
+dev,accent,bangladeshi english,1,9603
+dev,accent,"bangladeshi,bangladesh english",1,9603
+dev,accent,"brazilian,latino",1,9603
+dev,accent,bulgarian,1,9603
+dev,accent,"bulgarian english,non-native speaker",1,9603
+dev,accent,"canadian english,french canadian",1,9603
+dev,accent,"eastern european,romanian",1,9603
+dev,accent,"england english,british,south england",1,9603
+dev,accent,"england english,canadian english",1,9603
+dev,accent,"england english,geordie ",1,9603
+dev,accent,"england english,norwegian",1,9603
+dev,accent,"england english,received pronunciation",1,9603
+dev,accent,"england english,south london",1,9603
+dev,accent,european english,1,9603
+dev,accent,french accent,1,9603
+dev,accent,georgian english,1,9603
+dev,accent,"german english,sick",1,9603
+dev,accent,hungarian english ,1,9603
+dev,accent,i have none that i can tell.,1,9603
+dev,accent,"india and south asia (india, pakistan, sri lanka),england english",1,9603
+dev,accent,"india and south asia (india, pakistan, sri lanka),south indian",1,9603
+dev,accent,"india and south asia (india, pakistan, sri lanka),try to maintain originality ",1,9603
+dev,accent,indonesia,1,9603
+dev,accent,"international school,indonesian",1,9603
+dev,accent,israeli,1,9603
+dev,accent,israeli english,1,9603
+dev,accent,italian,1,9603
+dev,accent,"javanese,indonesian english,malaysian english",1,9603
+dev,accent,kenyan english accent,1,9603
+dev,accent,l2,1,9603
+dev,accent,latinamerican,1,9603
+dev,accent,"mid-atlantic,england english,united states english",1,9603
+dev,accent,nepali,1,9603
+dev,accent,north africa,1,9603
+dev,accent,"northern irish,belfast ",1,9603
+dev,accent,"northern irish,culchie",1,9603
+dev,accent,not bad,1,9603
+dev,accent,"russian,slavic,cyrilic",1,9603
+dev,accent,"scottish english,i have stayed in the scottish borders all my life.",1,9603
+dev,accent,slavic,1,9603
+dev,accent,"southern african (south africa, zimbabwe, namibia),xhosa,male,black",1,9603
+dev,accent,spanish,1,9603
+dev,accent,"spanish native with a good level of proficiency in english,colombian",1,9603
+dev,accent,"spanish,foreign,non-native",1,9603
+dev,accent,"transatlantic english,united states english",1,9603
+dev,accent,"unite states midwest,united states english",1,9603
+dev,accent,"united states english,australian english,england english,canadian english,hong kong english,greek-made,gaming-english",1,9603
+dev,accent,"united states english,canadian english,indo-canadian english",1,9603
+dev,accent,"united states english,coastal elite english",1,9603
+dev,accent,"united states english,deep south us",1,9603
+dev,accent,"united states english,england english,ohio",1,9603
+dev,accent,"united states english,hungarian english (english spoken by a hungarian national)",1,9603
+dev,accent,"united states english,midwestern missourian drawl",1,9603
+dev,accent,"united states english,midwestern states (michigan)",1,9603
+dev,accent,"united states english,midwestern,low,demure",1,9603
+dev,accent,"united states english,pacific northwest ",1,9603
+dev,accent,"united states english,southern draw",1,9603
+dev,accent,"united states english,southern united states english,lightly southern",1,9603
+dev,accent,"united states english,southwestern united states english",1,9603
+dev,accent,west african ,1,9603
+dev,accent,"west indies and bermuda (bahamas, bermuda, jamaica, trinidad),england english,scottish english,united states english",1,9603
+dev,accent,выраженный украинский акцент,1,9603
+dev,age,twenties,5174,9603
+dev,age,thirties,1841,9603
+dev,age,fifties,725,9603
+dev,age,fourties,650,9603
+dev,age,teens,648,9603
+dev,age,sixties,340,9603
+dev,age,seventies,220,9603
+dev,age,eighties,3,9603
+dev,age,nineties,2,9603
+dev,gender,male,7858,9603
+dev,gender,female,1742,9603
+dev,gender,non-binary,3,9603
+test,accent,united states english,4718,9179
+test,accent,"india and south asia (india, pakistan, sri lanka)",1944,9179
+test,accent,england english,943,9179
+test,accent,canadian english,271,9179
+test,accent,australian english,250,9179
+test,accent,"southern african (south africa, zimbabwe, namibia)",126,9179
+test,accent,scottish english,81,9179
+test,accent,irish english,79,9179
+test,accent,filipino,73,9179
+test,accent,hong kong english,67,9179
+test,accent,malaysian english,63,9179
+test,accent,new zealand english,61,9179
+test,accent,singaporean english,45,9179
+test,accent,welsh english,31,9179
+test,accent,"united states english,england english",17,9179
+test,accent,german,13,9179
+test,accent,"west indies and bermuda (bahamas, bermuda, jamaica, trinidad)",12,9179
+test,accent,"german english,non native speaker",9,9179
+test,accent,nigeria english,8,9179
+test,accent,"liverpool english,lancashire english,england english",6,9179
+test,accent,"united states english,canadian english",6,9179
+test,accent,"united states english,midwestern,minnesotan",6,9179
+test,accent,russian,5,9179
+test,accent,french,4,9179
+test,accent,icelandic,4,9179
+test,accent,northern irish english,4,9179
+test,accent,"united states english,midwestern",4,9179
+test,accent,"united states english,midwestern,low,demure",4,9179
+test,accent,brazilian,3,9179
+test,accent,dutch,3,9179
+test,accent,dutch english,3,9179
+test,accent,"england english,southern english,sussex",3,9179
+test,accent,german accent,3,9179
+test,accent,german english,3,9179
+test,accent,"slavic,east european,polish",3,9179
+test,accent,"south german accent,alemannic german accent,german,south-west german",3,9179
+test,accent,"united states english,californian",3,9179
+test,accent,"united states english,india and south asia (india, pakistan, sri lanka)",3,9179
+test,accent,argentine english,2,9179
+test,accent,"australian english,hybrid united states and australian ",2,9179
+test,accent,austrian,2,9179
+test,accent,bangladeshi english,2,9179
+test,accent,"british with slightly brazilian accent,british and slightly brazilian ",2,9179
+test,accent,"canadian english,filipino",2,9179
+test,accent,"canadian english,western canada",2,9179
+test,accent,chilean non native english,2,9179
+test,accent,chinese,2,9179
+test,accent,eastern european english,2,9179
+test,accent,"england english, i speak like a typical south east england, in a soft south london accent.",2,9179
+test,accent,"england english,black country,west midlands",2,9179
+test,accent,"england english,london english",2,9179
+test,accent,"england english,new zealand english",2,9179
+test,accent,"england english,received pronunciation,london accent ",2,9179
+test,accent,"england english,spanglish",2,9179
+test,accent,"england english,yorkshire",2,9179
+test,accent,"england english,yorkshire english",2,9179
+test,accent,english (uk),2,9179
+test,accent,english ghanaian,2,9179
+test,accent,english with a french accent ,2,9179
+test,accent,finnish,2,9179
+test,accent,french canadian,2,9179
+test,accent,french speaking english,2,9179
+test,accent,ghanaian,2,9179
+test,accent,"india and south asia (india, pakistan, sri lanka),bangladeshi english",2,9179
+test,accent,israeli english,2,9179
+test,accent,israeli's accent ,2,9179
+test,accent,italian,2,9179
+test,accent,"javanese,indonesian english,malaysian english",2,9179
+test,accent,kenyan ,2,9179
+test,accent,kenyan english accent,2,9179
+test,accent,non native,2,9179
+test,accent,northern cali,2,9179
+test,accent,northern english,2,9179
+test,accent,norwegian,2,9179
+test,accent,"persian,iranian",2,9179
+test,accent,"scottish english,highland,east highland",2,9179
+test,accent,slavic,2,9179
+test,accent,slavic english,2,9179
+test,accent,slovak,2,9179
+test,accent,south america,2,9179
+test,accent,"southern californian,united states english",2,9179
+test,accent,strong russian accent,2,9179
+test,accent,swedish,2,9179
+test,accent,tibetan american ,2,9179
+test,accent,"united states english,australian english",2,9179
+test,accent,"united states english,central new york accent",2,9179
+test,accent,"united states english,chicago/midwestern",2,9179
+test,accent,"united states english,mid atlantic",2,9179
+test,accent,"united states english,midwest",2,9179
+test,accent,"united states english,midwest us",2,9179
+test,accent,"united states english,midwestern rural",2,9179
+test,accent,"united states english,midwestern united states",2,9179
+test,accent,"united states english,midwestern,african american ,midwestern wisconsin,wisconsin",2,9179
+test,accent,"united states english,minnesotan english",2,9179
+test,accent,"united states english,pacific northwest ",2,9179
+test,accent,"united states english,russian",2,9179
+test,accent,"united states english,sacramento",2,9179
+test,accent,"united states english,slavic",2,9179
+test,accent,"united states english,slight english ring",2,9179
+test,accent,"united states english,spanish,very sexy ,very good,i sound professional ",2,9179
+test,accent,"united states english,united states-west coast-alaska,united states-midwestern",2,9179
+test,accent,"a bit country, not too far southern of a dialect, with obvious manners",1,9179
+test,accent,alabama black american,1,9179
+test,accent,"algeria,algerian ",1,9179
+test,accent,american,1,9179
+test,accent,american english with swedish accent,1,9179
+test,accent,arabic english,1,9179
+test,accent,argentina,1,9179
+test,accent,"australian english,canadian english",1,9179
+test,accent,"australian english,east africa (uganda)",1,9179
+test,accent,azerbaijani,1,9179
+test,accent,balkan,1,9179
+test,accent,"bangladeshi,bangladesh english",1,9179
+test,accent,bengali english,1,9179
+test,accent,british americanized english,1,9179
+test,accent,british english,1,9179
+test,accent,"british english,london english",1,9179
+test,accent,cajun french,1,9179
+test,accent,californian accent,1,9179
+test,accent,"canadian english,english hungarian",1,9179
+test,accent,"canadian english,french",1,9179
+test,accent,"canadian english,welsh english",1,9179
+test,accent,canadian latino immigrant,1,9179
+test,accent,catalan,1,9179
+test,accent,chicago italian,1,9179
+test,accent,chinese accent,1,9179
+test,accent,chinese accent of english,1,9179
+test,accent,chinese english,1,9179
+test,accent,chinglish,1,9179
+test,accent,colombian,1,9179
+test,accent,colombian living in brazil for 20 years,1,9179
+test,accent,connecticut/western massachusetts ,1,9179
+test,accent,deformato,1,9179
+test,accent,eastern european,1,9179
+test,accent,"england english, north yorkshire",1,9179
+test,accent,"england english,british indian",1,9179
+test,accent,"england english,canadian english",1,9179
+test,accent,"england english,dutch english",1,9179
+test,accent,"england english,east anglian english",1,9179
+test,accent,"england english,eastury english",1,9179
+test,accent,"england english,educated rural uk english",1,9179
+test,accent,"england english,hong kong english",1,9179
+test,accent,"england english,india and south asia (india, pakistan, sri lanka),northern english",1,9179
+test,accent,"england english,india and south asia (india, pakistan, sri lanka),southern african (south africa, zimbabwe, namibia)",1,9179
+test,accent,"england english,irish english",1,9179
+test,accent,"england english,kent",1,9179
+test,accent,"england english,london,south england",1,9179
+test,accent,"england english,london/cockney accent",1,9179
+test,accent,"england english,luton,dunstable",1,9179
+test,accent,"england english,mancunion",1,9179
+test,accent,"england english,midlands english",1,9179
+test,accent,"england english,nigerian english",1,9179
+test,accent,"england english,north of england,lancashire,mild scouse",1,9179
+test,accent,"england english,rp",1,9179
+test,accent,"england english,sore throat,masculine ",1,9179
+test,accent,"england english,south london",1,9179
+test,accent,"england english,south london and essex",1,9179
+test,accent,"england english,southern england",1,9179
+test,accent,"england english,surrey accent, southern english.",1,9179
+test,accent,"england english,western european non-native english",1,9179
+test,accent,england non-native,1,9179
+test,accent,english russia,1,9179
+test,accent,european 2nd language english,1,9179
+test,accent,"filipino,waray-waray dialect",1,9179
+test,accent,french accent,1,9179
+test,accent,french-origins english,1,9179
+test,accent,german native,1,9179
+test,accent,greek,1,9179
+test,accent,hungarian,1,9179
+test,accent,hybrid indian/australian/american,1,9179
+test,accent,i am spanish but i lived in france for 14 years which changed even my spanish accent. so i have also a french language influence from ,1,9179
+test,accent,i have a london/esssex uk accent.,1,9179
+test,accent,i speak as if i am there.,1,9179
+test,accent,"india and south asia (india, pakistan, sri lanka),bangladesh",1,9179
+test,accent,"india and south asia (india, pakistan, sri lanka),canadian english",1,9179
+test,accent,"india and south asia (india, pakistan, sri lanka),west indies and bermuda (bahamas, bermuda, jamaica, trinidad)",1,9179
+test,accent,indian,1,9179
+test,accent,indonesia,1,9179
+test,accent,indonesian,1,9179
+test,accent,international,1,9179
+test,accent,israeli-russian-mixed english,1,9179
+test,accent,israeli-usa-mix,1,9179
+test,accent,italian accent from northern italy (milan),1,9179
+test,accent,italian/us-english,1,9179
+test,accent,kenyan accent,1,9179
+test,accent,"kenyan, and english",1,9179
+test,accent,latvian english,1,9179
+test,accent,"malaysian english,england english",1,9179
+test,accent,"manchester, english english, mancunian, british english",1,9179
+test,accent,mandarin english,1,9179
+test,accent,mid atlantic united states - philadelphia suburbs,1,9179
+test,accent,"midatlantic,england english",1,9179
+test,accent,midwestern,1,9179
+test,accent,mix of american and british accent,1,9179
+test,accent,mixed accent,1,9179
+test,accent,mongolian,1,9179
+test,accent,"nasal,belgian",1,9179
+test,accent,native lithuanian english speaker,1,9179
+test,accent,nepalese,1,9179
+test,accent,nepali,1,9179
+test,accent,"nepali,nepali american,nepali english",1,9179
+test,accent,non native english,1,9179
+test,accent,non native french speaker ,1,9179
+test,accent,north african,1,9179
+test,accent,northern africa accent,1,9179
+test,accent,"northern irish, english",1,9179
+test,accent,of afrikan kenyan descent with some american influence ,1,9179
+test,accent,"ontario,canadian english",1,9179
+test,accent,polish,1,9179
+test,accent,polish accent,1,9179
+test,accent,polish/nordic english,1,9179
+test,accent,"queenslandish, lived with my grandfather for a time who has a mix between the australian and an english accent.",1,9179
+test,accent,"russian,i don't know,kazakh",1,9179
+test,accent,"scottish english,dundonian scottish",1,9179
+test,accent,"scottish english,renfrewshire. scotland",1,9179
+test,accent,"serbian,united states english",1,9179
+test,accent,"singaporean english,malaysian english",1,9179
+test,accent,"slavic accent,russian accent",1,9179
+test,accent,slight spanish accent when speaking english,1,9179
+test,accent,south african english,1,9179
+test,accent,south indian,1,9179
+test,accent,southern californian,1,9179
+test,accent,southern counties english ,1,9179
+test,accent,southern texas spanish american,1,9179
+test,accent,spanish influenced,1,9179
+test,accent,sunderland english,1,9179
+test,accent,swedish accent,1,9179
+test,accent,swedish english,1,9179
+test,accent,tatar english,1,9179
+test,accent,thai,1,9179
+test,accent,third culture kid / south american english,1,9179
+test,accent,"transatlantic english,united states english",1,9179
+test,accent,trinidad and tobago,1,9179
+test,accent,tunisian english,1,9179
+test,accent,turkish accent,1,9179
+test,accent,turkmen,1,9179
+test,accent,uk south coast,1,9179
+test,accent,"united states english with slight vocal tremor and high-pitched ""hoarse"" voice.",1,9179
+test,accent,"united states english,a midwestern accent, specific to the st. louis area.",1,9179
+test,accent,"united states english,american midwestern",1,9179
+test,accent,"united states english,australian english,united kingdom english",1,9179
+test,accent,"united states english,brazilian,latin",1,9179
+test,accent,"united states english,cajun",1,9179
+test,accent,"united states english,california,30 year old adult male",1,9179
+test,accent,"united states english,cool",1,9179
+test,accent,"united states english,country",1,9179
+test,accent,"united states english,danish",1,9179
+test,accent,"united states english,england english,israeli,faroe islands",1,9179
+test,accent,"united states english,filipino",1,9179
+test,accent,"united states english,gay",1,9179
+test,accent,"united states english,german",1,9179
+test,accent,"united states english,i personally don't hear it but if present i would attribute to english being my second language, ",1,9179
+test,accent,"united states english,i personally don't hear it but if present i would attribute to english being my second language, ,spanish was my first",1,9179
+test,accent,"united states english,latvian",1,9179
+test,accent,"united states english,mid-west with speach and mind problems from ms,mid western with a little southern, with speach problems related to ms.",1,9179
+test,accent,"united states english,midwest,chicago ",1,9179
+test,accent,"united states english,minnesotan",1,9179
+test,accent,"united states english,new york english",1,9179
+test,accent,"united states english,non-native",1,9179
+test,accent,"united states english,pennsylvanian",1,9179
+test,accent,"united states english,philadelphia",1,9179
+test,accent,"united states english,portuguese",1,9179
+test,accent,"united states english,slovenian",1,9179
+test,accent,"united states english,south atlantic (falkland islands, saint helena)",1,9179
+test,accent,"united states english,tinged with southern accent,midwestern united states - chicago",1,9179
+test,accent,"united states english,turkish",1,9179
+test,accent,"united states english,variable",1,9179
+test,accent,urban hibernian,1,9179
+test,accent,"welsh english,south east wales",1,9179
+test,accent,west coast american english,1,9179
+test,age,twenties,5220,9179
+test,age,thirties,1549,9179
+test,age,teens,706,9179
+test,age,fourties,651,9179
+test,age,fifties,624,9179
+test,age,sixties,259,9179
+test,age,seventies,166,9179
+test,age,nineties,3,9179
+test,age,eighties,1,9179
+test,gender,male,7447,9179
+test,gender,female,1728,9179
+test,gender,do_not_wish_to_say,2,9179
+test,gender,non-binary,2,9179
+train,accent,united states english,346291,704750
+train,accent,england english,99512,704750
+train,accent,"india and south asia (india, pakistan, sri lanka)",66715,704750
+train,accent,canadian english,51286,704750
+train,accent,"non native speaker,german english",34527,704750
+train,accent,australian english,28543,704750
+train,accent,"southern african (south africa, zimbabwe, namibia)",13570,704750
+train,accent,northern irish,7902,704750
+train,accent,irish english,7486,704750
+train,accent,new zealand english,5777,704750
+train,accent,scottish english,5442,704750
+train,accent,filipino,5147,704750
+train,accent,hong kong english,3118,704750
+train,accent,singaporean english,2332,704750
+train,accent,malaysian english,2071,704750
+train,accent,"england english,new zealand english",2033,704750
+train,accent,"united states english,england english",2002,704750
+train,accent,"england english,liverpool english,lancashire english",1386,704750
+train,accent,welsh english,1205,704750
+train,accent,"transatlantic english,united states english",923,704750
+train,accent,"united states english,midwestern,low,demure",919,704750
+train,accent,"united states english,transatlantic english",839,704750
+train,accent,"united states english,scandinavian",669,704750
+train,accent,"united states english,midwestern,minnesotan",598,704750
+train,accent,"united states english,southern united states",456,704750
+train,accent,"west indies and bermuda (bahamas, bermuda, jamaica, trinidad)",395,704750
+train,accent,"united states english,canadian english",346,704750
+train,accent,"southern african (south africa, zimbabwe, namibia),south african accent ",324,704750
+train,accent,"united states english,southern united states,new orleans dialect",316,704750
+train,accent,"united states english,minnesotan",287,704750
+train,accent,"england english,academic southern english",278,704750
+train,accent,nepali,273,704750
+train,accent,east african khoja,254,704750
+train,accent,german,229,704750
+train,accent,"northern irish,culchie",222,704750
+train,accent,polish,212,704750
+train,accent,eastern european english,210,704750
+train,accent,"united states english,southwestern united states english",210,704750
+train,accent,austrian,196,704750
+train,accent,"united states english,unite states midwest",194,704750
+train,accent,"england english,well spoken softly spoken home counties gay,gay male,softly spoken male,well spoken male",178,704750
+train,accent,"england english,canadian english",172,704750
+train,accent,"united states english,pacific northwest ",162,704750
+train,accent,"england english,northern england",156,704750
+train,accent,"united states english,midwestern states (michigan)",151,704750
+train,accent,"united states english,midwestern united states english",151,704750
+train,accent,"united states english,filipino",141,704750
+train,accent,"united states english,midwestern usa",133,704750
+train,accent,german english,128,704750
+train,accent,"southern united states,united states english",128,704750
+train,accent,thai,128,704750
+train,accent,slavic,125,704750
+train,accent,"slavic,polish",123,704750
+train,accent,"united states english,midwestern",120,704750
+train,accent,nigeria english,118,704750
+train,accent,"england english,southern english,sussex",117,704750
+train,accent,"england english,welsh english",115,704750
+train,accent,"canadian english,ontario",110,704750
+train,accent,"new zealand english,england english",107,704750
+train,accent,"southern african (south africa, zimbabwe, namibia),my accent is influenced by the phones of all letters within a sentence.",107,704750
+train,accent,"united states english,caribbean and british mixed with some new york accents",104,704750
+train,accent,bulgarian,103,704750
+train,accent,dutch,103,704750
+train,accent,dutch english,103,704750
+train,accent,"india and south asia (india, pakistan, sri lanka),try to maintain originality ",103,704750
+train,accent,russian,99,704750
+train,accent,"united states english,southern californian",97,704750
+train,accent,"united states english,mid-atlantic united states english,philadelphia, pennsylvania, united states english,philadelphia style united states english",96,704750
+train,accent,"england english,south german / swiss accent",94,704750
+train,accent,"england english,south london",91,704750
+train,accent,south indian,88,704750
+train,accent,"united states english,midwest",85,704750
+train,accent,"england english,northern english",84,704750
+train,accent,"united states english,boston,like a kennedy ",84,704750
+train,accent,"england english,yorkshire",83,704750
+train,accent,"southern californian,united states english",83,704750
+train,accent,"united states english,australian english,england english,new zealand english,welsh english,mixed-accent english",83,704750
+train,accent,"england english,india and south asia (india, pakistan, sri lanka),northern english",79,704750
+train,accent,"european,german,non-native,foreign",78,704750
+train,accent,"united states english,united states, west coast english ",77,704750
+train,accent,bangladeshi english,75,704750
+train,accent,"united states english,slight lisp",74,704750
+train,accent,"united states english,india and south asia (india, pakistan, sri lanka)",73,704750
+train,accent,southern drawl,69,704750
+train,accent,italian,67,704750
+train,accent,northumbrian british english,66,704750
+train,accent,"non-native,spanish,foreign",64,704750
+train,accent,"northern irish,norwegian,yorkshire",64,704750
+train,accent,"slavic,polish,east european",64,704750
+train,accent,"liverpool english,lancashire english,england english",63,704750
+train,accent,"united states english,south texas,slightly effeminate,conversational",63,704750
+train,accent,french,62,704750
+train,accent,"india and south asia (india, pakistan, sri lanka),singaporean english",62,704750
+train,accent,mix of american and british accent,60,704750
+train,accent,"united states english,texas",60,704750
+train,accent,"south german accent,alemannic german accent,german,south-west german",59,704750
+train,accent,"united states english,some time spent in scotland, mostly affecting inflection, i think",59,704750
+train,accent,israeli,56,704750
+train,accent,"united states english,upstate new york",56,704750
+train,accent,"fluent,esl,european",55,704750
+train,accent,"united states english,southern ohio english",55,704750
+train,accent,"united states english,new york english",53,704750
+train,accent,"england english,german english",52,704750
+train,accent,"mid-atlantic united states english,philadelphia, pennsylvania, united states english,united states english,philadelphia style united states english",51,704750
+train,accent,"england english,india and south asia (india, pakistan, sri lanka)",50,704750
+train,accent,nigerian accent,49,704750
+train,accent,"german,south-west german,south german accent,alemannic german accent",48,704750
+train,accent,"united states english,england english,india and south asia (india, pakistan, sri lanka)",47,704750
+train,accent,"united states english,californian accent",45,704750
+train,accent,"united states english,speech impediment,rhotacism",44,704750
+train,accent,british accent,42,704750
+train,accent,"german english,non native speaker",42,704750
+train,accent,"united states english,england english,canadian english",42,704750
+train,accent,british english / received pronunciation (rp),41,704750
+train,accent,"united states english,midwestern us english (united states)",39,704750
+train,accent,"singaporean english,malaysian english",38,704750
+train,accent,strong latvian accent,38,704750
+train,accent,"united states english,gay",38,704750
+train,accent,"united states english,england english,transatlantic english",37,704750
+train,accent,chinese english,36,704750
+train,accent,england west county,36,704750
+train,accent,"united states english,new yorker",36,704750
+train,accent,kazakhstan english,35,704750
+train,accent,croatian english,34,704750
+train,accent,"eastern european,romanian",34,704750
+train,accent,indonesian,34,704750
+train,accent,"england english,male,southern uk",33,704750
+train,accent,kenyan english accent,32,704750
+train,accent,"united states english,central american ",32,704750
+train,accent,"united states english,little latino,second language",32,704750
+train,accent,ukrainian,31,704750
+train,accent,"united states english,washington state",31,704750
+train,accent,"england english,british",30,704750
+train,accent,"england english,midatlantic",30,704750
+train,accent,"england,london,academic",30,704750
+train,accent,"india and south asia (india, pakistan, sri lanka),international indian accent",30,704750
+train,accent,"ontario,canadian english",30,704750
+train,accent,"england english,india and south asia (india, pakistan, sri lanka),nepalese",29,704750
+train,accent,israeli english,29,704750
+train,accent,latin english,29,704750
+train,accent,"slavic,east european,polish",29,704750
+train,accent,"united states english,california,valley",29,704750
+train,accent,"united states english,england english,irish english,scottish english,danish english",29,704750
+train,accent,latvian,28,704750
+train,accent,"united states english,asian-american english",28,704750
+train,accent,"united states english,cool",28,704750
+train,accent,"england english,malaysian english",27,704750
+train,accent,"united states english,california english,southern us english",27,704750
+train,accent,"romanian,eastern european",26,704750
+train,accent,"united states english,england english,mid-atlantic",26,704750
+train,accent,"united states english,mid-atlantic",26,704750
+train,accent,with heavy cantonese accent,26,704750
+train,accent,"united states english,spoke chinese when little,90% pennsylvanian accent, 10% chinese accent",25,704750
+train,accent,american south east georgia dialect,24,704750
+train,accent,brazilian,24,704750
+train,accent,german accent,24,704750
+train,accent,"united states english,upper midwestern",24,704750
+train,accent,"australian english,england english",23,704750
+train,accent,"england english,south london and essex",23,704750
+train,accent,"england english,united states english",23,704750
+train,accent,generic european,23,704750
+train,accent,"england english,femalepublic school accent, quiet and under articualted finals",22,704750
+train,accent,european english,22,704750
+train,accent,"united states english,australian english",22,704750
+train,accent,"united states english,england english,brazilian accent,efl",22,704750
+train,accent,"united states english,mid-west united states english",22,704750
+train,accent,west african ,22,704750
+train,accent,"england english,southern african (south africa, zimbabwe, namibia)",21,704750
+train,accent,"french accent,french mid level accent",21,704750
+train,accent,swedish accent,21,704750
+train,accent,"england english,southern england english with a subtle hint of irish english.",20,704750
+train,accent,thai english,20,704750
+train,accent,"united states english,slight dutch accent",20,704750
+train,accent,kenyan ,19,704750
+train,accent,south australia,19,704750
+train,accent,"united states english,england english,english with polish accent,slavic english",19,704750
+train,accent,"united states english,southern californian english",19,704750
+train,accent,"england english,london english",18,704750
+train,accent,"midatlantic,england english",18,704750
+train,accent,2nd language ,17,704750
+train,accent,"canadian english,german english",17,704750
+train,accent,"england english,scottish english",17,704750
+train,accent,european,17,704750
+train,accent,hispanic,17,704750
+train,accent,slovak,17,704750
+train,accent,"united states english,england english,scottish english,west indies and bermuda (bahamas, bermuda, jamaica, trinidad)",17,704750
+train,accent,"academic southern english,england english",16,704750
+train,accent,california,16,704750
+train,accent,"united states english,okie",16,704750
+train,accent,"australian english,educated australian accent",15,704750
+train,accent,"australian english,england english,new zealand english",15,704750
+train,accent,"born in west germany in 1966, lived in toronto, ontario from 1985 to 2004, now in central america.",15,704750
+train,accent,"canadian english,irish english",15,704750
+train,accent,"england english,norwegian",15,704750
+train,accent,japanese english,15,704750
+train,accent,nigerian english,15,704750
+train,accent,"united states english,american english with austrian accent",15,704750
+train,accent,"united states english,north indiana",15,704750
+train,accent,"australian english,england english,japanese",14,704750
+train,accent,"southeastern u.s. with some mississippi, virginia, rhode island, and coastal south",14,704750
+train,accent,"united states english,british english",14,704750
+train,accent,"united states english,chicago ",14,704750
+train,accent,"united states english,hmong-american",14,704750
+train,accent,"united states english,irish english",14,704750
+train,accent,"united states english,west coast",14,704750
+train,accent,"canadian english,india and south asia (india, pakistan, sri lanka)",13,704750
+train,accent,"england english,lancashire, england ",13,704750
+train,accent,"england english,singaporean english",13,704750
+train,accent,french accent,13,704750
+train,accent,indonesian english,13,704750
+train,accent,"javanese,indonesian english,malaysian english",13,704750
+train,accent,"kenyan ,east african",13,704750
+train,accent,minor french accent,13,704750
+train,accent,"united states english,delaware valley, pennsylvania",13,704750
+train,accent,"united states english,new england/east coast",13,704750
+train,accent,vietnam,13,704750
+train,accent,"australian english,general australian",12,704750
+train,accent,"united states english,american midwest",12,704750
+train,accent,a savage texas gentleman ,11,704750
+train,accent,"canadian english,lisp",11,704750
+train,accent,kiwi,11,704750
+train,accent,mostly american with some british and australian inflections,11,704750
+train,accent,"united states english,chicano english,""valley girl"" english",11,704750
+train,accent,a variety of texan english with some german influence that has undergone the cot-caught merger,10,704750
+train,accent,caribbean canadian ,10,704750
+train,accent,"england english,east anglian english",10,704750
+train,accent,"england english,southern england",10,704750
+train,accent,"india and south asia (india, pakistan, sri lanka),bangladesh",10,704750
+train,accent,"russian,slavic",10,704750
+train,accent,"slighty southern affected by decades in the midwest, 4 years in spain and germany, speak some german, spanish, polish. have lived in nine states.",10,704750
+train,accent,south african  english accent ,10,704750
+train,accent,south african english,10,704750
+train,accent,"united states english,australian english,england english,irish english",10,704750
+train,accent,"united states english,serbian",10,704750
+train,accent,"2nd language, south african (first language afrikaans)",9,704750
+train,accent,"australian english,sydney - middle eastern seaboard australian",9,704750
+train,accent,"england english,slightly lazy midlands english ,oxford english",9,704750
+train,accent,"fluent,european,esl",9,704750
+train,accent,georgian english,9,704750
+train,accent,"irish english,northern irish english,belfast ",9,704750
+train,accent,kenyan english,9,704750
+train,accent,latin american accent,9,704750
+train,accent,latino,9,704750
+train,accent,"mid-atlantic,england english,united states english",9,704750
+train,accent,"slavic,polish,foreign,easter european",9,704750
+train,accent,"transatlantic english,united states english,england english",9,704750
+train,accent,transnational englishes blend,9,704750
+train,accent,"united states english,canadian english,slight brooklyn accent",9,704750
+train,accent,"united states english,midwestern us",9,704750
+train,accent,"united states english,pacific north west united states",9,704750
+train,accent,bangladeshi,8,704750
+train,accent,"canadian english,filipino",8,704750
+train,accent,"england english,received english, tempered by 45 years living in the usa",8,704750
+train,accent,"england english,suburban london",8,704750
+train,accent,"england english,very british ",8,704750
+train,accent,"india and south asia (india, pakistan, sri lanka),canadian english",8,704750
+train,accent,north european english,8,704750
+train,accent,polish accent,8,704750
+train,accent,"scottish english,scottish",8,704750
+train,accent,"spanish,foreign,non-native",8,704750
+train,accent,swedish english,8,704750
+train,accent,"united states english,australian english,england english,india and south asia (india, pakistan, sri lanka),new zealand english,international,slovak",8,704750
+train,accent,"united states english,australian english,international english",8,704750
+train,accent,"united states english,latin america",8,704750
+train,accent,"united states english,neutral,pennsylvanian",8,704750
+train,accent,"united states english,russian",8,704750
+train,accent,"united states english,singaporean english",8,704750
+train,accent,"danish english,transatlantic",7,704750
+train,accent,"england english,received pronunciation",7,704750
+train,accent,english north of england ,7,704750
+train,accent,"european,dutch,adjustable",7,704750
+train,accent,"filipino,waray-waray dialect",7,704750
+train,accent,"german accent,non-native",7,704750
+train,accent,"ghanaian english accent,african regular reader",7,704750
+train,accent,hungarian,7,704750
+train,accent,personal idiolect,7,704750
+train,accent,russian accent,7,704750
+train,accent,"serbian,united states english",7,704750
+train,accent,"united states english,israeli accent",7,704750
+train,accent,"united states english,midwest us... with some canadian slang. ",7,704750
+train,accent,"united states english,pittsburgh pa",7,704750
+train,accent,"united states english,southern african (south africa, zimbabwe, namibia)",7,704750
+train,accent,west indian,7,704750
+train,accent,"canadian english,swedish english",6,704750
+train,accent,czech accent,6,704750
+train,accent,"england english,porto des dels 3 anys aprenent anglès a l'escola i actualment m'estic preparant per a l'examen del b2.",6,704750
+train,accent,"european,eastern europe,pronounced r's,heavy consonants ",6,704750
+train,accent,hunglish,6,704750
+train,accent,liverpudlian english,6,704750
+train,accent,"midwestern us english (united states),united states english",6,704750
+train,accent,"nigerian ,west african ",6,704750
+train,accent,"northern irish, english",6,704750
+train,accent,"perceived pronunciation english with no accent,none",6,704750
+train,accent,russian english,6,704750
+train,accent,"scottish english,glaswegian ",6,704750
+train,accent,"scottish english,scottish english (west coast),scottish english (ayrshire)",6,704750
+train,accent,"south dublin english,dublin south english",6,704750
+train,accent,swiss english,6,704750
+train,accent,u.k. english,6,704750
+train,accent,"united states english,canadian english,international",6,704750
+train,accent,"united states english,italian",6,704750
+train,accent,"united states english,little bit classy little bit sassy and add some city.....thats me",6,704750
+train,accent,"united states english,midwest united states",6,704750
+train,accent,"united states english,midwestern,michigan",6,704750
+train,accent,"united states english,mix of voices",6,704750
+train,accent,"united states english,northeast us",6,704750
+train,accent,african accent,5,704750
+train,accent,"australian english,canadian english",5,704750
+train,accent,brazillian accent,5,704750
+train,accent,colombian accent,5,704750
+train,accent,"england english,united states english,english with polish accent,slavic english",5,704750
+train,accent,european accent,5,704750
+train,accent,"german english,i am german and speak english as learned at school",5,704750
+train,accent,greek,5,704750
+train,accent,"hong kong english,scottish english",5,704750
+train,accent,"india and south asia (india, pakistan, sri lanka),indian with a tinge of an rp accent",5,704750
+train,accent,latin american accent influenced by american english ,5,704750
+train,accent,light french accent,5,704750
+train,accent,norwegian,5,704750
+train,accent,"not native english, originally french native language",5,704750
+train,accent,"south atlantic (falkland islands, saint helena)",5,704750
+train,accent,spanish bilingual,5,704750
+train,accent,united states english combined with european english,5,704750
+train,accent,"united states english,dutch",5,704750
+train,accent,"united states english,england english,irish english",5,704750
+train,accent,"united states english,floridian",5,704750
+train,accent,"united states english,i have some pronunciation issues because of oral surgery and a hidden southern accent",5,704750
+train,accent,"united states english,silicon valley native",5,704750
+train,accent,"united states english,southern appalachian english,southern united states english",5,704750
+train,accent,"united states english,southern midwest hippie english,grateful deadhead",5,704750
+train,accent,"united states english,southern, formal, sultry",5,704750
+train,accent,"united states english,thicc southern drawl",5,704750
+train,accent,"united states english,united states english pacific northwest",5,704750
+train,accent,"united states english,west coast,oregonian ,generic white guy ",5,704750
+train,accent,western europe,5,704750
+train,accent,"australian english,england english,india and south asia (india, pakistan, sri lanka)",4,704750
+train,accent,"bangladeshi,bangladesh english",4,704750
+train,accent,"canadian english,kenyan english",4,704750
+train,accent,"canadian english,pacific northwest english",4,704750
+train,accent,"canadian english,serpentx",4,704750
+train,accent,"canadian english,toronto english",4,704750
+train,accent,chinese,4,704750
+train,accent,east asian,4,704750
+train,accent,east indian,4,704750
+train,accent,"england english,educated,non regional",4,704750
+train,accent,"england english,middle-class london english accent with a very slight west-country twang",4,704750
+train,accent,"england english,north-western english after 40 years in surrey",4,704750
+train,accent,"england english,swedish",4,704750
+train,accent,england non-native,4,704750
+train,accent,"filipino,bisaya",4,704750
+train,accent,finnish,4,704750
+train,accent,hispanic/latino,4,704750
+train,accent,"india and south asia (india, pakistan, sri lanka),bengali english",4,704750
+train,accent,"india and south asia (india, pakistan, sri lanka),england english",4,704750
+train,accent,"lithuanian,non-native",4,704750
+train,accent,"malaysian english,england english",4,704750
+train,accent,"malaysian english,singaporean english",4,704750
+train,accent,mexican accent,4,704750
+train,accent,midatlantic,4,704750
+train,accent,"mix of american and british ,native polish",4,704750
+train,accent,new jerseyan,4,704750
+train,accent,northern irish english,4,704750
+train,accent,"russian,slavic,ukrainian",4,704750
+train,accent,"scottish english,cowdengelly",4,704750
+train,accent,"southern african (south africa, zimbabwe, namibia),durban",4,704750
+train,accent,"united states english,california",4,704750
+train,accent,"united states english,californian",4,704750
+train,accent,"united states english,colombia",4,704750
+train,accent,"united states english,east texas,texan",4,704750
+train,accent,"united states english,eastern united states",4,704750
+train,accent,"united states english,english second language",4,704750
+train,accent,"united states english,german accent",4,704750
+train,accent,"united states english,german,russian",4,704750
+train,accent,"united states english,hong kong english",4,704750
+train,accent,"united states english,i have what i would call a plain old american voice. i'm from las vegas where local",4,704750
+train,accent,"united states english,malaysian english",4,704750
+train,accent,"united states english,new zealand english",4,704750
+train,accent,"united states english,pin/pen merger",4,704750
+train,accent,"united states english,ponglish",4,704750
+train,accent,"united states english,speech impediment",4,704750
+train,accent,"united states english,swedish",4,704750
+train,accent,"united states english,us midwestern ",4,704750
+train,accent,"united states english,variable",4,704750
+train,accent,"united states english,western new england english",4,704750
+train,accent,"немного русский акцент произношения, съедание слов",4,704750
+train,accent,"a mix - a thai native, non-native english speaker, initially educated under british system in thailand then later educated in the us",3,704750
+train,accent,a'lo,3,704750
+train,accent,"australian english,hong kong english",3,704750
+train,accent,"australian english,new zealand english",3,704750
+train,accent,"australian english,russian,ukrainian",3,704750
+train,accent,blurpy,3,704750
+train,accent,"canadian english,french",3,704750
+train,accent,"canadian english,united states english",3,704750
+train,accent,"canadian english,united states english,england english",3,704750
+train,accent,cretan_accent,3,704750
+train,accent,east london ,3,704750
+train,accent,eastern european,3,704750
+train,accent,"eastern european english,bulgarian english",3,704750
+train,accent,egyptian,3,704750
+train,accent,"england english,finnish",3,704750
+train,accent,"england english,israeli",3,704750
+train,accent,english (native greek speaker),3,704750
+train,accent,english county durham,3,704750
+train,accent,"english cumbrian,english northern",3,704750
+train,accent,"foreign,finnish foreign accent",3,704750
+train,accent,french english,3,704750
+train,accent,"geordie ,england northern",3,704750
+train,accent,"german english,german native speaker",3,704750
+train,accent,i have a mild brooklyn accent.,3,704750
+train,accent,"india and south asia (india, pakistan, sri lanka),basic",3,704750
+train,accent,lebanese accent,3,704750
+train,accent,mild northern england english,3,704750
+train,accent,non native speaker from france,3,704750
+train,accent,non-native,3,704750
+train,accent,northen united states,3,704750
+train,accent,"northern irish,belfast ",3,704750
+train,accent,"nottinghamshire,east midlands",3,704750
+train,accent,polish english,3,704750
+train,accent,rhode island new england accent,3,704750
+train,accent,"southern african (south africa, zimbabwe, namibia),xhosa,male,black",3,704750
+train,accent,turkish,3,704750
+train,accent,"united states english,california english",3,704750
+train,accent,"united states english,country,midwesterern",3,704750
+train,accent,"united states english,foreign accent",3,704750
+train,accent,"united states english,foreigner english",3,704750
+train,accent,"united states english,german",3,704750
+train,accent,"united states english,learnt from spanish",3,704750
+train,accent,"united states english,mid atlantica ,african american vernacular ",3,704750
+train,accent,"united states english,midwestern,a little stuffed up",3,704750
+train,accent,"united states english,midwestern,chicago ,gen z",3,704750
+train,accent,"united states english,northern,urban",3,704750
+train,accent,"united states english,pacific northwest english",3,704750
+train,accent,"united states english,transfemale - us english,transgender woman - us english",3,704750
+train,accent,"welsh english,shropshire",3,704750
+train,accent,"west indies and bermuda (bahamas, bermuda, jamaica, trinidad),patois",3,704750
+train,accent,afrikaans english,2,704750
+train,accent,"bangladesh,india and south asia (india, pakistan, sri lanka)",2,704750
+train,accent,born and raised in greece. english is a second language. i was taught british english but i think my accent has shifted to american english. ,2,704750
+train,accent,"canadian english,western canada",2,704750
+train,accent,danish/british/american blend,2,704750
+train,accent,eastern european heavily influenced by the greek clear pronounciation of vowels and consonants.,2,704750
+train,accent,england english with a touch of canadian,2,704750
+train,accent,"england english,bedford english,cambridge english",2,704750
+train,accent,"england english,international southern/london",2,704750
+train,accent,"england english,luton,dunstable",2,704750
+train,accent,"england english,my accent in particular is regional - specifically shropshire - identified in other parts of the uk as a west midlands accent.",2,704750
+train,accent,"england english,russian",2,704750
+train,accent,english with swiss german accent,2,704750
+train,accent,"european english,french,romanian",2,704750
+train,accent,"european,german,foreign,non-native",2,704750
+train,accent,filipino english,2,704750
+train,accent,haitian creole,2,704750
+train,accent,"i was born in england and have lived in australia, canada and france.",2,704750
+train,accent,"india and south asia (india, pakistan, sri lanka),i think mine accent is influenced by indian accent ,yes please. ",2,704750
+train,accent,"india and south asia (india, pakistan, sri lanka),south india,kannadiga",2,704750
+train,accent,"korean american,korean american english ",2,704750
+train,accent,"malaysian english,indonesian english",2,704750
+train,accent,midwestern united states,2,704750
+train,accent,new york city,2,704750
+train,accent,"new zealand english,australian english,england english",2,704750
+train,accent,not a native speaker,2,704750
+train,accent,"russian,east ukrainian ",2,704750
+train,accent,"scottish english,highland,east highland",2,704750
+train,accent,serbian,2,704750
+train,accent,"unite states midwest,united states english",2,704750
+train,accent,"united states english,born and lived in eastern va for 8 years. then lived in southern ca for 13 years.  lived in md, nc, wa, hi  for 1-3 years each.  spent 30 years in washington dc area and 17 years in northern ky/cincinnati oh area",2,704750
+train,accent,"united states english,california,transgender",2,704750
+train,accent,"united states english,hong kong english,singaporean english",2,704750
+train,accent,"united states english,influenced by living in maine and ohio, but i actively tried to drop the maine accent when i was young.",2,704750
+train,accent,"united states english,kentucky united states accent,southern usa",2,704750
+train,accent,"united states english,midwest usa speech blended with south texas usa speech",2,704750
+train,accent,"united states english,philadelphia",2,704750
+train,accent,"united states english,slight latino accent, immigrant",2,704750
+train,accent,"united states english,southern new england english (boston, worcester, lowell area)",2,704750
+train,accent,"united states english,southern texas accent",2,704750
+train,accent,"united states english,united states english. people say i sound like a surffer dude.",2,704750
+train,accent,"very slight russian accent,standard american english,boston influence",2,704750
+train,accent,british,1,704750
+train,accent,czech,1,704750
+train,accent,"england english,italian",1,704750
+train,accent,"england english,northern",1,704750
+train,accent,"filipino,united states english",1,704750
+train,accent,"german english,england english",1,704750
+train,accent,"i am ,kenyan influenced by british english",1,704750
+train,accent,israeli accent,1,704750
+train,accent,japan english,1,704750
+train,accent,"little latino,united states english,second language",1,704750
+train,accent,non native english,1,704750
+train,accent,"northern english,yorkshire",1,704750
+train,accent,second tongue,1,704750
+train,accent,slightly slurred due to age and alcohol consumption.,1,704750
+train,accent,south african english accent ,1,704750
+train,accent,"spanish native with a good level of proficiency in english,colombian",1,704750
+train,accent,"united states english,australian english,england english,irish english,scottish english,welsh english",1,704750
+train,accent,"united states english,australian english,england english,new zealand english,india and south asia (india, pakistan, sri lanka),international,slovak",1,704750
+train,accent,"united states english,england english,ohio",1,704750
+train,accent,"united states english,kenyan english",1,704750
+train,accent,"united states english,plain,southern draw,west coast surfer dude",1,704750
+train,accent,"united states english,rhode island,massachusetts,northeastern",1,704750
+train,accent,"west indies and bermuda (bahamas, bermuda, jamaica, trinidad),england english,scottish english,united states english",1,704750
+train,age,twenties,275098,704750
+train,age,thirties,149551,704750
+train,age,fourties,90228,704750
+train,age,fifties,68270,704750
+train,age,teens,58150,704750
+train,age,sixties,53541,704750
+train,age,seventies,9010,704750
+train,age,eighties,776,704750
+train,age,nineties,126,704750
+train,gender,male,494052,704750
+train,gender,female,210653,704750
+train,gender,non-binary,24,704750
+train,gender,do_not_wish_to_say,11,704750
+train,gender,transgender,10,704750
