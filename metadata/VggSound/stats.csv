@@ -1,0 +1,931 @@
+split,total_records,field,label,count,percentage
+train,183631,event_label,female singing,1000,0.005446
+train,183631,event_label,ambulance siren,1000,0.005446
+train,183631,event_label,tap dancing,1000,0.005446
+train,183631,event_label,playing acoustic guitar,1000,0.005446
+train,183631,event_label,playing cello,1000,0.005446
+train,183631,event_label,playing electric guitar,1000,0.005446
+train,183631,event_label,toilet flushing,1000,0.005446
+train,183631,event_label,driving buses,1000,0.005446
+train,183631,event_label,playing didgeridoo,1000,0.005446
+train,183631,event_label,"railroad car, train wagon",1000,0.005446
+train,183631,event_label,playing trombone,1000,0.005446
+train,183631,event_label,"playing marimba, xylophone",1000,0.005446
+train,183631,event_label,police car (siren),1000,0.005446
+train,183631,event_label,"male speech, man speaking",999,0.005440
+train,183631,event_label,playing bassoon,999,0.005440
+train,183631,event_label,playing piano,999,0.005440
+train,183631,event_label,male singing,999,0.005440
+train,183631,event_label,orchestra,999,0.005440
+train,183631,event_label,people booing,999,0.005440
+train,183631,event_label,"pigeon, dove cooing",999,0.005440
+train,183631,event_label,"vehicle horn, car horn, honking",999,0.005440
+train,183631,event_label,"rowboat, canoe, kayak rowing",999,0.005440
+train,183631,event_label,playing accordion,999,0.005440
+train,183631,event_label,playing drum kit,999,0.005440
+train,183631,event_label,playing saxophone,999,0.005440
+train,183631,event_label,basketball bounce,999,0.005440
+train,183631,event_label,playing cymbal,999,0.005440
+train,183631,event_label,"engine accelerating, revving, vroom",999,0.005440
+train,183631,event_label,"female speech, woman speaking",998,0.005435
+train,183631,event_label,playing harp,998,0.005435
+train,183631,event_label,"race car, auto racing",998,0.005435
+train,183631,event_label,playing bass guitar,998,0.005435
+train,183631,event_label,"playing violin, fiddle",998,0.005435
+train,183631,event_label,playing table tennis,998,0.005435
+train,183631,event_label,playing squash,998,0.005435
+train,183631,event_label,playing banjo,998,0.005435
+train,183631,event_label,chicken crowing,998,0.005435
+train,183631,event_label,playing flute,998,0.005435
+train,183631,event_label,playing clarinet,998,0.005435
+train,183631,event_label,helicopter,998,0.005435
+train,183631,event_label,singing bowl,998,0.005435
+train,183631,event_label,chainsawing trees,998,0.005435
+train,183631,event_label,"bird chirping, tweeting",998,0.005435
+train,183631,event_label,"motorboat, speedboat acceleration",997,0.005429
+train,183631,event_label,people burping,997,0.005429
+train,183631,event_label,playing glockenspiel,996,0.005424
+train,183631,event_label,playing tabla,996,0.005424
+train,183631,event_label,driving motorcycle,996,0.005424
+train,183631,event_label,"child speech, kid speaking",996,0.005424
+train,183631,event_label,fireworks banging,996,0.005424
+train,183631,event_label,people crowd,995,0.005418
+train,183631,event_label,playing hammond organ,994,0.005413
+train,183631,event_label,playing harpsichord,972,0.005293
+train,183631,event_label,frog croaking,967,0.005266
+train,183631,event_label,vacuum cleaner cleaning floors,958,0.005217
+train,183631,event_label,playing theremin,957,0.005212
+train,183631,event_label,"subway, metro, underground",950,0.005173
+train,183631,event_label,playing badminton,949,0.005168
+train,183631,event_label,beat boxing,947,0.005157
+train,183631,event_label,slot machine,947,0.005157
+train,183631,event_label,crow cawing,941,0.005124
+train,183631,event_label,child singing,940,0.005119
+train,183631,event_label,car engine knocking,940,0.005119
+train,183631,event_label,playing volleyball,939,0.005114
+train,183631,event_label,machine gun shooting,936,0.005097
+train,183631,event_label,playing snare drum,935,0.005092
+train,183631,event_label,ocean burbling,933,0.005081
+train,183631,event_label,civil defense siren,927,0.005048
+train,183631,event_label,skiing,926,0.005043
+train,183631,event_label,missile launch,924,0.005032
+train,183631,event_label,playing erhu,921,0.005015
+train,183631,event_label,tractor digging,919,0.005005
+train,183631,event_label,bowling impact,918,0.004999
+train,183631,event_label,rope skipping,917,0.004994
+train,183631,event_label,scuba diving,913,0.004972
+train,183631,event_label,airplane flyby,912,0.004966
+train,183631,event_label,lions roaring,912,0.004966
+train,183631,event_label,fire truck siren,908,0.004945
+train,183631,event_label,playing bagpipes,908,0.004945
+train,183631,event_label,yodelling,908,0.004945
+train,183631,event_label,police radio chatter,907,0.004939
+train,183631,event_label,pheasant crowing,883,0.004809
+train,183631,event_label,arc welding,881,0.004798
+train,183631,event_label,"playing steel guitar, slide guitar",876,0.004770
+train,183631,event_label,dog howling,874,0.004760
+train,183631,event_label,wind noise,871,0.004743
+train,183631,event_label,playing bongo,870,0.004738
+train,183631,event_label,skateboarding,864,0.004705
+train,183631,event_label,playing synthesizer,859,0.004678
+train,183631,event_label,"electric shaver, electric razor shaving",856,0.004662
+train,183631,event_label,playing ukulele,855,0.004656
+train,183631,event_label,skidding,855,0.004656
+train,183631,event_label,cap gun shooting,852,0.004640
+train,183631,event_label,people clapping,851,0.004634
+train,183631,event_label,playing cornet,840,0.004574
+train,183631,event_label,people sniggering,840,0.004574
+train,183631,event_label,playing vibraphone,835,0.004547
+train,183631,event_label,people whistling,833,0.004536
+train,183631,event_label,horse clip-clop,832,0.004531
+train,183631,event_label,baby laughter,830,0.004520
+train,183631,event_label,mynah bird singing,830,0.004520
+train,183631,event_label,printer printing,828,0.004509
+train,183631,event_label,playing french horn,813,0.004427
+train,183631,event_label,playing bass drum,812,0.004422
+train,183631,event_label,cat purring,811,0.004416
+train,183631,event_label,lathe spinning,809,0.004406
+train,183631,event_label,playing sitar,808,0.004400
+train,183631,event_label,lawn mowing,806,0.004389
+train,183631,event_label,lighting firecrackers,802,0.004367
+train,183631,event_label,volcano explosion,792,0.004313
+train,183631,event_label,playing electronic organ,789,0.004297
+train,183631,event_label,playing trumpet,785,0.004275
+train,183631,event_label,dog growling,775,0.004220
+train,183631,event_label,playing harmonica,774,0.004215
+train,183631,event_label,playing mandolin,774,0.004215
+train,183631,event_label,planing timber,766,0.004171
+train,183631,event_label,people marching,765,0.004166
+train,183631,event_label,playing tambourine,761,0.004144
+train,183631,event_label,playing double bass,758,0.004128
+train,183631,event_label,church bell ringing,754,0.004106
+train,183631,event_label,gibbon howling,742,0.004041
+train,183631,event_label,goose honking,737,0.004013
+train,183631,event_label,tapping guitar,730,0.003975
+train,183631,event_label,sharpen knife,724,0.003943
+train,183631,event_label,train horning,720,0.003921
+train,183631,event_label,dog barking,716,0.003899
+train,183631,event_label,singing choir,710,0.003866
+train,183631,event_label,"heart sounds, heartbeat",704,0.003834
+train,183631,event_label,owl hooting,703,0.003828
+train,183631,event_label,people whispering,695,0.003785
+train,183631,event_label,woodpecker pecking tree,694,0.003779
+train,183631,event_label,typing on typewriter,694,0.003779
+train,183631,event_label,cattle mooing,685,0.003730
+train,183631,event_label,people screaming,678,0.003692
+train,183631,event_label,hail,668,0.003638
+train,183631,event_label,canary calling,667,0.003632
+train,183631,event_label,people cheering,653,0.003556
+train,183631,event_label,cricket chirping,652,0.003551
+train,183631,event_label,stream burbling,640,0.003485
+train,183631,event_label,people sneezing,638,0.003474
+train,183631,event_label,wood thrush calling,631,0.003436
+train,183631,event_label,roller coaster running,628,0.003420
+train,183631,event_label,"ice cream truck, ice cream van",626,0.003409
+train,183631,event_label,people shuffling,625,0.003404
+train,183631,event_label,baby crying,616,0.003355
+train,183631,event_label,mouse clicking,608,0.003311
+train,183631,event_label,turkey gobbling,594,0.003235
+train,183631,event_label,"cattle, bovinae cowbell",594,0.003235
+train,183631,event_label,francolin calling,593,0.003229
+train,183631,event_label,rapping,588,0.003202
+train,183631,event_label,dinosaurs bellowing,583,0.003175
+train,183631,event_label,playing timpani,578,0.003148
+train,183631,event_label,dog bow-wow,578,0.003148
+train,183631,event_label,chicken clucking,575,0.003131
+train,183631,event_label,using sewing machines,575,0.003131
+train,183631,event_label,splashing water,564,0.003071
+train,183631,event_label,hammering nails,562,0.003060
+train,183631,event_label,train whistling,558,0.003039
+train,183631,event_label,driving snowmobile,551,0.003001
+train,183631,event_label,duck quacking,549,0.002990
+train,183631,event_label,baby babbling,548,0.002984
+train,183631,event_label,lions growling,547,0.002979
+train,183631,event_label,car passing by,545,0.002968
+train,183631,event_label,parrot talking,542,0.002952
+train,183631,event_label,sailing,542,0.002952
+train,183631,event_label,cat meowing,537,0.002924
+train,183631,event_label,sliding door,537,0.002924
+train,183631,event_label,people babbling,536,0.002919
+train,183631,event_label,horse neighing,535,0.002913
+train,183631,event_label,playing timbales,535,0.002913
+train,183631,event_label,swimming,516,0.002810
+train,183631,event_label,people slurping,512,0.002788
+train,183631,event_label,typing on computer keyboard,511,0.002783
+train,183631,event_label,people eating noodle,510,0.002777
+train,183631,event_label,wind rustling leaves,510,0.002777
+train,183631,event_label,ripping paper,509,0.002772
+train,183631,event_label,elk bugling,507,0.002761
+train,183631,event_label,playing gong,505,0.002750
+train,183631,event_label,playing darts,505,0.002750
+train,183631,event_label,people farting,504,0.002745
+train,183631,event_label,"bee, wasp, etc. buzzing",499,0.002717
+train,183631,event_label,playing oboe,495,0.002696
+train,183631,event_label,playing zither,488,0.002658
+train,183631,event_label,eating with cutlery,478,0.002603
+train,183631,event_label,bouncing on trampoline,476,0.002592
+train,183631,event_label,people belly laughing,467,0.002543
+train,183631,event_label,sheep bleating,464,0.002527
+train,183631,event_label,waterfall burbling,462,0.002516
+train,183631,event_label,airplane,454,0.002472
+train,183631,event_label,playing steelpan,454,0.002472
+train,183631,event_label,fire crackling,442,0.002407
+train,183631,event_label,car engine starting,441,0.002402
+train,183631,event_label,coyote howling,440,0.002396
+train,183631,event_label,reversing beeps,435,0.002369
+train,183631,event_label,people sobbing,430,0.002342
+train,183631,event_label,playing guiro,425,0.002314
+train,183631,event_label,raining,423,0.002304
+train,183631,event_label,chimpanzee pant-hooting,423,0.002304
+train,183631,event_label,playing congas,415,0.002260
+train,183631,event_label,playing tympani,413,0.002249
+train,183631,event_label,dog whimpering,411,0.002238
+train,183631,event_label,opening or closing drawers,408,0.002222
+train,183631,event_label,opening or closing car doors,407,0.002216
+train,183631,event_label,people coughing,402,0.002189
+train,183631,event_label,black capped chickadee calling,395,0.002151
+train,183631,event_label,pig oinking,393,0.002140
+train,183631,event_label,playing bugle,392,0.002135
+train,183631,event_label,people eating crisps,390,0.002124
+train,183631,event_label,"donkey, ass braying",387,0.002107
+train,183631,event_label,mosquito buzzing,386,0.002102
+train,183631,event_label,squishing water,381,0.002075
+train,183631,event_label,mouse pattering,380,0.002069
+train,183631,event_label,playing djembe,380,0.002069
+train,183631,event_label,magpie calling,379,0.002064
+train,183631,event_label,electric grinder grinding,374,0.002037
+train,183631,event_label,people running,372,0.002026
+train,183631,event_label,underwater bubbling,370,0.002015
+train,183631,event_label,barn swallow calling,368,0.002004
+train,183631,event_label,firing muskets,367,0.001999
+train,183631,event_label,dog baying,362,0.001971
+train,183631,event_label,cheetah chirrup,353,0.001922
+train,183631,event_label,striking pool,351,0.001911
+train,183631,event_label,playing hockey,350,0.001906
+train,183631,event_label,people hiccup,344,0.001873
+train,183631,event_label,people humming,341,0.001857
+train,183631,event_label,playing tennis,340,0.001852
+train,183631,event_label,wind chime,339,0.001846
+train,183631,event_label,cat growling,335,0.001824
+train,183631,event_label,car engine idling,320,0.001743
+train,183631,event_label,ice cracking,313,0.001705
+train,183631,event_label,otter growling,313,0.001705
+train,183631,event_label,"alligators, crocodiles hissing",311,0.001694
+train,183631,event_label,fox barking,310,0.001688
+train,183631,event_label,people eating apple,310,0.001688
+train,183631,event_label,tornado roaring,306,0.001666
+train,183631,event_label,bird squawking,298,0.001623
+train,183631,event_label,hair dryer drying,293,0.001596
+train,183631,event_label,firing cannon,286,0.001557
+train,183631,event_label,train wheels squealing,283,0.001541
+train,183631,event_label,alarm clock ringing,281,0.001530
+train,183631,event_label,cupboard opening or closing,280,0.001525
+train,183631,event_label,striking bowling,276,0.001503
+train,183631,event_label,thunder,275,0.001498
+train,183631,event_label,cat hissing,270,0.001470
+train,183631,event_label,penguins braying,268,0.001459
+train,183631,event_label,running electric fan,268,0.001459
+train,183631,event_label,bull bellowing,266,0.001449
+train,183631,event_label,elephant trumpeting,260,0.001416
+train,183631,event_label,golf driving,252,0.001372
+train,183631,event_label,people battle cry,241,0.001312
+train,183631,event_label,snake hissing,234,0.001274
+train,183631,event_label,playing lacrosse,232,0.001263
+train,183631,event_label,writing on blackboard with chalk,230,0.001253
+train,183631,event_label,spraying water,228,0.001242
+train,183631,event_label,sloshing water,226,0.001231
+train,183631,event_label,people giggling,221,0.001204
+train,183631,event_label,cutting hair with electric trimmers,218,0.001187
+train,183631,event_label,forging swords,214,0.001165
+train,183631,event_label,warbler chirping,214,0.001165
+train,183631,event_label,lip smacking,213,0.001160
+train,183631,event_label,plastic bottle crushing,212,0.001154
+train,183631,event_label,chipmunk chirping,211,0.001149
+train,183631,event_label,bird wings flapping,206,0.001122
+train,183631,event_label,chopping wood,204,0.001111
+train,183631,event_label,popping popcorn,202,0.001100
+train,183631,event_label,eagle screaming,202,0.001100
+train,183631,event_label,footsteps on snow,201,0.001095
+train,183631,event_label,sea waves,201,0.001095
+train,183631,event_label,hedge trimmer running,201,0.001095
+train,183631,event_label,blowtorch igniting,200,0.001089
+train,183631,event_label,goat bleating,196,0.001067
+train,183631,event_label,air conditioning noise,195,0.001062
+train,183631,event_label,ferret dooking,189,0.001029
+train,183631,event_label,mouse squeaking,188,0.001024
+train,183631,event_label,cat caterwauling,186,0.001013
+train,183631,event_label,extending ladders,182,0.000991
+train,183631,event_label,strike lighter,179,0.000975
+train,183631,event_label,people nose blowing,178,0.000969
+train,183631,event_label,shot football,176,0.000958
+train,183631,event_label,people eating,175,0.000953
+train,183631,event_label,smoke detector beeping,171,0.000931
+train,183631,event_label,people gargling,171,0.000931
+train,183631,event_label,cuckoo bird calling,168,0.000915
+train,183631,event_label,foghorn,167,0.000909
+train,183631,event_label,eletric blender running,164,0.000893
+train,183631,event_label,chinchilla barking,163,0.000888
+train,183631,event_label,people slapping,161,0.000877
+train,183631,event_label,sea lion barking,161,0.000877
+train,183631,event_label,opening or closing car electric windows,155,0.000844
+train,183631,event_label,children shouting,151,0.000822
+train,183631,event_label,metronome,150,0.000817
+train,183631,event_label,playing washboard,150,0.000817
+train,183631,event_label,door slamming,150,0.000817
+train,183631,event_label,cell phone buzzing,150,0.000817
+train,183631,event_label,people finger snapping,150,0.000817
+train,183631,event_label,chopping food,150,0.000817
+train,183631,event_label,telephone bell ringing,150,0.000817
+train,183631,event_label,playing tuning fork,150,0.000817
+train,183631,event_label,baltimore oriole calling,150,0.000817
+train,183631,event_label,disc scratching,150,0.000817
+train,183631,event_label,bathroom ventilation fan running,150,0.000817
+train,183631,event_label,whale calling,150,0.000817
+train,183631,event_label,zebra braying,149,0.000811
+train,183631,event_label,cow lowing,149,0.000811
+train,183631,event_label,pumping water,149,0.000811
+train,183631,event_label,"fly, housefly buzzing",149,0.000811
+train,183631,event_label,snake rattling,149,0.000811
+train,183631,event_label,playing castanets,148,0.000806
+train,183631,event_label,playing shofar,148,0.000806
+train,183631,event_label,air horn,146,0.000795
+test,15463,event_label,people marching,50,0.003234
+test,15463,event_label,people coughing,50,0.003234
+test,15463,event_label,female singing,50,0.003234
+test,15463,event_label,playing double bass,50,0.003234
+test,15463,event_label,missile launch,50,0.003234
+test,15463,event_label,lighting firecrackers,50,0.003234
+test,15463,event_label,cow lowing,50,0.003234
+test,15463,event_label,people finger snapping,50,0.003234
+test,15463,event_label,fire crackling,50,0.003234
+test,15463,event_label,people battle cry,50,0.003234
+test,15463,event_label,pumping water,50,0.003234
+test,15463,event_label,car engine knocking,50,0.003234
+test,15463,event_label,train whistling,50,0.003234
+test,15463,event_label,chainsawing trees,50,0.003234
+test,15463,event_label,"pigeon, dove cooing",50,0.003234
+test,15463,event_label,tapping guitar,50,0.003234
+test,15463,event_label,reversing beeps,50,0.003234
+test,15463,event_label,playing table tennis,50,0.003234
+test,15463,event_label,pig oinking,50,0.003234
+test,15463,event_label,thunder,50,0.003234
+test,15463,event_label,playing steelpan,50,0.003234
+test,15463,event_label,running electric fan,50,0.003234
+test,15463,event_label,car engine starting,50,0.003234
+test,15463,event_label,chopping food,50,0.003234
+test,15463,event_label,wind noise,50,0.003234
+test,15463,event_label,driving buses,50,0.003234
+test,15463,event_label,"donkey, ass braying",50,0.003234
+test,15463,event_label,striking pool,50,0.003234
+test,15463,event_label,playing glockenspiel,50,0.003234
+test,15463,event_label,air conditioning noise,50,0.003234
+test,15463,event_label,playing clarinet,50,0.003234
+test,15463,event_label,horse clip-clop,50,0.003234
+test,15463,event_label,playing saxophone,50,0.003234
+test,15463,event_label,playing electronic organ,50,0.003234
+test,15463,event_label,playing djembe,50,0.003234
+test,15463,event_label,baltimore oriole calling,50,0.003234
+test,15463,event_label,civil defense siren,50,0.003234
+test,15463,event_label,eating with cutlery,50,0.003234
+test,15463,event_label,child singing,50,0.003234
+test,15463,event_label,"cattle, bovinae cowbell",50,0.003234
+test,15463,event_label,people eating crisps,50,0.003234
+test,15463,event_label,parrot talking,50,0.003234
+test,15463,event_label,male singing,50,0.003234
+test,15463,event_label,playing acoustic guitar,50,0.003234
+test,15463,event_label,"alligators, crocodiles hissing",50,0.003234
+test,15463,event_label,dog bow-wow,50,0.003234
+test,15463,event_label,church bell ringing,50,0.003234
+test,15463,event_label,people sniggering,50,0.003234
+test,15463,event_label,people running,50,0.003234
+test,15463,event_label,strike lighter,50,0.003234
+test,15463,event_label,wood thrush calling,50,0.003234
+test,15463,event_label,"subway, metro, underground",50,0.003234
+test,15463,event_label,people eating,50,0.003234
+test,15463,event_label,underwater bubbling,50,0.003234
+test,15463,event_label,disc scratching,50,0.003234
+test,15463,event_label,playing synthesizer,50,0.003234
+test,15463,event_label,plastic bottle crushing,50,0.003234
+test,15463,event_label,car passing by,50,0.003234
+test,15463,event_label,elk bugling,50,0.003234
+test,15463,event_label,fox barking,50,0.003234
+test,15463,event_label,barn swallow calling,50,0.003234
+test,15463,event_label,playing timpani,50,0.003234
+test,15463,event_label,lathe spinning,50,0.003234
+test,15463,event_label,people screaming,50,0.003234
+test,15463,event_label,"child speech, kid speaking",50,0.003234
+test,15463,event_label,cat purring,50,0.003234
+test,15463,event_label,playing cornet,50,0.003234
+test,15463,event_label,playing congas,50,0.003234
+test,15463,event_label,writing on blackboard with chalk,50,0.003234
+test,15463,event_label,using sewing machines,50,0.003234
+test,15463,event_label,people whistling,50,0.003234
+test,15463,event_label,police radio chatter,50,0.003234
+test,15463,event_label,playing sitar,50,0.003234
+test,15463,event_label,duck quacking,50,0.003234
+test,15463,event_label,chicken crowing,50,0.003234
+test,15463,event_label,coyote howling,50,0.003234
+test,15463,event_label,playing accordion,50,0.003234
+test,15463,event_label,frog croaking,50,0.003234
+test,15463,event_label,playing cello,50,0.003234
+test,15463,event_label,snake rattling,50,0.003234
+test,15463,event_label,wind chime,50,0.003234
+test,15463,event_label,rapping,50,0.003234
+test,15463,event_label,playing tennis,50,0.003234
+test,15463,event_label,tractor digging,50,0.003234
+test,15463,event_label,airplane flyby,50,0.003234
+test,15463,event_label,bird squawking,50,0.003234
+test,15463,event_label,playing bugle,50,0.003234
+test,15463,event_label,dinosaurs bellowing,50,0.003234
+test,15463,event_label,cat hissing,50,0.003234
+test,15463,event_label,playing darts,50,0.003234
+test,15463,event_label,chopping wood,50,0.003234
+test,15463,event_label,"engine accelerating, revving, vroom",50,0.003234
+test,15463,event_label,shot football,50,0.003234
+test,15463,event_label,playing bass drum,50,0.003234
+test,15463,event_label,playing trombone,50,0.003234
+test,15463,event_label,fire truck siren,50,0.003234
+test,15463,event_label,"heart sounds, heartbeat",50,0.003234
+test,15463,event_label,slot machine,50,0.003234
+test,15463,event_label,cattle mooing,50,0.003234
+test,15463,event_label,opening or closing drawers,50,0.003234
+test,15463,event_label,dog whimpering,50,0.003234
+test,15463,event_label,"motorboat, speedboat acceleration",50,0.003234
+test,15463,event_label,footsteps on snow,50,0.003234
+test,15463,event_label,swimming,50,0.003234
+test,15463,event_label,rope skipping,50,0.003234
+test,15463,event_label,playing volleyball,50,0.003234
+test,15463,event_label,playing didgeridoo,50,0.003234
+test,15463,event_label,chimpanzee pant-hooting,50,0.003234
+test,15463,event_label,bathroom ventilation fan running,50,0.003234
+test,15463,event_label,spraying water,50,0.003234
+test,15463,event_label,skidding,50,0.003234
+test,15463,event_label,playing cymbal,50,0.003234
+test,15463,event_label,wind rustling leaves,50,0.003234
+test,15463,event_label,playing gong,50,0.003234
+test,15463,event_label,sharpen knife,50,0.003234
+test,15463,event_label,cat meowing,50,0.003234
+test,15463,event_label,mouse squeaking,50,0.003234
+test,15463,event_label,lions growling,50,0.003234
+test,15463,event_label,woodpecker pecking tree,50,0.003234
+test,15463,event_label,cheetah chirrup,50,0.003234
+test,15463,event_label,"bee, wasp, etc. buzzing",50,0.003234
+test,15463,event_label,playing drum kit,50,0.003234
+test,15463,event_label,sea lion barking,50,0.003234
+test,15463,event_label,hair dryer drying,50,0.003234
+test,15463,event_label,playing bassoon,50,0.003234
+test,15463,event_label,people slapping,50,0.003234
+test,15463,event_label,playing ukulele,50,0.003234
+test,15463,event_label,"female speech, woman speaking",50,0.003234
+test,15463,event_label,"vehicle horn, car horn, honking",50,0.003234
+test,15463,event_label,yodelling,50,0.003234
+test,15463,event_label,people babbling,50,0.003234
+test,15463,event_label,"race car, auto racing",50,0.003234
+test,15463,event_label,vacuum cleaner cleaning floors,50,0.003234
+test,15463,event_label,striking bowling,50,0.003234
+test,15463,event_label,people crowd,50,0.003234
+test,15463,event_label,mouse pattering,50,0.003234
+test,15463,event_label,pheasant crowing,50,0.003234
+test,15463,event_label,firing cannon,50,0.003234
+test,15463,event_label,orchestra,50,0.003234
+test,15463,event_label,lawn mowing,50,0.003234
+test,15463,event_label,electric grinder grinding,50,0.003234
+test,15463,event_label,playing vibraphone,50,0.003234
+test,15463,event_label,playing badminton,50,0.003234
+test,15463,event_label,people clapping,50,0.003234
+test,15463,event_label,playing hockey,50,0.003234
+test,15463,event_label,splashing water,50,0.003234
+test,15463,event_label,people humming,50,0.003234
+test,15463,event_label,waterfall burbling,50,0.003234
+test,15463,event_label,black capped chickadee calling,50,0.003234
+test,15463,event_label,people hiccup,50,0.003234
+test,15463,event_label,singing bowl,50,0.003234
+test,15463,event_label,playing flute,50,0.003234
+test,15463,event_label,bowling impact,50,0.003234
+test,15463,event_label,playing banjo,50,0.003234
+test,15463,event_label,playing shofar,50,0.003234
+test,15463,event_label,scuba diving,50,0.003234
+test,15463,event_label,playing electric guitar,50,0.003234
+test,15463,event_label,"ice cream truck, ice cream van",50,0.003234
+test,15463,event_label,sliding door,50,0.003234
+test,15463,event_label,playing hammond organ,50,0.003234
+test,15463,event_label,people eating apple,50,0.003234
+test,15463,event_label,magpie calling,50,0.003234
+test,15463,event_label,mouse clicking,50,0.003234
+test,15463,event_label,opening or closing car doors,50,0.003234
+test,15463,event_label,warbler chirping,50,0.003234
+test,15463,event_label,mynah bird singing,50,0.003234
+test,15463,event_label,eagle screaming,50,0.003234
+test,15463,event_label,goat bleating,50,0.003234
+test,15463,event_label,playing trumpet,50,0.003234
+test,15463,event_label,printer printing,50,0.003234
+test,15463,event_label,"electric shaver, electric razor shaving",50,0.003234
+test,15463,event_label,"rowboat, canoe, kayak rowing",50,0.003234
+test,15463,event_label,people slurping,50,0.003234
+test,15463,event_label,turkey gobbling,50,0.003234
+test,15463,event_label,cat caterwauling,50,0.003234
+test,15463,event_label,hammering nails,50,0.003234
+test,15463,event_label,sheep bleating,50,0.003234
+test,15463,event_label,playing bagpipes,50,0.003234
+test,15463,event_label,playing zither,50,0.003234
+test,15463,event_label,smoke detector beeping,50,0.003234
+test,15463,event_label,driving motorcycle,50,0.003234
+test,15463,event_label,playing bass guitar,50,0.003234
+test,15463,event_label,francolin calling,50,0.003234
+test,15463,event_label,basketball bounce,50,0.003234
+test,15463,event_label,blowtorch igniting,50,0.003234
+test,15463,event_label,driving snowmobile,50,0.003234
+test,15463,event_label,tap dancing,50,0.003234
+test,15463,event_label,"bird chirping, tweeting",50,0.003234
+test,15463,event_label,stream burbling,50,0.003234
+test,15463,event_label,people nose blowing,50,0.003234
+test,15463,event_label,dog howling,50,0.003234
+test,15463,event_label,door slamming,50,0.003234
+test,15463,event_label,firing muskets,50,0.003234
+test,15463,event_label,police car (siren),50,0.003234
+test,15463,event_label,skiing,50,0.003234
+test,15463,event_label,volcano explosion,50,0.003234
+test,15463,event_label,people gargling,50,0.003234
+test,15463,event_label,alarm clock ringing,50,0.003234
+test,15463,event_label,playing tabla,50,0.003234
+test,15463,event_label,car engine idling,50,0.003234
+test,15463,event_label,people farting,50,0.003234
+test,15463,event_label,"male speech, man speaking",50,0.003234
+test,15463,event_label,canary calling,50,0.003234
+test,15463,event_label,elephant trumpeting,50,0.003234
+test,15463,event_label,playing washboard,50,0.003234
+test,15463,event_label,people burping,50,0.003234
+test,15463,event_label,hedge trimmer running,50,0.003234
+test,15463,event_label,dog growling,50,0.003234
+test,15463,event_label,train wheels squealing,50,0.003234
+test,15463,event_label,machine gun shooting,50,0.003234
+test,15463,event_label,golf driving,50,0.003234
+test,15463,event_label,ice cracking,50,0.003234
+test,15463,event_label,playing theremin,50,0.003234
+test,15463,event_label,people sneezing,50,0.003234
+test,15463,event_label,sloshing water,50,0.003234
+test,15463,event_label,ripping paper,50,0.003234
+test,15463,event_label,dog baying,50,0.003234
+test,15463,event_label,cricket chirping,50,0.003234
+test,15463,event_label,people eating noodle,50,0.003234
+test,15463,event_label,whale calling,50,0.003234
+test,15463,event_label,hail,50,0.003234
+test,15463,event_label,cat growling,50,0.003234
+test,15463,event_label,"playing steel guitar, slide guitar",50,0.003234
+test,15463,event_label,playing harpsichord,50,0.003234
+test,15463,event_label,arc welding,50,0.003234
+test,15463,event_label,cutting hair with electric trimmers,50,0.003234
+test,15463,event_label,airplane,50,0.003234
+test,15463,event_label,lip smacking,50,0.003234
+test,15463,event_label,people whispering,50,0.003234
+test,15463,event_label,playing piano,50,0.003234
+test,15463,event_label,baby laughter,50,0.003234
+test,15463,event_label,chinchilla barking,50,0.003234
+test,15463,event_label,raining,50,0.003234
+test,15463,event_label,people cheering,50,0.003234
+test,15463,event_label,bird wings flapping,50,0.003234
+test,15463,event_label,goose honking,50,0.003234
+test,15463,event_label,playing mandolin,50,0.003234
+test,15463,event_label,playing tympani,50,0.003234
+test,15463,event_label,ferret dooking,50,0.003234
+test,15463,event_label,playing erhu,50,0.003234
+test,15463,event_label,fireworks banging,50,0.003234
+test,15463,event_label,cuckoo bird calling,50,0.003234
+test,15463,event_label,sailing,50,0.003234
+test,15463,event_label,tornado roaring,50,0.003234
+test,15463,event_label,cupboard opening or closing,50,0.003234
+test,15463,event_label,playing bongo,50,0.003234
+test,15463,event_label,snake hissing,50,0.003234
+test,15463,event_label,forging swords,50,0.003234
+test,15463,event_label,playing lacrosse,50,0.003234
+test,15463,event_label,playing snare drum,50,0.003234
+test,15463,event_label,baby crying,50,0.003234
+test,15463,event_label,lions roaring,50,0.003234
+test,15463,event_label,eletric blender running,50,0.003234
+test,15463,event_label,playing guiro,50,0.003234
+test,15463,event_label,train horning,50,0.003234
+test,15463,event_label,people giggling,50,0.003234
+test,15463,event_label,ocean burbling,50,0.003234
+test,15463,event_label,crow cawing,50,0.003234
+test,15463,event_label,opening or closing car electric windows,50,0.003234
+test,15463,event_label,planing timber,50,0.003234
+test,15463,event_label,typing on computer keyboard,50,0.003234
+test,15463,event_label,otter growling,50,0.003234
+test,15463,event_label,beat boxing,50,0.003234
+test,15463,event_label,cap gun shooting,50,0.003234
+test,15463,event_label,owl hooting,50,0.003234
+test,15463,event_label,foghorn,50,0.003234
+test,15463,event_label,penguins braying,50,0.003234
+test,15463,event_label,bouncing on trampoline,50,0.003234
+test,15463,event_label,people sobbing,50,0.003234
+test,15463,event_label,playing tuning fork,50,0.003234
+test,15463,event_label,typing on typewriter,50,0.003234
+test,15463,event_label,playing harmonica,50,0.003234
+test,15463,event_label,zebra braying,50,0.003234
+test,15463,event_label,playing timbales,50,0.003234
+test,15463,event_label,playing harp,50,0.003234
+test,15463,event_label,popping popcorn,50,0.003234
+test,15463,event_label,people booing,50,0.003234
+test,15463,event_label,metronome,50,0.003234
+test,15463,event_label,bull bellowing,50,0.003234
+test,15463,event_label,air horn,50,0.003234
+test,15463,event_label,telephone bell ringing,50,0.003234
+test,15463,event_label,chipmunk chirping,50,0.003234
+test,15463,event_label,playing squash,50,0.003234
+test,15463,event_label,people belly laughing,49,0.003169
+test,15463,event_label,horse neighing,49,0.003169
+test,15463,event_label,gibbon howling,49,0.003169
+test,15463,event_label,playing castanets,49,0.003169
+test,15463,event_label,mosquito buzzing,49,0.003169
+test,15463,event_label,"playing violin, fiddle",49,0.003169
+test,15463,event_label,toilet flushing,49,0.003169
+test,15463,event_label,"railroad car, train wagon",49,0.003169
+test,15463,event_label,squishing water,49,0.003169
+test,15463,event_label,sea waves,49,0.003169
+test,15463,event_label,roller coaster running,49,0.003169
+test,15463,event_label,"playing marimba, xylophone",49,0.003169
+test,15463,event_label,children shouting,49,0.003169
+test,15463,event_label,playing french horn,49,0.003169
+test,15463,event_label,helicopter,49,0.003169
+test,15463,event_label,baby babbling,49,0.003169
+test,15463,event_label,skateboarding,49,0.003169
+test,15463,event_label,ambulance siren,49,0.003169
+test,15463,event_label,playing oboe,49,0.003169
+test,15463,event_label,singing choir,49,0.003169
+test,15463,event_label,chicken clucking,49,0.003169
+test,15463,event_label,dog barking,49,0.003169
+test,15463,event_label,"fly, housefly buzzing",49,0.003169
+test,15463,event_label,people shuffling,48,0.003104
+test,15463,event_label,cell phone buzzing,48,0.003104
+test,15463,event_label,playing tambourine,48,0.003104
+test,15463,event_label,extending ladders,42,0.002716
+overall,199094,event_label,female singing,1050,0.005274
+overall,199094,event_label,tap dancing,1050,0.005274
+overall,199094,event_label,playing acoustic guitar,1050,0.005274
+overall,199094,event_label,playing cello,1050,0.005274
+overall,199094,event_label,playing electric guitar,1050,0.005274
+overall,199094,event_label,driving buses,1050,0.005274
+overall,199094,event_label,playing didgeridoo,1050,0.005274
+overall,199094,event_label,playing trombone,1050,0.005274
+overall,199094,event_label,police car (siren),1050,0.005274
+overall,199094,event_label,"male speech, man speaking",1049,0.005269
+overall,199094,event_label,playing bassoon,1049,0.005269
+overall,199094,event_label,playing piano,1049,0.005269
+overall,199094,event_label,ambulance siren,1049,0.005269
+overall,199094,event_label,male singing,1049,0.005269
+overall,199094,event_label,orchestra,1049,0.005269
+overall,199094,event_label,people booing,1049,0.005269
+overall,199094,event_label,toilet flushing,1049,0.005269
+overall,199094,event_label,"pigeon, dove cooing",1049,0.005269
+overall,199094,event_label,"vehicle horn, car horn, honking",1049,0.005269
+overall,199094,event_label,"rowboat, canoe, kayak rowing",1049,0.005269
+overall,199094,event_label,"railroad car, train wagon",1049,0.005269
+overall,199094,event_label,playing accordion,1049,0.005269
+overall,199094,event_label,playing drum kit,1049,0.005269
+overall,199094,event_label,playing saxophone,1049,0.005269
+overall,199094,event_label,basketball bounce,1049,0.005269
+overall,199094,event_label,playing cymbal,1049,0.005269
+overall,199094,event_label,"playing marimba, xylophone",1049,0.005269
+overall,199094,event_label,"engine accelerating, revving, vroom",1049,0.005269
+overall,199094,event_label,"female speech, woman speaking",1048,0.005264
+overall,199094,event_label,playing harp,1048,0.005264
+overall,199094,event_label,"race car, auto racing",1048,0.005264
+overall,199094,event_label,playing bass guitar,1048,0.005264
+overall,199094,event_label,playing table tennis,1048,0.005264
+overall,199094,event_label,playing squash,1048,0.005264
+overall,199094,event_label,playing banjo,1048,0.005264
+overall,199094,event_label,chicken crowing,1048,0.005264
+overall,199094,event_label,playing flute,1048,0.005264
+overall,199094,event_label,playing clarinet,1048,0.005264
+overall,199094,event_label,singing bowl,1048,0.005264
+overall,199094,event_label,chainsawing trees,1048,0.005264
+overall,199094,event_label,"bird chirping, tweeting",1048,0.005264
+overall,199094,event_label,"playing violin, fiddle",1047,0.005259
+overall,199094,event_label,"motorboat, speedboat acceleration",1047,0.005259
+overall,199094,event_label,helicopter,1047,0.005259
+overall,199094,event_label,people burping,1047,0.005259
+overall,199094,event_label,playing glockenspiel,1046,0.005254
+overall,199094,event_label,playing tabla,1046,0.005254
+overall,199094,event_label,driving motorcycle,1046,0.005254
+overall,199094,event_label,"child speech, kid speaking",1046,0.005254
+overall,199094,event_label,fireworks banging,1046,0.005254
+overall,199094,event_label,people crowd,1045,0.005249
+overall,199094,event_label,playing hammond organ,1044,0.005244
+overall,199094,event_label,playing harpsichord,1022,0.005133
+overall,199094,event_label,frog croaking,1017,0.005108
+overall,199094,event_label,vacuum cleaner cleaning floors,1008,0.005063
+overall,199094,event_label,playing theremin,1007,0.005058
+overall,199094,event_label,"subway, metro, underground",1000,0.005023
+overall,199094,event_label,playing badminton,999,0.005018
+overall,199094,event_label,beat boxing,997,0.005008
+overall,199094,event_label,slot machine,997,0.005008
+overall,199094,event_label,crow cawing,991,0.004978
+overall,199094,event_label,child singing,990,0.004973
+overall,199094,event_label,car engine knocking,990,0.004973
+overall,199094,event_label,playing volleyball,989,0.004968
+overall,199094,event_label,machine gun shooting,986,0.004952
+overall,199094,event_label,playing snare drum,985,0.004947
+overall,199094,event_label,ocean burbling,983,0.004937
+overall,199094,event_label,civil defense siren,977,0.004907
+overall,199094,event_label,skiing,976,0.004902
+overall,199094,event_label,missile launch,974,0.004892
+overall,199094,event_label,playing erhu,971,0.004877
+overall,199094,event_label,tractor digging,969,0.004867
+overall,199094,event_label,bowling impact,968,0.004862
+overall,199094,event_label,rope skipping,967,0.004857
+overall,199094,event_label,scuba diving,963,0.004837
+overall,199094,event_label,airplane flyby,962,0.004832
+overall,199094,event_label,lions roaring,962,0.004832
+overall,199094,event_label,fire truck siren,958,0.004812
+overall,199094,event_label,playing bagpipes,958,0.004812
+overall,199094,event_label,yodelling,958,0.004812
+overall,199094,event_label,police radio chatter,957,0.004807
+overall,199094,event_label,pheasant crowing,933,0.004686
+overall,199094,event_label,arc welding,931,0.004676
+overall,199094,event_label,"playing steel guitar, slide guitar",926,0.004651
+overall,199094,event_label,dog howling,924,0.004641
+overall,199094,event_label,wind noise,921,0.004626
+overall,199094,event_label,playing bongo,920,0.004621
+overall,199094,event_label,skateboarding,913,0.004586
+overall,199094,event_label,playing synthesizer,909,0.004566
+overall,199094,event_label,"electric shaver, electric razor shaving",906,0.004551
+overall,199094,event_label,playing ukulele,905,0.004546
+overall,199094,event_label,skidding,905,0.004546
+overall,199094,event_label,cap gun shooting,902,0.004531
+overall,199094,event_label,people clapping,901,0.004526
+overall,199094,event_label,playing cornet,890,0.004470
+overall,199094,event_label,people sniggering,890,0.004470
+overall,199094,event_label,playing vibraphone,885,0.004445
+overall,199094,event_label,people whistling,883,0.004435
+overall,199094,event_label,horse clip-clop,882,0.004430
+overall,199094,event_label,baby laughter,880,0.004420
+overall,199094,event_label,mynah bird singing,880,0.004420
+overall,199094,event_label,printer printing,878,0.004410
+overall,199094,event_label,playing bass drum,862,0.004330
+overall,199094,event_label,playing french horn,862,0.004330
+overall,199094,event_label,cat purring,861,0.004325
+overall,199094,event_label,lathe spinning,859,0.004315
+overall,199094,event_label,playing sitar,858,0.004310
+overall,199094,event_label,lawn mowing,856,0.004299
+overall,199094,event_label,lighting firecrackers,852,0.004279
+overall,199094,event_label,volcano explosion,842,0.004229
+overall,199094,event_label,playing electronic organ,839,0.004214
+overall,199094,event_label,playing trumpet,835,0.004194
+overall,199094,event_label,dog growling,825,0.004144
+overall,199094,event_label,playing harmonica,824,0.004139
+overall,199094,event_label,playing mandolin,824,0.004139
+overall,199094,event_label,planing timber,816,0.004099
+overall,199094,event_label,people marching,815,0.004094
+overall,199094,event_label,playing tambourine,809,0.004063
+overall,199094,event_label,playing double bass,808,0.004058
+overall,199094,event_label,church bell ringing,804,0.004038
+overall,199094,event_label,gibbon howling,791,0.003973
+overall,199094,event_label,goose honking,787,0.003953
+overall,199094,event_label,tapping guitar,780,0.003918
+overall,199094,event_label,sharpen knife,774,0.003888
+overall,199094,event_label,train horning,770,0.003868
+overall,199094,event_label,dog barking,765,0.003842
+overall,199094,event_label,singing choir,759,0.003812
+overall,199094,event_label,"heart sounds, heartbeat",754,0.003787
+overall,199094,event_label,owl hooting,753,0.003782
+overall,199094,event_label,people whispering,745,0.003742
+overall,199094,event_label,woodpecker pecking tree,744,0.003737
+overall,199094,event_label,typing on typewriter,744,0.003737
+overall,199094,event_label,cattle mooing,735,0.003692
+overall,199094,event_label,people screaming,728,0.003657
+overall,199094,event_label,hail,718,0.003606
+overall,199094,event_label,canary calling,717,0.003601
+overall,199094,event_label,people cheering,703,0.003531
+overall,199094,event_label,cricket chirping,702,0.003526
+overall,199094,event_label,stream burbling,690,0.003466
+overall,199094,event_label,people sneezing,688,0.003456
+overall,199094,event_label,wood thrush calling,681,0.003420
+overall,199094,event_label,roller coaster running,677,0.003400
+overall,199094,event_label,"ice cream truck, ice cream van",676,0.003395
+overall,199094,event_label,people shuffling,673,0.003380
+overall,199094,event_label,baby crying,666,0.003345
+overall,199094,event_label,mouse clicking,658,0.003305
+overall,199094,event_label,turkey gobbling,644,0.003235
+overall,199094,event_label,"cattle, bovinae cowbell",644,0.003235
+overall,199094,event_label,francolin calling,643,0.003230
+overall,199094,event_label,rapping,638,0.003205
+overall,199094,event_label,dinosaurs bellowing,633,0.003179
+overall,199094,event_label,playing timpani,628,0.003154
+overall,199094,event_label,dog bow-wow,628,0.003154
+overall,199094,event_label,using sewing machines,625,0.003139
+overall,199094,event_label,chicken clucking,624,0.003134
+overall,199094,event_label,splashing water,614,0.003084
+overall,199094,event_label,hammering nails,612,0.003074
+overall,199094,event_label,train whistling,608,0.003054
+overall,199094,event_label,driving snowmobile,601,0.003019
+overall,199094,event_label,duck quacking,599,0.003009
+overall,199094,event_label,baby babbling,597,0.002999
+overall,199094,event_label,lions growling,597,0.002999
+overall,199094,event_label,car passing by,595,0.002989
+overall,199094,event_label,parrot talking,592,0.002973
+overall,199094,event_label,sailing,592,0.002973
+overall,199094,event_label,cat meowing,587,0.002948
+overall,199094,event_label,sliding door,587,0.002948
+overall,199094,event_label,people babbling,586,0.002943
+overall,199094,event_label,playing timbales,585,0.002938
+overall,199094,event_label,horse neighing,584,0.002933
+overall,199094,event_label,swimming,566,0.002843
+overall,199094,event_label,people slurping,562,0.002823
+overall,199094,event_label,typing on computer keyboard,561,0.002818
+overall,199094,event_label,people eating noodle,560,0.002813
+overall,199094,event_label,wind rustling leaves,560,0.002813
+overall,199094,event_label,ripping paper,559,0.002808
+overall,199094,event_label,elk bugling,557,0.002798
+overall,199094,event_label,playing gong,555,0.002788
+overall,199094,event_label,playing darts,555,0.002788
+overall,199094,event_label,people farting,554,0.002783
+overall,199094,event_label,"bee, wasp, etc. buzzing",549,0.002757
+overall,199094,event_label,playing oboe,544,0.002732
+overall,199094,event_label,playing zither,538,0.002702
+overall,199094,event_label,eating with cutlery,528,0.002652
+overall,199094,event_label,bouncing on trampoline,526,0.002642
+overall,199094,event_label,people belly laughing,516,0.002592
+overall,199094,event_label,sheep bleating,514,0.002582
+overall,199094,event_label,waterfall burbling,512,0.002572
+overall,199094,event_label,airplane,504,0.002531
+overall,199094,event_label,playing steelpan,504,0.002531
+overall,199094,event_label,fire crackling,492,0.002471
+overall,199094,event_label,car engine starting,491,0.002466
+overall,199094,event_label,coyote howling,490,0.002461
+overall,199094,event_label,reversing beeps,485,0.002436
+overall,199094,event_label,people sobbing,480,0.002411
+overall,199094,event_label,playing guiro,475,0.002386
+overall,199094,event_label,raining,473,0.002376
+overall,199094,event_label,chimpanzee pant-hooting,473,0.002376
+overall,199094,event_label,playing congas,465,0.002336
+overall,199094,event_label,playing tympani,463,0.002326
+overall,199094,event_label,dog whimpering,461,0.002315
+overall,199094,event_label,opening or closing drawers,458,0.002300
+overall,199094,event_label,opening or closing car doors,457,0.002295
+overall,199094,event_label,people coughing,452,0.002270
+overall,199094,event_label,black capped chickadee calling,445,0.002235
+overall,199094,event_label,pig oinking,443,0.002225
+overall,199094,event_label,playing bugle,442,0.002220
+overall,199094,event_label,people eating crisps,440,0.002210
+overall,199094,event_label,"donkey, ass braying",437,0.002195
+overall,199094,event_label,mosquito buzzing,435,0.002185
+overall,199094,event_label,mouse pattering,430,0.002160
+overall,199094,event_label,squishing water,430,0.002160
+overall,199094,event_label,playing djembe,430,0.002160
+overall,199094,event_label,magpie calling,429,0.002155
+overall,199094,event_label,electric grinder grinding,424,0.002130
+overall,199094,event_label,people running,422,0.002120
+overall,199094,event_label,underwater bubbling,420,0.002110
+overall,199094,event_label,barn swallow calling,418,0.002100
+overall,199094,event_label,firing muskets,417,0.002094
+overall,199094,event_label,dog baying,412,0.002069
+overall,199094,event_label,cheetah chirrup,403,0.002024
+overall,199094,event_label,striking pool,401,0.002014
+overall,199094,event_label,playing hockey,400,0.002009
+overall,199094,event_label,people hiccup,394,0.001979
+overall,199094,event_label,people humming,391,0.001964
+overall,199094,event_label,playing tennis,390,0.001959
+overall,199094,event_label,wind chime,389,0.001954
+overall,199094,event_label,cat growling,385,0.001934
+overall,199094,event_label,car engine idling,370,0.001858
+overall,199094,event_label,ice cracking,363,0.001823
+overall,199094,event_label,otter growling,363,0.001823
+overall,199094,event_label,"alligators, crocodiles hissing",361,0.001813
+overall,199094,event_label,fox barking,360,0.001808
+overall,199094,event_label,people eating apple,360,0.001808
+overall,199094,event_label,tornado roaring,356,0.001788
+overall,199094,event_label,bird squawking,348,0.001748
+overall,199094,event_label,hair dryer drying,343,0.001723
+overall,199094,event_label,firing cannon,336,0.001688
+overall,199094,event_label,train wheels squealing,333,0.001673
+overall,199094,event_label,alarm clock ringing,331,0.001663
+overall,199094,event_label,cupboard opening or closing,330,0.001658
+overall,199094,event_label,striking bowling,326,0.001637
+overall,199094,event_label,thunder,325,0.001632
+overall,199094,event_label,cat hissing,320,0.001607
+overall,199094,event_label,penguins braying,318,0.001597
+overall,199094,event_label,running electric fan,318,0.001597
+overall,199094,event_label,bull bellowing,316,0.001587
+overall,199094,event_label,elephant trumpeting,310,0.001557
+overall,199094,event_label,golf driving,302,0.001517
+overall,199094,event_label,people battle cry,291,0.001462
+overall,199094,event_label,snake hissing,284,0.001426
+overall,199094,event_label,playing lacrosse,282,0.001416
+overall,199094,event_label,writing on blackboard with chalk,280,0.001406
+overall,199094,event_label,spraying water,278,0.001396
+overall,199094,event_label,sloshing water,276,0.001386
+overall,199094,event_label,people giggling,271,0.001361
+overall,199094,event_label,cutting hair with electric trimmers,268,0.001346
+overall,199094,event_label,forging swords,264,0.001326
+overall,199094,event_label,warbler chirping,264,0.001326
+overall,199094,event_label,lip smacking,263,0.001321
+overall,199094,event_label,plastic bottle crushing,262,0.001316
+overall,199094,event_label,chipmunk chirping,261,0.001311
+overall,199094,event_label,bird wings flapping,256,0.001286
+overall,199094,event_label,chopping wood,254,0.001276
+overall,199094,event_label,popping popcorn,252,0.001266
+overall,199094,event_label,eagle screaming,252,0.001266
+overall,199094,event_label,footsteps on snow,251,0.001261
+overall,199094,event_label,hedge trimmer running,251,0.001261
+overall,199094,event_label,sea waves,250,0.001256
+overall,199094,event_label,blowtorch igniting,250,0.001256
+overall,199094,event_label,goat bleating,246,0.001236
+overall,199094,event_label,air conditioning noise,245,0.001231
+overall,199094,event_label,ferret dooking,239,0.001200
+overall,199094,event_label,mouse squeaking,238,0.001195
+overall,199094,event_label,cat caterwauling,236,0.001185
+overall,199094,event_label,strike lighter,229,0.001150
+overall,199094,event_label,people nose blowing,228,0.001145
+overall,199094,event_label,shot football,226,0.001135
+overall,199094,event_label,people eating,225,0.001130
+overall,199094,event_label,extending ladders,224,0.001125
+overall,199094,event_label,smoke detector beeping,221,0.001110
+overall,199094,event_label,people gargling,221,0.001110
+overall,199094,event_label,cuckoo bird calling,218,0.001095
+overall,199094,event_label,foghorn,217,0.001090
+overall,199094,event_label,eletric blender running,214,0.001075
+overall,199094,event_label,chinchilla barking,213,0.001070
+overall,199094,event_label,people slapping,211,0.001060
+overall,199094,event_label,sea lion barking,211,0.001060
+overall,199094,event_label,opening or closing car electric windows,205,0.001030
+overall,199094,event_label,metronome,200,0.001005
+overall,199094,event_label,playing washboard,200,0.001005
+overall,199094,event_label,door slamming,200,0.001005
+overall,199094,event_label,people finger snapping,200,0.001005
+overall,199094,event_label,chopping food,200,0.001005
+overall,199094,event_label,telephone bell ringing,200,0.001005
+overall,199094,event_label,playing tuning fork,200,0.001005
+overall,199094,event_label,children shouting,200,0.001005
+overall,199094,event_label,baltimore oriole calling,200,0.001005
+overall,199094,event_label,disc scratching,200,0.001005
+overall,199094,event_label,bathroom ventilation fan running,200,0.001005
+overall,199094,event_label,whale calling,200,0.001005
+overall,199094,event_label,zebra braying,199,0.001000
+overall,199094,event_label,cow lowing,199,0.001000
+overall,199094,event_label,pumping water,199,0.001000
+overall,199094,event_label,snake rattling,199,0.001000
+overall,199094,event_label,cell phone buzzing,198,0.000995
+overall,199094,event_label,playing shofar,198,0.000995
+overall,199094,event_label,"fly, housefly buzzing",198,0.000995
+overall,199094,event_label,playing castanets,197,0.000989
+overall,199094,event_label,air horn,196,0.000984
