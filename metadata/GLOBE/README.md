@@ -42,11 +42,11 @@ Each sample is stored as a JSON entry with the following fields:
 ## Example Entries
 
 ```json
-{"id": "common_voice_en_20794008", "path": "/saltpool0/data/tseng/FullSpectrumDataset/audio/GLOBE/train/common_voice_en_20794008.wav", "sampling_rate": 16000, "duration": "4.920", "dataset": "GLOBE", "text": "The latter was completed after his return to Italy.", "gender": "female_feminine", "age": "sixties", "accent": "united states english"}
+{"id": "common_voice_en_29718448", "path": "/saltpool0/data/tseng/FullSpectrumDataset/audio/GLOBE/train/common_voice_en_29718448.wav", "sampling_rate": 16000, "duration": "4.060", "dataset": "GLOBE", "text": "She has kept on drawing and painting and writing.", "gender": "male", "age": "twenties", "accent": "canadian english"}
 
-{"id": "common_voice_en_24328949", "path": "/saltpool0/data/tseng/FullSpectrumDataset/audio/GLOBE/train/common_voice_en_24328949.wav", "sampling_rate": 16000, "duration": "6.620", "dataset": "GLOBE", "text": "The association also organizes special trains and coaches for fans for away matches.", "gender": "male_masculine", "age": "teens", "accent": "united states english"}
+{"id": "common_voice_en_34134180", "path": "/saltpool0/data/tseng/FullSpectrumDataset/audio/GLOBE/train/common_voice_en_34134180.wav", "sampling_rate": 16000, "duration": "7.120", "dataset": "GLOBE", "text": "He suffered from Persecution Complex and used to wander from one place to another.", "gender": "male", "age": "thirties", "accent": "new zealand english"}
 
-{"id": "common_voice_en_26761293", "path": "/saltpool0/data/tseng/FullSpectrumDataset/audio/GLOBE/train/common_voice_en_26761293.wav", "sampling_rate": 16000, "duration": "3.780", "dataset": "GLOBE", "text": "He lives in Melbourne with wife Catherine Arena and their four children.", "gender": "male_masculine", "age": "thirties", "accent": "united states english"}
+{"id": "common_voice_en_20240255", "path": "/saltpool0/data/tseng/FullSpectrumDataset/audio/GLOBE/train/common_voice_en_20240255.wav", "sampling_rate": 16000, "duration": "4.160", "dataset": "GLOBE", "text": "Thus epistemic considerations enter in addition to structural ones.", "gender": "male", "age": "teens", "accent": "australian english"}
 ```
 
 ---
@@ -54,24 +54,54 @@ Each sample is stored as a JSON entry with the following fields:
 ## Task Usage
 
 ### 1. Accent-Robust ASR
-- **Input:** speech audio
-- **Output:** transcript
-- **Target field:** `text`
+- **Target field:** `text` (transcription)
 
 ### 2. English Accent Classification
-- **Input:** speech audio
-- **Output:** accent label
-- **Target field:** `accent`
+- **Target field:** `accent` (accent label)
 
 ### 3. Speaker Age Estimation
-- **Input:** speech audio
-- **Output:** age label
-- **Target field:** `age`
+- **Target field:** `age` (age label)
 
 ### 4. Speaker Gender Classification
-- **Input:** speech audio
-- **Output:** gender label
-- **Target field:** `gender`
+- **Target field:** `gender` (gender label)
+
+---
+
+## Label Space
+
+### Age
+The `age` field contains categorical age labels:
+- `teens`
+- `twenties`
+- `thirties`
+- `fourties`
+- `fifties`
+- `sixties`
+- `seventies`
+- `eighties`
+- `nineties`
+
+### Accent
+The `accent` field contains English accent varieties, including but not limited to:
+- `united states english`
+- `england english`
+- `india/south asia`
+- `canadian english`
+- `german-accented english`
+- `australian english`
+- `southern african`
+- `northern irish`
+- `irish english`
+- `new zealand english`
+
+### Gender
+The `gender` field includes:
+- `male`
+- `female`
+- `non-binary`
+- `transgender`
+
+The majority of samples belong to the `male` and `female` categories.
 
 ---
 
@@ -79,3 +109,4 @@ Each sample is stored as a JSON entry with the following fields:
 - All audio files are sampled at **16 kHz**.
 - The dataset is English-only, with diversity in **accent**, **age**, and **gender**.
 - Because the same corpus supports multiple tasks, the task definition depends on the selected target field.
+- If your manifest uses exact string labels, keep the README label names identical to the manifest values. For example, if the stored label is `fourties`, avoid silently normalizing it to `forties`.
