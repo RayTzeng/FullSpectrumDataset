@@ -70,38 +70,32 @@ Each sample is stored as a JSON entry with the following fields:
 ## Label Space
 
 ### Age
-The `age` field contains categorical age labels:
-- `teens`
-- `twenties`
-- `thirties`
-- `fourties`
-- `fifties`
-- `sixties`
-- `seventies`
-- `eighties`
-- `nineties`
+<details>
+<summary>Show 9 available labels:</summary>
+
+`teens`, `twenties`, `thirties`, `fourties`, `fifties`, `sixties`, `seventies`, `eighties`, `nineties`
+
+</details>
 
 ### Accent
-The `accent` field contains English accent varieties, including but not limited to:
-- `united states english`
-- `england english`
-- `india/south asia`
-- `canadian english`
-- `german-accented english`
-- `australian english`
-- `southern african`
-- `northern irish`
-- `irish english`
-- `new zealand english`
+<details>
+<summary>Show available accent labels:</summary>
+
+English accent varieties include but are not limited to:
+
+`united states english`, `england english`, `india/south asia`, `canadian english`, `german-accented english`, `australian english`, `southern african`, `northern irish`, `irish english`, `new zealand english`
+
+</details>
 
 ### Gender
-The `gender` field includes:
-- `male`
-- `female`
-- `non-binary`
-- `transgender`
+<details>
+<summary>Show 4 available labels:</summary>
 
-The majority of samples belong to the `male` and `female` categories.
+`male`, `female`, `non-binary`, `transgender`
+
+Note: The majority of samples belong to the `male` and `female` categories.
+
+</details>
 
 ---
 

@@ -3,13 +3,13 @@
 ## Overview
 **FLEURS** is the speech version of the **FLoRes** machine translation benchmark. It contains **2,009 n-way parallel sentences** from the publicly available **FLoRes dev** and **devtest** sets, covering **102 languages**.
 
-This dataset can be used for:
+Training sets contain around **10 hours of supervision per language**. Speakers in the **train** split are different from speakers in the **dev/test** splits.
+
+## Supported Tasks
 1. **Multilingual Speech Recognition**
 2. **Language Identification**
 3. **Language Group Classification**
 4. **Speaker Gender Classification**
-
-Training sets contain around **10 hours of supervision per language**. Speakers in the **train** split are different from speakers in the **dev/test** splits.
 
 ---
 
@@ -69,20 +69,28 @@ Each sample is stored as a JSON entry with the following fields:
 
 ---
 
-## Evaluation Notes
+## Label Space
 
-For **multilingual ASR**, multilingual fine-tuning is used and performance is reported using **average unit error rate (UER)** across languages, where units are defined at the **character/sign** level.
+### Languages
+<details>
+<summary>Show 102 available languages:</summary>
 
-For classification tasks, the target label depends on the selected field (`lang`, `lang_group`, or `gender`).
+FLEURS covers 102 languages across seven geographical areas. See the Language Groups section below for the complete list organized by region.
 
----
+</details>
 
-## Language Groups
+### Gender
+<details>
+<summary>Show 2 available labels:</summary>
 
-FLEURS languages are grouped into **seven geographical areas**.
+`female`, `male`
+
+</details>
+
+### Language Groups
 
 <details>
-<summary>Show language groups</summary>
+<summary>Show 7 available language groups:</summary>
 
 ### Western Europe
 Asturian, Bosnian, Catalan, Croatian, Danish, Dutch, English, Finnish, French, Galician, German, Greek, Hungarian, Icelandic, Irish, Italian, Kabuverdianu, Luxembourgish, Maltese, Norwegian, Occitan, Portuguese, Spanish, Swedish, Welsh
@@ -113,3 +121,4 @@ Cantonese, Mandarin Chinese, Japanese, Korean
 - All audio files are sampled at **16 kHz**.
 - The dataset contains **102 languages** with parallel sentence content across languages.
 - Because the same corpus supports multiple tasks, the task definition depends on the selected target field.
+- For **multilingual ASR**, multilingual fine-tuning is used and performance is reported using **average unit error rate (UER)** across languages, where units are defined at the **character/sign** level.

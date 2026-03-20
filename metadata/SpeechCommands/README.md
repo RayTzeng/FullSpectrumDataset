@@ -4,7 +4,7 @@
 **Google Speech Commands** is a large-scale dataset of one-second audio clips containing isolated spoken English words and background noise, recorded by a diverse set of speakers. It is widely used for keyword spotting research, enabling models to learn how to recognize short command words such as “left,” “right,” “up,” and “down” from speech audio.
 
 ## Supported Tasks
-1. **Keyword Spotting**
+1. **Keyword Spotting / Speech Command Recognition**
 
 ---
 
@@ -56,7 +56,7 @@ Each sample is stored as a JSON entry with the following fields:
 
 ### Keywords
 <details>
-<summary>Show keyword labels:</summary>
+<summary>Show 36 available labels:</summary>
 
 `_silence_`, `backward`, `bed`, `bird`, `cat`, `dog`, `down`, `eight`, `five`, `follow`, `forward`, `four`, `go`, `happy`, `house`, `learn`, `left`, `marvin`, `nine`, `no`, `off`, `on`, `one`, `right`, `seven`, `sheila`, `six`, `stop`, `three`, `tree`, `two`, `up`, `visual`, `wow`, `yes`, `zero`
 

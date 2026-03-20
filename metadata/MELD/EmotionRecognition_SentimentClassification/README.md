@@ -61,7 +61,7 @@ Each sample is stored as a JSON entry with the following fields:
 
 ### Emotion
 <details>
-<summary>Show emotion labels:</summary>
+<summary>Show 7 available labels:</summary>
 
 `neutral`, `joy`, `surprise`, `anger`, `sadness`, `disgust`, `fear`
 
@@ -69,7 +69,7 @@ Each sample is stored as a JSON entry with the following fields:
 
 ### Sentiment
 <details>
-<summary>Show sentiment labels:</summary>
+<summary>Show 3 available labels:</summary>
 
 `neutral`, `negative`, `positive`
 
