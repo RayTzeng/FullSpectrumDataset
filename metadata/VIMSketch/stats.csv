@@ -1,0 +1,418 @@
+imitation_ref,train_count,test_count,total_count
+__samples__,10480,1139,11619
+abyss of despair,28,3,31
+accordion,41,5,46
+acoustic guitar,16,2,18
+air brake,16,2,18
+air conditioning,17,1,18
+air machine,27,3,30
+airplane,43,5,48
+alarm clock,14,4,18
+alien discovery,27,4,31
+alto saxophone,45,3,48
+ambulance siren,17,1,18
+anti-matter clouds,29,2,31
+applause,14,1,15
+artillery fire,19,0,19
+audio feedback,26,3,29
+baby crying,48,2,50
+baby laughter,18,1,19
+bagpipes,45,5,50
+bamboo air strings,28,3,31
+bang,16,2,18
+banjo,47,2,49
+basketball bounce,40,7,47
+bass drum,17,2,19
+bass guitar,19,1,20
+bassoon,43,6,49
+bathtub filling,14,1,15
+bell swarm,27,3,30
+bicycle bell,78,10,88
+bird chirp,17,2,19
+bird chirping,29,1,30
+bird wings flapping,16,3,19
+biting,12,5,17
+blender,14,3,17
+boat horn,27,2,29
+boiling,17,2,19
+bongo drums,27,2,29
+booing,17,3,20
+bouncing,17,1,18
+bowed cello,30,0,30
+bowed crash cymbal,29,1,30
+bowed vibraphone,27,4,31
+bowed viola,27,4,31
+bowed violin,26,4,30
+bowling,25,3,28
+breaking,15,0,15
+bugle,19,2,21
+bullet time,29,2,31
+burp,42,5,47
+burst / pop,14,3,17
+bus,15,1,16
+busy signal,17,1,18
+buzz,12,3,15
+buzzer,18,3,21
+camera shutter,43,5,48
+can crushing,25,4,29
+can opening,25,6,31
+cap gun,15,0,15
+car alarm,34,2,36
+car crash,28,3,31
+car horn,46,4,50
+car passing by,15,3,18
+car skidding,16,3,19
+cash register,42,5,47
+castanets,29,1,30
+cat growl,19,0,19
+cat hiss,15,4,19
+cat meow,18,2,20
+cat purr,14,3,17
+cat vocalization,29,2,31
+cello,19,0,19
+cellphone vibration,17,2,19
+chainsaw,19,2,21
+cheering,20,0,20
+chewing,28,2,30
+chicken cluck,19,1,20
+chicken clucking,30,0,30
+child coughing,28,2,30
+children shouting,38,3,41
+chinese cymbal,26,4,30
+choir,15,4,19
+choked crash cymbal,30,1,31
+chuckle,19,2,21
+church bell,15,5,20
+church bells,28,1,29
+civil defense siren,21,0,21
+clapping,40,4,44
+clarinet,47,3,50
+claves,29,2,31
+clock tick,15,2,17
+clunk,33,2,35
+coin drop,45,6,51
+computer keyboard,13,4,17
+cork pop,25,4,29
+cornet,19,1,20
+cow moo,44,5,49
+cowbell,34,2,36
+crash cymbal,44,5,49
+crash cymbal roll,27,2,29
+cricket,14,2,16
+crickets,28,2,30
+crotales,28,2,30
+crow caw,42,6,48
+crushing,17,2,19
+cuckoo clock,29,1,30
+cupboard open/close,18,0,18
+cutlery,16,1,17
+cyborg breathing,28,1,29
+cymbal,27,3,30
+dark attack bass,29,1,30
+dark synth pad,29,2,31
+dental drill,39,3,42
+dial tone,17,3,20
+didgeridoo,16,1,17
+dishes / pots / pans,12,4,16
+dissonant bells,26,4,30
+dog bark,44,6,50
+dog growl,16,2,18
+dog howl,16,4,20
+donkey bray,27,3,30
+door closing,24,6,30
+door knock,15,4,19
+door slam,17,0,17
+door squeak,14,5,19
+doorbell,48,2,50
+double bass,43,6,49
+dove coo,17,2,19
+drawer open/close,15,3,18
+drill,27,2,29
+drum machine,18,2,20
+drum roll,22,0,22
+drums,27,2,29
+duck call,17,3,20
+duck quack,44,8,52
+electric guitar,16,2,18
+electric piano,18,1,19
+electric shaver,18,2,20
+electric toothbrush,17,0,17
+electrical interference,27,3,30
+electronic organ,15,2,17
+elephant vocalization,30,1,31
+engine idling,16,2,18
+engine revving,19,1,20
+engine starting,17,2,19
+eruption,16,1,17
+euro hook,26,5,31
+explosion,26,2,28
+fart,15,2,17
+filing,20,0,20
+filter bubble,27,3,30
+finger snapping,15,1,16
+fire alarm,18,3,21
+fire crackle,12,2,14
+fire truck siren,35,5,40
+firecracker,16,1,17
+firecrackers,28,2,30
+flap,19,0,19
+flute,69,10,79
+foghorn,19,0,19
+food chopping,21,0,21
+footsteps,15,4,19
+freaky moonlight,29,2,31
+french horn,19,1,20
+frog croak,44,4,48
+frying,48,1,49
+fusillade,19,1,20
+gargling,42,5,47
+gasp,17,4,21
+gears,16,1,17
+ghost in the machine,29,2,31
+giggle,18,2,20
+glass breaking,42,4,46
+glass clink,17,2,19
+glockenspiel,42,7,49
+goat bleat,21,1,22
+gong,47,2,49
+goose honk,16,3,19
+grinding,16,2,18
+groan,18,0,18
+grunt,14,3,17
+guitar,49,11,60
+guitar strum,17,3,20
+guitar tapping,17,0,17
+gunshots,26,4,30
+güiro,27,2,29
+hair dryer,18,2,20
+hammering,45,7,52
+hammond organ,17,3,20
+harmonica,44,6,50
+harp,44,2,46
+harpsichord,18,1,19
+heart murmur,18,1,19
+helicopter,43,7,50
+hi-hat,44,7,51
+hiccup,15,3,18
+horn,25,5,30
+horse gallop,49,4,53
+horse neigh,14,5,19
+horse snort,19,2,21
+humming,19,0,19
+ice cream truck,17,1,18
+ice in glass,26,3,29
+ice synth,25,6,31
+instrument scratching,15,2,17
+jackhammer,45,4,49
+jet engine,19,1,20
+jingle bell,19,1,20
+kettle whistle,47,2,49
+keys jangling,13,2,15
+knock,20,0,20
+knocking,29,1,30
+laughter,28,2,30
+lawn mower,43,7,50
+lion roar,29,2,31
+liquid filling,17,0,17
+liquid pump,18,0,18
+liquid spray,15,4,19
+liquid squish,17,1,18
+liquid stirring,13,2,15
+little summer boy,28,2,30
+machine gun,43,7,50
+mains hum,14,1,15
+mandolin,19,0,19
+maraca,18,1,19
+marble in glass bowl,28,3,31
+marble rolling,30,1,31
+marimba,29,2,31
+marimba / xylophone,17,1,18
+mechanical fan,19,0,19
+medium engine,15,2,17
+mellotron,18,2,20
+metallic synth,27,4,31
+metaloid,29,3,32
+microwave oven,16,1,17
+mister frosty,30,1,31
+monkey vocalization,28,2,30
+morphing can drum,20,7,27
+mosquito,48,1,49
+motorboat,18,0,18
+motorcycle,43,7,50
+mouse,18,2,20
+musical ensemble,18,0,18
+narrow timbre,26,5,31
+needle strings,27,3,30
+nose blowing,28,2,30
+oboe,42,7,49
+ocean waves,46,4,50
+orbit station,28,3,31
+orchestra,18,3,21
+organ,23,8,31
+owl hoot,44,4,48
+page turning,23,7,30
+panting,15,5,20
+paper crumpling,42,5,47
+paper cutting,27,3,30
+paper tearing,29,2,31
+photon blast,26,4,30
+piano,52,7,59
+pig oink,46,3,49
+pinball,27,3,30
+ping-pong,27,2,29
+pink noise,18,2,20
+pizzicato strings,19,1,20
+plucked bass,27,5,32
+plucked cello,29,1,30
+plucked viola,26,4,30
+plucked violin,28,2,30
+police siren,62,9,71
+power windows,16,3,19
+printer,15,2,17
+propeller,15,3,18
+pull-chain light switch,25,4,29
+pulleys,12,2,14
+race car,17,2,19
+rain,46,2,48
+ratchet,16,1,17
+rattlesnake,25,6,31
+resonant clouds,30,1,31
+reversed envelope,28,4,32
+reversing beeps,16,2,18
+rimshot,14,3,17
+ringtone,16,2,18
+river stream,27,2,29
+roar,18,3,21
+rolling,14,3,17
+rooster crow,44,5,49
+rowboat / canoe / kayak,10,4,14
+rubbing,19,1,20
+running,17,1,18
+rustling leaves,16,2,18
+sailboat,17,0,17
+sampler,18,1,19
+sanding,20,0,20
+sandpaper rubbing,28,3,31
+sawing,44,2,46
+saxophone,26,5,31
+scissors,20,1,21
+scraping,18,1,19
+scratching,18,2,20
+screaming,44,6,50
+seal vocalization,29,2,31
+sewing machine,20,0,20
+shadowland highs,28,2,30
+sheep bleat,26,5,31
+shimmer,30,2,32
+ship,16,1,17
+shuffling cards,39,4,43
+shuffling footsteps,15,4,19
+sigh,13,7,20
+singing bowl,18,1,19
+sink filling,12,5,17
+sitar,14,3,17
+skateboard,18,1,19
+slap / smack,11,2,13
+slide guitar,16,2,18
+sliding door,15,2,17
+slosh,17,0,17
+slow warm swells,29,2,31
+smash / crash,15,1,16
+snake rattle,16,2,18
+sneeze,44,6,50
+sniff,15,3,18
+snoring,43,6,49
+soft shimmer,27,4,31
+sonar,43,6,49
+sonic boom,17,0,17
+soprano saxophone,17,3,20
+spacecraft engine,26,4,30
+sparkle motion,29,2,31
+stapler,25,5,30
+steam hiss,15,2,17
+stomach rumble,16,3,19
+stream,15,2,17
+string section,18,1,19
+subway,14,2,16
+sustained vibraphone,27,3,30
+sword clash,23,6,29
+synth brass,29,2,31
+synth lead,28,3,31
+tabla,17,2,19
+tambourine,47,2,49
+tambourine roll,25,6,31
+tap,15,3,18
+tape,17,0,17
+tape hiss,17,1,18
+tearing,18,2,20
+telephone,26,3,29
+telephone dialing,22,0,22
+telephone ringing,17,2,19
+thai gong,28,2,30
+theremin,17,3,20
+thick bass,26,5,31
+throat clearing,48,2,50
+thunder,42,7,49
+thunk,15,4,19
+tick-tock,18,0,18
+timpani,17,3,20
+toilet flush,40,6,46
+toot,37,2,39
+toothbrushing,29,1,30
+traffic noise,19,1,20
+train,25,3,28
+train horn,12,6,18
+train wagon,15,0,15
+train wheels squealing,17,2,19
+train whistle,16,2,18
+triangle,28,2,30
+trickle / dribble,16,0,16
+trombone,41,9,50
+truck,28,2,30
+truck horn,31,6,37
+trumpet,74,6,80
+tuba,28,2,30
+tubular bells,19,0,19
+tuning fork,19,0,19
+turkey gobble,13,3,16
+typewriter,43,4,47
+ukulele,21,2,23
+vacuum cleaner,16,4,20
+velcro,46,3,49
+vibraphone,19,1,20
+violin,26,3,29
+wail / moan,16,3,19
+water bubbling,27,2,29
+water draining,28,2,30
+water dripping,42,7,49
+water gurgling,13,1,14
+water pouring,42,5,47
+water tap,16,1,17
+waterfall,19,0,19
+whack / thwack,16,2,18
+whip,39,5,44
+whispering,18,1,19
+whistle,27,2,29
+whistling,22,8,30
+white noise,20,1,21
+whoop,14,4,18
+wind,27,3,30
+wind chime,34,3,37
+wind chimes,29,1,30
+wind gong,22,8,30
+wind howl,17,3,20
+window blinds,30,0,30
+wolf howl,29,1,30
+wolf whistle,16,3,19
+wood block,46,3,49
+wood chop,14,2,16
+wood crack,16,1,17
+wood snap,20,1,21
+wood splinter,15,2,17
+woodpecker pecking,27,4,31
+writing,13,2,15
+xylophone,26,4,30
+yawn,45,6,51
+yell,17,1,18
+zipper,43,5,48
+zither,20,1,21
