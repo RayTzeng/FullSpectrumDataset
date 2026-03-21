@@ -4,7 +4,7 @@
 **AudioSet** consists of a collection of over **2 million** human-labeled 10-second sound clips drawn from YouTube videos. This subset focuses on **human non-verbal vocal sounds**, filtering the full AudioSet ontology to include only vocal sound events such as laughter, crying, breathing, coughing, and other non-speech vocalizations.
 
 ## Supported Tasks
-1. **Vocal Sound Classification**
+1. **Multi-Label Vocal Sound Classification**
 
 ---
 
@@ -46,7 +46,7 @@ Each sample is stored as a JSON entry with the following fields:
 
 ## Task Usage
 
-### 1. Vocal Sound Classification
+### 1. Multi-Label Vocal Sound Classification
 - **Target field:** `vocal_sounds` (semicolon-separated vocal sound labels)
 
 ---
