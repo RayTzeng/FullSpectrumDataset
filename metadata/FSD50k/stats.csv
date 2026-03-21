@@ -1,0 +1,201 @@
+audio_events,train_count,test_count,total_count
+"Accelerating, revving, vroom",161,114,275
+Accordion,52,50,102
+Acoustic guitar,538,134,672
+Aircraft,184,88,272
+Alarm,1280,584,1864
+Animal,3275,1082,4357
+Applause,400,150,550
+Bark,414,122,536
+Bass drum,220,119,339
+Bass guitar,322,78,400
+Bathtub (filling or washing),149,55,204
+Bell,798,386,1184
+Bicycle,211,100,311
+Bicycle bell,73,56,129
+Bird,1189,540,1729
+"Bird vocalization, bird call, bird song",502,459,961
+"Boat, Water vehicle",106,33,139
+Boiling,65,37,102
+Boom,167,37,204
+Bowed string instrument,1924,140,2064
+Brass instrument,949,86,1035
+Breathing,431,227,658
+"Burping, eructation",219,92,311
+Bus,223,62,285
+Buzz,80,76,156
+Camera,300,76,376
+Car,673,326,999
+Car passing by,126,106,232
+Cat,303,132,435
+Chatter,67,387,454
+Cheering,217,109,326
+"Chewing, mastication",181,75,256
+"Chicken, rooster",138,35,173
+"Child speech, kid speaking",158,97,255
+Chime,166,102,268
+"Chink, clink",265,168,433
+"Chirp, tweet",194,354,548
+"Chuckle, chortle",59,52,111
+Church bell,81,60,141
+Clapping,378,188,566
+Clock,252,97,349
+Coin (dropping),437,92,529
+Computer keyboard,130,93,223
+Conversation,65,61,126
+Cough,279,106,385
+Cowbell,172,63,235
+Crack,118,69,187
+Crackle,220,107,327
+Crash cymbal,214,71,285
+Cricket,176,100,276
+Crow,75,36,111
+Crowd,282,153,435
+"Crumpling, crinkling",201,90,291
+Crushing,190,86,276
+"Crying, sobbing",109,42,151
+Cupboard open or close,98,55,153
+"Cutlery, silverware",274,126,400
+Cymbal,669,234,903
+"Dishes, pots, pans",330,149,479
+Dog,752,178,930
+"Domestic animals, pets",1054,311,1365
+"Domestic sounds, home sounds",4711,1947,6658
+Door,1056,466,1522
+Doorbell,107,37,144
+Drawer open or close,151,69,220
+Drill,169,42,211
+Drip,232,99,331
+Drum,1204,310,1514
+Drum kit,341,60,401
+Electric guitar,506,181,687
+Engine,854,554,1408
+Engine starting,144,76,220
+Explosion,1122,266,1388
+Fart,533,97,630
+Female singing,137,70,207
+"Female speech, woman speaking",393,247,640
+Fill (with liquid),90,58,148
+Finger snapping,132,67,199
+Fire,385,124,509
+Fireworks,402,67,469
+"Fixed-wing aircraft, airplane",101,45,146
+Fowl,224,57,281
+Frog,72,38,110
+Frying (food),66,57,123
+Gasp,58,52,110
+Giggle,104,84,188
+Glass,974,267,1241
+Glockenspiel,56,87,143
+Gong,206,72,278
+Growling,72,51,123
+Guitar,1821,411,2232
+"Gull, seagull",72,32,104
+"Gunshot, gunfire",348,134,482
+Gurgling,133,101,234
+Hammer,165,69,234
+Hands,573,297,870
+Harmonica,165,58,223
+Harp,177,57,234
+Hi-hat,458,146,604
+Hiss,164,125,289
+Human group actions,792,631,1423
+Human voice,4020,1633,5653
+Idling,107,106,213
+Insect,383,215,598
+Keyboard (musical),1428,376,1804
+Keys jangling,169,82,251
+Knock,270,103,373
+Laughter,933,253,1186
+Liquid,1125,476,1601
+"Livestock, farm animals, working animals",515,120,635
+Male singing,80,70,150
+"Male speech, man speaking",391,467,858
+Mallet percussion,287,140,427
+"Marimba, xylophone",171,39,210
+Mechanical fan,64,55,119
+Mechanisms,1073,461,1534
+Meow,172,78,250
+Microwave oven,140,66,206
+Motor vehicle (road),1399,587,1986
+Motorcycle,170,80,250
+Music,12767,1972,14739
+Musical instrument,12763,1940,14703
+Ocean,239,93,332
+Organ,313,35,348
+"Packing tape, duct tape",70,60,130
+Percussion,3152,825,3977
+Piano,779,76,855
+Plucked string instrument,1916,434,2350
+Pour,154,169,323
+Power tool,171,43,214
+Printer,100,63,163
+Purr,68,60,128
+"Race car, auto racing",72,51,123
+Rail transport,637,199,836
+Rain,500,208,708
+Raindrop,119,75,194
+"Ratchet, pawl",57,54,111
+Rattle,173,127,300
+Rattle (instrument),253,64,317
+Respiratory sounds,822,380,1202
+Ringtone,97,72,169
+Run,241,91,332
+Sawing,118,55,173
+Scissors,106,59,165
+Scratching (performance technique),228,81,309
+Screaming,254,123,377
+Screech,86,68,154
+Shatter,414,96,510
+Shout,216,177,393
+Sigh,75,61,136
+Singing,523,194,717
+Sink (filling or washing),292,115,407
+Siren,77,55,132
+Skateboard,83,52,135
+Slam,351,201,552
+Sliding door,196,99,295
+Snare drum,741,145,886
+Sneeze,64,61,125
+Speech,1469,785,2254
+Speech synthesizer,59,61,120
+"Splash, splatter",374,144,518
+Squeak,389,217,606
+Stream,214,103,317
+Strum,176,57,233
+"Subway, metro, underground",305,82,387
+Tabla,52,45,97
+Tambourine,229,71,300
+Tap,248,136,384
+Tearing,276,110,386
+Telephone,520,165,685
+"Thump, thud",299,171,470
+Thunder,455,128,583
+Thunderstorm,469,132,601
+Tick,52,57,109
+Tick-tock,96,74,170
+Toilet flush,206,73,279
+Tools,788,216,1004
+"Traffic noise, roadway noise",152,127,279
+Train,338,111,449
+"Trickle, dribble",150,154,304
+Truck,110,44,154
+Trumpet,581,56,637
+Typewriter,51,51,102
+Typing,284,146,430
+Vehicle,2680,1030,3710
+"Vehicle horn, car horn, honking",115,68,183
+"Walk, footsteps",377,203,580
+Water,1360,565,1925
+"Water tap, faucet",280,178,458
+"Waves, surf",167,78,245
+Whispering,170,75,245
+"Whoosh, swoosh, swish",272,100,372
+Wild animals,1641,751,2392
+Wind,294,134,428
+Wind chime,66,53,119
+"Wind instrument, woodwind instrument",2548,105,2653
+Wood,285,147,432
+Writing,255,88,343
+Yell,139,60,199
+Zipper (clothing),291,104,395
