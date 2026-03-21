@@ -1,0 +1,36 @@
+label,train_count,test_count,total_count
+__samples__,26607,1463,28070
+Shout,1186,52,1238
+Bellow,402,52,454
+Whoop,1657,53,1710
+Yell,661,45,706
+Battle cry,345,54,399
+Children shouting,556,54,610
+Screaming,959,40,999
+Laughter,4393,97,4490
+Baby laughter,667,56,723
+Giggle,736,54,790
+Snicker,1500,54,1554
+Belly laugh,626,55,681
+"Chuckle, chortle",1356,55,1411
+"Crying, sobbing",1026,40,1066
+"Baby cry, infant cry",1768,34,1802
+Whimper,946,48,994
+"Wail, moan",119,43,162
+Sigh,201,49,250
+Humming,308,42,350
+Groan,524,45,569
+Grunt,212,42,254
+Whistling,1624,46,1670
+Breathing,613,50,663
+Wheeze,97,52,149
+Snoring,1981,51,2032
+Gasp,216,48,264
+Pant,194,47,241
+Snort,388,51,439
+Cough,644,41,685
+Throat clearing,237,51,288
+Sneeze,843,39,882
+Sniff,127,53,180
+Gargling,57,43,100
+Beatboxing,2076,47,2123
