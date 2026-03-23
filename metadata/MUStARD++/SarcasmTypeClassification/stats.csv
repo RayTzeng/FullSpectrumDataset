@@ -1,0 +1,16 @@
+split,label,count
+train,total,481
+train,embedded,65
+train,illocutionary,139
+train,like_prefixed,2
+train,propositional,275
+test,total,120
+test,embedded,22
+test,illocutionary,39
+test,like_prefixed,1
+test,propositional,58
+all,total,601
+all,embedded,87
+all,illocutionary,178
+all,like_prefixed,3
+all,propositional,333
