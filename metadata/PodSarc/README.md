@@ -54,7 +54,7 @@ Each sample is stored as a JSON entry with the following fields:
 - **Target field:** `sarcasm` (boolean sarcasm label)
 
 ### 2. Sarcasm Understanding
-- **Target field:** `sarcasm`,`comment` (explanation of the cause of sarcasm)
+- **Target field:** `sarcasm`, `comment` (explanation of the cause of sarcasm)
 
 ---
 
