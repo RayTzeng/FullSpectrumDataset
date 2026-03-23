@@ -1,0 +1,3 @@
+split,non_sarcastic,sarcastic,total
+train,4927,2465,7392
+test,505,242,747
