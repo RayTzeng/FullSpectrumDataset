@@ -1,0 +1,9 @@
+split,real_or_fake,count
+train,bonafide,18797
+train,spoof,163560
+dev,bonafide,10700
+dev,spoof,36700
+test,bonafide,10281
+test,spoof,39096
+all,bonafide,39778
+all,spoof,239356
