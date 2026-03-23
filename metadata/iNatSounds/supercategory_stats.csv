@@ -1,0 +1,7 @@
+supercategory,train_count,test_count,total_count
+__samples__,135975,49338,185313
+Amphibia,13109,4070,17179
+Aves(birds),111029,41036,152065
+Insect,9117,3127,12244
+Mammal,2566,1073,3639
+Reptile,154,32,186
