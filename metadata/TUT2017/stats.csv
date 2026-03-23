@@ -1,0 +1,17 @@
+acoustic_scene,train_count,test_count,total_count
+__samples__,4680,1620,6300
+beach,312,108,420
+bus,312,108,420
+cafe/restaurant,312,108,420
+car,312,108,420
+city_center,312,108,420
+forest_path,312,108,420
+grocery_store,312,108,420
+home,312,108,420
+library,312,108,420
+metro_station,312,108,420
+office,312,108,420
+park,312,108,420
+residential_area,312,108,420
+train,312,108,420
+tram,312,108,420
