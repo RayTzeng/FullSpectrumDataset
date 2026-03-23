@@ -1,7 +1,7 @@
 # iNatSounds
 
 ## Overview
-**iNatSounds** (iNaturalist Sounds Dataset) is a large-scale collection of **230,000 audio files** capturing sounds from over **5,500 species**, contributed by more than **27,000 recordists** worldwide. The dataset encompasses sounds from birds, mammals, insects, reptiles, and amphibians, with audio and species labels derived from observations submitted to **iNaturalist**, a global citizen science platform. This diverse dataset enables research in biodiversity monitoring, species classification, and bioacoustic analysis.
+**iNatSounds** (iNaturalist Sounds Dataset) is a large-scale collection of **230,000 audio files** capturing sounds from over **5,500 species**, contributed by more than **27,000 recordists** worldwide. The dataset encompasses sounds from birds, mammals, insects, reptiles, and amphibians, with audio and species labels derived from observations submitted to **iNaturalist**, a global citizen science platform. This diverse dataset enables research in species classification.
 
 ## Supported Tasks
 1. **Species Supercategory Classification**
@@ -55,7 +55,7 @@ Each sample is stored as a JSON entry with the following fields:
 
 ### 2. Species Name Classification
 - **Target field:** `common_name` (species common name)
-- **Additional metadata:** `scientific_name` and `short_name` are also provided and can be used for alternative taxonomic identification
+- **Additional metadata:** `scientific_name` and `short_name` are also provided and can be used for diversify the question formulation.
 
 ---
 
