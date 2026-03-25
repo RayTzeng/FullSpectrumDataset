@@ -1,0 +1,55 @@
+{"question_template":"Report the sound pressure level of this recording.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Please provide the calibrated sound pressure level (SPL) for this utterance.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Give the measured sound pressure level, in decibels, for this sample.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"State this clip's sound pressure level.","answer_template":"The sound pressure level is {sound_pressure_level} dB."}
+{"question_template":"Provide the SPL reading associated with this audio example.","answer_template":"SPL: {sound_pressure_level} dB"}
+{"question_template":"List the calibrated sound pressure level measurement for this speech sample.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Identify the sound pressure level value for this recording.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Please tell me the sound pressure measurement in decibels for this item.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Give the exact sound pressure level attached to this sample rather than a coarse intensity bin.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Provide the measured SPL, not just a category such as soft, normal, loud, or veryloud, for this audio file.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"What is the sound pressure level of this recording?","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"What calibrated SPL value does this sample have?","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"How many decibels is the measured sound pressure level for this utterance?","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Which sound pressure level, in dB, corresponds to this audio clip?","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"What is the measured sound pressure level reading for this file?","answer_template":"The measured SPL is {sound_pressure_level} dB."}
+{"question_template":"How high is the calibrated sound pressure level here, expressed in decibels?","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"What decibel value is recorded as the SPL for this speech sample?","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"What is this sample's SPL measurement?","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"What exact sound pressure level should be reported here instead of only giving a soft/normal/loud-style label?","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"State the sound pressure level (SPL) in dB. Answer with only the number and unit.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Give the calibrated sound pressure level for this sample. Use a single short answer in the format '<value> dB'.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Report the sound pressure level of this utterance to one decimal place, and do not add any extra commentary.","answer_template":"{sound_pressure_level_1dp} dB"}
+{"question_template":"Write the measured SPL for this audio clip using digits only, without the unit or any surrounding text.","answer_template":"{sound_pressure_level}"}
+{"question_template":"Provide the sound pressure level in decibels, rounded to the nearest whole number.","answer_template":"{sound_pressure_level_rounded} dB"}
+{"question_template":"Return only the calibrated SPL value for this recording, with exactly one digit after the decimal point and no unit.","answer_template":"{sound_pressure_level_1dp}"}
+{"question_template":"Please output the sound pressure level as a JSON value for the key 'spl_db'.","answer_template":"{\"spl_db\": {sound_pressure_level}}"}
+{"question_template":"Give the measured sound pressure level in the form 'SPL=<value> dB'.","answer_template":"SPL={sound_pressure_level} dB"}
+{"question_template":"Report the sound pressure level for this sample as a bare numeric answer followed by 'dB', with no full sentence.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"State the calibrated SPL reading for this item. Use the format 'sound_pressure_level: <value>' and omit the unit.","answer_template":"sound_pressure_level: {sound_pressure_level}"}
+{"question_template":"Provide the sound pressure level measurement for this audio sample.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Report this recording's calibrated SPL value.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"State the measured sound pressure level for the clip below.","answer_template":"The sound pressure level is {sound_pressure_level} dB."}
+{"question_template":"Please supply the decibel-level sound pressure reading for this utterance.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Give the exact SPL measurement associated with this speech recording.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Record the sound pressure level value for this sample.","answer_template":"SPL: {sound_pressure_level} dB"}
+{"question_template":"Please state the calibrated sound pressure reading, in dB, for this file.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Identify the decibel value of the sound pressure level for this clip.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Give the measured sound pressure level for this audio item in its original calibrated unit.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Please report the numerical sound pressure level tied to this recording.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"What sound pressure level is measured for this audio sample?","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"What is the calibrated decibel value of this sample's SPL?","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"How large is the sound pressure level for this recording, in dB?","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"What value should be reported as the sound pressure level for this clip?","answer_template":"The reported sound pressure level is {sound_pressure_level} dB."}
+{"question_template":"What is this recording's measured SPL in decibels?","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Output the sound pressure level as a plain number followed by the unit 'dB'.","answer_template":"{sound_pressure_level} dB"}
+{"question_template":"Report the SPL for this recording with one decimal place and nothing else.","answer_template":"{sound_pressure_level_1dp} dB"}
+{"question_template":"Write only the calibrated sound pressure level value, with no explanation and no extra punctuation.","answer_template":"{sound_pressure_level}"}
+{"question_template":"Provide the measured sound pressure level rounded to the nearest integer, then append ' dB'.","answer_template":"{sound_pressure_level_rounded} dB"}
+{"question_template":"Return the SPL reading in the format '<value> decibels'.","answer_template":"{sound_pressure_level} decibels"}
+{"question_template":"Give the sound pressure level for this clip using exactly the template 'value={...} dB'.","answer_template":"value={sound_pressure_level} dB"}
+{"question_template":"State the calibrated SPL as a single-line field named 'spl'. Include the unit.","answer_template":"spl: {sound_pressure_level} dB"}
+{"question_template":"Provide the sound pressure level in decibels with exactly one digit after the decimal point, and do not write a full sentence.","answer_template":"{sound_pressure_level_1dp} dB"}
+{"question_template":"Answer with only the numeric SPL value rounded to the nearest whole decibel; omit the unit.","answer_template":"{sound_pressure_level_rounded}"}
+{"question_template":"What is the calibrated sound pressure level of this recording? Spell out the value in English words rather than using digits.","answer_template":"{num2words(sound_pressure_level)} decibels"}
+{"question_template":"Report the measured sound pressure level in tenths of a decibel, written entirely in words.","answer_template":"{num2words(int(round(sound_pressure_level * 10)))} tenths of a decibel"}
