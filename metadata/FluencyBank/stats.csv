@@ -1,0 +1,10 @@
+split,category,label,count
+train,binary,total,3864
+train,binary,yes,2280
+train,binary,no,1584
+train,stuttering_type,Block,428
+train,stuttering_type,Interjection,1130
+train,stuttering_type,Prolongation,338
+train,stuttering_type,Sound_Repetition,549
+train,stuttering_type,Word_Repetition,430
+train,stuttering_type,none,1584
