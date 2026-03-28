@@ -1,0 +1,21 @@
+split,label,count
+train,Belt,155
+train,Breathy,150
+train,Inhaled Singing,75
+train,Lip Trill,150
+train,Spoken excerpt,15
+train,Straight tone,270
+train,Trill (upper semitone),70
+train,Trillo (goat tone),75
+train,Vibrato,194
+train,Vocal fry,147
+test,Belt,50
+test,Breathy,50
+test,Inhaled Singing,25
+test,Lip Trill,52
+test,Spoken excerpt,5
+test,Straight tone,91
+test,Trill (upper semitone),25
+test,Trillo (goat tone),25
+test,Vibrato,67
+test,Vocal fry,51

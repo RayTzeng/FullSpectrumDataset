@@ -1,0 +1,11 @@
+split,label,count
+train,forte (loud),664
+train,messa di voce,74
+train,mezzo forte (medium),270
+train,pianissimo (very soft),75
+train,piano (soft),585
+test,forte (loud),225
+test,messa di voce,25
+test,mezzo forte (medium),91
+test,pianissimo (very soft),25
+test,piano (soft),198
