@@ -4,8 +4,9 @@
 **EasyCall** is an Italian dysarthric speech command corpus created to support the development of ASR-based assistive technologies for people with dysarthria. The dataset contains recordings from **30 dysarthric speakers** and **24 healthy control speakers**, totaling **55 speakers**. Each speaker recorded approximately 66-69 Italian voice commands and phrases across multiple sessions (typically 5-8 sessions per speaker). The original corpus consists of **21,386 isolated word and command recordings**. To enhance audio diversity and support longer-context training, this manifest includes **concatenated audio files** where recordings from multiple sessions are combined. Audio is recorded at **8 kHz** (telephone quality) and paired with dysarthria type and severity annotations. The dataset enables research on dysarthric speech recognition, severity classification, and voice command systems for motor-impaired users.
 
 ## Supported Tasks
-1. **Dysarthria Severity Classification**
-2. **Dysarthria Type Classification**
+1. **Dysarthric Speech Detection**
+2. **Dysarthria Severity Estimation**
+3. **Dysarthria Type Classification**
 
 ---
 
@@ -49,10 +50,13 @@ Each sample is stored as a JSON entry with the following fields:
 
 ## Task Usage
 
-### 1. Dysarthria Severity Classification
+### 1. Dysarthric Speech Detection
+- **Target field:** `dysarthria_type` (binary classification: "None" vs. any dysarthria type)
+
+### 2. Dysarthria Severity Estimation
 - **Target field:** `severity_measure` (numeric severity rating)
 
-### 2. Dysarthria Type Classification
+### 3. Dysarthria Type Classification
 - **Target field:** `dysarthria_type` (dysarthria type)
 
 ---

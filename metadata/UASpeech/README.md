@@ -4,8 +4,9 @@
 **UASpeech** is a benchmark corpus for dysarthric speech research, created to support the development of speech technologies for people with neuromotor speech disorders. The dataset consists of isolated-word recordings from **16 speakers with cerebral-palsy-related dysarthria** and **8 matched control speakers** (neurologically healthy). Each speaker recorded approximately 3,000 isolated words across three recording sessions (blocks B1, B2, B3) using multiple microphones. The corpus contains common words, uncommon words, and digit sequences, totaling over 68,000 recordings. Audio is recorded at **16 kHz** and paired with word-level transcriptions. This dataset enables research on dysarthric speech recognition, severity classification, and assistive technology development.
 
 ## Supported Tasks
-1. **Dysarthria Severity Classification**
-2. **Dysarthria Type Classification**
+1. **Dysarthric Speech Detection**
+2. **Dysarthria Severity Estimation**
+3. **Dysarthria Type Classification**
 
 ---
 
@@ -50,11 +51,14 @@ Each sample is stored as a JSON entry with the following fields:
 
 ## Task Usage
 
-### 1. Dysarthria Severity Classification
+### 1. Dysarthic Speech Detection
+- **Target field:** `dysarthria_type` (binary classification: "None" vs. any dysarthria type)
+
+### 2. Dysarthria Severity Estimation
 - **Target field:** `severity` (severity level label)
 - **Alternative target:** `severity_numeric` (numeric rating for regression)
 
-### 2. Dysarthria Type Classification
+### 3. Dysarthria Type Classification
 - **Target field:** `dysarthria_type` (dysarthria type)
 
 ---
