@@ -1,0 +1,58 @@
+split,category,label,count
+train,dysarthria_type,total,45319
+train,dysarthria_type,Athetoid,3944
+train,dysarthria_type,Mixed,4000
+train,dysarthria_type,None,20000
+train,dysarthria_type,Spastic,17375
+train,severity,total,45319
+train,severity,none,20000
+train,severity,very low,1400
+train,severity,low,7975
+train,severity,mid,7944
+train,severity,high,6000
+train,severity,very high,2000
+train,severity_numeric,total,45319
+train,severity_numeric,0,20000
+train,severity_numeric,1,1400
+train,severity_numeric,2,7975
+train,severity_numeric,3,7944
+train,severity_numeric,4,6000
+train,severity_numeric,5,2000
+test,dysarthria_type,total,22797
+test,dysarthria_type,Athetoid,2000
+test,dysarthria_type,Mixed,2000
+test,dysarthria_type,None,10000
+test,dysarthria_type,Spastic,8797
+test,severity,total,22797
+test,severity,none,10000
+test,severity,very low,799
+test,severity,low,3998
+test,severity,mid,4000
+test,severity,high,3000
+test,severity,very high,1000
+test,severity_numeric,total,22797
+test,severity_numeric,0,10000
+test,severity_numeric,1,799
+test,severity_numeric,2,3998
+test,severity_numeric,3,4000
+test,severity_numeric,4,3000
+test,severity_numeric,5,1000
+all,dysarthria_type,total,68116
+all,dysarthria_type,Athetoid,5944
+all,dysarthria_type,Mixed,6000
+all,dysarthria_type,None,30000
+all,dysarthria_type,Spastic,26172
+all,severity,total,68116
+all,severity,none,30000
+all,severity,very low,2199
+all,severity,low,11973
+all,severity,mid,11944
+all,severity,high,9000
+all,severity,very high,3000
+all,severity_numeric,total,68116
+all,severity_numeric,0,30000
+all,severity_numeric,1,2199
+all,severity_numeric,2,11973
+all,severity_numeric,3,11944
+all,severity_numeric,4,9000
+all,severity_numeric,5,3000
