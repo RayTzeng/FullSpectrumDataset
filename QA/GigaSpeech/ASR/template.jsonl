@@ -1,0 +1,210 @@
+{"question":"Listen to the audio. Transcribe this utterance verbatim.","answer":"text","weight":0.85}
+{"question":"Provide the exact spoken words as a plain ASR transcript","answer":"text","weight":0.45}
+{"question":"According to this clip, write the utterance exactly as spoken without punctuation.","answer":"text","weight":0.45}
+{"question":"Return a verbatim transcript of the speech. Do not restore punctuation.","answer":"text","weight":0.65}
+{"question":"Listen carefully. What is said in this recording? Give the raw transcript only, with no added punctuation.","answer":"text","weight":0.45}
+{"question":"Produce the exact transcript in unpunctuated form.","answer":"text","weight":0.45}
+{"question":"Considering this audio, transcribe the audio word for word, keeping it in plain transcript form.","answer":"text","weight":0.45}
+{"question":"Write down the speech exactly, without adding commas, periods, or other punctuation.","answer":"text","weight":0.65}
+{"question":"From this audio clip, provide a verbatim transcription in raw ASR style, not punctuated ASR style.","answer":"text","weight":0.45}
+{"question":"Return the spoken content exactly as a plain transcript, with no editorial punctuation.","answer":"text","weight":0.45}
+{"question":"Listen to the audio. Transcribe this clip exactly. Do not rewrite it into a punctuated sentence.","answer":"text","weight":0.65}
+{"question":"Give the exact words spoken, but do not add punctuation.","answer":"text","weight":0.65}
+{"question":"Based on this recording, write a literal transcript of the utterance in its raw text form.","answer":"text","weight":0.45}
+{"question":"Provide the transcript exactly as spoken, without formatting it for readability.","answer":"text","weight":0.45}
+{"question":"Listen carefully. Return the full utterance as an unpunctuated verbatim transcript.","answer":"text","weight":0.45}
+{"question":"Transcribe the recording faithfully and leave out all punctuation marks.","answer":"text","weight":0.65}
+{"question":"Considering this audio, write only the spoken words in raw transcript format.","answer":"text","weight":0.45}
+{"question":"Give the verbatim transcript, but do not add punctuation or sentence casing.","answer":"text","weight":0.45}
+{"question":"According to this clip, produce a plain-text transcript of this speech without punctuation restoration.","answer":"text","weight":0.45}
+{"question":"Please transcribe the speech exactly as a raw transcript. No punctuation, no rewriting.","answer":"text","weight":0.45}
+{"question":"Listen to the audio. Return the exact spoken content, keeping the transcription unpunctuated.","answer":"text","weight":0.45}
+{"question":"Write the words that were spoken, but do not infer commas, periods, or quotation marks.","answer":"text","weight":0.65}
+{"question":"From this audio clip, provide the utterance as a raw ASR transcript rather than a punctuated transcript.","answer":"text","weight":0.45}
+{"question":"Transcribe this audio without adding punctuation for readability.","answer":"text","weight":0.65}
+{"question":"Listen carefully. Output the exact transcript in plain form, with no punctuation restoration.","answer":"text","weight":0.45}
+{"question":"Give a word-for-word transcription and keep it unformatted.","answer":"text","weight":0.45}
+{"question":"Based on this recording, write the transcript exactly, without converting it into standard written prose.","answer":"text","weight":0.45}
+{"question":"Provide the spoken words verbatim in raw transcription format.","answer":"text","weight":0.45}
+{"question":"Considering this audio, return the exact utterance text without punctuation.","answer":"text","weight":0.45}
+{"question":"Transcribe this speech sample exactly and do not add punctuation.","answer":"text","weight":0.65}
+{"question":"Listen to the audio. Write a verbatim transcript of the audio, preserving a raw, unpunctuated style.","answer":"text","weight":0.45}
+{"question":"Give the precise spoken wording in plain transcript form.","answer":"text","weight":0.45}
+{"question":"According to this clip, produce the transcript exactly as speech content, not as a polished sentence.","answer":"text","weight":0.45}
+{"question":"Write down what is said, but keep the result in raw transcript form.","answer":"text","weight":0.45}
+{"question":"Listen carefully. Return only the exact words spoken, with no punctuation inserted.","answer":"text","weight":0.65}
+{"question":"Transcribe the clip word for word in an unpunctuated format.","answer":"text","weight":0.45}
+{"question":"From this audio clip, provide the full transcript without commas, periods, question marks, or exclamation marks.","answer":"text","weight":0.65}
+{"question":"Write the utterance exactly in raw ASR format.","answer":"text","weight":0.45}
+{"question":"Based on this recording, give the spoken content as a plain unpunctuated transcript.","answer":"text","weight":0.45}
+{"question":"Please output only the raw transcript of this utterance.","answer":"text","weight":0.45}
+{"question":"Listen to the audio. Respond with the exact unpunctuated transcript only.","answer":"text","weight":0.45}
+{"question":"Write just the raw speech transcript and nothing else.","answer":"text","weight":0.45}
+{"question":"Considering this audio, return only the plain transcript, without punctuation or explanation.","answer":"text","weight":0.45}
+{"question":"Give only the verbatim raw transcript.","answer":"text","weight":0.45}
+{"question":"Listen carefully. Answer with the exact words spoken, in raw transcript form only.","answer":"text","weight":0.45}
+{"question":"Provide only the unpunctuated transcription.","answer":"text","weight":0.45}
+{"question":"According to this clip, write only the exact transcript, with no extra formatting.","answer":"text","weight":0.45}
+{"question":"Output the speech as raw text only.","answer":"text","weight":0.45}
+{"question":"From this audio clip, return the utterance alone in plain transcript form.","answer":"text","weight":0.45}
+{"question":"Listen to the audio. Provide the raw transcript on a single line, without punctuation.","answer":"text","weight":0.20}
+{"question":"Transcribe this utterance as one plain unpunctuated line.","answer":"text","weight":0.20}
+{"question":"Based on this recording, write the exact spoken content in raw transcript text.","answer":"text","weight":0.45}
+{"question":"Return the transcript as a single line, with no punctuation restoration.","answer":"text","weight":0.20}
+{"question":"Listen carefully. Give a one-line verbatim transcript.","answer":"text","weight":0.20}
+{"question":"Output the full utterance on one line only, keeping it unpunctuated.","answer":"text","weight":0.20}
+{"question":"Considering this audio, provide the speech content as one continuous raw transcript line.","answer":"text","weight":0.20}
+{"question":"Write the spoken words in a single line without adding punctuation.","answer":"text","weight":0.20}
+{"question":"According to this clip, return a one-line raw transcript of the audio.","answer":"text","weight":0.20}
+{"question":"Transcribe the recording in plain, unpunctuated text.","answer":"text","weight":0.45}
+{"question":"Listen to the audio. Just transcribe the words exactly.","answer":"text","weight":0.85}
+{"question":"Give the transcript in raw form.","answer":"text","weight":0.45}
+{"question":"From this audio clip, return the spoken words exactly, without sentence formatting.","answer":"text","weight":0.45}
+{"question":"Produce the transcript as plain lexical content only, with no punctuation.","answer":"text","weight":0.20}
+{"question":"Listen carefully. Write the utterance verbatim and avoid any punctuation.","answer":"text","weight":0.65}
+{"question":"Provide the speech transcription in its raw textual form.","answer":"text","weight":0.45}
+{"question":"Based on this recording, transcribe this audio literally, without improving the formatting.","answer":"text","weight":0.45}
+{"question":"Output the exact words spoken, keeping the transcript raw and unpunctuated.","answer":"text","weight":0.45}
+{"question":"Considering this audio, this is a raw ASR task, not a punctuated ASR task. Transcribe the utterance exactly.","answer":"text","weight":0.20}
+{"question":"Return the transcript in raw ASR format rather than punctuated written form.","answer":"text","weight":0.20}
+{"question":"Listen to the audio. Provide an exact raw transcription, not a punctuation-restored transcription.","answer":"text","weight":0.20}
+{"question":"Transcribe this recording in non-punctuated ASR style.","answer":"text","weight":0.20}
+{"question":"According to this clip, write the spoken content as a raw ASR transcript.","answer":"text","weight":0.20}
+{"question":"Give the utterance in plain ASR form.","answer":"text","weight":0.20}
+{"question":"From this audio clip, produce the raw transcript for this clip.","answer":"text","weight":0.20}
+{"question":"Provide the utterance in verbatim ASR format.","answer":"text","weight":0.20}
+{"question":"Listen carefully. Transcribe the audio exactly in raw transcript form.","answer":"text","weight":0.45}
+{"question":"What exactly is the speaker saying? Return the raw transcript without adding punctuation.","answer":"text","weight":0.65}
+{"question":"Based on this recording, what are the precise words spoken in this clip? Give them in raw transcript form.","answer":"text","weight":0.45}
+{"question":"What does this recording say? Please provide the plain, unpunctuated transcript.","answer":"text","weight":0.65}
+{"question":"Listen to the audio. What is being said here? Write the exact words in raw ASR format.","answer":"text","weight":0.45}
+{"question":"What does the speaker actually say in this audio? Do not restore punctuation.","answer":"text","weight":0.65}
+{"question":"According to this clip, what is the verbatim content of this utterance? Return it as raw transcript text.","answer":"text","weight":0.45}
+{"question":"What words are spoken in this sample? Give the answer as a plain transcript only.","answer":"text","weight":0.65}
+{"question":"Listen carefully. What is said in the clip, word for word? Keep the output unpunctuated.","answer":"text","weight":0.65}
+{"question":"What is the exact transcript of this audio segment in raw form?","answer":"text","weight":0.45}
+{"question":"From this audio clip, what does the person say? Respond with the raw transcript and nothing else.","answer":"text","weight":0.45}
+{"question":"Could you transcribe this utterance exactly in raw transcript format?","answer":"text","weight":0.45}
+{"question":"Listen to the audio. Would you please provide a verbatim transcript of this recording, without adding punctuation?","answer":"text","weight":0.65}
+{"question":"Can you write out the speech exactly as spoken, in plain transcript form?","answer":"text","weight":0.65}
+{"question":"Based on this recording, could you return the exact spoken words without converting them into punctuated prose?","answer":"text","weight":0.45}
+{"question":"Can you give me the raw transcript for this audio clip?","answer":"text","weight":0.85}
+{"question":"Listen carefully. Would you transcribe this clip word for word and keep it unpunctuated?","answer":"text","weight":0.65}
+{"question":"Could you transcribe only the spoken words, exactly as a raw ASR transcript?","answer":"text","weight":0.45}
+{"question":"According to this clip, can you type out what is said here without adding formatting that is not already present?","answer":"text","weight":0.45}
+{"question":"Would you give the exact transcript in plain raw text?","answer":"text","weight":0.45}
+{"question":"Considering this audio, hey, can you transcribe this exactly and keep it in raw ASR style?","answer":"text","weight":0.20}
+{"question":"Can you just write what they said, no punctuation added?","answer":"text","weight":0.65}
+{"question":"Listen to the audio. Please type out the exact words from this clip, raw transcript only.","answer":"text","weight":0.45}
+{"question":"Just give me the verbatim transcript, not a cleaned-up written version.","answer":"text","weight":0.85}
+{"question":"From this audio clip, write down exactly what you hear, but do not make it look like polished text.","answer":"text","weight":0.45}
+{"question":"Can you put this into raw transcript form for me?","answer":"text","weight":0.45}
+{"question":"Listen carefully. I only need the exact words spoken here, nothing polished.","answer":"text","weight":0.85}
+{"question":"Give me the straight transcript, no punctuation recovery.","answer":"text","weight":0.65}
+{"question":"Based on this recording, just transcribe the clip exactly as raw text.","answer":"text","weight":0.45}
+{"question":"Can you write the spoken words out exactly, plain transcript only?","answer":"text","weight":0.65}
+{"question":"Transcribe. No punctuation or casing normalization.","answer":"text","weight":0.45}
+{"question":"According to this clip, transcribe this utterance. Do not add punctuation or adjust casing.","answer":"text","weight":0.45}
+{"question":"Write the exact words spoken. No punctuation restoration.","answer":"text","weight":0.65}
+{"question":"Listen to the audio. Transcribe verbatim. Keep the transcript raw.","answer":"text","weight":0.45}
+{"question":"Give the exact transcript. Do not rewrite it as a sentence.","answer":"text","weight":0.65}
+{"question":"From this audio clip, transcribe this audio exactly. No punctuation, no formatting cleanup.","answer":"text","weight":0.45}
+{"question":"Write what is said, exactly as spoken.","answer":"text","weight":1.0}
+{"question":"Listen carefully. Return the verbatim transcript only.","answer":"text","weight":0.85}
+{"question":"Please transcribe this clip exactly.","answer":"text","weight":1.0}
+{"question":"Based on this recording, provide the raw transcript for this utterance.","answer":"text","weight":0.45}
+{"question":"Just transcribe it.","answer":"text","weight":1.0}
+{"question":"Listen to the audio. Just give me the exact transcript.","answer":"text","weight":0.85}
+{"question":"Write exactly what you hear.","answer":"text","weight":1.0}
+{"question":"Considering this audio, type out the spoken words only.","answer":"text","weight":0.65}
+{"question":"Give me the verbatim transcript.","answer":"text","weight":1.0}
+{"question":"Listen carefully. Please transcribe this utterance in uppercase, keeping it unpunctuated.","answer":"text.upper()","weight":0.20}
+{"question":"Write the raw transcript in all capital letters. Do not add punctuation.","answer":"text.upper()","weight":0.20}
+{"question":"According to this clip, provide the exact spoken words in uppercase raw transcript form.","answer":"text.upper()","weight":0.20}
+{"question":"Return an unpunctuated verbatim transcript in ALL CAPS.","answer":"text.upper()","weight":0.20}
+{"question":"Listen to the audio. Write exactly what was said in uppercase, without restoring punctuation.","answer":"text.upper()","weight":0.20}
+{"question":"Output the raw ASR transcript using uppercase letters only.","answer":"text.upper()","weight":0.20}
+{"question":"From this audio clip, transcribe the audio in uppercase plain text.","answer":"text.upper()","weight":0.20}
+{"question":"Give the full transcript in ALL CAPS and leave it unpunctuated.","answer":"text.upper()","weight":0.20}
+{"question":"Listen carefully. Write the utterance exactly in uppercase raw transcript style.","answer":"text.upper()","weight":0.20}
+{"question":"Return the verbatim transcript in uppercase characters, with no punctuation added.","answer":"text.upper()","weight":0.20}
+{"question":"Based on this recording, please transcribe this utterance in uppercase.","answer":"text.upper()","weight":0.20}
+{"question":"Write the exact transcript in all caps.","answer":"text.upper()","weight":0.20}
+{"question":"According to this clip, provide the verbatim transcript in uppercase only.","answer":"text.upper()","weight":0.20}
+{"question":"Can you return the exact spoken words in uppercase?","answer":"text.upper()","weight":0.20}
+{"question":"Listen to the audio. Transcribe this clip in uppercase.","answer":"text.upper()","weight":0.20}
+{"question":"Output the exact spoken words in uppercase.","answer":"text.upper()","weight":0.20}
+{"question":"Considering this audio, return the transcript in uppercase only.","answer":"text.upper()","weight":0.20}
+{"question":"Write the utterance in ALL CAPS.","answer":"text.upper()","weight":0.20}
+{"question":"Listen carefully. Give the verbatim transcript in uppercase.","answer":"text.upper()","weight":0.20}
+{"question":"From this audio clip, provide the transcript using uppercase letters only.","answer":"text.upper()","weight":0.20}
+{"question":"Write this transcript in uppercase plain text.","answer":"text.upper()","weight":0.20}
+{"question":"Listen to the audio. Return the spoken words in uppercase form.","answer":"text.upper()","weight":0.20}
+{"question":"Based on this recording, transcribe the utterance and capitalize every letter.","answer":"text.upper()","weight":0.20}
+{"question":"Provide the exact transcript in uppercase formatting.","answer":"text.upper()","weight":0.20}
+{"question":"According to this clip, write out the verbatim transcript in ALL CAPS.","answer":"text.upper()","weight":0.20}
+{"question":"Please transcribe this utterance in lowercase, keeping it unpunctuated.","answer":"text.lower()","weight":0.20}
+{"question":"Listen to the audio. Write the raw transcript in lowercase only. Do not add punctuation.","answer":"text.lower()","weight":0.20}
+{"question":"Provide the exact spoken words in lowercase plain transcript form.","answer":"text.lower()","weight":0.20}
+{"question":"Based on this recording, return a verbatim transcript in all lowercase, without punctuation restoration.","answer":"text.lower()","weight":0.20}
+{"question":"Write exactly what was said in lowercase, without editorial formatting.","answer":"text.lower()","weight":0.20}
+{"question":"Listen carefully. Output the raw ASR transcript using lowercase letters only.","answer":"text.lower()","weight":0.20}
+{"question":"Transcribe the audio in lowercase plain text.","answer":"text.lower()","weight":0.20}
+{"question":"According to this clip, give the full transcript in lowercase and leave it unpunctuated.","answer":"text.lower()","weight":0.20}
+{"question":"Write the utterance exactly in lowercase raw transcript style.","answer":"text.lower()","weight":0.20}
+{"question":"Listen to the audio. Return the verbatim transcript in lowercase characters, with no punctuation added.","answer":"text.lower()","weight":0.20}
+{"question":"Please transcribe this utterance in lowercase.","answer":"text.lower()","weight":0.20}
+{"question":"From this audio clip, write the exact transcript in lowercase only.","answer":"text.lower()","weight":0.20}
+{"question":"Provide the verbatim transcript in lowercase.","answer":"text.lower()","weight":0.20}
+{"question":"Listen carefully. Can you return the exact spoken words in lowercase?","answer":"text.lower()","weight":0.20}
+{"question":"Transcribe this clip in lowercase.","answer":"text.lower()","weight":0.20}
+{"question":"Based on this recording, output the exact spoken words in lowercase.","answer":"text.lower()","weight":0.20}
+{"question":"Return the transcript in lowercase only.","answer":"text.lower()","weight":0.20}
+{"question":"Listen to the audio. Write the utterance in all lowercase.","answer":"text.lower()","weight":0.20}
+{"question":"According to this clip, give the verbatim transcript in lowercase.","answer":"text.lower()","weight":0.20}
+{"question":"Provide the transcript using lowercase letters only.","answer":"text.lower()","weight":0.20}
+{"question":"Listen carefully. Write this transcript in lowercase plain text.","answer":"text.lower()","weight":0.20}
+{"question":"From this audio clip, return the spoken words in lowercase form.","answer":"text.lower()","weight":0.20}
+{"question":"Transcribe the utterance and make every letter lowercase.","answer":"text.lower()","weight":0.20}
+{"question":"Based on this recording, provide the exact transcript in lowercase formatting.","answer":"text.lower()","weight":0.20}
+{"question":"Write out the verbatim transcript in lowercase.","answer":"text.lower()","weight":0.20}
+{"question":"Listen to the audio. Please transcribe this utterance in title case.","answer":"text.title()","weight":0.08}
+{"question":"Write the exact transcript in title case.","answer":"text.title()","weight":0.08}
+{"question":"According to this clip, provide the verbatim transcript using title-case capitalization.","answer":"text.title()","weight":0.08}
+{"question":"Can you return the spoken words in title case?","answer":"text.title()","weight":0.08}
+{"question":"Listen carefully. Transcribe this clip and format the answer in title case.","answer":"text.title()","weight":0.08}
+{"question":"Provide the exact transcript in title case formatting.","answer":"text.title()","weight":0.08}
+{"question":"From this audio clip, write the utterance in title case.","answer":"text.title()","weight":0.08}
+{"question":"Return the spoken words using title-case capitalization.","answer":"text.title()","weight":0.08}
+{"question":"Listen to the audio. Give the verbatim transcript in title case.","answer":"text.title()","weight":0.08}
+{"question":"Based on this recording, output the exact spoken words in title case.","answer":"text.title()","weight":0.08}
+{"question":"Write this transcript in title case.","answer":"text.title()","weight":0.08}
+{"question":"According to this clip, provide the transcript in title case only.","answer":"text.title()","weight":0.08}
+{"question":"Listen carefully. Return the utterance in title case.","answer":"text.title()","weight":0.08}
+{"question":"Format the verbatim transcript in title case.","answer":"text.title()","weight":0.08}
+{"question":"From this audio clip, transcribe the utterance and capitalize it in title case.","answer":"text.title()","weight":0.08}
+{"question":"Can you tell me exactly what was said?","answer":"text","weight":1.0}
+{"question":"What does this person say in the clip?","answer":"text","weight":1.0}
+{"question":"Please write exactly what you hear in this audio.","answer":"text","weight":1.0}
+{"question":"Could you write down the words in this recording?","answer":"text","weight":1.0}
+{"question":"Please give me the transcript of this clip.","answer":"text","weight":1.0}
+{"question":"Can you write out the speech in this audio?","answer":"text","weight":1.0}
+{"question":"What is being said in this clip?","answer":"text","weight":1.0}
+{"question":"Please transcribe what you hear.","answer":"text","weight":1.0}
+{"question":"Could you provide the transcript for this audio?","answer":"text","weight":1.0}
+{"question":"Write down exactly what the speaker says.","answer":"text","weight":1.0}
+{"question":"Listen to the audio and transcribe it exactly.","answer":"text","weight":0.85}
+{"question":"Please listen carefully and provide the exact transcript.","answer":"text","weight":0.85}
+{"question":"Based on this audio, could you give me a verbatim transcript?","answer":"text","weight":0.85}
+{"question":"From this recording, please write down exactly what is said.","answer":"text","weight":0.85}
+{"question":"Listen to this clip and return the exact words spoken.","answer":"text","weight":0.85}
+{"question":"Could you provide a verbatim transcript of this audio clip?","answer":"text","weight":0.85}
+{"question":"Please transcribe this clip word for word.","answer":"text","weight":0.85}
+{"question":"After listening to this recording, write out exactly what you hear.","answer":"text","weight":0.85}
+{"question":"Can you listen to this audio and give the exact transcript?","answer":"text","weight":0.85}
+{"question":"Please provide the exact spoken content from this clip.","answer":"text","weight":0.85}
+{"question":"According to this recording, what exactly is being said?","answer":"text","weight":0.85}
+{"question":"Listen carefully and write the utterance exactly as spoken.","answer":"text","weight":0.85}
+{"question":"Could you transcribe the speech in this clip verbatim?","answer":"text","weight":0.85}
+{"question":"Based on this clip, please return the exact words spoken.","answer":"text","weight":0.85}
+{"question":"Please listen to the recording and transcribe the speech exactly.","answer":"text","weight":0.85}
