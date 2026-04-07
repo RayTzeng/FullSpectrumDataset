@@ -1,0 +1,74 @@
+{"question_template":"Estimate the speaking rate of this speech sample.","answer_template":"{WPM_rounded}","weight":0.86}
+{"question_template":"Give me the estimated speaking rate for this utterance.","answer_template":"{WPM_rounded} WPM","weight":0.88}
+{"question_template":"Please estimate the speaking rate of this audio in words per minute.","answer_template":"{WPM_rounded} words per minute","weight":0.85}
+{"question_template":"Tell me the speaking rate for this clip.","answer_template":"{WPM_rounded} WPM","weight":0.94}
+{"question_template":"I need the speaking rate of this recording in WPM.","answer_template":"{WPM_rounded}","weight":0.82}
+{"question_template":"Help me estimate the speaking rate of this sample.","answer_template":"{WPM_rounded} WPM","weight":0.84}
+{"question_template":"Please provide the speaking rate of this speech clip in words per minute.","answer_template":"{WPM_rounded} words per minute","weight":0.82}
+{"question_template":"Could you estimate the speech rate of this utterance in WPM?","answer_template":"{WPM_rounded}","weight":0.87}
+{"question_template":"According to this speech sample, estimate the speaking rate in WPM.","answer_template":"{WPM_rounded} WPM","weight":0.68}
+{"question_template":"Listen to this clip carefully and estimate its speaking rate in words per minute.","answer_template":"{WPM_rounded} words per minute","weight":0.72}
+{"question_template":"What is the speaking rate of this speech sample?","answer_template":"{WPM_rounded} WPM","weight":0.91}
+{"question_template":"How fast is the speaker talking in words per minute?","answer_template":"{WPM_rounded} words per minute","weight":0.95}
+{"question_template":"What is the estimated speech rate here in WPM?","answer_template":"{WPM_rounded}","weight":0.82}
+{"question_template":"How would you estimate the speaking rate of this utterance in words per minute?","answer_template":"{WPM_rounded} WPM","weight":0.72}
+{"question_template":"Can you tell me the speaking rate of this audio clip?","answer_template":"{WPM_rounded} WPM","weight":0.93}
+{"question_template":"Could you tell me the speaking rate for this recording in WPM?","answer_template":"{WPM_rounded}","weight":0.88}
+{"question_template":"How many words per minute is this speaker producing?","answer_template":"{WPM_rounded} words per minute","weight":0.93}
+{"question_template":"What would you estimate the speaking rate to be for this sample?","answer_template":"{WPM_rounded}","weight":0.84}
+{"question_template":"Can you estimate the speech tempo of this clip in WPM?","answer_template":"{WPM_rounded} WPM","weight":0.72}
+{"question_template":"Could you please tell me the roughly estimated speaking rate in word-per-minute (WPM)?","answer_template":"{WPM_rounded} WPM","weight":0.55}
+{"question_template":"According to this speech sample, how would you estimate the speaking rate in WPM?","answer_template":"{WPM_rounded}","weight":0.62}
+{"question_template":"What is this speaker's speaking rate, measured in words per minute?","answer_template":"{WPM_rounded} words per minute","weight":0.89}
+{"question_template":"Respond with the speaking rate in WPM using a number only.","answer_template":"{WPM_rounded}","weight":0.35}
+{"question_template":"Write only the estimated speaking rate in words per minute.","answer_template":"{WPM_rounded}","weight":0.42}
+{"question_template":"Report the speaking rate in WPM and include the unit.","answer_template":"{WPM_rounded} WPM","weight":0.48}
+{"question_template":"State the speaking rate in words per minute, rounded to the nearest whole number.","answer_template":"{WPM_rounded} words per minute","weight":0.41}
+{"question_template":"Provide the speaking rate for this utterance as an integer WPM value.","answer_template":"{WPM_rounded} WPM","weight":0.32}
+{"question_template":"Return the estimated speaking rate in WPM with one decimal place.","answer_template":"{format_fixed(WPM, 1)} WPM","weight":0.28}
+{"question_template":"Give the speaking rate of this speech sample in words per minute with one digit after the decimal point.","answer_template":"{format_fixed(WPM, 1)} words per minute","weight":0.24}
+{"question_template":"Please report the speaking rate in WPM with two decimal places.","answer_template":"{format_fixed(WPM, 2)} WPM","weight":0.26}
+{"question_template":"Answer with the speaking rate only, expressed in words per minute to two decimal places.","answer_template":"{format_fixed(WPM, 2)}","weight":0.22}
+{"question_template":"Give the estimated speaking rate in WPM, and spell out the number in words.","answer_template":"{num2words_value(WPM_rounded)} words per minute","weight":0.08}
+{"question_template":"Respond with the speaking rate as a short phrase ending in 'WPM'.","answer_template":"{WPM_rounded} WPM","weight":0.14}
+{"question_template":"Please provide just the speaking rate value for this clip, rounded to {ndigits} decimal places.","answer_template":"{format_fixed(WPM, ndigits)}","sampling_config":{"ndigits":{"type":"choice","values":[1,2]}},"weight":0.21}
+{"question_template":"Report the speaking rate of this utterance in WPM, using exactly {ndigits} digits after the decimal point.","answer_template":"{format_fixed(WPM, ndigits)} WPM","sampling_config":{"ndigits":{"type":"choice","values":[1,2]}},"weight":0.18}
+{"question_template":"For this speech sample, return the speaking rate in words per minute as a decimal with {ndigits} decimal places.","answer_template":"{format_fixed(WPM, ndigits)} words per minute","sampling_config":{"ndigits":{"type":"choice","values":[1,2]}},"weight":0.16}
+{"question_template":"Estimate the speaking rate in this recording.","answer_template":"{WPM_rounded}","weight":0.90}
+{"question_template":"Please give me the speaking rate of this utterance in WPM.","answer_template":"{WPM_rounded} WPM","weight":0.88}
+{"question_template":"Provide an estimate of the speech rate for this sample.","answer_template":"{WPM_rounded}","weight":0.80}
+{"question_template":"Report the speaking rate of this clip in words per minute.","answer_template":"{WPM_rounded} words per minute","weight":0.74}
+{"question_template":"I want the estimated speaking rate for this speech sample.","answer_template":"{WPM_rounded}","weight":0.75}
+{"question_template":"Please estimate how fast this person is speaking in WPM.","answer_template":"{WPM_rounded} WPM","weight":0.86}
+{"question_template":"Give the speaking rate of this audio sample.","answer_template":"{WPM_rounded}","weight":0.80}
+{"question_template":"Kindly provide the estimated speaking rate for this recording in words per minute.","answer_template":"{WPM_rounded} words per minute","weight":0.64}
+{"question_template":"Help me figure out the speaking rate of this utterance.","answer_template":"{WPM_rounded}","weight":0.86}
+{"question_template":"Please tell me the speech tempo of this clip in WPM.","answer_template":"{WPM_rounded} WPM","weight":0.70}
+{"question_template":"What is the estimated speaking rate of this recording?","answer_template":"{WPM_rounded}","weight":0.90}
+{"question_template":"How fast is this utterance spoken in words per minute?","answer_template":"{WPM_rounded} words per minute","weight":0.89}
+{"question_template":"Can you estimate the speaking rate for this speech sample?","answer_template":"{WPM_rounded}","weight":0.91}
+{"question_template":"Could you give me the speaking rate of this clip in WPM?","answer_template":"{WPM_rounded} WPM","weight":0.90}
+{"question_template":"How would you say the speaking rate of this audio in words per minute?","answer_template":"{WPM_rounded} words per minute","weight":0.52}
+{"question_template":"What speaking rate would you estimate for this utterance?","answer_template":"{WPM_rounded}","weight":0.87}
+{"question_template":"Can you tell me how many words per minute this speaker is producing?","answer_template":"{WPM_rounded} words per minute","weight":0.92}
+{"question_template":"Could you estimate the speech tempo here in WPM?","answer_template":"{WPM_rounded} WPM","weight":0.68}
+{"question_template":"How many WPM would you estimate for this speech clip?","answer_template":"{WPM_rounded} WPM","weight":0.63}
+{"question_template":"What is the speaker's estimated rate of speech in words per minute?","answer_template":"{WPM_rounded} words per minute","weight":0.86}
+{"question_template":"Listen to the audio carefully, then please report the speaking rate in WPM with two decimal places.","answer_template":"{format_fixed(WPM, 2)} WPM","weight":0.18}
+{"question_template":"Listen to the speech sample and estimate the speaking rate in WPM.","answer_template":"{WPM_rounded} WPM","weight":0.78}
+{"question_template":"After listening to this utterance, how fast is it spoken in words per minute?","answer_template":"{WPM_rounded} words per minute","weight":0.74}
+{"question_template":"Can you listen to this utterance and estimate its speaking rate in words per minute?","answer_template":"{WPM_rounded} WPM","weight":0.76}
+{"question_template":"Listen to the audio and report the speaking rate in WPM, including the unit.","answer_template":"{WPM_rounded} WPM","weight":0.32}
+{"question_template":"Listen to this clip carefully and estimate its speaking rate in words per minute.","answer_template":"{WPM_rounded} words per minute","weight":0.72}
+{"question_template":"After listening to the audio, what is the speaker's estimated rate of speech in words per minute?","answer_template":"{WPM_rounded} words per minute","weight":0.70}
+{"question_template":"Listen to the audio and help me figure out the speaking rate of this utterance.","answer_template":"{WPM_rounded}","weight":0.71}
+{"question_template":"Listen to the speech sample, then give the estimated speaking rate in WPM and spell out the number in words.","answer_template":"{num2words_value(WPM_rounded)} words per minute","weight":0.05}
+{"question_template":"Could you listen to this utterance and estimate the speech rate in WPM?","answer_template":"{WPM_rounded}","weight":0.77}
+{"question_template":"Please listen to this clip and report the speaking rate in words per minute.","answer_template":"{WPM_rounded} words per minute","weight":0.70}
+{"question_template":"After listening to the audio, how many words per minute is this speaker producing?","answer_template":"{WPM_rounded} words per minute","weight":0.78}
+{"question_template":"Listen to the audio and respond with the speaking rate in WPM using a number only.","answer_template":"{WPM_rounded}","weight":0.16}
+{"question_template":"Can you listen to this speech clip and estimate how many WPM it is?","answer_template":"{WPM_rounded} WPM","weight":0.56}
+{"question_template":"Could you listen to this clip and give me the speaking rate in WPM?","answer_template":"{WPM_rounded} WPM","weight":0.79}
+{"question_template":"Listen to the audio carefully and return the estimated speaking rate in WPM with one decimal place.","answer_template":"{format_fixed(WPM, 1)} WPM","weight":0.17}
+{"question_template":"Can you listen to this audio clip and tell me the speaking rate?","answer_template":"{WPM_rounded} WPM","weight":0.82}
+{"question_template":"After listening to this sample, what would you estimate the speaking rate to be?","answer_template":"{WPM_rounded}","weight":0.76}
