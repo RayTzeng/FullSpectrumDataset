@@ -94,7 +94,8 @@ def digitwise_num2words(value: float | int | str) -> str:
 def _require_num2words() -> None:
     if num2words is None:
         raise ImportError(
-            "This template requested num2words, but the package is not installed. Install it with: pip install num2words"
+            "This template requested num2words, but the package is not installed. "
+            "Install it with: pip install num2words"
         )
 
 
@@ -306,6 +307,9 @@ def generate(
     seed: int,
     target_field: str | None,
 ) -> None:
+    if samples_per_entry <= 0:
+        raise ValueError("--samples-per-entry must be a positive integer")
+
     rng = random.Random(seed)
 
     templates = list(iter_jsonl(template_jsonl))
