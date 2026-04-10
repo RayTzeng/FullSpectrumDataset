@@ -1,0 +1,135 @@
+{"template_id":"stage1_mos_direct_01","question_template":"How would you rate the speech quality of this sample on a MOS scale from 1 to 5?","answer_template":"{mos}","weight":0.88}
+{"template_id":"stage1_mos_direct_04","question_template":"How will you rate the quality of this speech on a scale of 1 to 5?","answer_template":"{mos}","weight":0.62}
+{"template_id":"stage1_mos_direct_06","question_template":"What is the speech-quality MOS for this audio clip?","answer_template":"{mos}","weight":0.68}
+{"template_id":"stage1_mos_direct_07","question_template":"Rate the naturalness of this speech on the MOS scale from 1 to 5.","answer_template":"{mos}","weight":0.90}
+{"template_id":"stage1_mos_direct_08","question_template":"Please rate this speech sample for quality using MOS.","answer_template":"{mos}","weight":0.87}
+{"template_id":"stage1_mos_direct_10","question_template":"What is the MOS prediction for the quality of this speech recording?","answer_template":"{mos}","weight":0.74}
+{"template_id":"stage1_mos_wh_01","question_template":"What is the MOS rating of this speech sample on a 1 to 5 scale?","answer_template":"{mos}","weight":0.86}
+{"template_id":"stage1_mos_wh_04","question_template":"What quality score on the MOS scale would you assign to this utterance?","answer_template":"{mos}","weight":0.85}
+{"template_id":"stage1_mos_wh_05","question_template":"How would you evaluate this speech sample in terms of mean opinion score?","answer_template":"{mos}","weight":0.91}
+{"template_id":"stage1_mos_wh_07","question_template":"How would you rate this speech sample's naturalness from 1 to 5?","answer_template":"{mos}","weight":0.91}
+{"template_id":"stage1_mos_wh_08","question_template":"What is the naturalness rating of this speech on the MOS scale?","answer_template":"{mos}","weight":0.89}
+{"template_id":"stage1_mos_wh_09","question_template":"How would you judge the quality of this speech if the answer must be a MOS score?","answer_template":"{mos}","weight":0.32}
+{"template_id":"stage1_mos_can_01","question_template":"Can you rate the naturalness of this speech on a 1 to 5 MOS scale?","answer_template":"{mos}","weight":0.89}
+{"template_id":"stage1_mos_can_02","question_template":"Can you provide the speech-quality score for this utterance on the MOS scale?","answer_template":"{mos}","weight":0.86}
+{"template_id":"stage1_mos_can_03","question_template":"Can you tell me the MOS rating of this speech sample?","answer_template":"{mos}","weight":0.86}
+{"template_id":"stage1_mos_can_04","question_template":"Can you share the mean opinion score for this audio sample?","answer_template":"{mos}","weight":0.89}
+{"template_id":"stage1_mos_can_06","question_template":"Can you score the quality of this speech sample using MOS from 1 to 5?","answer_template":"{mos}","weight":0.86}
+{"template_id":"stage1_mos_could_01","question_template":"Could you tell me the MOS rating of this speech sample?","answer_template":"{mos}","weight":0.88}
+{"template_id":"stage1_mos_could_03","question_template":"Could you please report the naturalness score of this speech sample using MOS?","answer_template":"{mos}","weight":0.91}
+{"template_id":"stage1_mos_could_05","question_template":"Could you assign a speech-quality MOS to this utterance?","answer_template":"{mos}","weight":0.70}
+{"template_id":"stage1_mos_could_06","question_template":"Could you give me the quality rating for this clip on the 1 to 5 MOS scale?","answer_template":"{mos}","weight":0.88}
+{"template_id":"stage1_mos_polite_01","question_template":"Please tell me the MOS value for this speech sample.","answer_template":"{mos}","weight":0.87}
+{"template_id":"stage1_mos_polite_02","question_template":"Please rate the speech quality of this clip using the MOS scale from 1 to 5.","answer_template":"{mos}","weight":0.87}
+{"template_id":"stage1_mos_polite_03","question_template":"According to this speech sample, how would you rate its quality on a 1 to 5 MOS scale?","answer_template":"{mos}","weight":0.60}
+{"template_id":"stage1_mos_polite_04","question_template":"Listen to this clip carefully. Can you please tell me the speech-quality rating on a 1 to 5 MOS scale?","answer_template":"{mos}","weight":0.76}
+{"template_id":"stage1_mos_polite_05","question_template":"Please provide the mean opinion score for this speech clip.","answer_template":"{mos}","weight":0.90}
+{"template_id":"stage1_mos_polite_07","question_template":"If you were to score this utterance for speech quality, what MOS would you assign?","answer_template":"{mos}","weight":0.85}
+{"template_id":"stage1_mos_polite_08","question_template":"Please evaluate this speech sample for overall quality and report the MOS score.","answer_template":"{mos}","weight":0.89}
+{"template_id":"stage1_mos_constrained_01","question_template":"Report the speech-quality MOS as a decimal number only.","answer_template":"{mos}","weight":0.18}
+{"template_id":"stage1_mos_constrained_02","question_template":"For this speech sample, return only the mean opinion score.","answer_template":"{mos}","weight":0.20}
+{"template_id":"stage1_mos_constrained_03","question_template":"For the speech-quality attribute, provide only the MOS number.","answer_template":"{mos}","weight":0.20}
+{"template_id":"stage1_mos_constrained_07","question_template":"Give the MOS rating for this speech sample in the form \"score/5\".","answer_template":"{mos}/5","weight":0.15}
+{"template_id":"stage1_mos_constrained_08","question_template":"Report the mean opinion score for this speech clip with the prefix \"MOS:\".","answer_template":"MOS: {mos}","weight":0.18}
+{"template_id":"stage1_mos_constrained_09","question_template":"Return the speech-quality rating as a short key-value pair using the key mos.","answer_template":"mos={mos}","weight":0.08}
+{"template_id":"stage1_mos_constrained_10","question_template":"Return the mean opinion score for this utterance as JSON with the key \"mos\".","answer_template":"{\"mos\": {mos}}","weight":0.05}
+{"template_id":"stage1_mos_constrained_12","question_template":"Please provide the MOS value for this speech clip followed by \"out of 5\".","answer_template":"{mos} out of 5","weight":0.18}
+{"template_id":"stage1_mos_direct_extra_01","question_template":"Rate this speech sample for overall quality on the MOS scale.","answer_template":"{mos}","weight":0.89}
+{"template_id":"stage1_mos_direct_extra_02","question_template":"Give this speech clip a mean opinion score from 1 to 5.","answer_template":"{mos}","weight":0.86}
+{"template_id":"stage1_mos_direct_extra_03","question_template":"Provide the MOS rating for the quality of this utterance.","answer_template":"{mos}","weight":0.81}
+{"template_id":"stage1_mos_direct_extra_04","question_template":"Assign a speech-quality MOS to this audio sample.","answer_template":"{mos}","weight":0.61}
+{"template_id":"stage1_mos_direct_extra_05","question_template":"Score the naturalness of this speech using the 1 to 5 MOS scale.","answer_template":"{mos}","weight":0.88}
+{"template_id":"stage1_mos_direct_extra_06","question_template":"Please give a mean opinion score for this speech recording.","answer_template":"{mos}","weight":0.90}
+{"template_id":"stage1_mos_direct_extra_07","question_template":"Rate the quality of this speech clip under MOS.","answer_template":"{mos}","weight":0.87}
+{"template_id":"stage1_mos_direct_extra_09","question_template":"Give the speech quality score for this utterance on a 1 to 5 scale.","answer_template":"{mos}","weight":0.83}
+{"template_id":"stage1_mos_direct_extra_10","question_template":"Please rate this utterance for speech quality with a MOS value.","answer_template":"{mos}","weight":0.87}
+{"template_id":"stage1_mos_wh_extra_02","question_template":"What is the MOS quality rating for this utterance?","answer_template":"{mos}","weight":0.86}
+{"template_id":"stage1_mos_wh_extra_03","question_template":"How would you rate the overall quality of this speech clip on a 1 to 5 scale?","answer_template":"{mos}","weight":0.90}
+{"template_id":"stage1_mos_wh_extra_05","question_template":"What score on the MOS scale best matches the quality of this speech?","answer_template":"{mos}","weight":0.85}
+{"template_id":"stage1_mos_wh_extra_07","question_template":"What is the mean opinion score of this speech recording?","answer_template":"{mos}","weight":0.89}
+{"template_id":"stage1_mos_wh_extra_08","question_template":"How would you score this sample for naturalness on the MOS scale from 1 to 5?","answer_template":"{mos}","weight":0.91}
+{"template_id":"stage1_mos_wh_extra_10","question_template":"How would you judge the speech quality of this sample if the answer must be a MOS rating?","answer_template":"{mos}","weight":0.32}
+{"template_id":"stage1_mos_direct_02","question_template":"What mean opinion score (MOS) would you give this speech clip for speech quality on a 1 to 5 scale?","answer_template":"{mos}","weight":0.79}
+{"template_id":"stage1_mos_direct_05","question_template":"Help! Give me a speech-quality MOS prediction for this speech sample.","answer_template":"{mos}","weight":0.45}
+{"template_id":"stage1_mos_direct_09","question_template":"What mean opinion score (MOS) would this utterance receive for speech quality?","answer_template":"{mos}","weight":0.79}
+{"template_id":"stage1_mos_wh_02","question_template":"How would you rate the speech quality of this sample on the MOS scale?","answer_template":"{mos}","weight":0.88}
+{"template_id":"stage1_mos_wh_03","question_template":"How would you score the speech quality of this clip on the MOS scale?","answer_template":"{mos}","weight":0.88}
+{"template_id":"stage1_mos_wh_06","question_template":"What MOS value best reflects the speech quality of this utterance?","answer_template":"{mos}","weight":0.85}
+{"template_id":"stage1_mos_wh_10","question_template":"What mean opinion score (MOS) would you assign to this speech clip for quality?","answer_template":"{mos}","weight":0.79}
+{"template_id":"stage1_mos_can_05","question_template":"Can you estimate the speech-quality MOS for this speech clip?","answer_template":"{mos}","weight":0.68}
+{"template_id":"stage1_mos_could_02","question_template":"Could you estimate the mean opinion score (MOS) for the speech quality of this sample?","answer_template":"{mos}","weight":0.86}
+{"template_id":"stage1_mos_could_04","question_template":"Could you please tell me what mean opinion score (MOS) this speech would get for quality?","answer_template":"{mos}","weight":0.82}
+{"template_id":"stage1_mos_polite_06","question_template":"Would you please rate the naturalness of this speech sample using the mean opinion score (MOS) scale?","answer_template":"{mos}","weight":0.84}
+{"template_id":"stage1_mos_direct_extra_08","question_template":"Provide a mean opinion score (MOS) quality rating for this speech sample.","answer_template":"{mos}","weight":0.79}
+{"template_id":"stage1_mos_wh_extra_01","question_template":"What mean opinion score (MOS) would this speech sample receive for speech quality?","answer_template":"{mos}","weight":0.79}
+{"template_id":"stage1_mos_wh_extra_04","question_template":"How would this speech sample be rated for naturalness on the MOS scale?","answer_template":"{mos}","weight":0.81}
+{"template_id":"stage1_mos_wh_extra_06","question_template":"How would this utterance be rated for speech quality on the mean opinion score (MOS) scale?","answer_template":"{mos}","weight":0.76}
+{"template_id":"stage1_mos_wh_extra_09","question_template":"What MOS value should be assigned to this speech clip for speech quality?","answer_template":"{mos}","weight":0.85}
+{"template_id":"stage1_mos_direct_01","question_template":"Listen to the audio and tell me how you would rate the speech quality of this sample on a MOS scale from 1 to 5.","answer_template":"{mos}","weight":0.79}
+{"template_id":"stage1_mos_direct_03","question_template":"Listen to the speech sample and give me the mean opinion score.","answer_template":"{mos}","weight":0.82}
+{"template_id":"stage1_mos_direct_04","question_template":"After listening to the audio, how will you rate the quality of this speech on a scale of 1 to 5?","answer_template":"{mos}","weight":0.71}
+{"template_id":"stage1_mos_direct_06","question_template":"Listen to this audio clip and tell me the speech-quality MOS.","answer_template":"{mos}","weight":0.61}
+{"template_id":"stage1_mos_direct_07","question_template":"Listen to the speech and rate its naturalness on the MOS scale from 1 to 5.","answer_template":"{mos}","weight":0.82}
+{"template_id":"stage1_mos_direct_08","question_template":"Please listen to this speech sample and rate its quality using MOS.","answer_template":"{mos}","weight":0.81}
+{"template_id":"stage1_mos_direct_10","question_template":"After listening to this speech recording, what is the MOS prediction for its quality?","answer_template":"{mos}","weight":0.59}
+{"template_id":"stage1_mos_wh_01","question_template":"After listening to this speech sample, what is its MOS rating on a 1 to 5 scale?","answer_template":"{mos}","weight":0.71}
+{"template_id":"stage1_mos_wh_04","question_template":"After listening to this utterance, what quality score on the MOS scale would you assign to it?","answer_template":"{mos}","weight":0.71}
+{"template_id":"stage1_mos_wh_05","question_template":"How would you evaluate this speech sample in terms of mean opinion score after listening to the audio?","answer_template":"{mos}","weight":0.85}
+{"template_id":"stage1_mos_wh_07","question_template":"After listening to the audio, how would you rate this speech sample's naturalness from 1 to 5?","answer_template":"{mos}","weight":0.74}
+{"template_id":"stage1_mos_wh_08","question_template":"After listening to this speech, what is its naturalness rating on the MOS scale?","answer_template":"{mos}","weight":0.74}
+{"template_id":"stage1_mos_wh_09","question_template":"After listening to this speech, how would you judge its quality if the answer must be a MOS score?","answer_template":"{mos}","weight":0.32}
+{"template_id":"stage1_mos_can_01","question_template":"Can you listen to this speech and rate its naturalness on a 1 to 5 MOS scale?","answer_template":"{mos}","weight":0.80}
+{"template_id":"stage1_mos_can_02","question_template":"Can you listen to this utterance and provide the speech-quality score on the MOS scale?","answer_template":"{mos}","weight":0.77}
+{"template_id":"stage1_mos_can_03","question_template":"Can you listen to this speech sample and tell me its MOS rating?","answer_template":"{mos}","weight":0.77}
+{"template_id":"stage1_mos_can_04","question_template":"Can you listen to this audio sample and share its mean opinion score?","answer_template":"{mos}","weight":0.80}
+{"template_id":"stage1_mos_can_06","question_template":"Can you listen to this speech sample and score its quality using MOS from 1 to 5?","answer_template":"{mos}","weight":0.77}
+{"template_id":"stage1_mos_could_01","question_template":"Could you listen to this speech sample and tell me its MOS rating?","answer_template":"{mos}","weight":0.79}
+{"template_id":"stage1_mos_could_03","question_template":"Could you please listen to this speech sample and report its naturalness score using MOS?","answer_template":"{mos}","weight":0.82}
+{"template_id":"stage1_mos_could_05","question_template":"Could you listen to this utterance and assign it a speech-quality MOS?","answer_template":"{mos}","weight":0.61}
+{"template_id":"stage1_mos_could_06","question_template":"Could you listen to this clip and give me its quality rating on the 1 to 5 MOS scale?","answer_template":"{mos}","weight":0.79}
+{"template_id":"stage1_mos_polite_01","question_template":"Please listen to this speech sample and tell me its MOS value.","answer_template":"{mos}","weight":0.81}
+{"template_id":"stage1_mos_polite_02","question_template":"Please listen to this clip and rate its speech quality using the MOS scale from 1 to 5.","answer_template":"{mos}","weight":0.81}
+{"template_id":"stage1_mos_polite_03","question_template":"After listening to this speech sample, how would you rate its quality on a 1 to 5 MOS scale?","answer_template":"{mos}","weight":0.71}
+{"template_id":"stage1_mos_polite_04","question_template":"Listen to this clip carefully. Can you please tell me the speech-quality rating on a 1 to 5 MOS scale?","answer_template":"{mos}","weight":0.76}
+{"template_id":"stage1_mos_polite_05","question_template":"Please listen to this speech clip and provide its mean opinion score.","answer_template":"{mos}","weight":0.84}
+{"template_id":"stage1_mos_polite_07","question_template":"If you were to listen to this utterance and score it for speech quality, what MOS would you assign?","answer_template":"{mos}","weight":0.76}
+{"template_id":"stage1_mos_polite_08","question_template":"Please listen to this speech sample, evaluate its overall quality, and report the MOS score.","answer_template":"{mos}","weight":0.83}
+{"template_id":"stage1_mos_constrained_01","question_template":"Listen to the audio and report the speech-quality MOS as a decimal number only.","answer_template":"{mos}","weight":0.18}
+{"template_id":"stage1_mos_constrained_02","question_template":"After listening to this speech sample, return only the mean opinion score.","answer_template":"{mos}","weight":0.20}
+{"template_id":"stage1_mos_constrained_03","question_template":"Listen to the audio. For the speech-quality attribute, provide only the MOS number.","answer_template":"{mos}","weight":0.20}
+{"template_id":"stage1_mos_constrained_07","question_template":"Listen to this speech sample and give its MOS rating in the form \"score/5\".","answer_template":"{mos}/5","weight":0.15}
+{"template_id":"stage1_mos_constrained_08","question_template":"After listening to this speech clip, report the mean opinion score with the prefix \"MOS:\".","answer_template":"MOS: {mos}","weight":0.18}
+{"template_id":"stage1_mos_constrained_09","question_template":"Listen to the audio and return the speech-quality rating as a short key-value pair using the key mos.","answer_template":"mos={mos}","weight":0.08}
+{"template_id":"stage1_mos_constrained_10","question_template":"After listening to this utterance, return the mean opinion score as JSON with the key \"mos\".","answer_template":"{\"mos\": {mos}}","weight":0.05}
+{"template_id":"stage1_mos_constrained_12","question_template":"Please listen to this speech clip and provide its MOS value followed by \"out of 5\".","answer_template":"{mos} out of 5","weight":0.18}
+{"template_id":"stage1_mos_direct_extra_01","question_template":"Listen to this speech sample and rate its overall quality on the MOS scale.","answer_template":"{mos}","weight":0.81}
+{"template_id":"stage1_mos_direct_extra_02","question_template":"Listen to this speech clip and give it a mean opinion score for its quality from 1 to 5.","answer_template":"{mos}","weight":0.82}
+{"template_id":"stage1_mos_direct_extra_03","question_template":"After listening to this utterance, provide the MOS rating for its quality.","answer_template":"{mos}","weight":0.71}
+{"template_id":"stage1_mos_direct_extra_04","question_template":"Listen to this audio sample and assign it a speech-quality MOS.","answer_template":"{mos}","weight":0.61}
+{"template_id":"stage1_mos_direct_extra_05","question_template":"Listen to this speech and score its naturalness using the 1 to 5 MOS scale.","answer_template":"{mos}","weight":0.82}
+{"template_id":"stage1_mos_direct_extra_06","question_template":"Please listen to this speech recording and give it a mean opinion score.","answer_template":"{mos}","weight":0.84}
+{"template_id":"stage1_mos_direct_extra_07","question_template":"Listen to this speech clip and rate its quality under MOS.","answer_template":"{mos}","weight":0.79}
+{"template_id":"stage1_mos_direct_extra_09","question_template":"After listening to this utterance, give its speech quality score on a 1 to 5 scale.","answer_template":"{mos}","weight":0.71}
+{"template_id":"stage1_mos_direct_extra_10","question_template":"Please listen to this utterance and rate its speech quality with a MOS value.","answer_template":"{mos}","weight":0.81}
+{"template_id":"stage1_mos_wh_extra_02","question_template":"After listening to this utterance, what is its MOS quality rating?","answer_template":"{mos}","weight":0.71}
+{"template_id":"stage1_mos_wh_extra_03","question_template":"After listening to this speech clip, how would you rate its overall quality on a 1 to 5 scale?","answer_template":"{mos}","weight":0.73}
+{"template_id":"stage1_mos_wh_extra_05","question_template":"After listening to this speech, what score on the MOS scale best matches its quality?","answer_template":"{mos}","weight":0.71}
+{"template_id":"stage1_mos_wh_extra_07","question_template":"After listening to this speech recording, what is its mean opinion score?","answer_template":"{mos}","weight":0.74}
+{"template_id":"stage1_mos_wh_extra_08","question_template":"After listening to this sample, how would you score its naturalness on the MOS scale from 1 to 5?","answer_template":"{mos}","weight":0.74}
+{"template_id":"stage1_mos_wh_extra_10","question_template":"After listening to this sample, how would you judge its speech quality if the answer must be a MOS rating?","answer_template":"{mos}","weight":0.32}
+{"template_id":"stage1_mos_direct_02","question_template":"Listen to this speech clip and tell me what mean opinion score (MOS) you would give it for speech quality on a 1 to 5 scale.","answer_template":"{mos}","weight":0.73}
+{"template_id":"stage1_mos_direct_05","question_template":"Help! Listen to this speech sample and give me a speech-quality MOS prediction.","answer_template":"{mos}","weight":0.45}
+{"template_id":"stage1_mos_direct_09","question_template":"After listening to this utterance, what mean opinion score (MOS) would it receive for speech quality?","answer_template":"{mos}","weight":0.65}
+{"template_id":"stage1_mos_wh_02","question_template":"After listening to this sample, how would you rate its speech quality on the MOS scale?","answer_template":"{mos}","weight":0.71}
+{"template_id":"stage1_mos_wh_03","question_template":"After listening to this clip, how would you score its speech quality on the MOS scale?","answer_template":"{mos}","weight":0.71}
+{"template_id":"stage1_mos_wh_06","question_template":"After listening to this utterance, what MOS value best reflects its speech quality?","answer_template":"{mos}","weight":0.63}
+{"template_id":"stage1_mos_wh_10","question_template":"After listening to this speech clip, what mean opinion score (MOS) would you assign to it for quality?","answer_template":"{mos}","weight":0.65}
+{"template_id":"stage1_mos_can_05","question_template":"Can you listen to this speech clip and estimate its speech-quality MOS?","answer_template":"{mos}","weight":0.59}
+{"template_id":"stage1_mos_could_02","question_template":"Could you listen to this sample and estimate its mean opinion score (MOS) for speech quality?","answer_template":"{mos}","weight":0.77}
+{"template_id":"stage1_mos_could_04","question_template":"Could you please listen to this speech and tell me what mean opinion score (MOS) it would get for quality?","answer_template":"{mos}","weight":0.73}
+{"template_id":"stage1_mos_polite_06","question_template":"Would you please listen to this speech sample and rate its naturalness using the mean opinion score (MOS) scale?","answer_template":"{mos}","weight":0.75}
+{"template_id":"stage1_mos_direct_extra_08","question_template":"Listen to this speech sample and provide a mean opinion score (MOS) quality rating for it.","answer_template":"{mos}","weight":0.77}
+{"template_id":"stage1_mos_wh_extra_01","question_template":"After listening to this speech sample, what mean opinion score (MOS) would it receive for speech quality?","answer_template":"{mos}","weight":0.65}
+{"template_id":"stage1_mos_wh_extra_04","question_template":"After listening to this speech sample, how would it be rated for naturalness on the MOS scale?","answer_template":"{mos}","weight":0.74}
+{"template_id":"stage1_mos_wh_extra_06","question_template":"After listening to this utterance, how would it be rated for speech quality on the mean opinion score (MOS) scale?","answer_template":"{mos}","weight":0.69}
+{"template_id":"stage1_mos_wh_extra_09","question_template":"After listening to this speech clip, what MOS value should be assigned to it for speech quality?","answer_template":"{mos}","weight":0.71}
