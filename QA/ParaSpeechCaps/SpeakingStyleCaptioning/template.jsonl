@@ -1,0 +1,150 @@
+{"template_id": "paraspeechcaps_style_caption_direct_001", "question": "Provide a speaking style caption for this speech clip.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_002", "question": "Write a speaking style caption for this audio.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_003", "question": "Give me a caption describing how this person is speaking.", "answer": "caption", "weight": 0.92}
+{"template_id": "paraspeechcaps_style_caption_direct_004", "question": "Describe the speaker's speaking style in caption form.", "answer": "caption", "weight": 0.84}
+{"template_id": "paraspeechcaps_style_caption_direct_005", "question": "Generate a caption for this clip that describes the speaker's voice and delivery.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_006", "question": "Caption this speech clip in terms of speaking style.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_007", "question": "Provide a caption describing the speaker's voice, delivery, and accent.", "answer": "caption", "weight": 0.9}
+{"template_id": "paraspeechcaps_style_caption_direct_008", "question": "Write a caption that describes how the speaker sounds.", "answer": "caption", "weight": 0.92}
+{"template_id": "paraspeechcaps_style_caption_direct_009", "question": "Describe this speech recording with a speaking style caption.", "answer": "caption", "weight": 0.92}
+{"template_id": "paraspeechcaps_style_caption_direct_010", "question": "Give a speaking style description of this speaker.", "answer": "caption", "weight": 0.92}
+{"template_id": "paraspeechcaps_style_caption_direct_011", "question": "Produce a caption describing the speaker's vocal style.", "answer": "caption", "weight": 0.9}
+{"template_id": "paraspeechcaps_style_caption_direct_012", "question": "Write a caption for this recording focusing on the speaker's speaking style.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_013", "question": "Generate a caption describing the speaker's voice, pace, and recording conditions.", "answer": "caption", "weight": 0.88}
+{"template_id": "paraspeechcaps_style_caption_direct_014", "question": "Provide a short caption describing the overall speaking style in this clip.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_015", "question": "Help me annotate the speaking style of this clip with a caption.", "answer": "caption", "weight": 0.77}
+{"template_id": "paraspeechcaps_style_caption_direct_016", "question": "Please give a caption for the speaking style in this audio sample.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_wh_001", "question": "What does this speaker sound like?", "answer": "caption", "weight": 0.99}
+{"template_id": "paraspeechcaps_style_caption_wh_002", "question": "How would you describe the way this person is speaking?", "answer": "caption", "weight": 0.97}
+{"template_id": "paraspeechcaps_style_caption_wh_003", "question": "Can you describe the speaker's speaking style in this clip?", "answer": "caption", "weight": 0.96}
+{"template_id": "paraspeechcaps_style_caption_wh_004", "question": "Could you write a caption describing the speaker's voice and delivery?", "answer": "caption", "weight": 0.95}
+{"template_id": "paraspeechcaps_style_caption_wh_005", "question": "What kind of speaking style is heard in this recording?", "answer": "caption", "weight": 0.94}
+{"template_id": "paraspeechcaps_style_caption_wh_006", "question": "How would you caption this speaker's vocal style?", "answer": "caption", "weight": 0.91}
+{"template_id": "paraspeechcaps_style_caption_wh_007", "question": "Can you provide a speaking style caption for this utterance?", "answer": "caption", "weight": 0.92}
+{"template_id": "paraspeechcaps_style_caption_wh_008", "question": "Could you describe this speaker's voice, accent, and speaking manner?", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_wh_009", "question": "What is a good speaking style caption for this speech clip?", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_wh_010", "question": "How would you describe the speaker's voice, delivery, accent, and recording conditions?", "answer": "caption", "weight": 0.95}
+{"template_id": "paraspeechcaps_style_caption_wh_011", "question": "Can you tell me how this speaker sounds overall?", "answer": "caption", "weight": 0.95}
+{"template_id": "paraspeechcaps_style_caption_wh_012", "question": "Could you describe the speaking style and vocal characteristics in this clip?", "answer": "caption", "weight": 0.91}
+{"template_id": "paraspeechcaps_style_caption_wh_013", "question": "What would you write as a caption for this person's speaking style?", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_wh_014", "question": "How should this speaker be described in terms of voice and delivery?", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_wh_015", "question": "Can you caption the speaking style of this recording?", "answer": "caption", "weight": 0.96}
+{"template_id": "paraspeechcaps_style_caption_wh_016", "question": "Could you help me describe how the speaker sounds in this audio?", "answer": "caption", "weight": 0.96}
+{"template_id": "paraspeechcaps_style_caption_wh_017", "question": "What does the speaker's delivery sound like in this clip?", "answer": "caption", "weight": 0.94}
+{"template_id": "paraspeechcaps_style_caption_wh_018", "question": "How would you annotate the speaker's style, accent, and recording conditions?", "answer": "caption", "weight": 0.76}
+{"template_id": "paraspeechcaps_style_caption_instr_001", "question": "Listen to this clip and write a speaking style caption.", "answer": "caption", "weight": 0.78}
+{"template_id": "paraspeechcaps_style_caption_instr_002", "question": "Please listen carefully and respond with a caption describing the speaker's speaking style.", "answer": "caption", "weight": 0.79}
+{"template_id": "paraspeechcaps_style_caption_instr_003", "question": "Based on this recording, output just the speaking style caption with no extra explanation.", "answer": "caption", "weight": 0.79}
+{"template_id": "paraspeechcaps_style_caption_instr_004", "question": "Return a caption describing the speaker's voice, delivery, and accent.", "answer": "caption", "weight": 0.76}
+{"template_id": "paraspeechcaps_style_caption_instr_005", "question": "Write the speaking style caption only. Do not add any commentary.", "answer": "caption", "weight": 0.68}
+{"template_id": "paraspeechcaps_style_caption_instr_006", "question": "Describe this speaker's speaking style and give only the caption as your response.", "answer": "caption", "weight": 0.74}
+{"template_id": "paraspeechcaps_style_caption_instr_007", "question": "Listen to the speech clip carefully. Provide only a speaking style caption for it.", "answer": "caption", "weight": 0.78}
+{"template_id": "paraspeechcaps_style_caption_instr_008", "question": "Please generate a speaking style caption that describes the speaker's voice and delivery. Reply with the caption only.", "answer": "caption", "weight": 0.7}
+{"template_id": "paraspeechcaps_style_caption_instr_009", "question": "Based on the audio, write a caption describing the speaker's overall vocal style. Output only the caption text.", "answer": "caption", "weight": 0.72}
+{"template_id": "paraspeechcaps_style_caption_instr_010", "question": "Listen to this recording carefully and produce only a caption describing the speaker's voice, delivery, accent, and recording conditions.", "answer": "caption", "weight": 0.77}
+{"template_id": "paraspeechcaps_style_caption_instr_011", "question": "Please provide a speaking style caption for this clip, and return nothing except the caption itself.", "answer": "caption", "weight": 0.74}
+{"template_id": "paraspeechcaps_style_caption_instr_012", "question": "Generate a caption for this speech sample that focuses on how the speaker sounds. Do not include any explanation.", "answer": "caption", "weight": 0.69}
+{"template_id": "paraspeechcaps_style_caption_instr_013", "question": "Write a speaking style caption for this audio clip. Your response should contain only the caption.", "answer": "caption", "weight": 0.75}
+{"template_id": "paraspeechcaps_style_caption_instr_014", "question": "Listen carefully to this clip. Can you please generate a speaking style caption that describes the speaker's voice, delivery, accent, and recording conditions?", "answer": "caption", "weight": 0.78}
+{"template_id": "paraspeechcaps_style_caption_instr_015", "question": "Help! I want to know how you would annotate the speaking style for this clip. Please answer with only the caption.", "answer": "caption", "weight": 0.4}
+{"template_id": "paraspeechcaps_style_caption_instr_016", "question": "Please describe how the speaker sounds in this recording and return only the resulting caption.", "answer": "caption", "weight": 0.74}
+{"template_id": "paraspeechcaps_style_caption_casual_001", "question": "What does this person sound like in this clip?", "answer": "caption", "weight": 0.83}
+{"template_id": "paraspeechcaps_style_caption_casual_002", "question": "Can you give me a speaking style caption for this one?", "answer": "caption", "weight": 0.78}
+{"template_id": "paraspeechcaps_style_caption_casual_003", "question": "How would you describe this speaker's vibe and delivery?", "answer": "caption", "weight": 0.66}
+{"template_id": "paraspeechcaps_style_caption_casual_004", "question": "Give me a quick caption for how this speaker sounds.", "answer": "caption", "weight": 0.74}
+{"template_id": "paraspeechcaps_style_caption_casual_005", "question": "Can you describe this voice for me?", "answer": "caption", "weight": 0.82}
+{"template_id": "paraspeechcaps_style_caption_casual_006", "question": "What kind of voice and speaking style do you hear here?", "answer": "caption", "weight": 0.82}
+{"template_id": "paraspeechcaps_style_caption_casual_007", "question": "Write a caption for this speaker's style.", "answer": "caption", "weight": 0.82}
+{"template_id": "paraspeechcaps_style_caption_casual_008", "question": "How would you label the speaking style in this clip?", "answer": "caption", "weight": 0.75}
+{"template_id": "paraspeechcaps_style_caption_formal_001", "question": "Could you please provide a caption describing the speaker's speaking style in this recording?", "answer": "caption", "weight": 0.87}
+{"template_id": "paraspeechcaps_style_caption_formal_002", "question": "Please describe the speaker's voice, delivery, accent, and recording conditions in the form of a caption.", "answer": "caption", "weight": 0.83}
+{"template_id": "paraspeechcaps_style_caption_formal_003", "question": "Would you please generate a speaking style caption for this audio clip?", "answer": "caption", "weight": 0.85}
+{"template_id": "paraspeechcaps_style_caption_formal_004", "question": "Kindly provide a caption characterizing the speaker's vocal style and delivery.", "answer": "caption", "weight": 0.82}
+{"template_id": "paraspeechcaps_style_caption_formal_005", "question": "Please listen to the recording and produce a caption describing the speaker's overall speaking style.", "answer": "caption", "weight": 0.85}
+{"template_id": "paraspeechcaps_style_caption_formal_006", "question": "Could you describe how the speaker sounds, including notable aspects of voice, delivery, accent, and environment?", "answer": "caption", "weight": 0.84}
+{"template_id": "paraspeechcaps_style_caption_formal_007", "question": "Please generate a descriptive caption for this speech sample, focusing on the speaker's vocal and speaking characteristics.", "answer": "caption", "weight": 0.79}
+{"template_id": "paraspeechcaps_style_caption_formal_008", "question": "After listening to this clip, please provide a speaking style caption that summarizes how the speaker sounds.", "answer": "caption", "weight": 0.76}
+{"template_id": "paraspeechcaps_style_caption_hint_001", "question": "Describe the speaker's voice, pace, accent, and recording conditions in a single caption.", "answer": "caption", "weight": 0.69}
+{"template_id": "paraspeechcaps_style_caption_hint_002", "question": "Write a caption covering the speaker's vocal quality, speaking manner, and environment.", "answer": "caption", "weight": 0.74}
+{"template_id": "paraspeechcaps_style_caption_hint_003", "question": "Describe this clip in terms of voice, delivery, accent, and background conditions.", "answer": "caption", "weight": 0.74}
+{"template_id": "paraspeechcaps_style_caption_hint_004", "question": "Provide a caption that captures how the speaker sounds, including delivery and recording environment.", "answer": "caption", "weight": 0.74}
+{"template_id": "paraspeechcaps_style_caption_direct_017", "question": "Provide a caption describing the speaking style in this clip.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_018", "question": "Write a description of this speaker's speaking style.", "answer": "caption", "weight": 0.92}
+{"template_id": "paraspeechcaps_style_caption_direct_019", "question": "Generate a speaking-style description for this audio sample.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_020", "question": "Describe the speaker's voice and speaking manner in this recording.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_021", "question": "Create a caption for this clip that captures how the speaker sounds.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_022", "question": "Write a caption describing the voice and delivery in this speech clip.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_023", "question": "Describe this speaker's vocal style in one caption.", "answer": "caption", "weight": 0.9}
+{"template_id": "paraspeechcaps_style_caption_direct_024", "question": "Produce a caption that characterizes the speaker's speaking style.", "answer": "caption", "weight": 0.92}
+{"template_id": "paraspeechcaps_style_caption_direct_025", "question": "Write a speaking-style description for this recording.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_026", "question": "Generate a caption describing how the speech sounds in this clip.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_027", "question": "Describe the overall vocal delivery of the speaker in this audio.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_028", "question": "Provide a descriptive caption for this speaker's voice and speaking style.", "answer": "caption", "weight": 0.92}
+{"template_id": "paraspeechcaps_style_caption_direct_029", "question": "Write a caption that captures the way this speaker talks.", "answer": "caption", "weight": 0.92}
+{"template_id": "paraspeechcaps_style_caption_direct_030", "question": "Describe this speech clip with a caption focused on speaking style.", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_direct_031", "question": "Generate a vocal-style caption for this speech recording.", "answer": "caption", "weight": 0.92}
+{"template_id": "paraspeechcaps_style_caption_wh_019", "question": "What does the speaker sound like in this recording?", "answer": "caption", "weight": 0.94}
+{"template_id": "paraspeechcaps_style_caption_wh_020", "question": "How would you describe this speaker's voice and delivery?", "answer": "caption", "weight": 0.97}
+{"template_id": "paraspeechcaps_style_caption_wh_021", "question": "Can you write a caption for this speaker's speaking style?", "answer": "caption", "weight": 0.95}
+{"template_id": "paraspeechcaps_style_caption_wh_022", "question": "Could you describe how this person sounds while speaking?", "answer": "caption", "weight": 0.95}
+{"template_id": "paraspeechcaps_style_caption_wh_023", "question": "What kind of vocal style does this speaker have?", "answer": "caption", "weight": 0.91}
+{"template_id": "paraspeechcaps_style_caption_wh_024", "question": "How would you caption the overall speaking manner in this clip?", "answer": "caption", "weight": 0.94}
+{"template_id": "paraspeechcaps_style_caption_wh_025", "question": "Can you describe the speaker's voice, pace, and delivery here?", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_wh_026", "question": "Could you provide a caption for how the speaker sounds in this audio?", "answer": "caption", "weight": 0.96}
+{"template_id": "paraspeechcaps_style_caption_wh_027", "question": "What would you say about this speaker's speaking style?", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_wh_028", "question": "How would you describe the vocal character of this speech clip?", "answer": "caption", "weight": 0.92}
+{"template_id": "paraspeechcaps_style_caption_wh_029", "question": "Can you characterize the speaker's style, accent, and environment in a caption?", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_wh_030", "question": "Could you annotate how this speaker sounds?", "answer": "caption", "weight": 0.8}
+{"template_id": "paraspeechcaps_style_caption_wh_031", "question": "What sort of speaking style is this speaker using?", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_wh_032", "question": "How should this clip be captioned in terms of speaking style?", "answer": "caption", "weight": 0.93}
+{"template_id": "paraspeechcaps_style_caption_wh_033", "question": "Can you tell me what this speaker sounds like in caption form?", "answer": "caption", "weight": 0.87}
+{"template_id": "paraspeechcaps_style_caption_instr_017", "question": "Listen to the audio and return only a speaking style caption.", "answer": "caption", "weight": 0.72}
+{"template_id": "paraspeechcaps_style_caption_instr_018", "question": "Write only the caption that describes how the speaker sounds.", "answer": "caption", "weight": 0.74}
+{"template_id": "paraspeechcaps_style_caption_instr_019", "question": "Provide a speaking style caption for this clip and nothing else.", "answer": "caption", "weight": 0.79}
+{"template_id": "paraspeechcaps_style_caption_instr_020", "question": "Based on this speech sample, output only the descriptive caption.", "answer": "caption", "weight": 0.66}
+{"template_id": "paraspeechcaps_style_caption_instr_021", "question": "Listen carefully and write just the caption describing the speaker's voice and delivery.", "answer": "caption", "weight": 0.78}
+{"template_id": "paraspeechcaps_style_caption_instr_022", "question": "Return only a caption for the speaking style in this recording, with no extra text.", "answer": "caption", "weight": 0.79}
+{"template_id": "paraspeechcaps_style_caption_instr_023", "question": "Describe the speaker's vocal style in a single caption and do not add explanation.", "answer": "caption", "weight": 0.73}
+{"template_id": "paraspeechcaps_style_caption_instr_024", "question": "Generate only the speaking-style caption for this audio clip.", "answer": "caption", "weight": 0.79}
+{"template_id": "paraspeechcaps_style_caption_instr_025", "question": "Please respond with nothing except a caption describing the speaker's speaking style.", "answer": "caption", "weight": 0.73}
+{"template_id": "paraspeechcaps_style_caption_instr_026", "question": "Produce a caption describing the speaker's voice, delivery, accent, and environment. Output only the caption.", "answer": "caption", "weight": 0.72}
+{"template_id": "paraspeechcaps_style_caption_casual_009", "question": "How does this speaker sound to you?", "answer": "caption", "weight": 0.82}
+{"template_id": "paraspeechcaps_style_caption_casual_010", "question": "Can you do a speaking-style caption for this clip?", "answer": "caption", "weight": 0.73}
+{"template_id": "paraspeechcaps_style_caption_casual_011", "question": "Give me a caption for this person's voice.", "answer": "caption", "weight": 0.82}
+{"template_id": "paraspeechcaps_style_caption_casual_012", "question": "What's the speaker's style like here?", "answer": "caption", "weight": 0.78}
+{"template_id": "paraspeechcaps_style_caption_casual_013", "question": "Can you describe how this person talks?", "answer": "caption", "weight": 0.84}
+{"template_id": "paraspeechcaps_style_caption_formal_009", "question": "Could you please write a caption describing the speaker's vocal style in this clip?", "answer": "caption", "weight": 0.85}
+{"template_id": "paraspeechcaps_style_caption_formal_010", "question": "Would you please provide a speaking style caption for this recording?", "answer": "caption", "weight": 0.85}
+{"template_id": "paraspeechcaps_style_caption_formal_011", "question": "Kindly describe the speaker's voice and delivery in the form of a caption.", "answer": "caption", "weight": 0.84}
+{"template_id": "paraspeechcaps_style_caption_formal_012", "question": "Please provide a descriptive caption summarizing how the speaker sounds in this audio.", "answer": "caption", "weight": 0.75}
+{"template_id": "paraspeechcaps_style_caption_formal_013", "question": "Could you kindly generate a caption describing the speaker's speaking style and recording conditions?", "answer": "caption", "weight": 0.84}
+{"template_id": "paraspeechcaps_style_caption_help_005", "question": "Can you help me write a caption for how this speaker sounds?", "answer": "caption", "weight": 0.9}
+{"template_id": "paraspeechcaps_style_caption_help_006", "question": "I need help describing this speaker's speaking style.", "answer": "caption", "weight": 0.88}
+{"template_id": "paraspeechcaps_style_caption_help_007", "question": "Could you help me annotate the speaking style in this clip?", "answer": "caption", "weight": 0.76}
+{"template_id": "paraspeechcaps_style_caption_help_008", "question": "Can you help me come up with a speaking style caption for this audio?", "answer": "caption", "weight": 0.91}
+{"template_id": "paraspeechcaps_style_caption_help_009", "question": "I want to describe this speaker properly. Can you help?", "answer": "caption", "weight": 0.9}
+{"template_id": "paraspeechcaps_style_caption_help_010", "question": "Could you help me write down how this person sounds while speaking?", "answer": "caption", "weight": 0.9}
+{"template_id": "paraspeechcaps_style_caption_help_011", "question": "Can you help me describe the speaker's voice and delivery in this recording?", "answer": "caption", "weight": 0.91}
+{"template_id": "paraspeechcaps_style_caption_help_012", "question": "I need a caption that captures this speaker's style. Can you help me write one?", "answer": "caption", "weight": 0.9}
+{"template_id": "paraspeechcaps_style_caption_help_013", "question": "Could you help me label the speaking style of this utterance?", "answer": "caption", "weight": 0.79}
+{"template_id": "paraspeechcaps_style_caption_help_014", "question": "I need help with a speaking-style description for this clip.", "answer": "caption", "weight": 0.89}
+{"template_id": "paraspeechcaps_style_caption_help_015", "question": "Can you help me describe what this speaker sounds like?", "answer": "caption", "weight": 0.9}
+{"template_id": "paraspeechcaps_style_caption_help_016", "question": "Would you help me generate a caption for this speaker's vocal style?", "answer": "caption", "weight": 0.86}
+{"template_id": "paraspeechcaps_style_caption_help_017", "question": "I am trying to annotate this recording. Can you help me write the speaking style caption?", "answer": "caption", "weight": 0.76}
+{"template_id": "paraspeechcaps_style_caption_help_018", "question": "Could you help me describe this clip in terms of speaking style?", "answer": "caption", "weight": 0.9}
+{"template_id": "paraspeechcaps_style_caption_help_019", "question": "Please help me come up with a caption describing the speaker's voice, delivery, and environment.", "answer": "caption", "weight": 0.86}
+{"template_id": "paraspeechcaps_style_caption_workflow_001", "question": "I am currently working on annotating speech clips for speaking style. Please write a caption describing how this speaker sounds.", "answer": "caption", "weight": 0.58}
+{"template_id": "paraspeechcaps_style_caption_workflow_002", "question": "I am working on a dataset of speech recordings and need a speaking style caption for this clip.", "answer": "caption", "weight": 0.47}
+{"template_id": "paraspeechcaps_style_caption_workflow_003", "question": "I am currently labeling audio samples for speaking style. Please provide a caption for this recording.", "answer": "caption", "weight": 0.51}
+{"template_id": "paraspeechcaps_style_caption_workflow_004", "question": "You are tasked with writing a speaking style caption for this speech sample.", "answer": "caption", "weight": 0.45}
+{"template_id": "paraspeechcaps_style_caption_workflow_005", "question": "You are tasked with annotating how the speaker sounds in this clip. Provide the result as a caption.", "answer": "caption", "weight": 0.49}
+{"template_id": "paraspeechcaps_style_caption_workflow_006", "question": "I am preparing metadata for a speech dataset and need a caption describing the speaker's voice and delivery in this audio.", "answer": "caption", "weight": 0.47}
+{"template_id": "paraspeechcaps_style_caption_workflow_007", "question": "I am currently building a corpus of speaking style descriptions. Please generate a caption for this recording.", "answer": "caption", "weight": 0.47}
+{"template_id": "paraspeechcaps_style_caption_workflow_008", "question": "You are helping with speech-style annotation for an audio collection. Write a caption describing this speaker.", "answer": "caption", "weight": 0.43}
+{"template_id": "paraspeechcaps_style_caption_workflow_009", "question": "I am documenting the characteristics of this speech clip for a dataset. Please provide a speaking style caption.", "answer": "caption", "weight": 0.46}
+{"template_id": "paraspeechcaps_style_caption_workflow_010", "question": "You are tasked with producing a descriptive caption for this clip that captures the speaker's speaking style.", "answer": "caption", "weight": 0.46}
+{"template_id": "paraspeechcaps_style_caption_workflow_011", "question": "I am currently curating speech annotations and need a caption describing the speaker's vocal style in this clip.", "answer": "caption", "weight": 0.42}
+{"template_id": "paraspeechcaps_style_caption_workflow_012", "question": "You are working on speaking-style annotation for this audio sample. Write the appropriate caption.", "answer": "caption", "weight": 0.44}
+{"template_id": "paraspeechcaps_style_caption_workflow_013", "question": "I am putting together descriptive metadata for speech recordings. Please caption how this speaker sounds.", "answer": "caption", "weight": 0.46}
+{"template_id": "paraspeechcaps_style_caption_workflow_014", "question": "You are tasked with creating a speaking style description for this recording. Return it as a caption.", "answer": "caption", "weight": 0.49}
+{"template_id": "paraspeechcaps_style_caption_workflow_015", "question": "I am currently reviewing speech clips for style annotation. Please write a caption for this one.", "answer": "caption", "weight": 0.37}
