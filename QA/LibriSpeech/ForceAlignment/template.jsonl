@@ -1,0 +1,192 @@
+{"template_id": "fa_direct_001", "question": "Align this transcript to the audio at the word level: '{text}'", "answer": "aligned_text", "weight": 0.9}
+{"template_id": "fa_direct_002", "question": "Provide a word-level force alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.82}
+{"template_id": "fa_direct_003", "question": "Generate the word timings for the following transcript: '{text}'", "answer": "aligned_text", "weight": 0.88}
+{"template_id": "fa_direct_004", "question": "Return the force alignment for this utterance using the transcript: '{text}'", "answer": "aligned_text", "weight": 0.74}
+{"template_id": "fa_direct_005", "question": "Time-align this transcript to the recording: '{text}'", "answer": "aligned_text", "weight": 0.91}
+{"template_id": "fa_direct_006", "question": "Create a word-level alignment for this audio given the transcript: '{text}'", "answer": "aligned_text", "weight": 0.84}
+{"template_id": "fa_direct_007", "question": "Produce the aligned transcript with word timestamps for: '{text}'", "answer": "aligned_text", "weight": 0.72}
+{"template_id": "fa_direct_008", "question": "Match each spoken word to its start and end time for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.8}
+{"template_id": "fa_direct_009", "question": "Give me the word-level timing alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.86}
+{"template_id": "fa_direct_010", "question": "Generate a force-aligned version of this transcript: '{text}'", "answer": "aligned_text", "weight": 0.72}
+{"template_id": "fa_direct_011", "question": "Please align the given transcript to the audio word by word: '{text}'", "answer": "aligned_text", "weight": 0.88}
+{"template_id": "fa_direct_012", "question": "Please return the word-level alignment for this recording using: '{text}'", "answer": "aligned_text", "weight": 0.73}
+{"template_id": "fa_direct_013", "question": "Listen to the clip and align this transcript at the word level: '{text}'", "answer": "aligned_text", "weight": 0.87}
+{"template_id": "fa_direct_014", "question": "Use the audio to place timestamps on each word in this transcript: '{text}'", "answer": "aligned_text", "weight": 0.84}
+{"template_id": "fa_direct_015", "question": "Help me provide a force alignment for the given text: '{text}'", "answer": "aligned_text", "weight": 0.62}
+{"template_id": "fa_direct_016", "question": "Help me align this utterance word by word: '{text}'", "answer": "aligned_text", "weight": 0.75}
+{"template_id": "fa_direct_017", "question": "I need the word timings for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.89}
+{"template_id": "fa_direct_018", "question": "Please generate word timestamps for the transcript below: '{text}'", "answer": "aligned_text", "weight": 0.83}
+{"template_id": "fa_wh_001", "question": "What is the word-level force alignment for this transcript in the audio: '{text}'", "answer": "aligned_text", "weight": 0.7}
+{"template_id": "fa_wh_002", "question": "What are the start and end times of each word for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.86}
+{"template_id": "fa_wh_003", "question": "What would the word-by-word alignment look like for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.79}
+{"template_id": "fa_wh_004", "question": "Can you align this transcript to the audio and return the word timings? '{text}'", "answer": "aligned_text", "weight": 0.93}
+{"template_id": "fa_wh_005", "question": "Can you generate a word-level alignment for the following text in this clip? '{text}'", "answer": "aligned_text", "weight": 0.85}
+{"template_id": "fa_wh_006", "question": "Could you force-align this transcript to the recording? '{text}'", "answer": "aligned_text", "weight": 0.79}
+{"template_id": "fa_wh_007", "question": "Could you assign timestamps to each spoken word in this transcript? '{text}'", "answer": "aligned_text", "weight": 0.82}
+{"template_id": "fa_wh_008", "question": "How would you align this transcript to the audio at the word level? '{text}'", "answer": "aligned_text", "weight": 0.82}
+{"template_id": "fa_wh_009", "question": "How should this transcript be time-aligned word by word? '{text}'", "answer": "aligned_text", "weight": 0.8}
+{"template_id": "fa_wh_010", "question": "Which time span corresponds to each word in this transcript: '{text}'", "answer": "aligned_text", "weight": 0.73}
+{"template_id": "fa_wh_011", "question": "What is the word-by-word timing for the transcript below in this recording? '{text}'", "answer": "aligned_text", "weight": 0.82}
+{"template_id": "fa_wh_012", "question": "Can you map each word in this transcript to its start and end time in the audio? '{text}'", "answer": "aligned_text", "weight": 0.84}
+{"template_id": "fa_wh_013", "question": "Could you return the aligned word sequence for this transcript with timestamps? '{text}'", "answer": "aligned_text", "weight": 0.71}
+{"template_id": "fa_wh_014", "question": "How can this transcript be aligned to the clip word by word? '{text}'", "answer": "aligned_text", "weight": 0.69}
+{"template_id": "fa_wh_015", "question": "What does the force alignment look like for the given transcript: '{text}'", "answer": "aligned_text", "weight": 0.61}
+{"template_id": "fa_wh_016", "question": "Can you help me get a word-level force alignment for this text? '{text}'", "answer": "aligned_text", "weight": 0.74}
+{"template_id": "fa_constrained_001", "question": "Using the transcript below, return only the word-level force alignment in [start-end] word format, one word per line: '{text}'", "answer": "aligned_text", "weight": 0.56}
+{"template_id": "fa_constrained_002", "question": "Given this transcript, output only the aligned words with timestamps in the format [start-end] word. Put each entry on a new line: '{text}'", "answer": "aligned_text", "weight": 0.55}
+{"template_id": "fa_constrained_003", "question": "Align this transcript to the audio and return the result as newline-separated [start-end] word entries: '{text}'", "answer": "aligned_text", "weight": 0.6}
+{"template_id": "fa_constrained_004", "question": "Please provide the force alignment for this transcript. Use one [start-end] word item per line and nothing else: '{text}'", "answer": "aligned_text", "weight": 0.52}
+{"template_id": "fa_constrained_005", "question": "Listen carefully and return only the word-level alignment in [start-end] word format for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.59}
+{"template_id": "fa_constrained_006", "question": "Generate a word-level force alignment for the transcript below. Output one timestamped word per line, with no explanation: '{text}'", "answer": "aligned_text", "weight": 0.58}
+{"template_id": "fa_constrained_007", "question": "For the following transcript, give the alignment as [start-end] word on separate lines. Do not add extra text: '{text}'", "answer": "aligned_text", "weight": 0.57}
+{"template_id": "fa_constrained_008", "question": "Return the word timings for this transcript in the exact format [start-end] word, one line per word: '{text}'", "answer": "aligned_text", "weight": 0.6}
+{"template_id": "fa_constrained_009", "question": "Please align this transcript to the audio and output only newline-delimited timestamped words: '{text}'", "answer": "aligned_text", "weight": 0.54}
+{"template_id": "fa_constrained_010", "question": "Given the transcript below, produce the word-level alignment only. Format each line as [start-end] word: '{text}'", "answer": "aligned_text", "weight": 0.56}
+{"template_id": "fa_constrained_011", "question": "Can you return just the force-aligned word list for this transcript, with one [start-end] word per line? '{text}'", "answer": "aligned_text", "weight": 0.53}
+{"template_id": "fa_constrained_012", "question": "Could you please generate a word-level force alignment given this transcription? Output only [start-end] word entries, one per line: '{text}'", "answer": "aligned_text", "weight": 0.48}
+{"template_id": "fa_constrained_013", "question": "How would you write the alignment for this transcript if the output must be one [start-end] word entry per line? '{text}'", "answer": "aligned_text", "weight": 0.42}
+{"template_id": "fa_constrained_014", "question": "Return only the aligned transcript with word timestamps for the text below. Use the format [start-end] word and no commentary: '{text}'", "answer": "aligned_text", "weight": 0.55}
+{"template_id": "fa_polite_001", "question": "Listen to this clip carefully. Can you please generate a word-level force alignment for the following transcription: '{text}'", "answer": "aligned_text", "weight": 0.81}
+{"template_id": "fa_polite_002", "question": "Could you please align the following transcript to the audio and provide word-level timestamps: '{text}'", "answer": "aligned_text", "weight": 0.85}
+{"template_id": "fa_polite_003", "question": "Please listen to the recording and return a word-by-word temporal alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.82}
+{"template_id": "fa_polite_004", "question": "Would you please produce the force alignment for this utterance using the provided transcript: '{text}'", "answer": "aligned_text", "weight": 0.71}
+{"template_id": "fa_polite_005", "question": "I have the transcript already. Could you align it to the audio at the word level for me? '{text}'", "answer": "aligned_text", "weight": 0.87}
+{"template_id": "fa_polite_006", "question": "Please use the audio to determine the start and end time of each word in this transcript: '{text}'", "answer": "aligned_text", "weight": 0.78}
+{"template_id": "fa_casual_001", "question": "Help! I need a word-level alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.63}
+{"template_id": "fa_casual_002", "question": "Can you time-align this text to the audio for me? '{text}'", "answer": "aligned_text", "weight": 0.92}
+{"template_id": "fa_casual_003", "question": "I already have the transcript. Just line the timestamps up with the audio word by word: '{text}'", "answer": "aligned_text", "weight": 0.82}
+{"template_id": "fa_casual_004", "question": "Need the word timings for this one: '{text}'", "answer": "aligned_text", "weight": 0.64}
+{"template_id": "fa_casual_005", "question": "Can you match this transcript to the clip and give me the word timestamps? '{text}'", "answer": "aligned_text", "weight": 0.86}
+{"template_id": "fa_direct_019", "question": "Align the transcript below to the audio and return the word-level timestamps: '{text}'", "answer": "aligned_text", "weight": 0.88}
+{"template_id": "fa_direct_020", "question": "Generate a word-by-word time alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.86}
+{"template_id": "fa_direct_021", "question": "Produce the force alignment for the following text and recording: '{text}'", "answer": "aligned_text", "weight": 0.72}
+{"template_id": "fa_direct_022", "question": "Return a word-level aligned version of this transcript: '{text}'", "answer": "aligned_text", "weight": 0.69}
+{"template_id": "fa_direct_023", "question": "Assign start and end times to each word in this transcript: '{text}'", "answer": "aligned_text", "weight": 0.84}
+{"template_id": "fa_direct_024", "question": "Create the word-level timestamp alignment for this utterance: '{text}'", "answer": "aligned_text", "weight": 0.79}
+{"template_id": "fa_direct_025", "question": "Provide the aligned word sequence for this transcript and audio: '{text}'", "answer": "aligned_text", "weight": 0.72}
+{"template_id": "fa_direct_026", "question": "Mark the timing boundaries of each word in this transcript: '{text}'", "answer": "aligned_text", "weight": 0.68}
+{"template_id": "fa_direct_027", "question": "Output the word-level temporal alignment for this text: '{text}'", "answer": "aligned_text", "weight": 0.66}
+{"template_id": "fa_direct_028", "question": "Generate the timestamped word alignment for the given transcript: '{text}'", "answer": "aligned_text", "weight": 0.78}
+{"template_id": "fa_direct_029", "question": "Produce word-level start and end times for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.81}
+{"template_id": "fa_direct_030", "question": "Return the alignment between this transcript and the speech, word by word: '{text}'", "answer": "aligned_text", "weight": 0.74}
+{"template_id": "fa_direct_031", "question": "Provide word timestamps for each token in this transcript: '{text}'", "answer": "aligned_text", "weight": 0.65}
+{"template_id": "fa_direct_032", "question": "Generate the aligned word timings for this recording using: '{text}'", "answer": "aligned_text", "weight": 0.61}
+{"template_id": "fa_direct_033", "question": "Compute the force alignment for this transcript at the word level: '{text}'", "answer": "aligned_text", "weight": 0.55}
+{"template_id": "fa_wh_017", "question": "What is the word-level alignment between this transcript and the audio: '{text}'", "answer": "aligned_text", "weight": 0.84}
+{"template_id": "fa_wh_018", "question": "What timestamps correspond to each word in this transcript: '{text}'", "answer": "aligned_text", "weight": 0.84}
+{"template_id": "fa_wh_019", "question": "What are the word-by-word timing boundaries for this utterance: '{text}'", "answer": "aligned_text", "weight": 0.8}
+{"template_id": "fa_wh_020", "question": "Can you return the force alignment for this transcript and clip? '{text}'", "answer": "aligned_text", "weight": 0.71}
+{"template_id": "fa_wh_021", "question": "Can you place start and end times on every word in this transcript? '{text}'", "answer": "aligned_text", "weight": 0.87}
+{"template_id": "fa_wh_022", "question": "Can you generate the aligned word sequence for the following text? '{text}'", "answer": "aligned_text", "weight": 0.69}
+{"template_id": "fa_wh_023", "question": "Could you time-align the provided transcript to the recording? '{text}'", "answer": "aligned_text", "weight": 0.83}
+{"template_id": "fa_wh_024", "question": "Could you map this transcript onto the audio word by word? '{text}'", "answer": "aligned_text", "weight": 0.75}
+{"template_id": "fa_wh_025", "question": "Could you return the start and end time for each spoken word in this text? '{text}'", "answer": "aligned_text", "weight": 0.74}
+{"template_id": "fa_wh_026", "question": "How would this transcript align to the recording at the word level? '{text}'", "answer": "aligned_text", "weight": 0.77}
+{"template_id": "fa_wh_027", "question": "How should each word in this transcript be time-stamped in the audio? '{text}'", "answer": "aligned_text", "weight": 0.76}
+{"template_id": "fa_wh_028", "question": "How can I obtain the word-level force alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.56}
+{"template_id": "fa_wh_029", "question": "Which start and end times belong to the words in this transcript: '{text}'", "answer": "aligned_text", "weight": 0.78}
+{"template_id": "fa_wh_030", "question": "What is the timestamped word sequence for this transcript in the clip: '{text}'", "answer": "aligned_text", "weight": 0.66}
+{"template_id": "fa_wh_031", "question": "Can you help align this transcript to the audio and give the word timings? '{text}'", "answer": "aligned_text", "weight": 0.88}
+{"template_id": "fa_casual_006", "question": "Hey, can you line this transcript up with the audio word by word? '{text}'", "answer": "aligned_text", "weight": 0.83}
+{"template_id": "fa_casual_007", "question": "I just need the word timestamps for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.9}
+{"template_id": "fa_casual_008", "question": "Can you sync this text to the recording for me? '{text}'", "answer": "aligned_text", "weight": 0.79}
+{"template_id": "fa_casual_009", "question": "Help me line up these words with the audio: '{text}'", "answer": "aligned_text", "weight": 0.68}
+{"template_id": "fa_casual_010", "question": "Can you give me the word-by-word timing for this one? '{text}'", "answer": "aligned_text", "weight": 0.87}
+{"template_id": "fa_polite_007", "question": "Would you be able to align the following transcript to the audio at the word level: '{text}'", "answer": "aligned_text", "weight": 0.83}
+{"template_id": "fa_polite_008", "question": "May I ask you to generate a word-level force alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.66}
+{"template_id": "fa_polite_009", "question": "Could you kindly provide the start and end time for each word in this transcript: '{text}'", "answer": "aligned_text", "weight": 0.72}
+{"template_id": "fa_polite_010", "question": "Please help align this transcription to the recording and return word-level timestamps: '{text}'", "answer": "aligned_text", "weight": 0.79}
+{"template_id": "fa_polite_011", "question": "If possible, could you produce the word-by-word temporal alignment for this text: '{text}'", "answer": "aligned_text", "weight": 0.74}
+{"template_id": "fa_workflow_001", "question": "I am currently working on a speech timing analysis pipeline. Can you generate a word-level force alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.63}
+{"template_id": "fa_workflow_002", "question": "I am building a dataset with word timestamps. Please align this transcript to the audio: '{text}'", "answer": "aligned_text", "weight": 0.69}
+{"template_id": "fa_workflow_003", "question": "I am preparing supervision data for a speech project. Can you return the word-level alignment for: '{text}'", "answer": "aligned_text", "weight": 0.62}
+{"template_id": "fa_workflow_004", "question": "I am currently processing an utterance for forced alignment. Please assign timestamps to each word in: '{text}'", "answer": "aligned_text", "weight": 0.58}
+{"template_id": "fa_workflow_005", "question": "I am working on transcript-to-audio synchronization. Can you align this text word by word: '{text}'", "answer": "aligned_text", "weight": 0.67}
+{"template_id": "fa_workflow_006", "question": "I am generating time-stamped speech annotations. Please provide the force alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.63}
+{"template_id": "fa_workflow_007", "question": "I am organizing word-level speech labels for training. Can you produce the alignment for: '{text}'", "answer": "aligned_text", "weight": 0.55}
+{"template_id": "fa_workflow_008", "question": "I am currently annotating a speech corpus and need this transcript aligned to the recording: '{text}'", "answer": "aligned_text", "weight": 0.61}
+{"template_id": "fa_workflow_009", "question": "I am preparing alignment targets for an audio-text task. Please return the word timings for: '{text}'", "answer": "aligned_text", "weight": 0.58}
+{"template_id": "fa_workflow_010", "question": "You are tasked with aligning a provided transcript to the recording at the word level. The transcript is: '{text}'", "answer": "aligned_text", "weight": 0.42}
+{"template_id": "fa_workflow_011", "question": "You are tasked with generating word-level timestamps for the following utterance transcript: '{text}'", "answer": "aligned_text", "weight": 0.4}
+{"template_id": "fa_workflow_012", "question": "You are tasked with producing a force-aligned transcript in [start-end] word format for: '{text}'", "answer": "aligned_text", "weight": 0.35}
+{"template_id": "fa_workflow_013", "question": "You are working on a speech annotation job. Please align this transcript word by word: '{text}'", "answer": "aligned_text", "weight": 0.46}
+{"template_id": "fa_workflow_014", "question": "For my current alignment workflow, I need the word-level timing output for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.58}
+{"template_id": "fa_workflow_015", "question": "As part of a word-level alignment task, please synchronize this transcript with the audio: '{text}'", "answer": "aligned_text", "weight": 0.54}
+{"template_id": "fa_help_001", "question": "I need your help aligning this transcript to the audio at the word level: '{text}'", "answer": "aligned_text", "weight": 0.79}
+{"template_id": "fa_help_002", "question": "Could you help me generate a force alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.76}
+{"template_id": "fa_help_003", "question": "I need your help placing timestamps on each word in this transcript: '{text}'", "answer": "aligned_text", "weight": 0.74}
+{"template_id": "fa_help_004", "question": "Could you help me match each word in this text to its timing in the recording? '{text}'", "answer": "aligned_text", "weight": 0.78}
+{"template_id": "fa_help_005", "question": "I need help producing a word-level aligned transcript for this utterance: '{text}'", "answer": "aligned_text", "weight": 0.7}
+{"template_id": "fa_help_006", "question": "Can you help me return the start and end time of every word in this transcript: '{text}'", "answer": "aligned_text", "weight": 0.71}
+{"template_id": "fa_help_007", "question": "I need some help time-aligning this transcript to the audio: '{text}'", "answer": "aligned_text", "weight": 0.78}
+{"template_id": "fa_help_008", "question": "Could you help me get the word-level timestamps for this text: '{text}'", "answer": "aligned_text", "weight": 0.81}
+{"template_id": "fa_help_009", "question": "I need your help creating the aligned word sequence for: '{text}'", "answer": "aligned_text", "weight": 0.63}
+{"template_id": "fa_help_010", "question": "Please help me generate the word-by-word timing alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.77}
+{"template_id": "fa_help_011", "question": "Could you help me produce a force-aligned version of this transcript: '{text}'", "answer": "aligned_text", "weight": 0.7}
+{"template_id": "fa_help_012", "question": "I need help syncing this transcript with the speech word by word: '{text}'", "answer": "aligned_text", "weight": 0.73}
+{"template_id": "fa_help_013", "question": "Can you help me align this utterance and return the timestamped words? '{text}'", "answer": "aligned_text", "weight": 0.75}
+{"template_id": "fa_help_014", "question": "I need your help obtaining the word timings for the following transcript: '{text}'", "answer": "aligned_text", "weight": 0.74}
+{"template_id": "fa_help_015", "question": "Could you help me generate word-level temporal boundaries for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.58}
+{"template_id": "fa_constrained_fmt_001", "question": "Given this transcript, return the word-level alignment as a single line, separating entries with semicolons: '{text}'", "answer": "aligned_text.replace('\\n', '; ')", "weight": 0.26}
+{"template_id": "fa_constrained_fmt_002", "question": "Align this transcript to the audio and output the result on one line using vertical bars between entries: '{text}'", "answer": "aligned_text.replace('\\n', ' | ')", "weight": 0.23}
+{"template_id": "fa_constrained_fmt_003", "question": "Return the force alignment for this transcript as a single slash-separated line: '{text}'", "answer": "aligned_text.replace('\\n', ' / ')", "weight": 0.21}
+{"template_id": "fa_constrained_fmt_004", "question": "For the following transcript, provide the alignment on a single line with comma-separated entries: '{text}'", "answer": "aligned_text.replace('\\n', ', ')", "weight": 0.24}
+{"template_id": "fa_constrained_fmt_005", "question": "Generate the word-level force alignment for this transcript, separating entries with tabs: '{text}'", "answer": "aligned_text.replace('\\n', '\\t')", "weight": 0.18}
+{"template_id": "fa_constrained_fmt_006", "question": "Return the aligned words for this transcript using parentheses around each time span: '{text}'", "answer": "aligned_text.replace('[', '(').replace(']', ')')", "weight": 0.17}
+{"template_id": "fa_constrained_fmt_007", "question": "Align this transcript and format each item so the timestamp span is followed by an arrow before the word: '{text}'", "answer": "aligned_text.replace('] ', '] -> ')", "weight": 0.16}
+{"template_id": "fa_constrained_fmt_008", "question": "For this transcript, write each alignment entry as start to end followed by the word, preserving one entry per line: '{text}'", "answer": "aligned_text.replace('[', '').replace('] ', ' ').replace('-', ' to ')", "weight": 0.14}
+{"template_id": "fa_constrained_fmt_009", "question": "Please return the word-level alignment for this transcript, in uppercase only: '{text}'", "answer": "aligned_text.upper()", "weight": 0.12}
+{"template_id": "fa_constrained_fmt_010", "question": "Generate the time alignment for this transcript and wrap the entire output inside XML-style alignment tags: '{text}'", "answer": "'<alignment>\\n' + aligned_text + '\\n</alignment>'", "weight": 0.15}
+{"template_id": "fa_direct_001", "question": "Listen to the audio and align this transcript to it at the word level: '{text}'", "answer": "aligned_text", "weight": 0.88}
+{"template_id": "fa_direct_002", "question": "Listen to the recording and provide a word-level force alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.8}
+{"template_id": "fa_direct_003", "question": "Listen carefully to the audio and generate the word timings for the following transcript: '{text}'", "answer": "aligned_text", "weight": 0.82}
+{"template_id": "fa_direct_004", "question": "Based on the audio, return the force alignment for this utterance using the transcript: '{text}'", "answer": "aligned_text", "weight": 0.69}
+{"template_id": "fa_direct_005", "question": "Listen to the recording and time-align this transcript to it: '{text}'", "answer": "aligned_text", "weight": 0.82}
+{"template_id": "fa_direct_007", "question": "Listen to the audio and produce the aligned transcript with word timestamps for: '{text}'", "answer": "aligned_text", "weight": 0.77}
+{"template_id": "fa_direct_008", "question": "Listen to the speech and match each spoken word to its start and end time for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.74}
+{"template_id": "fa_direct_009", "question": "Using the audio, give me the word-level timing alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.76}
+{"template_id": "fa_direct_010", "question": "Listen to the clip and generate a force-aligned version of this transcript: '{text}'", "answer": "aligned_text", "weight": 0.73}
+{"template_id": "fa_direct_011", "question": "Please listen to the audio and align the given transcript word by word: '{text}'", "answer": "aligned_text", "weight": 0.8}
+{"template_id": "fa_direct_012", "question": "Please listen to the recording and return the word-level alignment using: '{text}'", "answer": "aligned_text", "weight": 0.72}
+{"template_id": "fa_direct_017", "question": "Listen to the audio and give me the word timings for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.84}
+{"template_id": "fa_direct_018", "question": "Please listen to the clip and generate word timestamps for the transcript below: '{text}'", "answer": "aligned_text", "weight": 0.77}
+{"template_id": "fa_wh_001", "question": "After listening to the audio, what is the word-level force alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.57}
+{"template_id": "fa_wh_002", "question": "After listening to the recording, what are the start and end times of each word for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.72}
+{"template_id": "fa_wh_003", "question": "Listening to the audio, what would the word-by-word alignment look like for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.54}
+{"template_id": "fa_wh_004", "question": "Can you listen to the audio, align this transcript to it, and return the word timings? '{text}'", "answer": "aligned_text", "weight": 0.82}
+{"template_id": "fa_wh_006", "question": "Could you listen to the recording and force-align this transcript to it? '{text}'", "answer": "aligned_text", "weight": 0.71}
+{"template_id": "fa_wh_007", "question": "Could you listen to the audio and assign timestamps to each spoken word in this transcript? '{text}'", "answer": "aligned_text", "weight": 0.73}
+{"template_id": "fa_wh_008", "question": "How would you align this transcript to the audio at the word level after listening to the clip? '{text}'", "answer": "aligned_text", "weight": 0.65}
+{"template_id": "fa_wh_009", "question": "How should this transcript be time-aligned word by word based on the audio? '{text}'", "answer": "aligned_text", "weight": 0.72}
+{"template_id": "fa_wh_010", "question": "After listening to the recording, which time span corresponds to each word in this transcript: '{text}'", "answer": "aligned_text", "weight": 0.61}
+{"template_id": "fa_wh_011", "question": "What is the word-by-word timing for the transcript below in this recording after listening to the audio? '{text}'", "answer": "aligned_text", "weight": 0.62}
+{"template_id": "fa_wh_012", "question": "Can you listen to the audio and map each word in this transcript to its start and end time? '{text}'", "answer": "aligned_text", "weight": 0.77}
+{"template_id": "fa_wh_013", "question": "Could you listen to the clip and return the aligned word sequence for this transcript with timestamps? '{text}'", "answer": "aligned_text", "weight": 0.65}
+{"template_id": "fa_wh_014", "question": "How can this transcript be aligned to the clip word by word after listening to the audio? '{text}'", "answer": "aligned_text", "weight": 0.55}
+{"template_id": "fa_wh_015", "question": "After listening to the audio, what does the force alignment look like for the given transcript: '{text}'", "answer": "aligned_text", "weight": 0.52}
+{"template_id": "fa_wh_016", "question": "Can you listen to the recording and help me get a word-level force alignment for this text? '{text}'", "answer": "aligned_text", "weight": 0.69}
+{"template_id": "fa_constrained_001", "question": "Listen to the audio. Using the transcript below, return only the word-level force alignment in [start-end] word format, one word per line: '{text}'", "answer": "aligned_text", "weight": 0.55}
+{"template_id": "fa_constrained_002", "question": "Listen to the recording and, given this transcript, output only the aligned words with timestamps in the format [start-end] word. Put each entry on a new line: '{text}'", "answer": "aligned_text", "weight": 0.53}
+{"template_id": "fa_constrained_003", "question": "Listen to the audio, align this transcript to it, and return the result as newline-separated [start-end] word entries: '{text}'", "answer": "aligned_text", "weight": 0.57}
+{"template_id": "fa_constrained_004", "question": "Please listen to the clip and provide the force alignment for this transcript. Use one [start-end] word item per line and nothing else: '{text}'", "answer": "aligned_text", "weight": 0.51}
+{"template_id": "fa_constrained_006", "question": "Listen to the audio and generate a word-level force alignment for the transcript below. Output one timestamped word per line, with no explanation: '{text}'", "answer": "aligned_text", "weight": 0.56}
+{"template_id": "fa_constrained_007", "question": "After listening to the recording, give the alignment for the following transcript as [start-end] word on separate lines. Do not add extra text: '{text}'", "answer": "aligned_text", "weight": 0.45}
+{"template_id": "fa_constrained_008", "question": "Listen to the audio and return the word timings for this transcript in the exact format [start-end] word, one line per word: '{text}'", "answer": "aligned_text", "weight": 0.56}
+{"template_id": "fa_constrained_009", "question": "Please listen to the recording, align this transcript to it, and output only newline-delimited timestamped words: '{text}'", "answer": "aligned_text", "weight": 0.5}
+{"template_id": "fa_constrained_010", "question": "Listen to the clip. Given the transcript below, produce the word-level alignment only. Format each line as [start-end] word: '{text}'", "answer": "aligned_text", "weight": 0.53}
+{"template_id": "fa_constrained_011", "question": "Can you listen to the audio and return just the force-aligned word list for this transcript, with one [start-end] word per line? '{text}'", "answer": "aligned_text", "weight": 0.5}
+{"template_id": "fa_constrained_012", "question": "Could you please listen to the recording and generate a word-level force alignment given this transcription? Output only [start-end] word entries, one per line: '{text}'", "answer": "aligned_text", "weight": 0.45}
+{"template_id": "fa_constrained_013", "question": "After listening to the audio, how would you write the alignment for this transcript if the output must be one [start-end] word entry per line? '{text}'", "answer": "aligned_text", "weight": 0.34}
+{"template_id": "fa_constrained_014", "question": "Listen to the clip and return only the aligned transcript with word timestamps for the text below. Use the format [start-end] word and no commentary: '{text}'", "answer": "aligned_text", "weight": 0.52}
+{"template_id": "fa_casual_001", "question": "Help! Listen to the audio and give me a word-level alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.54}
+{"template_id": "fa_casual_002", "question": "Can you listen to the audio and time-align this text for me? '{text}'", "answer": "aligned_text", "weight": 0.76}
+{"template_id": "fa_casual_003", "question": "I already have the transcript. Just listen to the audio and line the timestamps up word by word: '{text}'", "answer": "aligned_text", "weight": 0.66}
+{"template_id": "fa_casual_004", "question": "Listen to the clip and give me the word timings for this one: '{text}'", "answer": "aligned_text", "weight": 0.73}
+{"template_id": "fa_casual_005", "question": "Can you listen to the audio, match this transcript to it, and give me the word timestamps? '{text}'", "answer": "aligned_text", "weight": 0.75}
+{"template_id": "fa_polite_002", "question": "Could you please listen to the audio and align the following transcript to it with word-level timestamps: '{text}'", "answer": "aligned_text", "weight": 0.78}
+{"template_id": "fa_polite_004", "question": "Would you please listen to the clip and produce the force alignment for this utterance using the provided transcript: '{text}'", "answer": "aligned_text", "weight": 0.66}
+{"template_id": "fa_polite_005", "question": "I have the transcript already. Could you please listen to the audio and align it at the word level for me? '{text}'", "answer": "aligned_text", "weight": 0.8}
+{"template_id": "fa_workflow_001", "question": "I am currently working on a speech timing analysis pipeline. Could you listen to the audio and generate a word-level force alignment for this transcript: '{text}'", "answer": "aligned_text", "weight": 0.56}
+{"template_id": "fa_workflow_002", "question": "I am building a dataset with word timestamps. Please listen to the recording and align this transcript to it: '{text}'", "answer": "aligned_text", "weight": 0.63}
+{"template_id": "fa_workflow_003", "question": "I am preparing supervision data for a speech project. Can you listen to the audio and return the word-level alignment for: '{text}'", "answer": "aligned_text", "weight": 0.57}
+{"template_id": "fa_workflow_004", "question": "I am currently processing an utterance for forced alignment. Please listen to the clip and assign timestamps to each word in: '{text}'", "answer": "aligned_text", "weight": 0.53}
