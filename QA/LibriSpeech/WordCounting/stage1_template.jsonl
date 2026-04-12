@@ -1,0 +1,156 @@
+{"question_template": "How many words are spoken in this utterance?", "answer_template": "{word_count}", "weight": 1.0}
+{"question_template": "How many words are in this speech sample?", "answer_template": "{word_count}", "weight": 0.98}
+{"question_template": "Count the number of words in this audio clip.", "answer_template": "{word_count}", "weight": 0.95}
+{"question_template": "Give me the word count for this utterance.", "answer_template": "{word_count}", "weight": 0.95}
+{"question_template": "Report the number of words spoken in this clip.", "answer_template": "{word_count}", "weight": 0.92}
+{"question_template": "Tell me how many words this speaker says.", "answer_template": "{word_count}", "weight": 0.96}
+{"question_template": "What is the word count for this recording?", "answer_template": "{word_count}", "weight": 0.93}
+{"question_template": "What is the number of words in this utterance?", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "How many spoken words does this clip contain?", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Please count how many words are spoken in this recording.", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Can you count the words in this speech sample?", "answer_template": "{word_count}", "weight": 0.95}
+{"question_template": "Could you tell me the word count of this audio sample?", "answer_template": "{word_count}", "weight": 0.88}
+{"question_template": "How many words did the speaker say in this clip?", "answer_template": "{word_count}", "weight": 0.98}
+{"question_template": "How many words are there in this recording?", "answer_template": "{word_count}", "weight": 0.97}
+{"question_template": "What's the word count for this utterance?", "answer_template": "{word_count}", "weight": 0.98}
+{"question_template": "What's the total number of words spoken here?", "answer_template": "{word_count}", "weight": 0.95}
+{"question_template": "Can you tell me how many words are spoken in this utterance?", "answer_template": "{word_count}", "weight": 0.94}
+{"question_template": "Could you count the total number of words in this clip?", "answer_template": "{word_count}", "weight": 0.88}
+{"question_template": "How many words were spoken in this audio sample?", "answer_template": "{word_count}", "weight": 0.94}
+{"question_template": "What is the total word count in this speech recording?", "answer_template": "{word_count}", "weight": 0.88}
+{"question_template": "Help me count the number of words in this speech sample.", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "I need the word count for this utterance.", "answer_template": "{word_count}", "weight": 0.86}
+{"question_template": "Quick check: how many words are in this clip?", "answer_template": "{word_count}", "weight": 0.95}
+{"question_template": "For this audio, how many words are spoken?", "answer_template": "{word_count}", "weight": 0.93}
+{"question_template": "In this utterance, how many words does the speaker produce?", "answer_template": "{word_count}", "weight": 0.82}
+{"question_template": "Based on this speech sample, how many words are spoken?", "answer_template": "{word_count}", "weight": 0.8}
+{"question_template": "According to this utterance, how many words were said?", "answer_template": "{word_count}", "weight": 0.72}
+{"question_template": "From this recording, what is the word count?", "answer_template": "{word_count}", "weight": 0.76}
+{"question_template": "How many words can be counted in this spoken clip?", "answer_template": "{word_count}", "weight": 0.68}
+{"question_template": "How many words does this recording contain?", "answer_template": "{word_count}", "weight": 0.92}
+{"question_template": "Please tell me how many words are spoken in this audio clip.", "answer_template": "{word_count}", "weight": 0.92}
+{"question_template": "Can you please give the word count for this speech recording?", "answer_template": "{word_count}", "weight": 0.84}
+{"question_template": "Could you please tell me how many words the speaker says in this sample?", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Would you tell me the number of words spoken in this utterance?", "answer_template": "{word_count}", "weight": 0.7}
+{"question_template": "If you listen to this clip, how many words are spoken?", "answer_template": "{word_count}", "weight": 0.92}
+{"question_template": "After listening to this speech sample, how many words would you count?", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Listen to this clip carefully and tell me how many words are spoken.", "answer_template": "{word_count}", "weight": 0.95}
+{"question_template": "Please listen to the utterance and report the number of words spoken.", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Listen to the recording and count how many words the speaker says.", "answer_template": "{word_count}", "weight": 0.94}
+{"question_template": "According to this speech clip, how many words did you hear?", "answer_template": "{word_count}", "weight": 0.87}
+{"question_template": "Answer with the word count only.", "answer_template": "{word_count}", "weight": 0.62}
+{"question_template": "Return only the number of words spoken in this utterance.", "answer_template": "{word_count}", "weight": 0.5}
+{"question_template": "Respond with a single integer: the number of words in this clip.", "answer_template": "{word_count}", "weight": 0.4}
+{"question_template": "Listen to the audio and give the word count as a number only.", "answer_template": "{word_count}", "weight": 0.35}
+{"question_template": "Provide the total number of words in this speech sample using digits only.", "answer_template": "{word_count}", "weight": 0.3}
+{"question_template": "State the word count for this utterance in numeral form.", "answer_template": "{word_count}", "weight": 0.25}
+{"question_template": "Report the number of spoken words, and output digits only.", "answer_template": "{word_count}", "weight": 0.25}
+{"question_template": "Write only the integer word count for this recording.", "answer_template": "{word_count}", "weight": 0.22}
+{"question_template": "Return the word count in English words.", "answer_template": "{num2words_value(word_count)}", "weight": 0.2}
+{"question_template": "Answer using English words instead of digits: how many words are spoken?", "answer_template": "{num2words_value(word_count)}", "weight": 0.24}
+{"question_template": "Give the number of words spoken in this clip, written out in words.", "answer_template": "{num2words_value(word_count)}", "weight": 0.25}
+{"question_template": "Respond with a short phrase in the form 'word count: N'.", "answer_template": "{'word count: ' + str(word_count)}", "weight": 0.18}
+{"question_template": "Return the answer as 'N words'.", "answer_template": "{str(word_count) + ' words'}", "weight": 0.35}
+{"question_template": "Report the word count in the format 'N word(s)'.", "answer_template": "{str(word_count) + ' word' if word_count == 1 else str(word_count) + ' words'}", "weight": 0.18}
+{"question_template": "Answer in JSON with the key 'word_count'. What is the number of words in this utterance?", "answer_template": "{\"word_count\": {word_count}}", "weight": 0.1}
+{"question_template": "Provide the result as a JSON object with the field 'word_count'.", "answer_template": "{\"word_count\": {word_count}}", "weight": 0.08}
+{"question_template": "Reply with a key-value pair in the form 'word_count=N'.", "answer_template": "{'word_count=' + str(word_count)}", "weight": 0.06}
+{"question_template": "Respond in the format 'The word count is N'.", "answer_template": "{'The word count is ' + str(word_count)}", "weight": 0.12}
+{"question_template": "Tell me the number of words spoken in this clip, and include the unit word 'words'.", "answer_template": "{str(word_count) + ' words'}", "weight": 0.2}
+{"question_template": "Count the spoken words in this utterance and return only 'N words'.", "answer_template": "{str(word_count) + ' words'}", "weight": 0.18}
+{"question_template": "Count the words spoken in this utterance.", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Provide the word count for this speech clip.", "answer_template": "{word_count}", "weight": 0.88}
+{"question_template": "Identify the total number of words spoken in this recording.", "answer_template": "{word_count}", "weight": 0.65}
+{"question_template": "Give the total word count for this audio sample.", "answer_template": "{word_count}", "weight": 0.86}
+{"question_template": "Report how many words are spoken in this speech recording.", "answer_template": "{word_count}", "weight": 0.84}
+{"question_template": "Measure the number of words in this utterance.", "answer_template": "{word_count}", "weight": 0.45}
+{"question_template": "State the total number of spoken words in this clip.", "answer_template": "{word_count}", "weight": 0.7}
+{"question_template": "Compute the word count of this audio sample.", "answer_template": "{word_count}", "weight": 0.35}
+{"question_template": "Count the total spoken words in this recording.", "answer_template": "{word_count}", "weight": 0.62}
+{"question_template": "Provide the number of words spoken by the speaker in this clip.", "answer_template": "{word_count}", "weight": 0.8}
+{"question_template": "List the word count for this utterance.", "answer_template": "{word_count}", "weight": 0.3}
+{"question_template": "Check this speech sample and report the word count.", "answer_template": "{word_count}", "weight": 0.58}
+{"question_template": "Determine how many words are spoken in this audio clip.", "answer_template": "{word_count}", "weight": 0.6}
+{"question_template": "Return the total number of words in this utterance.", "answer_template": "{word_count}", "weight": 0.35}
+{"question_template": "Find the word count of this spoken clip.", "answer_template": "{word_count}", "weight": 0.55}
+{"question_template": "How many words does this utterance contain?", "answer_template": "{word_count}", "weight": 0.95}
+{"question_template": "How many words are spoken in this recording overall?", "answer_template": "{word_count}", "weight": 0.88}
+{"question_template": "What is the total number of words spoken in this audio clip?", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "What word count do you get for this speech sample?", "answer_template": "{word_count}", "weight": 0.72}
+{"question_template": "How many words did the speaker produce in this utterance?", "answer_template": "{word_count}", "weight": 0.78}
+{"question_template": "Can you tell me the total number of words in this recording?", "answer_template": "{word_count}", "weight": 0.88}
+{"question_template": "Could you count how many words are spoken in this clip?", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "How many spoken words are there in this audio sample?", "answer_template": "{word_count}", "weight": 0.92}
+{"question_template": "What is the word count of the speech in this clip?", "answer_template": "{word_count}", "weight": 0.82}
+{"question_template": "Can you estimate how many words are spoken in this utterance?", "answer_template": "{word_count}", "weight": 0.75}
+{"question_template": "Could you tell me how many words this speaker says here?", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "How many words would you count in this recording?", "answer_template": "{word_count}", "weight": 0.83}
+{"question_template": "What is the number of spoken words in this sample?", "answer_template": "{word_count}", "weight": 0.8}
+{"question_template": "How many words can you count in this utterance?", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Could you give me the word count for this speech clip?", "answer_template": "{word_count}", "weight": 0.85}
+{"question_template": "I need your help counting the number of words in this utterance.", "answer_template": "{word_count}", "weight": 0.88}
+{"question_template": "Can you help me find the word count for this speech sample?", "answer_template": "{word_count}", "weight": 0.86}
+{"question_template": "Please help me count how many words are spoken in this clip.", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "I need help figuring out the total number of words in this recording.", "answer_template": "{word_count}", "weight": 0.82}
+{"question_template": "Could you help me determine the word count of this utterance?", "answer_template": "{word_count}", "weight": 0.72}
+{"question_template": "Help me out: how many words are spoken in this audio clip?", "answer_template": "{word_count}", "weight": 0.94}
+{"question_template": "I could use some help counting the spoken words in this sample.", "answer_template": "{word_count}", "weight": 0.82}
+{"question_template": "Would you help me get the word count for this recording?", "answer_template": "{word_count}", "weight": 0.78}
+{"question_template": "I need a hand counting the number of words in this speech clip.", "answer_template": "{word_count}", "weight": 0.82}
+{"question_template": "Please help me work out how many words the speaker says in this utterance.", "answer_template": "{word_count}", "weight": 0.8}
+{"question_template": "Can you help me check the total word count for this audio sample?", "answer_template": "{word_count}", "weight": 0.84}
+{"question_template": "I need some help with this speech sample. How many words are spoken?", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Could you help me count the total spoken words in this recording?", "answer_template": "{word_count}", "weight": 0.82}
+{"question_template": "Please help me determine how many words this clip contains.", "answer_template": "{word_count}", "weight": 0.8}
+{"question_template": "I need your help reporting the word count for this utterance.", "answer_template": "{word_count}", "weight": 0.76}
+{"question_template": "I am currently working on a speech analytics project. Can you count the number of words spoken in this utterance?", "answer_template": "{word_count}", "weight": 0.72}
+{"question_template": "I am preparing metadata for a speech dataset. Please give me the word count for this audio sample.", "answer_template": "{word_count}", "weight": 0.68}
+{"question_template": "I am building a benchmark for spoken language tasks. How many words are spoken in this clip?", "answer_template": "{word_count}", "weight": 0.72}
+{"question_template": "I am reviewing utterance-level annotations right now. Can you tell me the number of words in this recording?", "answer_template": "{word_count}", "weight": 0.66}
+{"question_template": "I am working on speech tempo analysis. Please count how many words are spoken in this sample.", "answer_template": "{word_count}", "weight": 0.68}
+{"question_template": "I am organizing a corpus of read speech and need the word count for this utterance.", "answer_template": "{word_count}", "weight": 0.72}
+{"question_template": "I am validating transcript-derived statistics. What is the total number of words spoken in this clip?", "answer_template": "{word_count}", "weight": 0.62}
+{"question_template": "I am currently checking speech-length metadata. Can you report the word count of this audio clip?", "answer_template": "{word_count}", "weight": 0.62}
+{"question_template": "I am creating labels for a speech processing task. How many words does this utterance contain?", "answer_template": "{word_count}", "weight": 0.66}
+{"question_template": "I am working on audio indexing and need the number of words spoken in this recording.", "answer_template": "{word_count}", "weight": 0.68}
+{"question_template": "I am comparing utterances by verbal length. Please tell me the word count for this speech sample.", "answer_template": "{word_count}", "weight": 0.7}
+{"question_template": "I am building a word-count estimation dataset. Can you count the words spoken in this utterance?", "answer_template": "{word_count}", "weight": 0.7}
+{"question_template": "I am cleaning annotation files for a speech corpus. What is the word count for this clip?", "answer_template": "{word_count}", "weight": 0.66}
+{"question_template": "I am doing utterance-level analysis for spoken audio. How many words are spoken here?", "answer_template": "{word_count}", "weight": 0.72}
+{"question_template": "I am currently working on speech data validation. Could you give me the total number of words in this recording?", "answer_template": "{word_count}", "weight": 0.7}
+{"question_template": "Listen to the audio and tell me how many words are spoken in this utterance.", "answer_template": "{word_count}", "weight": 0.94}
+{"question_template": "After listening to the speech sample, how many words are in it?", "answer_template": "{word_count}", "weight": 0.92}
+{"question_template": "Listen to this audio clip and count the number of words spoken.", "answer_template": "{word_count}", "weight": 0.94}
+{"question_template": "Listen to the utterance and give me the word count.", "answer_template": "{word_count}", "weight": 0.92}
+{"question_template": "Listen to the clip and report the number of words spoken.", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Listen to the speaker and tell me how many words are said.", "answer_template": "{word_count}", "weight": 0.84}
+{"question_template": "After listening to the recording, what is the word count?", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Listen to this utterance and tell me the number of words in it.", "answer_template": "{word_count}", "weight": 0.88}
+{"question_template": "Listen to the clip and tell me how many spoken words it contains.", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Please listen to the recording and count how many words are spoken.", "answer_template": "{word_count}", "weight": 0.92}
+{"question_template": "Can you listen to this speech sample and count the words?", "answer_template": "{word_count}", "weight": 0.93}
+{"question_template": "Could you listen to this audio sample and tell me its word count?", "answer_template": "{word_count}", "weight": 0.88}
+{"question_template": "Listen to this clip and tell me how many words the speaker says.", "answer_template": "{word_count}", "weight": 0.94}
+{"question_template": "After listening to the recording, how many words are there?", "answer_template": "{word_count}", "weight": 0.93}
+{"question_template": "Listen to the utterance and tell me its word count.", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Listen to this speech recording and tell me the total number of words spoken.", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "Help me count the number of words in this speech sample after listening to it.", "answer_template": "{word_count}", "weight": 0.82}
+{"question_template": "I need the word count for this utterance. Please listen to the audio first.", "answer_template": "{word_count}", "weight": 0.8}
+{"question_template": "Quick check after listening: how many words are in this clip?", "answer_template": "{word_count}", "weight": 0.82}
+{"question_template": "For this audio, after listening to it, how many words are spoken?", "answer_template": "{word_count}", "weight": 0.76}
+{"question_template": "Based on listening to this speech sample, how many words are spoken?", "answer_template": "{word_count}", "weight": 0.76}
+{"question_template": "From listening to this recording, what is the word count?", "answer_template": "{word_count}", "weight": 0.72}
+{"question_template": "Please listen to this audio clip and tell me how many words are spoken.", "answer_template": "{word_count}", "weight": 0.92}
+{"question_template": "Can you please listen to this speech recording and give the word count?", "answer_template": "{word_count}", "weight": 0.88}
+{"question_template": "Could you please listen to this sample and tell me how many words the speaker says?", "answer_template": "{word_count}", "weight": 0.9}
+{"question_template": "I need your help counting the number of words in this utterance. Please listen to the audio.", "answer_template": "{word_count}", "weight": 0.78}
+{"question_template": "Can you help me find the word count for this speech sample after listening to it?", "answer_template": "{word_count}", "weight": 0.8}
+{"question_template": "Please help me count how many words are spoken in this clip by listening carefully.", "answer_template": "{word_count}", "weight": 0.82}
+{"question_template": "Could you help me determine the word count of this utterance after listening to it?", "answer_template": "{word_count}", "weight": 0.74}
+{"question_template": "Please help me work out how many words the speaker says in this utterance by listening to the audio.", "answer_template": "{word_count}", "weight": 0.72}
+{"question_template": "I am currently working on a speech analytics project. Please listen to this utterance and count the number of words spoken.", "answer_template": "{word_count}", "weight": 0.66}
+{"question_template": "I am preparing metadata for a speech dataset. Please listen to this audio sample and give me the word count.", "answer_template": "{word_count}", "weight": 0.64}
+{"question_template": "I am building a benchmark for spoken language tasks. After listening to this clip, how many words are spoken?", "answer_template": "{word_count}", "weight": 0.68}
+{"question_template": "I am reviewing utterance-level annotations right now. Can you listen to this recording and tell me the number of words?", "answer_template": "{word_count}", "weight": 0.64}
+{"question_template": "I am working on speech tempo analysis. Please listen to this sample and count how many words are spoken.", "answer_template": "{word_count}", "weight": 0.66}
+{"question_template": "I am building a word-count estimation dataset. Can you listen to this utterance and count the words spoken?", "answer_template": "{word_count}", "weight": 0.68}
