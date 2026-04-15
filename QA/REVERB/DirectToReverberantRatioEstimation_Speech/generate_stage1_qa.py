@@ -388,6 +388,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--keep-metadata",
         action="store_true",
+        default=True,
         help="Include the original metadata row under the output key 'metadata'.",
     )
     return parser.parse_args()
