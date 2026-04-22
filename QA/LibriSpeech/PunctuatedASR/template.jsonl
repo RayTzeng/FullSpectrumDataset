@@ -258,3 +258,63 @@
 {"question": "Could you please listen to the clip and write out the spoken words?", "answer": "text", "weight": 0.96}
 {"question": "Just listen to this and transcribe it for me.", "answer": "text", "weight": 0.99}
 {"question": "Please listen to this audio recording and provide the exact transcript.", "answer": "text", "weight": 0.75}
+{"question":"I am preparing meeting notes. Can you transcribe this audio into clean written text?","answer":"text","weight":0.95}
+{"question":"I am documenting an interview and need the spoken content written out clearly. Can you transcribe this clip?","answer":"text","weight":0.92}
+{"question":"I am working on a report and need a readable transcript of this recording. Can you write it out?","answer":"text","weight":0.90}
+{"question":"I am reviewing a voice memo for my records. Please transcribe what is said in this audio.","answer":"text","weight":0.88}
+{"question":"I am organizing call records and need this recording turned into written text. Can you transcribe it?","answer":"text","weight":0.86}
+{"question":"I am preparing documentation and need the exact spoken content from this clip in written form.","answer":"text","weight":0.82}
+{"question":"I am compiling notes from recorded discussions. Please write out what is said in this audio.","answer":"text","weight":0.89}
+{"question":"I am turning spoken material into written documentation. Can you transcribe this recording?","answer":"text","weight":0.78}
+{"question":"I am processing recorded remarks and need them in normal written form. What is said here?","answer":"text","weight":0.74}
+{"question":"I am creating a written record of this conversation. Please transcribe the audio.","answer":"text","weight":0.90}
+{"question":"I am working on a transcript for archival purposes. Can you write out the speech in this clip?","answer":"text","weight":0.68}
+{"question":"I am preparing written materials from audio recordings. Please convert this speech into text.","answer":"text","weight":0.73}
+{"question":"I am summarizing a recorded discussion and first need the full transcript. Can you provide it?","answer":"text","weight":0.94}
+{"question":"I am editing content from a recorded talk. Please write down exactly what is said here.","answer":"text","weight":0.84}
+{"question":"I am converting recorded speech into a written draft. Can you transcribe this utterance?","answer":"text","weight":0.80}
+{"question":"I am working on a case where I need the spoken words from this clip written out accurately.","answer":"text","weight":0.65}
+{"question":"I am producing a text version of this recording for review. What does the speaker say?","answer":"text","weight":0.72}
+{"question":"I am preparing materials based on this audio and need the spoken content transcribed.","answer":"text","weight":0.76}
+{"question":"I am making a clean written record from this voice recording. Can you provide the transcript?","answer":"text","weight":0.87}
+{"question":"I am handling audio-to-text documentation. Please transcribe the speech in this recording.","answer":"text","weight":0.58}
+{"question":"You are helping me turn recorded speech into written notes. Please transcribe this clip.","answer":"text","weight":0.70}
+{"question":"You are assisting with documentation, and I need this audio rendered as written text.","answer":"text","weight":0.48}
+{"question":"You are tasked with preparing a readable transcript from this recording. What is being said?","answer":"text","weight":0.44}
+{"question":"You are helping convert a spoken utterance into a final written version. Can you transcribe this?","answer":"text","weight":0.50}
+{"question":"You are assisting with recordkeeping. Please write out the contents of this audio clip.","answer":"text","weight":0.42}
+{"question":"You are supporting a workflow that requires speech-to-text conversion. Please transcribe this recording.","answer":"text","weight":0.30}
+{"question":"For my documentation workflow, I need this spoken clip written out as text. Can you do that?","answer":"text","weight":0.55}
+{"question":"As part of preparing written records, please transcribe the speech in this audio.","answer":"text","weight":0.67}
+{"question":"For a transcription workflow I am running, I need the exact words from this clip in written form.","answer":"text","weight":0.46}
+{"question":"In the workflow I am working on, this recording needs to be turned into clear written text. What does it say?","answer":"text","weight":0.52}
+{"question":"I need your help transcribing this audio into written text.","answer":"text","weight":0.93}
+{"question":"Can you help me write out what is being said in this recording?","answer":"text","weight":0.95}
+{"question":"I need help getting the transcript for this clip.","answer":"text","weight":0.90}
+{"question":"Could you help me turn this speech into text?","answer":"text","weight":0.89}
+{"question":"I need your help with this recording. What is the speaker saying?","answer":"text","weight":0.92}
+{"question":"Can you help me transcribe the spoken content of this audio?","answer":"text","weight":0.91}
+{"question":"I need help writing down exactly what is said in this clip.","answer":"text","weight":0.88}
+{"question":"Would you help me transcribe this utterance?","answer":"text","weight":0.78}
+{"question":"I need your help producing a clean transcript of this recording.","answer":"text","weight":0.86}
+{"question":"Could you help me figure out what is being said here and write it out?","answer":"text","weight":0.90}
+{"question":"Please help me convert this audio into written text.","answer":"text","weight":0.89}
+{"question":"I need help with the transcript for this speech sample.","answer":"text","weight":0.84}
+{"question":"Can you help me capture the spoken words from this recording in text form?","answer":"text","weight":0.83}
+{"question":"I need your help writing out this audio clip as a transcript.","answer":"text","weight":0.85}
+{"question":"Could you help me transcribe this recording accurately?","answer":"text","weight":0.90}
+{"question":"Please help me by writing down the speech in this clip.","answer":"text","weight":0.82}
+{"question":"I need help obtaining the full written version of what is said here.","answer":"text","weight":0.76}
+{"question":"Can you help me with an audio transcription for this utterance?","answer":"text","weight":0.68}
+{"question":"I need your help turning this spoken recording into readable text.","answer":"text","weight":0.84}
+{"question":"Would you help me write out what the speaker says in this audio?","answer":"text","weight":0.79}
+{"question":"Please help me transcribe this clip for my notes.","answer":"text","weight":0.94}
+{"question":"I could use your help transcribing the words spoken in this recording.","answer":"text","weight":0.87}
+{"question":"Can you help me generate the transcript of this audio segment?","answer":"text","weight":0.80}
+{"question":"I need help writing down the contents of this recording.","answer":"text","weight":0.86}
+{"question":"Could you help me produce the exact transcript of this utterance?","answer":"text","weight":0.82}
+{"question":"Please help me understand what is said here by transcribing the audio.","answer":"text","weight":0.88}
+{"question":"I need your help with speech-to-text for this clip. Can you transcribe it?","answer":"text","weight":0.56}
+{"question":"Can you help me create a written transcript from this audio recording?","answer":"text","weight":0.85}
+{"question":"I need help turning this utterance into a written transcript.","answer":"text","weight":0.81}
+{"question":"Would you please help me write out everything said in this clip?","answer":"text","weight":0.83}
