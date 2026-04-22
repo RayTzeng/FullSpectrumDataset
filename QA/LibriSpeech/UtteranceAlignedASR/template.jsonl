@@ -1,0 +1,403 @@
+{"question":"Transcribe this audio with utterance-level timestamps.","answer":"aligned_text","weight":0.93}
+{"question":"Provide an utterance-level timestamped transcript for this clip.","answer":"aligned_text","weight":0.86}
+{"question":"Return the transcript with start and end times for each utterance.","answer":"aligned_text","weight":0.72}
+{"question":"Write out this speech with a timestamp for every utterance.","answer":"aligned_text","weight":0.64}
+{"question":"Generate an utterance-timed transcript of this recording.","answer":"aligned_text","weight":0.60}
+{"question":"Give me the spoken segments along with their utterance-level timings.","answer":"aligned_text","weight":0.58}
+{"question":"Produce a timestamped transcription for this audio, utterance by utterance.","answer":"aligned_text","weight":0.63}
+{"question":"Transcribe this clip and mark the timing of each utterance.","answer":"aligned_text","weight":0.78}
+{"question":"Create an utterance-level aligned transcript for this recording.","answer":"aligned_text","weight":0.42}
+{"question":"Provide the transcript of this audio with per-utterance timestamps.","answer":"aligned_text","weight":0.72}
+{"question":"Can you transcribe this audio with utterance-level timestamps?","answer":"aligned_text","weight":0.95}
+{"question":"Could you provide a timestamped transcript for this speech clip?","answer":"aligned_text","weight":0.90}
+{"question":"Can you write out what is said here and include the timing of each utterance?","answer":"aligned_text","weight":0.84}
+{"question":"Could you return the spoken segments with start and end times for each one?","answer":"aligned_text","weight":0.68}
+{"question":"Can you give me an utterance-by-utterance timed transcript of this recording?","answer":"aligned_text","weight":0.62}
+{"question":"Could you transcribe this clip and show when each utterance starts and ends?","answer":"aligned_text","weight":0.86}
+{"question":"Can you provide the transcript with utterance-level timing information?","answer":"aligned_text","weight":0.74}
+{"question":"Could you write the speech in this clip with timestamps for every utterance?","answer":"aligned_text","weight":0.76}
+{"question":"Can you turn this recording into an utterance-timestamped transcript?","answer":"aligned_text","weight":0.66}
+{"question":"Could you generate a transcript of this audio with timing for each utterance?","answer":"aligned_text","weight":0.78}
+{"question":"What is being said in this recording, with timestamps for each utterance?","answer":"aligned_text","weight":0.88}
+{"question":"What are the spoken segments in this clip? Please include utterance-level timings.","answer":"aligned_text","weight":0.67}
+{"question":"What is the utterance-level timestamped transcript of this audio?","answer":"aligned_text","weight":0.61}
+{"question":"What does the speaker say here? Return each utterance with its start and end time.","answer":"aligned_text","weight":0.79}
+{"question":"What is the full transcript of this clip with utterance timings?","answer":"aligned_text","weight":0.72}
+{"question":"What is said in this clip? Please mark when each utterance occurs.","answer":"aligned_text","weight":0.77}
+{"question":"How would you transcribe this audio with utterance-level timestamps?","answer":"aligned_text","weight":0.64}
+{"question":"How should this recording be written out if each utterance needs a timestamp?","answer":"aligned_text","weight":0.55}
+{"question":"How would the speech in this clip look as an utterance-timed transcript?","answer":"aligned_text","weight":0.50}
+{"question":"How should I write this recording out with start and end times for every utterance?","answer":"aligned_text","weight":0.56}
+{"question":"Listen to the audio and provide an utterance-level timestamped transcript.","answer":"aligned_text","weight":0.83}
+{"question":"Listen to this clip and write each spoken utterance with its timing.","answer":"aligned_text","weight":0.76}
+{"question":"Listen carefully and return the transcript with start and end times for each utterance.","answer":"aligned_text","weight":0.71}
+{"question":"Based on this recording, transcribe the speech utterance by utterance with timestamps.","answer":"aligned_text","weight":0.66}
+{"question":"From this audio, produce a transcript that includes the timing of every utterance.","answer":"aligned_text","weight":0.64}
+{"question":"Using the clip, write out the spoken content with utterance-level time boundaries.","answer":"aligned_text","weight":0.49}
+{"question":"Please listen to the recording and provide the utterances with their timestamps.","answer":"aligned_text","weight":0.74}
+{"question":"After listening to this audio, return an utterance-timed transcript.","answer":"aligned_text","weight":0.43}
+{"question":"Listen to this clip carefully. Can you provide each utterance with its start and end time?","answer":"aligned_text","weight":0.84}
+{"question":"Please listen to the clip and transcribe it with timing information for every utterance.","answer":"aligned_text","weight":0.80}
+{"question":"Transcribe this audio utterance by utterance. Return each line in the format [start-end] text.","answer":"aligned_text","weight":0.46}
+{"question":"Provide an utterance-level timestamped transcript for this clip, using one line per utterance in the format [start-end] text.","answer":"aligned_text","weight":0.34}
+{"question":"Write out the spoken content of this recording with start and end times for each utterance, formatted as [start-end] text.","answer":"aligned_text","weight":0.38}
+{"question":"Return an utterance-level transcript of this audio, with each utterance on its own line in [start-end] text format.","answer":"aligned_text","weight":0.31}
+{"question":"Can you transcribe this clip with utterance-level timestamps? Please format each line as [start-end] text.","answer":"aligned_text","weight":0.40}
+{"question":"Transcribe this audio. Output one line per utterance using [start-end] text format.","answer":"aligned_text","weight":0.28}
+{"question":"Provide the utterance-level transcript, with each line formatted as [start-end] text.","answer":"aligned_text","weight":0.25}
+{"question":"Write the transcription with one utterance per line and include each utterance's start and end time.","answer":"aligned_text","weight":0.42}
+{"question":"Generate the transcript in [start-end] text format, one utterance per line.","answer":"aligned_text","weight":0.24}
+{"question":"Please output the spoken content as a newline-separated list of [start-end] text entries.","answer":"aligned_text","weight":0.18}
+{"question":"Return an utterance-timestamped transcript using one line per utterance and bracketed time spans.","answer":"aligned_text","weight":0.27}
+{"question":"Format the transcription so that each line contains a start time, end time, and the utterance spoken.","answer":"aligned_text","weight":0.22}
+{"question":"Give me the transcript in an utterance-level alignment format: [start-end] text.","answer":"aligned_text","weight":0.16}
+{"question":"Provide a transcript where every utterance appears on its own line with its time interval.","answer":"aligned_text","weight":0.37}
+{"question":"Help me provide a timestamped transcription for this speech clip.","answer":"aligned_text","weight":0.68}
+{"question":"Help! I want to turn this recording into an utterance-timed transcript.","answer":"aligned_text","weight":0.41}
+{"question":"Can you help me write out this audio with timestamps for every utterance?","answer":"aligned_text","weight":0.79}
+{"question":"Could you help me produce an utterance-level aligned transcript of this clip?","answer":"aligned_text","weight":0.39}
+{"question":"I need help getting the transcript of this recording with utterance timings.","answer":"aligned_text","weight":0.74}
+{"question":"Please help me transcribe this speech and mark the start and end of each utterance.","answer":"aligned_text","weight":0.73}
+{"question":"I need a transcript for this clip, with timing for each utterance. Can you help?","answer":"aligned_text","weight":0.85}
+{"question":"Help me turn this audio into a transcript where each utterance has a timestamp.","answer":"aligned_text","weight":0.63}
+{"question":"I want the spoken segments from this clip along with their timings. Can you provide that?","answer":"aligned_text","weight":0.71}
+{"question":"Could you help me make an utterance-by-utterance timestamped transcript for this audio?","answer":"aligned_text","weight":0.61}
+{"question":"I am preparing a timing-annotated transcript. Can you transcribe this clip utterance by utterance with timestamps?","answer":"aligned_text","weight":0.57}
+{"question":"I am working on speech timing analysis and need the transcript with start and end times for each utterance.","answer":"aligned_text","weight":0.46}
+{"question":"For my notes, I need a transcript of this recording where every utterance is time-aligned.","answer":"aligned_text","weight":0.52}
+{"question":"I am building an utterance-level timing record for this clip. Please write each utterance with its time span.","answer":"aligned_text","weight":0.32}
+{"question":"I need to review when each utterance occurs in this clip. Can you provide an utterance-timestamped transcript?","answer":"aligned_text","weight":0.58}
+{"question":"Listen to this clip carefully. Can you please return the transcript with utterance-level start and end times?","answer":"aligned_text","weight":0.81}
+{"question":"Could you please provide an utterance-level timestamped transcription of this recording, with one utterance per line?","answer":"aligned_text","weight":0.47}
+{"question":"Please transcribe this audio and include the precise time interval for every spoken utterance.","answer":"aligned_text","weight":0.62}
+{"question":"Would you please write out the spoken content of this clip with a start and end time for each utterance?","answer":"aligned_text","weight":0.67}
+{"question":"Please provide the full utterance-level aligned transcript for this recording in a clear line-by-line format.","answer":"aligned_text","weight":0.36}
+{"question":"Transcribe this recording with a timestamp for each utterance.","answer":"aligned_text","weight":0.86}
+{"question":"Provide the spoken segments in this clip together with their utterance timings.","answer":"aligned_text","weight":0.62}
+{"question":"Generate a transcript of this audio with utterance-by-utterance timestamps.","answer":"aligned_text","weight":0.66}
+{"question":"Write the transcript of this recording with start and end times for every utterance.","answer":"aligned_text","weight":0.72}
+{"question":"Produce an utterance-level timed transcription of this speech clip.","answer":"aligned_text","weight":0.52}
+{"question":"Return the spoken content of this audio as an utterance-timestamped transcript.","answer":"aligned_text","weight":0.54}
+{"question":"Create a transcript for this recording that includes timing for each utterance.","answer":"aligned_text","weight":0.70}
+{"question":"Give the transcript of this clip with per-utterance time boundaries.","answer":"aligned_text","weight":0.48}
+{"question":"Write out the speech in this audio and include a time span for each utterance.","answer":"aligned_text","weight":0.60}
+{"question":"Produce the transcript with utterance-level start and end times.","answer":"aligned_text","weight":0.58}
+{"question":"Generate the utterance-level aligned transcript of this audio.","answer":"aligned_text","weight":0.34}
+{"question":"Return a time-aligned transcript for this clip, one utterance at a time.","answer":"aligned_text","weight":0.57}
+{"question":"Provide the utterance-by-utterance transcript of this recording with timestamps.","answer":"aligned_text","weight":0.67}
+{"question":"Write the spoken content with timing information for each individual utterance.","answer":"aligned_text","weight":0.56}
+{"question":"Produce a transcript of this clip that marks when every utterance begins and ends.","answer":"aligned_text","weight":0.66}
+{"question":"Give me an utterance-timed transcription of this speech sample.","answer":"aligned_text","weight":0.55}
+{"question":"Create an utterance-level timestamped transcript from this audio clip.","answer":"aligned_text","weight":0.58}
+{"question":"Return the transcript for this recording with a start and end time attached to each utterance.","answer":"aligned_text","weight":0.63}
+{"question":"Write an utterance-level timing transcript for this recording.","answer":"aligned_text","weight":0.33}
+{"question":"Produce the spoken transcript with utterance-level timing annotations.","answer":"aligned_text","weight":0.31}
+{"question":"What is the utterance-level timestamped transcript of this speech clip?","answer":"aligned_text","weight":0.60}
+{"question":"What are the spoken segments in this recording, with each utterance's timing included?","answer":"aligned_text","weight":0.69}
+{"question":"What does this audio say if each utterance is marked with its start and end time?","answer":"aligned_text","weight":0.57}
+{"question":"What is the full utterance-by-utterance timed transcript of this clip?","answer":"aligned_text","weight":0.52}
+{"question":"What is said in this clip when written as a timestamped utterance-level transcript?","answer":"aligned_text","weight":0.44}
+{"question":"Can you provide the spoken segments here along with their time boundaries?","answer":"aligned_text","weight":0.74}
+{"question":"Can you transcribe this recording and show the timing for every utterance?","answer":"aligned_text","weight":0.86}
+{"question":"Can you return a transcript of this audio with per-utterance timestamps?","answer":"aligned_text","weight":0.84}
+{"question":"Could you write out what is said in this clip with a timestamp for each utterance?","answer":"aligned_text","weight":0.80}
+{"question":"Could you provide the utterance-level aligned transcript of this recording?","answer":"aligned_text","weight":0.41}
+{"question":"Could you mark when each spoken utterance occurs in this audio and return the transcript?","answer":"aligned_text","weight":0.67}
+{"question":"How would you transcribe this recording with utterance-level timing information?","answer":"aligned_text","weight":0.54}
+{"question":"How should this audio be written out if every utterance needs a start and end time?","answer":"aligned_text","weight":0.52}
+{"question":"How would the transcript look if each utterance in this clip were timestamped?","answer":"aligned_text","weight":0.49}
+{"question":"How should the spoken segments in this recording be listed with their timings?","answer":"aligned_text","weight":0.46}
+{"question":"What would the transcript of this speech look like with timing for each utterance?","answer":"aligned_text","weight":0.53}
+{"question":"Can you tell me what is being said here and when each utterance occurs?","answer":"aligned_text","weight":0.78}
+{"question":"Could you turn this audio into an utterance-timestamped transcript?","answer":"aligned_text","weight":0.70}
+{"question":"How would you represent this clip as an utterance-by-utterance timed transcript?","answer":"aligned_text","weight":0.42}
+{"question":"What is the spoken content of this recording with per-utterance start and end times?","answer":"aligned_text","weight":0.58}
+{"question":"Help me get an utterance-timestamped transcript for this clip.","answer":"aligned_text","weight":0.71}
+{"question":"Can you jot this down utterance by utterance with timestamps?","answer":"aligned_text","weight":0.62}
+{"question":"Write out what they're saying here and mark each utterance's timing.","answer":"aligned_text","weight":0.74}
+{"question":"Can you put this audio into an utterance-level timed transcript?","answer":"aligned_text","weight":0.60}
+{"question":"Give me the spoken segments from this clip with timing for each one.","answer":"aligned_text","weight":0.76}
+{"question":"I want the transcript for this audio, plus when each utterance happens.","answer":"aligned_text","weight":0.82}
+{"question":"Can you break this speech out utterance by utterance with timestamps?","answer":"aligned_text","weight":0.71}
+{"question":"Type out what is said here and include each utterance's start and end time.","answer":"aligned_text","weight":0.77}
+{"question":"Can you map out the utterances in this clip with their timings?","answer":"aligned_text","weight":0.63}
+{"question":"Write down the speech here with a timestamp on every utterance.","answer":"aligned_text","weight":0.68}
+{"question":"Could you please provide an utterance-level timestamped transcript of this audio clip?","answer":"aligned_text","weight":0.80}
+{"question":"Would you please transcribe this recording and include the start and end time for each utterance?","answer":"aligned_text","weight":0.79}
+{"question":"Could you kindly write out the spoken content of this clip with per-utterance timestamps?","answer":"aligned_text","weight":0.66}
+{"question":"Please provide the transcript of this recording together with utterance-level timing information.","answer":"aligned_text","weight":0.63}
+{"question":"Would you mind returning an utterance-by-utterance timed transcript for this recording?","answer":"aligned_text","weight":0.61}
+{"question":"Could you please transcribe this audio and mark the time span of every spoken utterance?","answer":"aligned_text","weight":0.73}
+{"question":"Please write the spoken segments from this clip with their corresponding start and end times.","answer":"aligned_text","weight":0.70}
+{"question":"Would you be able to provide a time-aligned transcript for this speech sample?","answer":"aligned_text","weight":0.58}
+{"question":"Could you please return the transcript in an utterance-level timestamped form?","answer":"aligned_text","weight":0.48}
+{"question":"Please transcribe this clip and include timing boundaries for each individual utterance.","answer":"aligned_text","weight":0.71}
+{"question":"I am preparing a timing-annotated transcript for this audio. Please write each utterance with its start and end time.","answer":"aligned_text","weight":0.49}
+{"question":"I am reviewing utterance timings in this speech clip and need the transcript with per-utterance timestamps.","answer":"aligned_text","weight":0.43}
+{"question":"I am making an utterance-level timing record for this recording. Can you transcribe it with timestamps?","answer":"aligned_text","weight":0.38}
+{"question":"I am documenting when each spoken utterance occurs in this clip. Please provide the timed transcript.","answer":"aligned_text","weight":0.44}
+{"question":"I am analyzing speech timing and need a transcript that includes every utterance's time span.","answer":"aligned_text","weight":0.39}
+{"question":"I am creating alignment notes for this clip and need the utterances listed with their start and end times.","answer":"aligned_text","weight":0.34}
+{"question":"I am preparing an utterance-level timing reference from this audio. Can you provide the transcript with timestamps?","answer":"aligned_text","weight":0.37}
+{"question":"I am building a line-by-line timing transcript for this speech sample. Please return each utterance with its timing.","answer":"aligned_text","weight":0.36}
+{"question":"I am working on a transcript that tracks when each utterance is spoken. Can you generate it for this clip?","answer":"aligned_text","weight":0.45}
+{"question":"I am compiling utterance timing annotations for this recording and need the transcript in timed form.","answer":"aligned_text","weight":0.35}
+{"question":"For my speech timing workflow, I need this clip transcribed with per-utterance boundaries.","answer":"aligned_text","weight":0.40}
+{"question":"As part of my annotation workflow, please provide the spoken segments with their utterance-level timestamps.","answer":"aligned_text","weight":0.32}
+{"question":"I am preparing a temporal transcript of this clip and need each utterance paired with its timing.","answer":"aligned_text","weight":0.37}
+{"question":"I am organizing a timing-aware transcript for this audio. Please mark when every utterance starts and ends.","answer":"aligned_text","weight":0.41}
+{"question":"I am creating an utterance-by-utterance timing sheet from this recording. Can you transcribe it accordingly?","answer":"aligned_text","weight":0.33}
+{"question":"I need your help transcribing this audio with utterance-level timestamps.","answer":"aligned_text","weight":0.74}
+{"question":"Can you help me write out this clip with the timing for each utterance?","answer":"aligned_text","weight":0.77}
+{"question":"I need help getting an utterance-by-utterance timed transcript of this recording.","answer":"aligned_text","weight":0.65}
+{"question":"Could you help me transcribe this clip and mark each utterance's start and end time?","answer":"aligned_text","weight":0.73}
+{"question":"Please help me turn this speech clip into an utterance-timestamped transcript.","answer":"aligned_text","weight":0.67}
+{"question":"I need your help producing the transcript of this audio with per-utterance timings.","answer":"aligned_text","weight":0.56}
+{"question":"Can you help me create an utterance-level aligned transcript from this recording?","answer":"aligned_text","weight":0.35}
+{"question":"I need help writing down what is said here with timestamps for every utterance.","answer":"aligned_text","weight":0.72}
+{"question":"Could you help me get the spoken segments from this clip along with their timings?","answer":"aligned_text","weight":0.70}
+{"question":"Please help me transcribe this recording utterance by utterance with timing information.","answer":"aligned_text","weight":0.61}
+{"question":"I need your help making a timed transcript for this clip.","answer":"aligned_text","weight":0.69}
+{"question":"Can you help me figure out what is said here and when each utterance occurs?","answer":"aligned_text","weight":0.72}
+{"question":"I need help turning this audio into a transcript with start and end times for each utterance.","answer":"aligned_text","weight":0.68}
+{"question":"Transcribe this speech sample with utterance-level boundaries. Output each entry on a new line in the format [start_time-end_time] text.","answer":"aligned_text","weight":0.23}
+{"question":"Provide an utterance-level timestamped transcript for this clip. Write one utterance per line as [start_time-end_time] text.","answer":"aligned_text","weight":0.22}
+{"question":"Return the transcript of this audio with utterance-level timing. Format every line as [start_time-end_time] text.","answer":"aligned_text","weight":0.21}
+{"question":"Write out the spoken segments with timestamps for this recording. Use one line per utterance in [start_time-end_time] text format.","answer":"aligned_text","weight":0.23}
+{"question":"Could you produce a transcript of this speech sample with utterance-level boundaries? Output as [start_time-end_time] text, one entry per line.","answer":"aligned_text","weight":0.20}
+{"question":"Transcribe this speech sample with utterance-level boundaries. Output each entry on a new line as [start_time-end_time] TEXT. For example:\n[0.50-1.80] HELLO WORLD\n[2.10-3.40] HOW ARE YOU","answer":"aligned_text.upper()","weight":0.08}
+{"question":"Could you help me produce a transcript of this speech sample with utterance-level boundaries? Output as [start_time-end_time] TEXT, one utterance per line. For example:\n[0.50-1.80] HELLO WORLD\n[2.10-3.40] HOW ARE YOU","answer":"aligned_text.upper()","weight":0.07}
+{"question":"Provide an utterance-level timestamped transcript for this clip. Write each utterance on its own line in the format [start_time-end_time] TEXT. For example:\n[0.50-1.80] HELLO WORLD\n[2.10-3.40] HOW ARE YOU","answer":"aligned_text.upper()","weight":0.07}
+{"question":"Return the utterance-level transcript of this audio. Format each line as [start_time-end_time] TEXT using uppercase utterances. For example:\n[0.50-1.80] HELLO WORLD\n[2.10-3.40] HOW ARE YOU","answer":"aligned_text.upper()","weight":0.06}
+{"question":"Write out this recording with utterance-level timestamps. Use the format [start_time-end_time] TEXT for every line. For example:\n[0.50-1.80] HELLO WORLD\n[2.10-3.40] HOW ARE YOU","answer":"aligned_text.upper()","weight":0.06}
+{"question":"Transcribe this audio with utterance-level timing. Use semicolons to separate each [start_time-end_time] text entry. For example: [0.50-1.80] hello world; [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', '; ')","weight":0.12}
+{"question":"Could you provide the utterance-level timestamped transcript for this clip? Use semicolons to separate each entry. For example: [0.50-1.80] hello world; [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', '; ')","weight":0.12}
+{"question":"Return a transcript of this speech sample with utterance-level boundaries. Separate each [start_time-end_time] text item with a semicolon. For example: [0.50-1.80] hello world; [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', '; ')","weight":0.10}
+{"question":"Write the spoken segments with timestamps for this recording. Present the result on one line with semicolons between entries. For example: [0.50-1.80] hello world; [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', '; ')","weight":0.10}
+{"question":"Give me the utterance-level aligned transcript of this clip, using semicolons between each timed utterance entry. For example: [0.50-1.80] hello world; [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', '; ')","weight":0.09}
+{"question":"Transcribe this clip with utterance-level timestamps. Separate each [start_time-end_time] text entry with commas. For example: [0.50-1.80] hello world, [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ', ')","weight":0.11}
+{"question":"Provide the transcript of this audio with utterance-level timing, using commas between entries instead of line breaks. For example: [0.50-1.80] hello world, [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ', ')","weight":0.11}
+{"question":"Return the utterance-timestamped transcript for this clip as a single line, with commas separating each entry. For example: [0.50-1.80] hello world, [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ', ')","weight":0.10}
+{"question":"Write out the spoken segments with their timestamps and use commas to separate the timed utterance entries. For example: [0.50-1.80] hello world, [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ', ')","weight":0.10}
+{"question":"Could you produce an utterance-level timed transcript of this recording? Please separate each entry with commas. For example: [0.50-1.80] hello world, [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ', ')","weight":0.09}
+{"question":"Transcribe this recording with utterance-level boundaries. Use a vertical bar to separate each [start_time-end_time] text entry. For example: [0.50-1.80] hello world | [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ' | ')","weight":0.08}
+{"question":"Provide the utterance-level transcript with timestamps for this clip, separating each entry with |. For example: [0.50-1.80] hello world | [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ' | ')","weight":0.08}
+{"question":"Return the timed transcript of this audio as a single line with vertical bars between entries. For example: [0.50-1.80] hello world | [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ' | ')","weight":0.07}
+{"question":"Write the spoken content with utterance-level timings, using | to separate each timed utterance item. For example: [0.50-1.80] hello world | [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ' | ')","weight":0.07}
+{"question":"Could you give me the utterance-level aligned transcript for this clip with vertical bars between entries? For example: [0.50-1.80] hello world | [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ' | ')","weight":0.06}
+{"question":"Transcribe this audio with utterance-level timestamps. Number each line in the format 1. [start_time-end_time] text, 2. [start_time-end_time] text, and so on. For example:\n1. [0.50-1.80] hello world\n2. [2.10-3.40] how are you","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.10}
+{"question":"Provide an utterance-level timestamped transcript for this clip and prefix each line with its index number. For example:\n1. [0.50-1.80] hello world\n2. [2.10-3.40] how are you","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.10}
+{"question":"Return the transcript with utterance-level timings, using a numbered list where each line begins with 1., 2., 3., and so forth. For example:\n1. [0.50-1.80] hello world\n2. [2.10-3.40] how are you","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.09}
+{"question":"Write out this speech sample with per-utterance timestamps. Format the output as a numbered line-by-line list. For example:\n1. [0.50-1.80] hello world\n2. [2.10-3.40] how are you","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.09}
+{"question":"Could you help me transcribe this recording with utterance-level boundaries? Please number each timed utterance entry on its own line. For example:\n1. [0.50-1.80] hello world\n2. [2.10-3.40] how are you","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.08}
+{"question":"Transcribe this audio with utterance-level timestamps. Output each entry on a new line in the format (start_time-end_time) text. For example:\n(0.50-1.80) hello world\n(2.10-3.40) how are you","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.09}
+{"question":"Provide the utterance-level timed transcript for this clip. Use the format (start_time-end_time) text for each line. For example:\n(0.50-1.80) hello world\n(2.10-3.40) how are you","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.08}
+{"question":"Return the transcript with utterance-level timing, writing each entry as (start_time-end_time) text. For example:\n(0.50-1.80) hello world\n(2.10-3.40) how are you","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.08}
+{"question":"Write the spoken content of this recording with timestamps in the format (start_time-end_time) text, one per line. For example:\n(0.50-1.80) hello world\n(2.10-3.40) how are you","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.08}
+{"question":"Could you help me transcribe this clip with utterance timings? Please format each line as (start_time-end_time) text. For example:\n(0.50-1.80) hello world\n(2.10-3.40) how are you","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.07}
+{"question":"Transcribe this clip with utterance-level timing. Use the format start_time-end_time: text for each entry. For example:\n0.50-1.80: hello world\n2.10-3.40: how are you","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.07}
+{"question":"Provide the utterance-level aligned transcript of this audio. Write each line as start_time-end_time: text. For example:\n0.50-1.80: hello world\n2.10-3.40: how are you","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.06}
+{"question":"Return the transcript with per-utterance timestamps, formatted as start_time-end_time: text. For example:\n0.50-1.80: hello world\n2.10-3.40: how are you","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.06}
+{"question":"Write out this clip with utterance timings using the structure start_time-end_time: text, one per line. For example:\n0.50-1.80: hello world\n2.10-3.40: how are you","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.06}
+{"question":"Could you produce an utterance-level timestamped transcript for this recording? Use start_time-end_time: text format. For example:\n0.50-1.80: hello world\n2.10-3.40: how are you","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.07}
+{"question":"Transcribe this speech clip with utterance-level boundaries. Use the format text @ start_time-end_time for each line. For example:\nhello world @ 0.50-1.80\nhow are you @ 2.10-3.40","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.05}
+{"question":"Provide the transcript of this audio with per-utterance timing, formatting each entry as text @ start_time-end_time. For example:\nhello world @ 0.50-1.80\nhow are you @ 2.10-3.40","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.05}
+{"question":"Return the utterance-level timed transcript for this clip in the form text @ start_time-end_time. For example:\nhello world @ 0.50-1.80\nhow are you @ 2.10-3.40","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.05}
+{"question":"Write the spoken segments with timestamps, using text @ start_time-end_time on each line. For example:\nhello world @ 0.50-1.80\nhow are you @ 2.10-3.40","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.05}
+{"question":"Could you help me generate an utterance-level aligned transcript of this clip? Format each line as text @ start_time-end_time. For example:\nhello world @ 0.50-1.80\nhow are you @ 2.10-3.40","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.04}
+{"question":"Listen to this audio and transcribe it with utterance-level timestamps.","answer":"aligned_text","weight":0.88}
+{"question":"Listen to this clip and provide an utterance-level timestamped transcript.","answer":"aligned_text","weight":0.82}
+{"question":"Listen to this audio and return the transcript with start and end times for each utterance.","answer":"aligned_text","weight":0.76}
+{"question":"Listen to this speech and write it out with a timestamp for every utterance.","answer":"aligned_text","weight":0.69}
+{"question":"Listen to this recording and generate an utterance-timed transcript.","answer":"aligned_text","weight":0.57}
+{"question":"Listen to this audio and give me the spoken segments along with their utterance-level timings.","answer":"aligned_text","weight":0.63}
+{"question":"Listen to this audio and produce a timestamped transcription, utterance by utterance.","answer":"aligned_text","weight":0.68}
+{"question":"Listen to this clip and transcribe it, marking the timing of each utterance.","answer":"aligned_text","weight":0.78}
+{"question":"Listen to this recording and create an utterance-level aligned transcript.","answer":"aligned_text","weight":0.39}
+{"question":"Listen to this audio and provide the transcript with per-utterance timestamps.","answer":"aligned_text","weight":0.74}
+{"question":"Can you listen to this audio and transcribe it with utterance-level timestamps?","answer":"aligned_text","weight":0.85}
+{"question":"Could you listen to this speech clip and provide a timestamped transcript?","answer":"aligned_text","weight":0.79}
+{"question":"Can you listen to this audio and write out what is said here, including the timing of each utterance?","answer":"aligned_text","weight":0.81}
+{"question":"Could you listen to this clip and return the spoken segments with start and end times for each one?","answer":"aligned_text","weight":0.67}
+{"question":"Can you listen to this recording and give me an utterance-by-utterance timed transcript?","answer":"aligned_text","weight":0.61}
+{"question":"Could you listen to this clip and transcribe it, showing when each utterance starts and ends?","answer":"aligned_text","weight":0.80}
+{"question":"Can you listen to this audio and provide the transcript with utterance-level timing information?","answer":"aligned_text","weight":0.71}
+{"question":"Could you listen to this clip and write the speech with timestamps for every utterance?","answer":"aligned_text","weight":0.73}
+{"question":"Can you listen to this recording and turn it into an utterance-timestamped transcript?","answer":"aligned_text","weight":0.61}
+{"question":"Could you listen to this audio and generate a transcript with timing for each utterance?","answer":"aligned_text","weight":0.74}
+{"question":"What is being said in this recording? Please listen to the audio and include timestamps for each utterance.","answer":"aligned_text","weight":0.80}
+{"question":"What are the spoken segments in this clip? Please listen carefully and include utterance-level timings.","answer":"aligned_text","weight":0.64}
+{"question":"What is the utterance-level timestamped transcript of this audio? Please listen to the clip.","answer":"aligned_text","weight":0.56}
+{"question":"What does the speaker say here? Please listen to the audio and return each utterance with its start and end time.","answer":"aligned_text","weight":0.77}
+{"question":"What is the full transcript of this clip with utterance timings? Please listen to the clip.","answer":"aligned_text","weight":0.68}
+{"question":"What is said in this clip? Please listen to the audio and mark when each utterance occurs.","answer":"aligned_text","weight":0.73}
+{"question":"How would you transcribe this audio with utterance-level timestamps after listening to it?","answer":"aligned_text","weight":0.50}
+{"question":"How should this recording be written out if each utterance needs a timestamp? Please listen to the audio.","answer":"aligned_text","weight":0.44}
+{"question":"How would the speech in this clip look as an utterance-timed transcript after listening to it?","answer":"aligned_text","weight":0.39}
+{"question":"How should I write this recording out with start and end times for every utterance after listening to the audio?","answer":"aligned_text","weight":0.43}
+{"question":"Listen to this audio and transcribe it utterance by utterance. Return each line in the format [start-end] text.","answer":"aligned_text","weight":0.24}
+{"question":"Listen to this clip and provide an utterance-level timestamped transcript, using one line per utterance in the format [start-end] text.","answer":"aligned_text","weight":0.22}
+{"question":"Listen to this recording and write out the spoken content with start and end times for each utterance, formatted as [start-end] text.","answer":"aligned_text","weight":0.23}
+{"question":"Listen to this audio and return an utterance-level transcript, with each utterance on its own line in [start-end] text format.","answer":"aligned_text","weight":0.21}
+{"question":"Can you listen to this clip and transcribe it with utterance-level timestamps? Please format each line as [start-end] text.","answer":"aligned_text","weight":0.22}
+{"question":"Listen to this audio and transcribe it. Output one line per utterance using [start-end] text format.","answer":"aligned_text","weight":0.18}
+{"question":"Listen to this clip and provide the utterance-level transcript, with each line formatted as [start-end] text.","answer":"aligned_text","weight":0.18}
+{"question":"Listen to this recording and write the transcription with one utterance per line, including each utterance's start and end time.","answer":"aligned_text","weight":0.24}
+{"question":"Listen to this audio and generate the transcript in [start-end] text format, one utterance per line.","answer":"aligned_text","weight":0.17}
+{"question":"Listen to this clip and output the spoken content as a newline-separated list of [start-end] text entries.","answer":"aligned_text","weight":0.14}
+{"question":"Listen to this audio and return an utterance-timestamped transcript using one line per utterance and bracketed time spans.","answer":"aligned_text","weight":0.19}
+{"question":"Listen to this recording and format the transcription so that each line contains a start time, end time, and the utterance spoken.","answer":"aligned_text","weight":0.16}
+{"question":"Listen to this clip and give me the transcript in an utterance-level alignment format: [start-end] text.","answer":"aligned_text","weight":0.13}
+{"question":"Listen to this audio and provide a transcript where every utterance appears on its own line with its time interval.","answer":"aligned_text","weight":0.22}
+{"question":"Help me by listening to this speech clip and providing a timestamped transcription.","answer":"aligned_text","weight":0.56}
+{"question":"Help! Listen to this recording and turn it into an utterance-timed transcript.","answer":"aligned_text","weight":0.31}
+{"question":"Can you help me by listening to this audio and writing it out with timestamps for every utterance?","answer":"aligned_text","weight":0.68}
+{"question":"Could you help me by listening to this clip and producing an utterance-level aligned transcript?","answer":"aligned_text","weight":0.31}
+{"question":"I need help getting the transcript of this recording with utterance timings. Please listen to the audio.","answer":"aligned_text","weight":0.61}
+{"question":"Please help me by listening to this speech and marking the start and end of each utterance.","answer":"aligned_text","weight":0.63}
+{"question":"I need a transcript for this clip, with timing for each utterance. Can you listen and help?","answer":"aligned_text","weight":0.74}
+{"question":"Help me turn this audio into a transcript where each utterance has a timestamp by listening to the clip.","answer":"aligned_text","weight":0.48}
+{"question":"I want the spoken segments from this clip along with their timings. Can you listen to the audio and provide that?","answer":"aligned_text","weight":0.66}
+{"question":"Could you help me by listening to this audio and making an utterance-by-utterance timestamped transcript?","answer":"aligned_text","weight":0.53}
+{"question":"I am preparing a timing-annotated transcript. Please listen to this clip and transcribe it utterance by utterance with timestamps.","answer":"aligned_text","weight":0.41}
+{"question":"I am working on speech timing analysis and need the transcript with start and end times for each utterance. Please listen to the audio.","answer":"aligned_text","weight":0.33}
+{"question":"For my notes, I need a transcript of this recording where every utterance is time-aligned. Please listen to the clip.","answer":"aligned_text","weight":0.40}
+{"question":"I am building an utterance-level timing record for this clip. Please listen to the audio and write each utterance with its time span.","answer":"aligned_text","weight":0.25}
+{"question":"I need to review when each utterance occurs in this clip. Can you listen to the audio and provide an utterance-timestamped transcript?","answer":"aligned_text","weight":0.47}
+{"question":"Could you please listen to this recording and provide an utterance-level timestamped transcription, with one utterance per line?","answer":"aligned_text","weight":0.34}
+{"question":"Please listen to this audio and transcribe it, including the precise time interval for every spoken utterance.","answer":"aligned_text","weight":0.48}
+{"question":"Would you please listen to this clip and write out the spoken content with a start and end time for each utterance?","answer":"aligned_text","weight":0.58}
+{"question":"Please listen to this clip and provide the full utterance-level aligned transcript in a clear line-by-line format.","answer":"aligned_text","weight":0.27}
+{"question":"Listen to this recording and transcribe it with a timestamp for each utterance.","answer":"aligned_text","weight":0.75}
+{"question":"Listen to this clip and provide the spoken segments together with their utterance timings.","answer":"aligned_text","weight":0.62}
+{"question":"Listen to this audio and generate a transcript with utterance-by-utterance timestamps.","answer":"aligned_text","weight":0.60}
+{"question":"Listen to this clip and write the transcript with start and end times for every utterance.","answer":"aligned_text","weight":0.65}
+{"question":"Listen to this speech clip and produce an utterance-level timed transcription.","answer":"aligned_text","weight":0.47}
+{"question":"Listen to this audio and return the spoken content as an utterance-timestamped transcript.","answer":"aligned_text","weight":0.49}
+{"question":"Listen to this recording and create a transcript that includes timing for each utterance.","answer":"aligned_text","weight":0.66}
+{"question":"Listen to this clip and give the transcript with per-utterance time boundaries.","answer":"aligned_text","weight":0.45}
+{"question":"Listen to this audio and write out the speech, including a time span for each utterance.","answer":"aligned_text","weight":0.56}
+{"question":"Listen to this recording and produce the transcript with utterance-level start and end times.","answer":"aligned_text","weight":0.54}
+{"question":"Listen to this audio and generate the utterance-level aligned transcript.","answer":"aligned_text","weight":0.30}
+{"question":"Listen to this clip and return a time-aligned transcript, one utterance at a time.","answer":"aligned_text","weight":0.50}
+{"question":"Listen to this recording and provide the utterance-by-utterance transcript with timestamps.","answer":"aligned_text","weight":0.61}
+{"question":"Listen to this audio and write the spoken content with timing information for each individual utterance.","answer":"aligned_text","weight":0.48}
+{"question":"Listen to this clip and produce a transcript that marks when every utterance begins and ends.","answer":"aligned_text","weight":0.57}
+{"question":"Listen to this speech sample and give me an utterance-timed transcription.","answer":"aligned_text","weight":0.46}
+{"question":"Listen to this audio clip and create an utterance-level timestamped transcript.","answer":"aligned_text","weight":0.55}
+{"question":"Listen to this recording and return the transcript with a start and end time attached to each utterance.","answer":"aligned_text","weight":0.58}
+{"question":"Listen to this clip and write an utterance-level timing transcript.","answer":"aligned_text","weight":0.29}
+{"question":"Listen to this audio and produce the spoken transcript with utterance-level timing annotations.","answer":"aligned_text","weight":0.28}
+{"question":"What is the utterance-level timestamped transcript of this speech clip after listening to it?","answer":"aligned_text","weight":0.40}
+{"question":"What are the spoken segments in this recording, with each utterance's timing included? Please listen to the audio.","answer":"aligned_text","weight":0.58}
+{"question":"What does this audio say if each utterance is marked with its start and end time? Please listen to the clip.","answer":"aligned_text","weight":0.45}
+{"question":"What is the full utterance-by-utterance timed transcript of this clip? Please listen to the audio.","answer":"aligned_text","weight":0.39}
+{"question":"What is said in this clip when written as a timestamped utterance-level transcript? Please listen to the recording.","answer":"aligned_text","weight":0.32}
+{"question":"Can you listen to this audio and provide the spoken segments here along with their time boundaries?","answer":"aligned_text","weight":0.64}
+{"question":"Can you listen to this clip and show the timing for every utterance in the transcript?","answer":"aligned_text","weight":0.71}
+{"question":"Can you listen to this audio and return a transcript with per-utterance timestamps?","answer":"aligned_text","weight":0.71}
+{"question":"Could you listen to this clip and write out what is said with a timestamp for each utterance?","answer":"aligned_text","weight":0.69}
+{"question":"Could you listen to this recording and provide the utterance-level aligned transcript?","answer":"aligned_text","weight":0.33}
+{"question":"Could you listen to this audio and mark when each spoken utterance occurs, then return the transcript?","answer":"aligned_text","weight":0.58}
+{"question":"How would you transcribe this recording with utterance-level timing information after listening to it?","answer":"aligned_text","weight":0.38}
+{"question":"How should this audio be written out if every utterance needs a start and end time? Please listen to the clip.","answer":"aligned_text","weight":0.37}
+{"question":"How would the transcript look if each utterance in this clip were timestamped after listening to it?","answer":"aligned_text","weight":0.34}
+{"question":"How should the spoken segments in this clip be listed with their timings after listening to the audio?","answer":"aligned_text","weight":0.31}
+{"question":"What would the transcript of this speech look like with timing for each utterance? Please listen to the recording.","answer":"aligned_text","weight":0.37}
+{"question":"Can you listen to this clip and tell me what is being said here and when each utterance occurs?","answer":"aligned_text","weight":0.65}
+{"question":"Could you listen to this audio and turn it into an utterance-timestamped transcript?","answer":"aligned_text","weight":0.58}
+{"question":"How would you represent this clip as an utterance-by-utterance timed transcript after listening to it?","answer":"aligned_text","weight":0.28}
+{"question":"What is the spoken content of this recording with per-utterance start and end times? Please listen to the audio.","answer":"aligned_text","weight":0.45}
+{"question":"Help me get an utterance-timestamped transcript for this clip by listening to the audio.","answer":"aligned_text","weight":0.54}
+{"question":"Can you listen to this clip and jot it down utterance by utterance with timestamps?","answer":"aligned_text","weight":0.57}
+{"question":"Listen to this audio and write out what they're saying here, marking each utterance's timing.","answer":"aligned_text","weight":0.62}
+{"question":"Can you listen to this audio and put it into an utterance-level timed transcript?","answer":"aligned_text","weight":0.49}
+{"question":"Listen to this clip and give me the spoken segments with timing for each one.","answer":"aligned_text","weight":0.67}
+{"question":"I want the transcript for this audio, plus when each utterance happens. Can you listen to the clip?","answer":"aligned_text","weight":0.72}
+{"question":"Can you listen to this speech and break it out utterance by utterance with timestamps?","answer":"aligned_text","weight":0.60}
+{"question":"Listen to this clip and type out what is said here, including each utterance's start and end time.","answer":"aligned_text","weight":0.67}
+{"question":"Can you listen to this clip and map out the utterances with their timings?","answer":"aligned_text","weight":0.49}
+{"question":"Listen to this audio and write down the speech with a timestamp on every utterance.","answer":"aligned_text","weight":0.56}
+{"question":"Could you please listen to this audio clip and provide an utterance-level timestamped transcript?","answer":"aligned_text","weight":0.71}
+{"question":"Would you please listen to this recording and include the start and end time for each utterance in the transcript?","answer":"aligned_text","weight":0.70}
+{"question":"Could you kindly listen to this clip and write out the spoken content with per-utterance timestamps?","answer":"aligned_text","weight":0.55}
+{"question":"Please listen to this clip and provide the transcript together with utterance-level timing information.","answer":"aligned_text","weight":0.56}
+{"question":"Would you mind listening to this recording and returning an utterance-by-utterance timed transcript?","answer":"aligned_text","weight":0.53}
+{"question":"Could you please listen to this audio and mark the time span of every spoken utterance in the transcript?","answer":"aligned_text","weight":0.61}
+{"question":"Please listen to this clip and write the spoken segments with their corresponding start and end times.","answer":"aligned_text","weight":0.62}
+{"question":"Would you be able to listen to this speech sample and provide a time-aligned transcript?","answer":"aligned_text","weight":0.49}
+{"question":"Could you please listen to this audio and return the transcript in an utterance-level timestamped form?","answer":"aligned_text","weight":0.37}
+{"question":"Please listen to this clip and include timing boundaries for each individual utterance in the transcription.","answer":"aligned_text","weight":0.58}
+{"question":"I am preparing a timing-annotated transcript for this audio. Please listen and write each utterance with its start and end time.","answer":"aligned_text","weight":0.36}
+{"question":"I am reviewing utterance timings in this speech clip and need the transcript with per-utterance timestamps. Please listen to the audio.","answer":"aligned_text","weight":0.31}
+{"question":"I am making an utterance-level timing record for this recording. Can you listen to it and transcribe it with timestamps?","answer":"aligned_text","weight":0.28}
+{"question":"I am documenting when each spoken utterance occurs in this clip. Please listen to the audio and provide the timed transcript.","answer":"aligned_text","weight":0.31}
+{"question":"I am analyzing speech timing and need a transcript that includes every utterance's time span. Please listen to the audio.","answer":"aligned_text","weight":0.28}
+{"question":"I am creating alignment notes for this clip and need the utterances listed with their start and end times. Please listen to the recording.","answer":"aligned_text","weight":0.24}
+{"question":"I am preparing an utterance-level timing reference from this audio. Can you listen to it and provide the transcript with timestamps?","answer":"aligned_text","weight":0.26}
+{"question":"I am building a line-by-line timing transcript for this speech sample. Please listen and return each utterance with its timing.","answer":"aligned_text","weight":0.25}
+{"question":"I am working on a transcript that tracks when each utterance is spoken. Can you listen to this clip and generate it?","answer":"aligned_text","weight":0.32}
+{"question":"I am compiling utterance timing annotations for this recording and need the transcript in timed form. Please listen to the audio.","answer":"aligned_text","weight":0.25}
+{"question":"For my speech timing workflow, I need this clip transcribed with per-utterance boundaries. Please listen to the audio.","answer":"aligned_text","weight":0.28}
+{"question":"As part of my annotation workflow, please listen to this clip and provide the spoken segments with their utterance-level timestamps.","answer":"aligned_text","weight":0.22}
+{"question":"I am preparing a temporal transcript of this clip and need each utterance paired with its timing. Please listen to the audio.","answer":"aligned_text","weight":0.26}
+{"question":"I am organizing a timing-aware transcript for this audio. Please listen and mark when every utterance starts and ends.","answer":"aligned_text","weight":0.29}
+{"question":"I am creating an utterance-by-utterance timing sheet from this recording. Can you listen to it and transcribe it accordingly?","answer":"aligned_text","weight":0.23}
+{"question":"I need your help transcribing this audio with utterance-level timestamps. Please listen to the clip.","answer":"aligned_text","weight":0.61}
+{"question":"Can you help me by listening to this clip and writing it out with the timing for each utterance?","answer":"aligned_text","weight":0.65}
+{"question":"I need help getting an utterance-by-utterance timed transcript of this recording. Please listen to the audio.","answer":"aligned_text","weight":0.52}
+{"question":"Could you help me by listening to this clip and marking each utterance's start and end time?","answer":"aligned_text","weight":0.60}
+{"question":"Please help me by listening to this speech clip and turning it into an utterance-timestamped transcript.","answer":"aligned_text","weight":0.55}
+{"question":"I need your help producing the transcript of this audio with per-utterance timings. Please listen to the recording.","answer":"aligned_text","weight":0.44}
+{"question":"Can you help me by listening to this recording and creating an utterance-level aligned transcript?","answer":"aligned_text","weight":0.27}
+{"question":"I need help writing down what is said here with timestamps for every utterance. Please listen to the audio.","answer":"aligned_text","weight":0.61}
+{"question":"Could you help me get the spoken segments from this clip along with their timings by listening to the audio?","answer":"aligned_text","weight":0.57}
+{"question":"Please help me transcribe this recording utterance by utterance with timing information after listening to it.","answer":"aligned_text","weight":0.47}
+{"question":"I need your help making a timed transcript for this clip. Please listen to the audio.","answer":"aligned_text","weight":0.55}
+{"question":"Can you help me figure out what is said here and when each utterance occurs by listening to the clip?","answer":"aligned_text","weight":0.59}
+{"question":"I need help turning this audio into a transcript with start and end times for each utterance. Please listen to the recording.","answer":"aligned_text","weight":0.53}
+{"question":"Listen to this speech sample and transcribe it with utterance-level boundaries. Output each entry on a new line in the format [start_time-end_time] text.","answer":"aligned_text","weight":0.18}
+{"question":"Listen to this clip and provide an utterance-level timestamped transcript. Write one utterance per line as [start_time-end_time] text.","answer":"aligned_text","weight":0.18}
+{"question":"Listen to this audio and return the transcript with utterance-level timing. Format every line as [start_time-end_time] text.","answer":"aligned_text","weight":0.17}
+{"question":"Listen to this recording and write out the spoken segments with timestamps, using one line per utterance in [start_time-end_time] text format.","answer":"aligned_text","weight":0.18}
+{"question":"Could you listen to this speech sample and produce a transcript with utterance-level boundaries? Output as [start_time-end_time] text, one entry per line.","answer":"aligned_text","weight":0.16}
+{"question":"Listen to this speech sample and transcribe it with utterance-level boundaries. Output each entry on a new line as [start_time-end_time] TEXT. For example:\n[0.50-1.80] HELLO WORLD\n[2.10-3.40] HOW ARE YOU","answer":"aligned_text.upper()","weight":0.06}
+{"question":"Could you help me by listening to this speech sample and producing a transcript with utterance-level boundaries? Output as [start_time-end_time] TEXT, one utterance per line. For example:\n[0.50-1.80] HELLO WORLD\n[2.10-3.40] HOW ARE YOU","answer":"aligned_text.upper()","weight":0.05}
+{"question":"Listen to this clip and provide an utterance-level timestamped transcript. Write each utterance on its own line in the format [start_time-end_time] TEXT. For example:\n[0.50-1.80] HELLO WORLD\n[2.10-3.40] HOW ARE YOU","answer":"aligned_text.upper()","weight":0.05}
+{"question":"Listen to this audio and return the utterance-level transcript. Format each line as [start_time-end_time] TEXT using uppercase utterances. For example:\n[0.50-1.80] HELLO WORLD\n[2.10-3.40] HOW ARE YOU","answer":"aligned_text.upper()","weight":0.05}
+{"question":"Listen to this recording and write out the utterance-level timestamps using the format [start_time-end_time] TEXT for every line. For example:\n[0.50-1.80] HELLO WORLD\n[2.10-3.40] HOW ARE YOU","answer":"aligned_text.upper()","weight":0.05}
+{"question":"Listen to this audio and transcribe it with utterance-level timing. Use semicolons to separate each [start_time-end_time] text entry. For example: [0.50-1.80] hello world; [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', '; ')","weight":0.09}
+{"question":"Could you listen to this clip and provide the utterance-level timestamped transcript? Use semicolons to separate each entry. For example: [0.50-1.80] hello world; [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', '; ')","weight":0.09}
+{"question":"Listen to this speech sample and return a transcript with utterance-level boundaries. Separate each [start_time-end_time] text item with a semicolon. For example: [0.50-1.80] hello world; [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', '; ')","weight":0.08}
+{"question":"Listen to this recording and write the spoken segments with timestamps. Present the result on one line with semicolons between entries. For example: [0.50-1.80] hello world; [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', '; ')","weight":0.08}
+{"question":"Listen to this clip and give me the utterance-level aligned transcript, using semicolons between each timed utterance entry. For example: [0.50-1.80] hello world; [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', '; ')","weight":0.07}
+{"question":"Listen to this clip and transcribe it with utterance-level timestamps. Separate each [start_time-end_time] text entry with commas. For example: [0.50-1.80] hello world, [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ', ')","weight":0.08}
+{"question":"Listen to this audio and provide the transcript with utterance-level timing, using commas between entries instead of line breaks. For example: [0.50-1.80] hello world, [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ', ')","weight":0.08}
+{"question":"Listen to this clip and return the utterance-timestamped transcript as a single line, with commas separating each entry. For example: [0.50-1.80] hello world, [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ', ')","weight":0.07}
+{"question":"Listen to this recording and write out the spoken segments with their timestamps, using commas to separate the timed utterance entries. For example: [0.50-1.80] hello world, [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ', ')","weight":0.07}
+{"question":"Could you listen to this recording and produce an utterance-level timed transcript? Please separate each entry with commas. For example: [0.50-1.80] hello world, [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ', ')","weight":0.07}
+{"question":"Listen to this recording and transcribe it with utterance-level boundaries. Use a vertical bar to separate each [start_time-end_time] text entry. For example: [0.50-1.80] hello world | [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ' | ')","weight":0.06}
+{"question":"Listen to this clip and provide the utterance-level transcript with timestamps, separating each entry with |. For example: [0.50-1.80] hello world | [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ' | ')","weight":0.06}
+{"question":"Listen to this audio and return the timed transcript as a single line with vertical bars between entries. For example: [0.50-1.80] hello world | [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ' | ')","weight":0.06}
+{"question":"Listen to this recording and write the spoken content with utterance-level timings, using | to separate each timed utterance item. For example: [0.50-1.80] hello world | [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ' | ')","weight":0.06}
+{"question":"Could you listen to this clip and give me the utterance-level aligned transcript with vertical bars between entries? For example: [0.50-1.80] hello world | [2.10-3.40] how are you","answer":"aligned_text.replace('\\n', ' | ')","weight":0.05}
+{"question":"Listen to this audio and transcribe it with utterance-level timestamps. Number each line in the format 1. [start_time-end_time] text, 2. [start_time-end_time] text, and so on. For example:\n1. [0.50-1.80] hello world\n2. [2.10-3.40] how are you","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.08}
+{"question":"Listen to this clip and provide an utterance-level timestamped transcript, prefixing each line with its index number. For example:\n1. [0.50-1.80] hello world\n2. [2.10-3.40] how are you","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.08}
+{"question":"Listen to this audio and return the transcript with utterance-level timings using a numbered list where each line begins with 1., 2., 3., and so forth. For example:\n1. [0.50-1.80] hello world\n2. [2.10-3.40] how are you","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.07}
+{"question":"Listen to this speech sample and write it out with per-utterance timestamps. Format the output as a numbered line-by-line list. For example:\n1. [0.50-1.80] hello world\n2. [2.10-3.40] how are you","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.07}
+{"question":"Could you help me by listening to this recording and numbering each timed utterance entry on its own line? For example:\n1. [0.50-1.80] hello world\n2. [2.10-3.40] how are you","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.06}
+{"question":"Listen to this audio and transcribe it with utterance-level timestamps. Output each entry on a new line in the format (start_time-end_time) text. For example:\n(0.50-1.80) hello world\n(2.10-3.40) how are you","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.07}
+{"question":"Listen to this clip and provide the utterance-level timed transcript. Use the format (start_time-end_time) text for each line. For example:\n(0.50-1.80) hello world\n(2.10-3.40) how are you","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.06}
+{"question":"Listen to this audio and return the transcript with utterance-level timing, writing each entry as (start_time-end_time) text. For example:\n(0.50-1.80) hello world\n(2.10-3.40) how are you","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.06}
+{"question":"Listen to this recording and write the spoken content with timestamps in the format (start_time-end_time) text, one per line. For example:\n(0.50-1.80) hello world\n(2.10-3.40) how are you","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.06}
+{"question":"Could you listen to this clip and transcribe it with utterance timings, formatting each line as (start_time-end_time) text? For example:\n(0.50-1.80) hello world\n(2.10-3.40) how are you","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.05}
+{"question":"Listen to this clip and transcribe it with utterance-level timing. Use the format start_time-end_time: text for each entry. For example:\n0.50-1.80: hello world\n2.10-3.40: how are you","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.05}
+{"question":"Listen to this audio and provide the utterance-level aligned transcript, writing each line as start_time-end_time: text. For example:\n0.50-1.80: hello world\n2.10-3.40: how are you","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.05}
+{"question":"Listen to this clip and return the transcript with per-utterance timestamps, formatted as start_time-end_time: text. For example:\n0.50-1.80: hello world\n2.10-3.40: how are you","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.05}
+{"question":"Listen to this recording and write out the utterance timings using the structure start_time-end_time: text, one per line. For example:\n0.50-1.80: hello world\n2.10-3.40: how are you","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.05}
+{"question":"Could you listen to this recording and produce an utterance-level timestamped transcript using start_time-end_time: text format? For example:\n0.50-1.80: hello world\n2.10-3.40: how are you","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.05}
+{"question":"Listen to this speech clip and transcribe it with utterance-level boundaries. Use the format text @ start_time-end_time for each line. For example:\nhello world @ 0.50-1.80\nhow are you @ 2.10-3.40","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.04}
+{"question":"Listen to this audio and provide the transcript with per-utterance timing, formatting each entry as text @ start_time-end_time. For example:\nhello world @ 0.50-1.80\nhow are you @ 2.10-3.40","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.04}
+{"question":"Listen to this clip and return the utterance-level timed transcript in the form text @ start_time-end_time. For example:\nhello world @ 0.50-1.80\nhow are you @ 2.10-3.40","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.04}
+{"question":"Listen to this recording and write the spoken segments with timestamps, using text @ start_time-end_time on each line. For example:\nhello world @ 0.50-1.80\nhow are you @ 2.10-3.40","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.04}
+{"question":"Could you help me by listening to this clip and generating an utterance-level aligned transcript formatted as text @ start_time-end_time? For example:\nhello world @ 0.50-1.80\nhow are you @ 2.10-3.40","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.03}
