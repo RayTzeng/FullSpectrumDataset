@@ -1,0 +1,403 @@
+{"question":"Transcribe this audio with word-level timestamps.","answer":"aligned_text","weight":0.86}
+{"question":"Provide a word-level timestamped transcript for this clip.","answer":"aligned_text","weight":0.83}
+{"question":"Return the transcript with start and end times for each word.","answer":"aligned_text","weight":0.71}
+{"question":"Write out this speech with a timestamp for every word.","answer":"aligned_text","weight":0.78}
+{"question":"Generate a word-timed transcript of this recording.","answer":"aligned_text","weight":0.70}
+{"question":"Give me the spoken words along with their word-level timings.","answer":"aligned_text","weight":0.82}
+{"question":"Produce a timestamped transcription for this audio, word by word.","answer":"aligned_text","weight":0.67}
+{"question":"Transcribe this clip and mark the timing of each word.","answer":"aligned_text","weight":0.79}
+{"question":"Create a word-level aligned transcript for this utterance.","answer":"aligned_text","weight":0.60}
+{"question":"Provide the transcript of this audio with per-word timestamps.","answer":"aligned_text","weight":0.82}
+{"question":"Can you transcribe this audio with word-level timestamps?","answer":"aligned_text","weight":0.91}
+{"question":"Could you provide a timestamped transcript for this speech clip?","answer":"aligned_text","weight":0.84}
+{"question":"Can you write out what is said here and include the timing of each word?","answer":"aligned_text","weight":0.88}
+{"question":"Could you return the spoken words with start and end times for each one?","answer":"aligned_text","weight":0.79}
+{"question":"Can you give me a word-by-word timed transcript of this recording?","answer":"aligned_text","weight":0.77}
+{"question":"Could you transcribe this clip and show when each word starts and ends?","answer":"aligned_text","weight":0.86}
+{"question":"Can you provide the transcript with word-level timing information?","answer":"aligned_text","weight":0.83}
+{"question":"Could you write the speech in this clip with timestamps for every word?","answer":"aligned_text","weight":0.81}
+{"question":"Can you turn this recording into a word-timestamped transcript?","answer":"aligned_text","weight":0.82}
+{"question":"Could you generate a transcript of this audio with timing for each word?","answer":"aligned_text","weight":0.82}
+{"question":"What is being said in this recording, with timestamps for each word?","answer":"aligned_text","weight":0.76}
+{"question":"What are the spoken words in this clip? Please include word-level timings.","answer":"aligned_text","weight":0.79}
+{"question":"What is the word-level timestamped transcript of this audio?","answer":"aligned_text","weight":0.72}
+{"question":"What does the speaker say here? Return each word with its start and end time.","answer":"aligned_text","weight":0.74}
+{"question":"What is the full transcript of this utterance with word timings?","answer":"aligned_text","weight":0.74}
+{"question":"What is said in this clip? Please mark when each word occurs.","answer":"aligned_text","weight":0.81}
+{"question":"How would you transcribe this audio with word-level timestamps?","answer":"aligned_text","weight":0.72}
+{"question":"How should this recording be written out if each word needs a timestamp?","answer":"aligned_text","weight":0.63}
+{"question":"How would the speech in this clip look as a word-timed transcript?","answer":"aligned_text","weight":0.61}
+{"question":"How should I write this utterance out with start and end times for every word?","answer":"aligned_text","weight":0.58}
+{"question":"Listen to the audio and provide a word-level timestamped transcript.","answer":"aligned_text","weight":0.83}
+{"question":"Listen to this clip and write each spoken word with its timing.","answer":"aligned_text","weight":0.84}
+{"question":"Listen carefully and return the transcript with start and end times for each word.","answer":"aligned_text","weight":0.79}
+{"question":"Based on this recording, transcribe the speech word by word with timestamps.","answer":"aligned_text","weight":0.70}
+{"question":"From this audio, produce a transcript that includes the timing of every word.","answer":"aligned_text","weight":0.67}
+{"question":"Using the clip, write out the spoken content with word-level time boundaries.","answer":"aligned_text","weight":0.58}
+{"question":"Please listen to the recording and provide the words with their timestamps.","answer":"aligned_text","weight":0.84}
+{"question":"After listening to this audio, return a word-timed transcript.","answer":"aligned_text","weight":0.69}
+{"question":"Listen to this utterance carefully. Can you provide each word with its start and end time?","answer":"aligned_text","weight":0.84}
+{"question":"Please listen to the clip and transcribe it with timing information for every word.","answer":"aligned_text","weight":0.84}
+{"question":"Transcribe this audio word by word. Return each line in the format [start-end] word.","answer":"aligned_text","weight":0.54}
+{"question":"Provide a word-level timestamped transcript for this clip, using one line per word in the format [start-end] word.","answer":"aligned_text","weight":0.50}
+{"question":"Write out the spoken content of this recording with start and end times for each word, formatted as [start-end] word.","answer":"aligned_text","weight":0.52}
+{"question":"Return a word-level transcript of this audio, with each word on its own line in [start-end] word format.","answer":"aligned_text","weight":0.49}
+{"question":"Can you transcribe this clip with word-level timestamps? Please format each line as [start-end] word.","answer":"aligned_text","weight":0.55}
+{"question":"Transcribe this audio. Output one line per word using [start-end] word format.","answer":"aligned_text","weight":0.42}
+{"question":"Provide the word-level transcript, with each line formatted as [start-end] word.","answer":"aligned_text","weight":0.41}
+{"question":"Write the transcription with one word per line and include each word's start and end time.","answer":"aligned_text","weight":0.50}
+{"question":"Generate the transcript in [start-end] word format, one word per line.","answer":"aligned_text","weight":0.38}
+{"question":"Please output the spoken content as a newline-separated list of [start-end] word entries.","answer":"aligned_text","weight":0.29}
+{"question":"Return a word-timestamped transcript using one line per word and bracketed time spans.","answer":"aligned_text","weight":0.37}
+{"question":"Format the transcription so that each line contains a start time, end time, and the word spoken.","answer":"aligned_text","weight":0.40}
+{"question":"Give me the transcript in a word-level alignment format: [start-end] word.","answer":"aligned_text","weight":0.31}
+{"question":"Provide a transcript where every word appears on its own line with its time interval.","answer":"aligned_text","weight":0.43}
+{"question":"Help me provide a timestamped transcription for this speech clip.","answer":"aligned_text","weight":0.76}
+{"question":"Help! I want to turn this recording into a word-timed transcript.","answer":"aligned_text","weight":0.52}
+{"question":"Can you help me write out this audio with timestamps for every word?","answer":"aligned_text","weight":0.84}
+{"question":"Could you help me produce a word-level aligned transcript of this clip?","answer":"aligned_text","weight":0.66}
+{"question":"I need help getting the transcript of this recording with word timings.","answer":"aligned_text","weight":0.83}
+{"question":"Please help me transcribe this speech and mark the start and end of each word.","answer":"aligned_text","weight":0.81}
+{"question":"I need a transcript for this clip, with timing for each word. Can you help?","answer":"aligned_text","weight":0.89}
+{"question":"Help me turn this audio into a transcript where each word has a timestamp.","answer":"aligned_text","weight":0.77}
+{"question":"I want the spoken words from this clip along with their timings. Can you provide that?","answer":"aligned_text","weight":0.84}
+{"question":"Could you help me make a word-by-word timestamped transcript for this audio?","answer":"aligned_text","weight":0.78}
+{"question":"I am preparing a timing-annotated transcript. Can you transcribe this clip word by word with timestamps?","answer":"aligned_text","weight":0.72}
+{"question":"I am working on speech timing analysis and need the transcript with start and end times for each word.","answer":"aligned_text","weight":0.69}
+{"question":"For my notes, I need a transcript of this recording where every word is time-aligned.","answer":"aligned_text","weight":0.78}
+{"question":"I am building a word-level timing record for this utterance. Please write each word with its time span.","answer":"aligned_text","weight":0.57}
+{"question":"I need to review when each word occurs in this clip. Can you provide a word-timestamped transcript?","answer":"aligned_text","weight":0.82}
+{"question":"Listen to this clip carefully. Can you please return the transcript with word-level start and end times?","answer":"aligned_text","weight":0.81}
+{"question":"Could you please provide a word-level timestamped transcription of this recording, with one word per line?","answer":"aligned_text","weight":0.62}
+{"question":"Please transcribe this audio and include the precise time interval for every spoken word.","answer":"aligned_text","weight":0.69}
+{"question":"Would you please write out the spoken content of this clip with a start and end time for each word?","answer":"aligned_text","weight":0.76}
+{"question":"Please provide the full word-level aligned transcript for this utterance in a clear line-by-line format.","answer":"aligned_text","weight":0.56}
+{"question":"Transcribe this recording with a timestamp for each word.","answer":"aligned_text","weight":0.82}
+{"question":"Provide the spoken words in this clip together with their word timings.","answer":"aligned_text","weight":0.82}
+{"question":"Generate a transcript of this audio with word-by-word timestamps.","answer":"aligned_text","weight":0.71}
+{"question":"Write the transcript of this utterance with start and end times for every word.","answer":"aligned_text","weight":0.74}
+{"question":"Produce a word-level timed transcription of this speech clip.","answer":"aligned_text","weight":0.67}
+{"question":"Return the spoken content of this audio as a word-timestamped transcript.","answer":"aligned_text","weight":0.74}
+{"question":"Create a transcript for this recording that includes timing for each word.","answer":"aligned_text","weight":0.77}
+{"question":"Give the transcript of this clip with per-word time boundaries.","answer":"aligned_text","weight":0.66}
+{"question":"Write out the speech in this audio and include a time span for each word.","answer":"aligned_text","weight":0.76}
+{"question":"Produce the transcript with word-level start and end times.","answer":"aligned_text","weight":0.68}
+{"question":"Generate the word-level aligned transcript of this audio.","answer":"aligned_text","weight":0.57}
+{"question":"Return a time-aligned transcript for this utterance, one word at a time.","answer":"aligned_text","weight":0.53}
+{"question":"Provide the word-by-word transcript of this recording with timestamps.","answer":"aligned_text","weight":0.74}
+{"question":"Write the spoken content with timing information for each individual word.","answer":"aligned_text","weight":0.66}
+{"question":"Produce a transcript of this clip that marks when every word begins and ends.","answer":"aligned_text","weight":0.75}
+{"question":"Give me a word-timed transcription of this speech sample.","answer":"aligned_text","weight":0.68}
+{"question":"Create a word-level timestamped transcript from this audio clip.","answer":"aligned_text","weight":0.71}
+{"question":"Return the transcript for this recording with a start and end time attached to each word.","answer":"aligned_text","weight":0.73}
+{"question":"Write a word-level timing transcript for this utterance.","answer":"aligned_text","weight":0.59}
+{"question":"Produce the spoken transcript with word-level timing annotations.","answer":"aligned_text","weight":0.54}
+{"question":"What is the word-level timestamped transcript of this speech clip?","answer":"aligned_text","weight":0.70}
+{"question":"What are the spoken words in this recording, with each word's timing included?","answer":"aligned_text","weight":0.77}
+{"question":"What does this audio say if each word is marked with its start and end time?","answer":"aligned_text","weight":0.71}
+{"question":"What is the full word-by-word timed transcript of this utterance?","answer":"aligned_text","weight":0.68}
+{"question":"What is said in this clip when written as a timestamped word-level transcript?","answer":"aligned_text","weight":0.58}
+{"question":"Can you provide the spoken words here along with their time boundaries?","answer":"aligned_text","weight":0.81}
+{"question":"Can you transcribe this utterance and show the timing for every word?","answer":"aligned_text","weight":0.84}
+{"question":"Can you return a transcript of this audio with per-word timestamps?","answer":"aligned_text","weight":0.85}
+{"question":"Could you write out what is said in this clip with a timestamp for each word?","answer":"aligned_text","weight":0.82}
+{"question":"Could you provide the word-level aligned transcript of this recording?","answer":"aligned_text","weight":0.66}
+{"question":"Could you mark when each spoken word occurs in this audio and return the transcript?","answer":"aligned_text","weight":0.80}
+{"question":"How would you transcribe this recording with word-level timing information?","answer":"aligned_text","weight":0.64}
+{"question":"How should this audio be written out if every word needs a start and end time?","answer":"aligned_text","weight":0.57}
+{"question":"How would the transcript look if each word in this clip were timestamped?","answer":"aligned_text","weight":0.59}
+{"question":"How should the spoken words in this utterance be listed with their timings?","answer":"aligned_text","weight":0.55}
+{"question":"What would the transcript of this speech look like with timing for each word?","answer":"aligned_text","weight":0.60}
+{"question":"Can you tell me what is being said here and when each word occurs?","answer":"aligned_text","weight":0.86}
+{"question":"Could you turn this audio into a word-timestamped transcript?","answer":"aligned_text","weight":0.82}
+{"question":"How would you represent this clip as a word-by-word timed transcript?","answer":"aligned_text","weight":0.48}
+{"question":"What is the spoken content of this recording with per-word start and end times?","answer":"aligned_text","weight":0.73}
+{"question":"Help me get a word-timestamped transcript for this clip.","answer":"aligned_text","weight":0.84}
+{"question":"Can you jot this down word by word with timestamps?","answer":"aligned_text","weight":0.85}
+{"question":"Write out what they're saying here and mark each word's timing.","answer":"aligned_text","weight":0.86}
+{"question":"Can you put this audio into a word-level timed transcript?","answer":"aligned_text","weight":0.79}
+{"question":"Give me the words from this clip with timing for each one.","answer":"aligned_text","weight":0.82}
+{"question":"I want the transcript for this audio, plus when each word happens.","answer":"aligned_text","weight":0.83}
+{"question":"Can you break this speech out word by word with timestamps?","answer":"aligned_text","weight":0.80}
+{"question":"Type out what is said here and include each word's start and end time.","answer":"aligned_text","weight":0.81}
+{"question":"Can you map out the words in this clip with their timings?","answer":"aligned_text","weight":0.68}
+{"question":"Write down the speech here with a timestamp on every word.","answer":"aligned_text","weight":0.76}
+{"question":"Could you please provide a word-level timestamped transcript of this audio clip?","answer":"aligned_text","weight":0.83}
+{"question":"Would you please transcribe this recording and include the start and end time for each word?","answer":"aligned_text","weight":0.81}
+{"question":"Could you kindly write out the spoken content of this clip with per-word timestamps?","answer":"aligned_text","weight":0.74}
+{"question":"Please provide the transcript of this utterance together with word-level timing information.","answer":"aligned_text","weight":0.73}
+{"question":"Would you mind returning a word-by-word timed transcript for this recording?","answer":"aligned_text","weight":0.72}
+{"question":"Could you please transcribe this audio and mark the time span of every spoken word?","answer":"aligned_text","weight":0.78}
+{"question":"Please write the spoken words from this clip with their corresponding start and end times.","answer":"aligned_text","weight":0.79}
+{"question":"Would you be able to provide a time-aligned transcript for this speech sample?","answer":"aligned_text","weight":0.73}
+{"question":"Could you please return the transcript in a word-level timestamped form?","answer":"aligned_text","weight":0.67}
+{"question":"Please transcribe this clip and include timing boundaries for each individual word.","answer":"aligned_text","weight":0.76}
+{"question":"I am preparing a timing-annotated transcript for this audio. Please write each word with its start and end time.","answer":"aligned_text","weight":0.68}
+{"question":"I am reviewing word timings in this speech clip and need the transcript with per-word timestamps.","answer":"aligned_text","weight":0.72}
+{"question":"I am making a word-level timing record for this recording. Can you transcribe it with timestamps?","answer":"aligned_text","weight":0.69}
+{"question":"I am documenting when each spoken word occurs in this utterance. Please provide the timed transcript.","answer":"aligned_text","weight":0.65}
+{"question":"I am analyzing speech timing and need a transcript that includes every word's time span.","answer":"aligned_text","weight":0.67}
+{"question":"I am creating alignment notes for this clip and need the words listed with their start and end times.","answer":"aligned_text","weight":0.62}
+{"question":"I am preparing a word-level timing reference from this audio. Can you provide the transcript with timestamps?","answer":"aligned_text","weight":0.69}
+{"question":"I am building a line-by-line timing transcript for this speech sample. Please return each word with its timing.","answer":"aligned_text","weight":0.58}
+{"question":"I am working on a transcript that tracks when each word is spoken. Can you generate it for this clip?","answer":"aligned_text","weight":0.69}
+{"question":"I am compiling word timing annotations for this recording and need the transcript in timed form.","answer":"aligned_text","weight":0.64}
+{"question":"For my speech timing workflow, I need this utterance transcribed with per-word boundaries.","answer":"aligned_text","weight":0.56}
+{"question":"As part of my annotation workflow, please provide the spoken words with their word-level timestamps.","answer":"aligned_text","weight":0.57}
+{"question":"I am preparing a temporal transcript of this clip and need each word paired with its timing.","answer":"aligned_text","weight":0.61}
+{"question":"I am organizing a timing-aware transcript for this audio. Please mark when every word starts and ends.","answer":"aligned_text","weight":0.67}
+{"question":"I am creating a word-by-word timing sheet from this recording. Can you transcribe it accordingly?","answer":"aligned_text","weight":0.57}
+{"question":"I need your help transcribing this audio with word-level timestamps.","answer":"aligned_text","weight":0.83}
+{"question":"Can you help me write out this clip with the timing for each word?","answer":"aligned_text","weight":0.84}
+{"question":"I need help getting a word-by-word timed transcript of this recording.","answer":"aligned_text","weight":0.81}
+{"question":"Could you help me transcribe this utterance and mark each word's start and end time?","answer":"aligned_text","weight":0.79}
+{"question":"Please help me turn this speech clip into a word-timestamped transcript.","answer":"aligned_text","weight":0.78}
+{"question":"I need your help producing the transcript of this audio with per-word timings.","answer":"aligned_text","weight":0.80}
+{"question":"Can you help me create a word-level aligned transcript from this recording?","answer":"aligned_text","weight":0.66}
+{"question":"I need help writing down what is said here with timestamps for every word.","answer":"aligned_text","weight":0.83}
+{"question":"Could you help me get the spoken words from this clip along with their timings?","answer":"aligned_text","weight":0.82}
+{"question":"Please help me transcribe this recording word by word with timing information.","answer":"aligned_text","weight":0.78}
+{"question":"I need your help making a timed transcript for this utterance.","answer":"aligned_text","weight":0.73}
+{"question":"Can you help me figure out what is said here and when each word occurs?","answer":"aligned_text","weight":0.83}
+{"question":"I need help turning this audio into a transcript with start and end times for each word.","answer":"aligned_text","weight":0.80}
+{"question":"Transcribe this speech sample with word-level boundaries. Output each entry on a new line in the format [start_time-end_time] word.","answer":"aligned_text","weight":0.39}
+{"question":"Provide a word-level timestamped transcript for this clip. Write one word per line as [start_time-end_time] word.","answer":"aligned_text","weight":0.36}
+{"question":"Return the transcript of this audio with word-level timing. Format every line as [start_time-end_time] word.","answer":"aligned_text","weight":0.34}
+{"question":"Write out the spoken words with timestamps for this recording. Use one line per word in [start_time-end_time] word format.","answer":"aligned_text","weight":0.36}
+{"question":"Could you produce a transcript of this speech sample with word-level boundaries? Output as [start_time-end_time] word, one entry per line.","answer":"aligned_text","weight":0.37}
+{"question":"Transcribe this speech sample with word-level boundaries. Output each entry on a new line as [start_time-end_time] WORD. For example:\n[0.50-0.80] HELLO\n[0.80-1.20] WORLD","answer":"aligned_text.upper()","weight":0.18}
+{"question":"Could you help me produce a transcript of this speech sample with word-level boundaries? Output as [start_time-end_time] WORD, one word per line. For example:\n[0.50-0.80] HELLO\n[0.80-1.20] WORLD","answer":"aligned_text.upper()","weight":0.17}
+{"question":"Provide a word-level timestamped transcript for this clip. Write each word on its own line in the format [start_time-end_time] WORD. For example:\n[0.50-0.80] HELLO\n[0.80-1.20] WORLD","answer":"aligned_text.upper()","weight":0.16}
+{"question":"Return the word-level transcript of this audio. Format each line as [start_time-end_time] WORD using uppercase words. For example:\n[0.50-0.80] HELLO\n[0.80-1.20] WORLD","answer":"aligned_text.upper()","weight":0.15}
+{"question":"Write out this recording with word-level timestamps. Use the format [start_time-end_time] WORD for every line. For example:\n[0.50-0.80] HELLO\n[0.80-1.20] WORLD","answer":"aligned_text.upper()","weight":0.16}
+{"question":"Transcribe this audio with word-level timing. Use semicolons to separate each [start_time-end_time] word entry. For example: [0.50-0.80] hello; [0.80-1.20] world","answer":"aligned_text.replace('\\n', '; ')","weight":0.21}
+{"question":"Could you provide the word-level timestamped transcript for this clip? Use semicolons to separate each entry. For example: [0.50-0.80] hello; [0.80-1.20] world","answer":"aligned_text.replace('\\n', '; ')","weight":0.20}
+{"question":"Return a transcript of this speech sample with word-level boundaries. Separate each [start_time-end_time] word item with a semicolon. For example: [0.50-0.80] hello; [0.80-1.20] world","answer":"aligned_text.replace('\\n', '; ')","weight":0.18}
+{"question":"Write the spoken words with timestamps for this recording. Present the result on one line with semicolons between entries. For example: [0.50-0.80] hello; [0.80-1.20] world","answer":"aligned_text.replace('\\n', '; ')","weight":0.22}
+{"question":"Give me the word-level aligned transcript of this clip, using semicolons between each timed word entry. For example: [0.50-0.80] hello; [0.80-1.20] world","answer":"aligned_text.replace('\\n', '; ')","weight":0.17}
+{"question":"Transcribe this utterance with word-level timestamps. Separate each [start_time-end_time] word entry with commas. For example: [0.50-0.80] hello, [0.80-1.20] world","answer":"aligned_text.replace('\\n', ', ')","weight":0.20}
+{"question":"Provide the transcript of this audio with word-level timing, using commas between entries instead of line breaks. For example: [0.50-0.80] hello, [0.80-1.20] world","answer":"aligned_text.replace('\\n', ', ')","weight":0.18}
+{"question":"Return the word-timestamped transcript for this clip as a single line, with commas separating each entry. For example: [0.50-0.80] hello, [0.80-1.20] world","answer":"aligned_text.replace('\\n', ', ')","weight":0.20}
+{"question":"Write out the spoken words with their timestamps and use commas to separate the timed word entries. For example: [0.50-0.80] hello, [0.80-1.20] world","answer":"aligned_text.replace('\\n', ', ')","weight":0.21}
+{"question":"Could you produce a word-level timed transcript of this recording? Please separate each entry with commas. For example: [0.50-0.80] hello, [0.80-1.20] world","answer":"aligned_text.replace('\\n', ', ')","weight":0.19}
+{"question":"Transcribe this recording with word-level boundaries. Use a vertical bar to separate each [start_time-end_time] word entry. For example: [0.50-0.80] hello | [0.80-1.20] world","answer":"aligned_text.replace('\\n', ' | ')","weight":0.14}
+{"question":"Provide the word-level transcript with timestamps for this clip, separating each entry with |. For example: [0.50-0.80] hello | [0.80-1.20] world","answer":"aligned_text.replace('\\n', ' | ')","weight":0.13}
+{"question":"Return the timed transcript of this audio as a single line with vertical bars between entries. For example: [0.50-0.80] hello | [0.80-1.20] world","answer":"aligned_text.replace('\\n', ' | ')","weight":0.15}
+{"question":"Write the spoken content with word-level timings, using | to separate each timed word item. For example: [0.50-0.80] hello | [0.80-1.20] world","answer":"aligned_text.replace('\\n', ' | ')","weight":0.14}
+{"question":"Could you give me the word-level aligned transcript for this utterance with vertical bars between entries? For example: [0.50-0.80] hello | [0.80-1.20] world","answer":"aligned_text.replace('\\n', ' | ')","weight":0.12}
+{"question":"Transcribe this audio with word-level timestamps. Number each line in the format 1. [start_time-end_time] word, 2. [start_time-end_time] word, and so on. For example:\n1. [0.50-0.80] hello\n2. [0.80-1.20] world","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.19}
+{"question":"Provide a word-level timestamped transcript for this clip and prefix each line with its index number. For example:\n1. [0.50-0.80] hello\n2. [0.80-1.20] world","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.18}
+{"question":"Return the transcript with word-level timings, using a numbered list where each line begins with 1., 2., 3., and so forth. For example:\n1. [0.50-0.80] hello\n2. [0.80-1.20] world","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.17}
+{"question":"Write out this speech sample with per-word timestamps. Format the output as a numbered line-by-line list. For example:\n1. [0.50-0.80] hello\n2. [0.80-1.20] world","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.18}
+{"question":"Could you help me transcribe this recording with word-level boundaries? Please number each timed word entry on its own line. For example:\n1. [0.50-0.80] hello\n2. [0.80-1.20] world","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.17}
+{"question":"Transcribe this audio with word-level timestamps. Output each entry on a new line in the format (start_time-end_time) word. For example:\n(0.50-0.80) hello\n(0.80-1.20) world","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.16}
+{"question":"Provide the word-level timed transcript for this clip. Use the format (start_time-end_time) word for each line. For example:\n(0.50-0.80) hello\n(0.80-1.20) world","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.15}
+{"question":"Return the transcript with word-level timing, writing each entry as (start_time-end_time) word. For example:\n(0.50-0.80) hello\n(0.80-1.20) world","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.14}
+{"question":"Write the spoken content of this recording with timestamps in the format (start_time-end_time) word, one per line. For example:\n(0.50-0.80) hello\n(0.80-1.20) world","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.15}
+{"question":"Could you help me transcribe this clip with word timings? Please format each line as (start_time-end_time) word. For example:\n(0.50-0.80) hello\n(0.80-1.20) world","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.14}
+{"question":"Transcribe this utterance with word-level timing. Use the format start_time-end_time: word for each entry. For example:\n0.50-0.80: hello\n0.80-1.20: world","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.17}
+{"question":"Provide the word-level aligned transcript of this audio. Write each line as start_time-end_time: word. For example:\n0.50-0.80: hello\n0.80-1.20: world","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.15}
+{"question":"Return the transcript with per-word timestamps, formatted as start_time-end_time: word. For example:\n0.50-0.80: hello\n0.80-1.20: world","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.14}
+{"question":"Write out this clip with word timings using the structure start_time-end_time: word, one per line. For example:\n0.50-0.80: hello\n0.80-1.20: world","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.15}
+{"question":"Could you produce a word-level timestamped transcript for this recording? Use start_time-end_time: word format. For example:\n0.50-0.80: hello\n0.80-1.20: world","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.16}
+{"question":"Transcribe this speech clip with word-level boundaries. Use the format word @ start_time-end_time for each line. For example:\nhello @ 0.50-0.80\nworld @ 0.80-1.20","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.12}
+{"question":"Provide the transcript of this audio with per-word timing, formatting each entry as word @ start_time-end_time. For example:\nhello @ 0.50-0.80\nworld @ 0.80-1.20","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.12}
+{"question":"Return the word-level timed transcript for this clip in the form word @ start_time-end_time. For example:\nhello @ 0.50-0.80\nworld @ 0.80-1.20","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.11}
+{"question":"Write the spoken words with timestamps, using word @ start_time-end_time on each line. For example:\nhello @ 0.50-0.80\nworld @ 0.80-1.20","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.13}
+{"question":"Could you help me generate a word-level aligned transcript of this utterance? Format each line as word @ start_time-end_time. For example:\nhello @ 0.50-0.80\nworld @ 0.80-1.20","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.12}
+{"question":"Listen to this audio and transcribe it with word-level timestamps.","answer":"aligned_text","weight":0.80}
+{"question":"Listen to this clip and provide a word-level timestamped transcript.","answer":"aligned_text","weight":0.78}
+{"question":"Listen to this audio and return the transcript with start and end times for each word.","answer":"aligned_text","weight":0.71}
+{"question":"Listen to this speech and write it out with a timestamp for every word.","answer":"aligned_text","weight":0.73}
+{"question":"Listen to this recording and generate a word-timed transcript.","answer":"aligned_text","weight":0.66}
+{"question":"Listen to this audio and give me the spoken words along with their word-level timings.","answer":"aligned_text","weight":0.77}
+{"question":"Listen to this audio and produce a timestamped transcription, word by word.","answer":"aligned_text","weight":0.64}
+{"question":"Listen to this clip and transcribe it, marking the timing of each word.","answer":"aligned_text","weight":0.78}
+{"question":"Listen to this utterance and create a word-level aligned transcript.","answer":"aligned_text","weight":0.58}
+{"question":"Listen to this audio and provide the transcript with per-word timestamps.","answer":"aligned_text","weight":0.77}
+{"question":"Can you listen to this audio and transcribe it with word-level timestamps?","answer":"aligned_text","weight":0.84}
+{"question":"Could you listen to this speech clip and provide a timestamped transcript?","answer":"aligned_text","weight":0.77}
+{"question":"Can you listen to this audio and write out what is said here, including the timing of each word?","answer":"aligned_text","weight":0.81}
+{"question":"Could you listen to this clip and return the spoken words with start and end times for each one?","answer":"aligned_text","weight":0.73}
+{"question":"Can you listen to this recording and give me a word-by-word timed transcript?","answer":"aligned_text","weight":0.72}
+{"question":"Could you listen to this clip and transcribe it, showing when each word starts and ends?","answer":"aligned_text","weight":0.80}
+{"question":"Can you listen to this audio and provide the transcript with word-level timing information?","answer":"aligned_text","weight":0.76}
+{"question":"Could you listen to this clip and write the speech with timestamps for every word?","answer":"aligned_text","weight":0.76}
+{"question":"Can you listen to this recording and turn it into a word-timestamped transcript?","answer":"aligned_text","weight":0.76}
+{"question":"Could you listen to this audio and generate a transcript with timing for each word?","answer":"aligned_text","weight":0.76}
+{"question":"What is being said in this recording? Please listen to the audio and include timestamps for each word.","answer":"aligned_text","weight":0.74}
+{"question":"What are the spoken words in this clip? Please listen carefully and include word-level timings.","answer":"aligned_text","weight":0.76}
+{"question":"What is the word-level timestamped transcript of this audio? Please listen to the clip.","answer":"aligned_text","weight":0.69}
+{"question":"What does the speaker say here? Please listen to the audio and return each word with its start and end time.","answer":"aligned_text","weight":0.72}
+{"question":"What is the full transcript of this utterance with word timings? Please listen to the clip.","answer":"aligned_text","weight":0.70}
+{"question":"What is said in this clip? Please listen to the audio and mark when each word occurs.","answer":"aligned_text","weight":0.77}
+{"question":"How would you transcribe this audio with word-level timestamps after listening to it?","answer":"aligned_text","weight":0.64}
+{"question":"How should this recording be written out if each word needs a timestamp? Please listen to the audio.","answer":"aligned_text","weight":0.55}
+{"question":"How would the speech in this clip look as a word-timed transcript after listening to it?","answer":"aligned_text","weight":0.54}
+{"question":"How should I write this utterance out with start and end times for every word after listening to the audio?","answer":"aligned_text","weight":0.50}
+{"question":"Listen to this audio and transcribe it word by word. Return each line in the format [start-end] word.","answer":"aligned_text","weight":0.46}
+{"question":"Listen to this clip and provide a word-level timestamped transcript, using one line per word in the format [start-end] word.","answer":"aligned_text","weight":0.42}
+{"question":"Listen to this recording and write out the spoken content with start and end times for each word, formatted as [start-end] word.","answer":"aligned_text","weight":0.44}
+{"question":"Listen to this audio and return a word-level transcript, with each word on its own line in [start-end] word format.","answer":"aligned_text","weight":0.41}
+{"question":"Can you listen to this clip and transcribe it with word-level timestamps? Please format each line as [start-end] word.","answer":"aligned_text","weight":0.47}
+{"question":"Listen to this audio and transcribe it. Output one line per word using [start-end] word format.","answer":"aligned_text","weight":0.36}
+{"question":"Listen to this clip and provide the word-level transcript, with each line formatted as [start-end] word.","answer":"aligned_text","weight":0.35}
+{"question":"Listen to this recording and write the transcription with one word per line, including each word's start and end time.","answer":"aligned_text","weight":0.43}
+{"question":"Listen to this audio and generate the transcript in [start-end] word format, one word per line.","answer":"aligned_text","weight":0.33}
+{"question":"Listen to this clip and output the spoken content as a newline-separated list of [start-end] word entries.","answer":"aligned_text","weight":0.24}
+{"question":"Listen to this audio and return a word-timestamped transcript using one line per word and bracketed time spans.","answer":"aligned_text","weight":0.32}
+{"question":"Listen to this recording and format the transcription so that each line contains a start time, end time, and the word spoken.","answer":"aligned_text","weight":0.34}
+{"question":"Listen to this clip and give me the transcript in a word-level alignment format: [start-end] word.","answer":"aligned_text","weight":0.27}
+{"question":"Listen to this audio and provide a transcript where every word appears on its own line with its time interval.","answer":"aligned_text","weight":0.38}
+{"question":"Help me by listening to this speech clip and providing a timestamped transcription.","answer":"aligned_text","weight":0.72}
+{"question":"Help! Listen to this recording and turn it into a word-timed transcript.","answer":"aligned_text","weight":0.44}
+{"question":"Can you help me by listening to this audio and writing it out with timestamps for every word?","answer":"aligned_text","weight":0.76}
+{"question":"Could you help me by listening to this clip and producing a word-level aligned transcript?","answer":"aligned_text","weight":0.60}
+{"question":"I need help getting the transcript of this recording with word timings. Please listen to the audio.","answer":"aligned_text","weight":0.76}
+{"question":"Please help me by listening to this speech and marking the start and end of each word.","answer":"aligned_text","weight":0.72}
+{"question":"I need a transcript for this clip, with timing for each word. Can you listen and help?","answer":"aligned_text","weight":0.84}
+{"question":"Help me turn this audio into a transcript where each word has a timestamp by listening to the clip.","answer":"aligned_text","weight":0.68}
+{"question":"I want the spoken words from this clip along with their timings. Can you listen to the audio and provide that?","answer":"aligned_text","weight":0.77}
+{"question":"Could you help me by listening to this audio and making a word-by-word timestamped transcript?","answer":"aligned_text","weight":0.71}
+{"question":"I am preparing a timing-annotated transcript. Please listen to this clip and transcribe it word by word with timestamps.","answer":"aligned_text","weight":0.68}
+{"question":"I am working on speech timing analysis and need the transcript with start and end times for each word. Please listen to the audio.","answer":"aligned_text","weight":0.65}
+{"question":"For my notes, I need a transcript of this recording where every word is time-aligned. Please listen to the clip.","answer":"aligned_text","weight":0.73}
+{"question":"I am building a word-level timing record for this utterance. Please listen to the audio and write each word with its time span.","answer":"aligned_text","weight":0.53}
+{"question":"I need to review when each word occurs in this clip. Can you listen to the audio and provide a word-timestamped transcript?","answer":"aligned_text","weight":0.77}
+{"question":"Could you please listen to this recording and provide a word-level timestamped transcription, with one word per line?","answer":"aligned_text","weight":0.57}
+{"question":"Please listen to this audio and transcribe it, including the precise time interval for every spoken word.","answer":"aligned_text","weight":0.64}
+{"question":"Would you please listen to this clip and write out the spoken content with a start and end time for each word?","answer":"aligned_text","weight":0.71}
+{"question":"Please listen to this utterance and provide the full word-level aligned transcript in a clear line-by-line format.","answer":"aligned_text","weight":0.52}
+{"question":"Listen to this recording and transcribe it with a timestamp for each word.","answer":"aligned_text","weight":0.76}
+{"question":"Listen to this clip and provide the spoken words together with their word timings.","answer":"aligned_text","weight":0.76}
+{"question":"Listen to this audio and generate a transcript with word-by-word timestamps.","answer":"aligned_text","weight":0.66}
+{"question":"Listen to this utterance and write the transcript with start and end times for every word.","answer":"aligned_text","weight":0.69}
+{"question":"Listen to this speech clip and produce a word-level timed transcription.","answer":"aligned_text","weight":0.63}
+{"question":"Listen to this audio and return the spoken content as a word-timestamped transcript.","answer":"aligned_text","weight":0.68}
+{"question":"Listen to this recording and create a transcript that includes timing for each word.","answer":"aligned_text","weight":0.71}
+{"question":"Listen to this clip and give the transcript with per-word time boundaries.","answer":"aligned_text","weight":0.61}
+{"question":"Listen to this audio and write out the speech, including a time span for each word.","answer":"aligned_text","weight":0.71}
+{"question":"Listen to this recording and produce the transcript with word-level start and end times.","answer":"aligned_text","weight":0.64}
+{"question":"Listen to this audio and generate the word-level aligned transcript.","answer":"aligned_text","weight":0.53}
+{"question":"Listen to this utterance and return a time-aligned transcript, one word at a time.","answer":"aligned_text","weight":0.49}
+{"question":"Listen to this recording and provide the word-by-word transcript with timestamps.","answer":"aligned_text","weight":0.69}
+{"question":"Listen to this audio and write the spoken content with timing information for each individual word.","answer":"aligned_text","weight":0.61}
+{"question":"Listen to this clip and produce a transcript that marks when every word begins and ends.","answer":"aligned_text","weight":0.70}
+{"question":"Listen to this speech sample and give me a word-timed transcription.","answer":"aligned_text","weight":0.63}
+{"question":"Listen to this audio clip and create a word-level timestamped transcript.","answer":"aligned_text","weight":0.67}
+{"question":"Listen to this recording and return the transcript with a start and end time attached to each word.","answer":"aligned_text","weight":0.68}
+{"question":"Listen to this utterance and write a word-level timing transcript.","answer":"aligned_text","weight":0.55}
+{"question":"Listen to this audio and produce the spoken transcript with word-level timing annotations.","answer":"aligned_text","weight":0.50}
+{"question":"What is the word-level timestamped transcript of this speech clip after listening to it?","answer":"aligned_text","weight":0.62}
+{"question":"What are the spoken words in this recording, with each word's timing included? Please listen to the audio.","answer":"aligned_text","weight":0.74}
+{"question":"What does this audio say if each word is marked with its start and end time? Please listen to the clip.","answer":"aligned_text","weight":0.67}
+{"question":"What is the full word-by-word timed transcript of this utterance? Please listen to the audio.","answer":"aligned_text","weight":0.65}
+{"question":"What is said in this clip when written as a timestamped word-level transcript? Please listen to the recording.","answer":"aligned_text","weight":0.54}
+{"question":"Can you listen to this audio and provide the spoken words here along with their time boundaries?","answer":"aligned_text","weight":0.78}
+{"question":"Can you listen to this utterance and show the timing for every word in the transcript?","answer":"aligned_text","weight":0.79}
+{"question":"Can you listen to this audio and return a transcript with per-word timestamps?","answer":"aligned_text","weight":0.81}
+{"question":"Could you listen to this clip and write out what is said with a timestamp for each word?","answer":"aligned_text","weight":0.77}
+{"question":"Could you listen to this recording and provide the word-level aligned transcript?","answer":"aligned_text","weight":0.61}
+{"question":"Could you listen to this audio and mark when each spoken word occurs, then return the transcript?","answer":"aligned_text","weight":0.75}
+{"question":"How would you transcribe this recording with word-level timing information after listening to it?","answer":"aligned_text","weight":0.57}
+{"question":"How should this audio be written out if every word needs a start and end time? Please listen to the clip.","answer":"aligned_text","weight":0.51}
+{"question":"How would the transcript look if each word in this clip were timestamped after listening to it?","answer":"aligned_text","weight":0.52}
+{"question":"How should the spoken words in this utterance be listed with their timings after listening to the audio?","answer":"aligned_text","weight":0.49}
+{"question":"What would the transcript of this speech look like with timing for each word? Please listen to the recording.","answer":"aligned_text","weight":0.55}
+{"question":"Can you listen to this clip and tell me what is being said here and when each word occurs?","answer":"aligned_text","weight":0.81}
+{"question":"Could you listen to this audio and turn it into a word-timestamped transcript?","answer":"aligned_text","weight":0.77}
+{"question":"How would you represent this clip as a word-by-word timed transcript after listening to it?","answer":"aligned_text","weight":0.43}
+{"question":"What is the spoken content of this recording with per-word start and end times? Please listen to the audio.","answer":"aligned_text","weight":0.68}
+{"question":"Help me get a word-timestamped transcript for this clip by listening to the audio.","answer":"aligned_text","weight":0.73}
+{"question":"Can you listen to this clip and jot it down word by word with timestamps?","answer":"aligned_text","weight":0.78}
+{"question":"Listen to this audio and write out what they're saying here, marking each word's timing.","answer":"aligned_text","weight":0.79}
+{"question":"Can you listen to this audio and put it into a word-level timed transcript?","answer":"aligned_text","weight":0.71}
+{"question":"Listen to this clip and give me the words with timing for each one.","answer":"aligned_text","weight":0.75}
+{"question":"I want the transcript for this audio, plus when each word happens. Can you listen to the clip?","answer":"aligned_text","weight":0.77}
+{"question":"Can you listen to this speech and break it out word by word with timestamps?","answer":"aligned_text","weight":0.73}
+{"question":"Listen to this clip and type out what is said here, including each word's start and end time.","answer":"aligned_text","weight":0.74}
+{"question":"Can you listen to this clip and map out the words with their timings?","answer":"aligned_text","weight":0.61}
+{"question":"Listen to this audio and write down the speech with a timestamp on every word.","answer":"aligned_text","weight":0.70}
+{"question":"Could you please listen to this audio clip and provide a word-level timestamped transcript?","answer":"aligned_text","weight":0.79}
+{"question":"Would you please listen to this recording and include the start and end time for each word in the transcript?","answer":"aligned_text","weight":0.76}
+{"question":"Could you kindly listen to this clip and write out the spoken content with per-word timestamps?","answer":"aligned_text","weight":0.69}
+{"question":"Please listen to this utterance and provide the transcript together with word-level timing information.","answer":"aligned_text","weight":0.69}
+{"question":"Would you mind listening to this recording and returning a word-by-word timed transcript?","answer":"aligned_text","weight":0.68}
+{"question":"Could you please listen to this audio and mark the time span of every spoken word in the transcript?","answer":"aligned_text","weight":0.73}
+{"question":"Please listen to this clip and write the spoken words with their corresponding start and end times.","answer":"aligned_text","weight":0.74}
+{"question":"Would you be able to listen to this speech sample and provide a time-aligned transcript?","answer":"aligned_text","weight":0.67}
+{"question":"Could you please listen to this audio and return the transcript in a word-level timestamped form?","answer":"aligned_text","weight":0.62}
+{"question":"Please listen to this clip and include timing boundaries for each individual word in the transcription.","answer":"aligned_text","weight":0.71}
+{"question":"I am preparing a timing-annotated transcript for this audio. Please listen and write each word with its start and end time.","answer":"aligned_text","weight":0.64}
+{"question":"I am reviewing word timings in this speech clip and need the transcript with per-word timestamps. Please listen to the audio.","answer":"aligned_text","weight":0.67}
+{"question":"I am making a word-level timing record for this recording. Can you listen to it and transcribe it with timestamps?","answer":"aligned_text","weight":0.64}
+{"question":"I am documenting when each spoken word occurs in this utterance. Please listen to the clip and provide the timed transcript.","answer":"aligned_text","weight":0.60}
+{"question":"I am analyzing speech timing and need a transcript that includes every word's time span. Please listen to the audio.","answer":"aligned_text","weight":0.62}
+{"question":"I am creating alignment notes for this clip and need the words listed with their start and end times. Please listen to the recording.","answer":"aligned_text","weight":0.58}
+{"question":"I am preparing a word-level timing reference from this audio. Can you listen to it and provide the transcript with timestamps?","answer":"aligned_text","weight":0.65}
+{"question":"I am building a line-by-line timing transcript for this speech sample. Please listen and return each word with its timing.","answer":"aligned_text","weight":0.53}
+{"question":"I am working on a transcript that tracks when each word is spoken. Can you listen to this clip and generate it?","answer":"aligned_text","weight":0.64}
+{"question":"I am compiling word timing annotations for this recording and need the transcript in timed form. Please listen to the audio.","answer":"aligned_text","weight":0.59}
+{"question":"For my speech timing workflow, I need this utterance transcribed with per-word boundaries. Please listen to the audio.","answer":"aligned_text","weight":0.52}
+{"question":"As part of my annotation workflow, please listen to this clip and provide the spoken words with their word-level timestamps.","answer":"aligned_text","weight":0.53}
+{"question":"I am preparing a temporal transcript of this clip and need each word paired with its timing. Please listen to the audio.","answer":"aligned_text","weight":0.56}
+{"question":"I am organizing a timing-aware transcript for this audio. Please listen and mark when every word starts and ends.","answer":"aligned_text","weight":0.62}
+{"question":"I am creating a word-by-word timing sheet from this recording. Can you listen to it and transcribe it accordingly?","answer":"aligned_text","weight":0.53}
+{"question":"I need your help transcribing this audio with word-level timestamps. Please listen to the clip.","answer":"aligned_text","weight":0.77}
+{"question":"Can you help me by listening to this clip and writing it out with the timing for each word?","answer":"aligned_text","weight":0.78}
+{"question":"I need help getting a word-by-word timed transcript of this recording. Please listen to the audio.","answer":"aligned_text","weight":0.75}
+{"question":"Could you help me by listening to this utterance and marking each word's start and end time?","answer":"aligned_text","weight":0.72}
+{"question":"Please help me by listening to this speech clip and turning it into a word-timestamped transcript.","answer":"aligned_text","weight":0.73}
+{"question":"I need your help producing the transcript of this audio with per-word timings. Please listen to the recording.","answer":"aligned_text","weight":0.74}
+{"question":"Can you help me by listening to this recording and creating a word-level aligned transcript?","answer":"aligned_text","weight":0.61}
+{"question":"I need help writing down what is said here with timestamps for every word. Please listen to the audio.","answer":"aligned_text","weight":0.77}
+{"question":"Could you help me get the spoken words from this clip along with their timings by listening to the audio?","answer":"aligned_text","weight":0.75}
+{"question":"Please help me transcribe this recording word by word with timing information after listening to it.","answer":"aligned_text","weight":0.70}
+{"question":"I need your help making a timed transcript for this utterance. Please listen to the audio.","answer":"aligned_text","weight":0.68}
+{"question":"Can you help me figure out what is said here and when each word occurs by listening to the clip?","answer":"aligned_text","weight":0.77}
+{"question":"I need help turning this audio into a transcript with start and end times for each word. Please listen to the recording.","answer":"aligned_text","weight":0.74}
+{"question":"Listen to this speech sample and transcribe it with word-level boundaries. Output each entry on a new line in the format [start_time-end_time] word.","answer":"aligned_text","weight":0.32}
+{"question":"Listen to this clip and provide a word-level timestamped transcript. Write one word per line as [start_time-end_time] word.","answer":"aligned_text","weight":0.30}
+{"question":"Listen to this audio and return the transcript with word-level timing. Format every line as [start_time-end_time] word.","answer":"aligned_text","weight":0.28}
+{"question":"Listen to this recording and write out the spoken words with timestamps, using one line per word in [start_time-end_time] word format.","answer":"aligned_text","weight":0.30}
+{"question":"Could you listen to this speech sample and produce a transcript with word-level boundaries? Output as [start_time-end_time] word, one entry per line.","answer":"aligned_text","weight":0.31}
+{"question":"Listen to this speech sample and transcribe it with word-level boundaries. Output each entry on a new line as [start_time-end_time] WORD. For example:\n[0.50-0.80] HELLO\n[0.80-1.20] WORLD","answer":"aligned_text.upper()","weight":0.14}
+{"question":"Could you help me by listening to this speech sample and producing a transcript with word-level boundaries? Output as [start_time-end_time] WORD, one word per line. For example:\n[0.50-0.80] HELLO\n[0.80-1.20] WORLD","answer":"aligned_text.upper()","weight":0.13}
+{"question":"Listen to this clip and provide a word-level timestamped transcript. Write each word on its own line in the format [start_time-end_time] WORD. For example:\n[0.50-0.80] HELLO\n[0.80-1.20] WORLD","answer":"aligned_text.upper()","weight":0.13}
+{"question":"Listen to this audio and return the word-level transcript. Format each line as [start_time-end_time] WORD using uppercase words. For example:\n[0.50-0.80] HELLO\n[0.80-1.20] WORLD","answer":"aligned_text.upper()","weight":0.12}
+{"question":"Listen to this recording and write out the word-level timestamps using the format [start_time-end_time] WORD for every line. For example:\n[0.50-0.80] HELLO\n[0.80-1.20] WORLD","answer":"aligned_text.upper()","weight":0.12}
+{"question":"Listen to this audio and transcribe it with word-level timing. Use semicolons to separate each [start_time-end_time] word entry. For example: [0.50-0.80] hello; [0.80-1.20] world","answer":"aligned_text.replace('\\n', '; ')","weight":0.17}
+{"question":"Could you listen to this clip and provide the word-level timestamped transcript? Use semicolons to separate each entry. For example: [0.50-0.80] hello; [0.80-1.20] world","answer":"aligned_text.replace('\\n', '; ')","weight":0.16}
+{"question":"Listen to this speech sample and return a transcript with word-level boundaries. Separate each [start_time-end_time] word item with a semicolon. For example: [0.50-0.80] hello; [0.80-1.20] world","answer":"aligned_text.replace('\\n', '; ')","weight":0.15}
+{"question":"Listen to this recording and write the spoken words with timestamps. Present the result on one line with semicolons between entries. For example: [0.50-0.80] hello; [0.80-1.20] world","answer":"aligned_text.replace('\\n', '; ')","weight":0.18}
+{"question":"Listen to this clip and give me the word-level aligned transcript, using semicolons between each timed word entry. For example: [0.50-0.80] hello; [0.80-1.20] world","answer":"aligned_text.replace('\\n', '; ')","weight":0.14}
+{"question":"Listen to this utterance and transcribe it with word-level timestamps. Separate each [start_time-end_time] word entry with commas. For example: [0.50-0.80] hello, [0.80-1.20] world","answer":"aligned_text.replace('\\n', ', ')","weight":0.16}
+{"question":"Listen to this audio and provide the transcript with word-level timing, using commas between entries instead of line breaks. For example: [0.50-0.80] hello, [0.80-1.20] world","answer":"aligned_text.replace('\\n', ', ')","weight":0.15}
+{"question":"Listen to this clip and return the word-timestamped transcript as a single line, with commas separating each entry. For example: [0.50-0.80] hello, [0.80-1.20] world","answer":"aligned_text.replace('\\n', ', ')","weight":0.16}
+{"question":"Listen to this recording and write out the spoken words with their timestamps, using commas to separate the timed word entries. For example: [0.50-0.80] hello, [0.80-1.20] world","answer":"aligned_text.replace('\\n', ', ')","weight":0.17}
+{"question":"Could you listen to this recording and produce a word-level timed transcript? Please separate each entry with commas. For example: [0.50-0.80] hello, [0.80-1.20] world","answer":"aligned_text.replace('\\n', ', ')","weight":0.15}
+{"question":"Listen to this recording and transcribe it with word-level boundaries. Use a vertical bar to separate each [start_time-end_time] word entry. For example: [0.50-0.80] hello | [0.80-1.20] world","answer":"aligned_text.replace('\\n', ' | ')","weight":0.11}
+{"question":"Listen to this clip and provide the word-level transcript with timestamps, separating each entry with |. For example: [0.50-0.80] hello | [0.80-1.20] world","answer":"aligned_text.replace('\\n', ' | ')","weight":0.10}
+{"question":"Listen to this audio and return the timed transcript as a single line with vertical bars between entries. For example: [0.50-0.80] hello | [0.80-1.20] world","answer":"aligned_text.replace('\\n', ' | ')","weight":0.11}
+{"question":"Listen to this recording and write the spoken content with word-level timings, using | to separate each timed word item. For example: [0.50-0.80] hello | [0.80-1.20] world","answer":"aligned_text.replace('\\n', ' | ')","weight":0.11}
+{"question":"Could you listen to this utterance and give me the word-level aligned transcript with vertical bars between entries? For example: [0.50-0.80] hello | [0.80-1.20] world","answer":"aligned_text.replace('\\n', ' | ')","weight":0.09}
+{"question":"Listen to this audio and transcribe it with word-level timestamps. Number each line in the format 1. [start_time-end_time] word, 2. [start_time-end_time] word, and so on. For example:\n1. [0.50-0.80] hello\n2. [0.80-1.20] world","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.15}
+{"question":"Listen to this clip and provide a word-level timestamped transcript, prefixing each line with its index number. For example:\n1. [0.50-0.80] hello\n2. [0.80-1.20] world","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.14}
+{"question":"Listen to this audio and return the transcript with word-level timings using a numbered list where each line begins with 1., 2., 3., and so forth. For example:\n1. [0.50-0.80] hello\n2. [0.80-1.20] world","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.14}
+{"question":"Listen to this speech sample and write it out with per-word timestamps. Format the output as a numbered line-by-line list. For example:\n1. [0.50-0.80] hello\n2. [0.80-1.20] world","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.15}
+{"question":"Could you help me by listening to this recording and numbering each timed word entry on its own line? For example:\n1. [0.50-0.80] hello\n2. [0.80-1.20] world","answer":"'\\n'.join(f'{i+1}. {line}' for i, line in enumerate(aligned_text.split('\\n')))","weight":0.13}
+{"question":"Listen to this audio and transcribe it with word-level timestamps. Output each entry on a new line in the format (start_time-end_time) word. For example:\n(0.50-0.80) hello\n(0.80-1.20) world","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.13}
+{"question":"Listen to this clip and provide the word-level timed transcript. Use the format (start_time-end_time) word for each line. For example:\n(0.50-0.80) hello\n(0.80-1.20) world","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.12}
+{"question":"Listen to this audio and return the transcript with word-level timing, writing each entry as (start_time-end_time) word. For example:\n(0.50-0.80) hello\n(0.80-1.20) world","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.11}
+{"question":"Listen to this recording and write the spoken content with timestamps in the format (start_time-end_time) word, one per line. For example:\n(0.50-0.80) hello\n(0.80-1.20) world","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.12}
+{"question":"Could you listen to this clip and transcribe it with word timings, formatting each line as (start_time-end_time) word? For example:\n(0.50-0.80) hello\n(0.80-1.20) world","answer":"'\\n'.join(line.replace('[', '(').replace(']', ')') for line in aligned_text.split('\\n'))","weight":0.11}
+{"question":"Listen to this utterance and transcribe it with word-level timing. Use the format start_time-end_time: word for each entry. For example:\n0.50-0.80: hello\n0.80-1.20: world","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.14}
+{"question":"Listen to this audio and provide the word-level aligned transcript, writing each line as start_time-end_time: word. For example:\n0.50-0.80: hello\n0.80-1.20: world","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.12}
+{"question":"Listen to this clip and return the transcript with per-word timestamps, formatted as start_time-end_time: word. For example:\n0.50-0.80: hello\n0.80-1.20: world","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.11}
+{"question":"Listen to this recording and write out the word timings using the structure start_time-end_time: word, one per line. For example:\n0.50-0.80: hello\n0.80-1.20: world","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.12}
+{"question":"Could you listen to this recording and produce a word-level timestamped transcript using start_time-end_time: word format? For example:\n0.50-0.80: hello\n0.80-1.20: world","answer":"'\\n'.join(f\"{line.split('] ',1)[0][1:]}: {line.split('] ',1)[1]}\" for line in aligned_text.split('\\n'))","weight":0.12}
+{"question":"Listen to this speech clip and transcribe it with word-level boundaries. Use the format word @ start_time-end_time for each line. For example:\nhello @ 0.50-0.80\nworld @ 0.80-1.20","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.10}
+{"question":"Listen to this audio and provide the transcript with per-word timing, formatting each entry as word @ start_time-end_time. For example:\nhello @ 0.50-0.80\nworld @ 0.80-1.20","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.10}
+{"question":"Listen to this clip and return the word-level timed transcript in the form word @ start_time-end_time. For example:\nhello @ 0.50-0.80\nworld @ 0.80-1.20","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.09}
+{"question":"Listen to this recording and write the spoken words with timestamps, using word @ start_time-end_time on each line. For example:\nhello @ 0.50-0.80\nworld @ 0.80-1.20","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.10}
+{"question":"Could you help me by listening to this utterance and generating a word-level aligned transcript formatted as word @ start_time-end_time? For example:\nhello @ 0.50-0.80\nworld @ 0.80-1.20","answer":"'\\n'.join(f\"{line.split('] ',1)[1]} @ {line.split('] ',1)[0][1:]}\" for line in aligned_text.split('\\n'))","weight":0.09}
