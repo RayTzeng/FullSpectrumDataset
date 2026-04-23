@@ -1,0 +1,360 @@
+{"template_id":"stage1_f0_direct_001","question_template":"What is the speaker's average F0 in this speech clip?","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_direct_002","question_template":"What is the fundamental frequency of this utterance?","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_003","question_template":"Estimate the speaker's mean pitch frequency in Hz.","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_direct_004","question_template":"Tell me the average F0 of this speech sample.","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_direct_005","question_template":"Give the mean fundamental frequency for this recording.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_direct_006","question_template":"Report the average pitch frequency of the speaker in Hz.","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_direct_007","question_template":"Estimate the utterance-level F0 for this speech audio.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_direct_008","question_template":"Give the speaker's average fundamental frequency in hertz.","answer_template":"{F0} Hz","weight":0.85}
+{"template_id":"stage1_f0_direct_009","question_template":"Listen to this speech clip and estimate the average F0 in Hz.","answer_template":"{F0} Hz","weight":0.95}
+{"template_id":"stage1_f0_direct_010","question_template":"Listen to the utterance and report its mean fundamental frequency.","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_direct_011","question_template":"Please estimate the mean F0 of the speaker's voice in this recording.","answer_template":"{F0} Hz","weight":0.91}
+{"template_id":"stage1_f0_direct_012","question_template":"Please provide the average pitch frequency for this speech sample, measured in Hz.","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_direct_013","question_template":"According to this speech sample, estimate the speaker's utterance-level mean F0 in Hz.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_direct_014","question_template":"For this speech recording, provide the mean fundamental frequency of the speaker's voice.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_direct_015","question_template":"Based on this utterance, report the speaker's average pitch frequency in hertz.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_direct_016","question_template":"Please listen to the speech sample and give the estimated F0, rounded to the nearest 5 Hz.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_017","question_template":"Estimate the mean fundamental frequency of this speech clip, using the nearest 5-Hz value.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_direct_018","question_template":"According to this speech sample, what is the average fundamental frequency, defined as the mean F0 of the utterance in Hz?","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_direct_019","question_template":"Please determine the utterance-level mean pitch frequency for this speech recording, expressed in hertz.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_direct_020","question_template":"For this speaker, estimate the average fundamental frequency across the utterance, rounded to the nearest 5 Hz.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_wh_001","question_template":"What is the F0 of this speech clip?","answer_template":"{F0} Hz","weight":0.95}
+{"template_id":"stage1_f0_wh_002","question_template":"What is the average pitch of the speaker in Hz?","answer_template":"{F0} Hz","weight":0.94}
+{"template_id":"stage1_f0_wh_003","question_template":"What is the speaker's mean fundamental frequency?","answer_template":"{F0} Hz","weight":0.87}
+{"template_id":"stage1_f0_wh_004","question_template":"What is the estimated F0 for this utterance?","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_wh_005","question_template":"What is the utterance-level mean F0 in this recording?","answer_template":"{F0} Hz","weight":0.85}
+{"template_id":"stage1_f0_wh_006","question_template":"What fundamental frequency does this speech sample have, in Hz?","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_wh_007","question_template":"What is the mean pitch frequency of the voice in this audio?","answer_template":"{F0} Hz","weight":0.89}
+{"template_id":"stage1_f0_wh_008","question_template":"What is the average fundamental frequency of the speaker's voice in this clip?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_wh_009","question_template":"What is the speaker's average F0, rounded to the nearest 5 Hz?","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_wh_010","question_template":"What is the estimated mean F0 value for this speech sample?","answer_template":"{F0} Hz","weight":0.85}
+{"template_id":"stage1_f0_wh_011","question_template":"How high is the speaker's average fundamental frequency in Hz?","answer_template":"{F0} Hz","weight":0.70}
+{"template_id":"stage1_f0_wh_012","question_template":"How many hertz is the speaker's mean F0 in this recording?","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_wh_013","question_template":"How would you estimate the average F0 of this utterance in Hz?","answer_template":"{F0} Hz","weight":0.72}
+{"template_id":"stage1_f0_wh_014","question_template":"How would you report the speaker's mean pitch frequency for this speech clip?","answer_template":"{F0} Hz","weight":0.74}
+{"template_id":"stage1_f0_wh_015","question_template":"Can you estimate the average F0 of this speech sample?","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_wh_016","question_template":"Can you tell me the speaker's mean fundamental frequency in Hz?","answer_template":"{F0} Hz","weight":0.89}
+{"template_id":"stage1_f0_wh_017","question_template":"Can you provide the utterance-level average pitch frequency for this recording?","answer_template":"{F0} Hz","weight":0.85}
+{"template_id":"stage1_f0_wh_018","question_template":"Could you estimate the mean F0 of the speaker's voice?","answer_template":"{F0} Hz","weight":0.89}
+{"template_id":"stage1_f0_wh_019","question_template":"Could you report the average fundamental frequency for this speech audio?","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_wh_020","question_template":"Could you give the speaker's average pitch frequency in hertz?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_wh_021","question_template":"Could you listen to this utterance and provide its mean F0 in Hz?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_wh_022","question_template":"Could you identify the average fundamental frequency of the speaker in this clip?","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_wh_023","question_template":"Help! What is the speaker's average F0 in this audio?","answer_template":"{F0} Hz","weight":0.77}
+{"template_id":"stage1_f0_wh_024","question_template":"Help me estimate the speaker's mean pitch frequency in Hz.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_wh_025","question_template":"I need the average F0 for this utterance. What is it in Hz?","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_constrained_001","question_template":"Report the speaker's average F0 in Hz. Answer with only the number.","answer_template":"{F0}","weight":0.63}
+{"template_id":"stage1_f0_constrained_002","question_template":"Provide the utterance-level mean fundamental frequency in Hz. Return only the numeric value.","answer_template":"{F0}","weight":0.58}
+{"template_id":"stage1_f0_constrained_003","question_template":"Estimate the mean pitch frequency of this speech clip in Hz. Answer using only the number.","answer_template":"{F0}","weight":0.62}
+{"template_id":"stage1_f0_constrained_004","question_template":"What is the speaker's average F0 in Hz? Give only the numeric Hz value.","answer_template":"{F0}","weight":0.66}
+{"template_id":"stage1_f0_constrained_005","question_template":"What is the mean fundamental frequency of this utterance? Respond with just the number in Hz.","answer_template":"{F0}","weight":0.62}
+{"template_id":"stage1_f0_constrained_006","question_template":"Report the average pitch frequency for this speech sample. Use the format: <number> Hz.","answer_template":"{F0} Hz","weight":0.52}
+{"template_id":"stage1_f0_constrained_007","question_template":"Provide the speaker's average F0 for this clip. Use the format: F0: <number> Hz.","answer_template":"F0: {F0} Hz","weight":0.43}
+{"template_id":"stage1_f0_constrained_008","question_template":"Estimate the utterance-level mean F0. Answer in the format: mean F0 = <number> Hz.","answer_template":"mean F0 = {F0} Hz","weight":0.40}
+{"template_id":"stage1_f0_constrained_009","question_template":"Give the average fundamental frequency of this speech recording as a key-value pair using the key F0_Hz.","answer_template":"F0_Hz: {F0}","weight":0.32}
+{"template_id":"stage1_f0_constrained_010","question_template":"Report the mean pitch frequency of this speaker as a JSON object with the key \"F0_Hz\".","answer_template":"{{\"F0_Hz\": {F0}}}","weight":0.25}
+{"template_id":"stage1_f0_constrained_011","question_template":"For this speech sample, provide the speaker's mean F0 rounded to the nearest 5 Hz. Answer with the number and unit only.","answer_template":"{F0} Hz","weight":0.58}
+{"template_id":"stage1_f0_constrained_012","question_template":"Listen to the speech and report the average fundamental frequency in Hz. Keep the answer to a number followed by Hz.","answer_template":"{F0} Hz","weight":0.61}
+{"template_id":"stage1_f0_constrained_013","question_template":"Please provide the speaker's average pitch frequency in hertz, using no extra explanation.","answer_template":"{F0} Hz","weight":0.64}
+{"template_id":"stage1_f0_constrained_014","question_template":"Please estimate the utterance-level mean F0 in Hz and answer with a compact value only.","answer_template":"{F0} Hz","weight":0.56}
+{"template_id":"stage1_f0_constrained_015","question_template":"According to this speech sample, what is the mean F0 of the speaker's voice? Answer as '<number> Hz'.","answer_template":"{F0} Hz","weight":0.52}
+{"template_id":"stage1_f0_constrained_016","question_template":"According to this recording, report the average fundamental frequency of the utterance. Use the format 'F0 = <number> Hz'.","answer_template":"F0 = {F0} Hz","weight":0.44}
+{"template_id":"stage1_f0_constrained_017","question_template":"Please return the utterance-level mean pitch frequency in hertz as 'average pitch: <number> Hz'.","answer_template":"average pitch: {F0} Hz","weight":0.42}
+{"template_id":"stage1_f0_constrained_018","question_template":"Estimate the speaker's mean fundamental frequency, rounded to the nearest 5 Hz, and write only the final value with its unit.","answer_template":"{F0} Hz","weight":0.57}
+{"template_id":"stage1_f0_constrained_019","question_template":"For this audio clip, give the average F0 of the speaker in Hz. Do not include any explanation.","answer_template":"{F0} Hz","weight":0.65}
+{"template_id":"stage1_f0_constrained_020","question_template":"Please listen to the utterance and provide the mean F0 in hertz. Use a short answer only.","answer_template":"{F0} Hz","weight":0.67}
+{"template_id":"stage1_f0_constrained_021","question_template":"What is the utterance-level fundamental frequency estimate for this speech sample? Answer with a single Hz value.","answer_template":"{F0} Hz","weight":0.56}
+{"template_id":"stage1_f0_constrained_022","question_template":"Give the mean F0 for this utterance as an integer number of Hz.","answer_template":"{F0}","weight":0.51}
+{"template_id":"stage1_f0_constrained_023","question_template":"Report the speaker's average fundamental frequency as an integer Hz value rounded to the nearest 5.","answer_template":"{F0}","weight":0.50}
+{"template_id":"stage1_f0_constrained_024","question_template":"Please provide the average F0 of this speech recording in this exact form: '<number> Hz'.","answer_template":"{F0} Hz","weight":0.49}
+{"template_id":"stage1_f0_constrained_025","question_template":"Could you estimate the speaker's mean pitch frequency and answer only with the F0 value in Hz?","answer_template":"{F0} Hz","weight":0.64}
+{"template_id":"stage1_f0_direct_extra_001","question_template":"Estimate this speech clip's F0 in Hz.","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_direct_extra_002","question_template":"Report this utterance's average F0.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_extra_003","question_template":"Give the F0 estimate for the speaker in this recording.","answer_template":"{F0} Hz","weight":0.87}
+{"template_id":"stage1_f0_direct_extra_004","question_template":"Provide the mean F0 value for this speech audio.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_direct_extra_005","question_template":"Estimate the speaker's F0 for this utterance.","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_direct_extra_006","question_template":"Report the fundamental frequency estimate for this speech sample.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_direct_extra_007","question_template":"Give the utterance-level F0 value in hertz.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_direct_extra_008","question_template":"Provide the average fundamental frequency measured for this speaker.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_direct_extra_009","question_template":"Estimate the average pitch frequency for this utterance.","answer_template":"{F0} Hz","weight":0.89}
+{"template_id":"stage1_f0_direct_extra_010","question_template":"Report the speaker's mean pitch frequency for this audio clip.","answer_template":"{F0} Hz","weight":0.87}
+{"template_id":"stage1_f0_direct_extra_011","question_template":"Give the average vocal pitch frequency for this speech recording.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_direct_extra_012","question_template":"Provide the F0 measurement for this speech utterance.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_direct_extra_013","question_template":"Estimate the mean fundamental frequency across this utterance.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_direct_extra_014","question_template":"Report the average F0 extracted for this speech sample.","answer_template":"{F0} Hz","weight":0.75}
+{"template_id":"stage1_f0_direct_extra_015","question_template":"Give the speaker's pitch estimate as an F0 value in Hz.","answer_template":"{F0} Hz","weight":0.83}
+{"template_id":"stage1_f0_direct_extra_016","question_template":"Provide the utterance's mean pitch value in hertz.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_direct_extra_017","question_template":"Estimate the fundamental frequency of the voice in this clip.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_extra_018","question_template":"Report the mean F0 for the voice heard in this recording.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_extra_019","question_template":"Give the average fundamental frequency estimate for the utterance.","answer_template":"{F0} Hz","weight":0.81}
+{"template_id":"stage1_f0_direct_extra_020","question_template":"Provide this speech sample's F0 estimate, measured in Hz.","answer_template":"{F0} Hz","weight":0.85}
+{"template_id":"stage1_f0_wh_extra_001","question_template":"What F0 value is estimated for this utterance?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_wh_extra_002","question_template":"What is this speech clip's mean F0?","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_wh_extra_003","question_template":"What is the average vocal pitch frequency in this recording?","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_wh_extra_004","question_template":"What is the estimated fundamental frequency for this speaker?","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_wh_extra_005","question_template":"What is the F0 estimate for the voice in this utterance?","answer_template":"{F0} Hz","weight":0.87}
+{"template_id":"stage1_f0_wh_extra_006","question_template":"What mean pitch frequency should be assigned to this speech sample?","answer_template":"{F0} Hz","weight":0.70}
+{"template_id":"stage1_f0_wh_extra_007","question_template":"What is the average F0 measured across this utterance?","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_wh_extra_008","question_template":"What is the speaker's pitch frequency estimate in hertz?","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_wh_extra_009","question_template":"What is the mean fundamental frequency value for this clip?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_wh_extra_010","question_template":"What F0 should be reported for this speech recording?","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_wh_extra_011","question_template":"How would you label this utterance's average F0 in Hz?","answer_template":"{F0} Hz","weight":0.68}
+{"template_id":"stage1_f0_wh_extra_012","question_template":"How high is the estimated mean pitch frequency for this speaker?","answer_template":"{F0} Hz","weight":0.70}
+{"template_id":"stage1_f0_wh_extra_013","question_template":"How many Hz is the average fundamental frequency in this speech sample?","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_wh_extra_014","question_template":"How should the speaker's F0 be reported for this utterance?","answer_template":"{F0} Hz","weight":0.72}
+{"template_id":"stage1_f0_wh_extra_015","question_template":"Can you estimate this clip's average fundamental frequency?","answer_template":"{F0} Hz","weight":0.89}
+{"template_id":"stage1_f0_wh_extra_016","question_template":"Can you give the F0 estimate for this recording in Hz?","answer_template":"{F0} Hz","weight":0.91}
+{"template_id":"stage1_f0_wh_extra_017","question_template":"Can you report the mean pitch frequency of this utterance?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_wh_extra_018","question_template":"Could you provide this speech sample's average F0?","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_wh_extra_019","question_template":"Could you tell me the estimated fundamental frequency of the speaker?","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_wh_extra_020","question_template":"Could you report the utterance-level F0 value in hertz?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_workflow_001","question_template":"I am working on prosody analysis. Can you provide the speaker's average F0 for this speech clip?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_workflow_002","question_template":"I am preparing pitch-related metadata for this utterance. Please report the mean fundamental frequency in Hz.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_workflow_003","question_template":"I am building a speech style dataset and need the utterance-level F0 for this recording.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_workflow_004","question_template":"For a voice analysis workflow, estimate the speaker's average pitch frequency in Hz.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_workflow_005","question_template":"I am annotating speech prosody features. What is the mean F0 of this utterance?","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_workflow_006","question_template":"I am checking pitch statistics for this sample. Please give the average fundamental frequency.","answer_template":"{F0} Hz","weight":0.77}
+{"template_id":"stage1_f0_workflow_007","question_template":"For this prosody modeling task, report the speaker's average F0 in hertz.","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_workflow_008","question_template":"You are tasked with extracting the F0 feature from this speech sample. Report the mean F0 in Hz.","answer_template":"{F0} Hz","weight":0.70}
+{"template_id":"stage1_f0_workflow_009","question_template":"You are preparing an utterance-level pitch annotation. Provide the fundamental frequency estimate in Hz.","answer_template":"{F0} Hz","weight":0.72}
+{"template_id":"stage1_f0_workflow_010","question_template":"You are labeling speech prosody metadata. What average F0 should be assigned to this clip?","answer_template":"{F0} Hz","weight":0.72}
+{"template_id":"stage1_f0_workflow_011","question_template":"As part of a speech representation pipeline, estimate the mean pitch frequency of this utterance.","answer_template":"{F0} Hz","weight":0.75}
+{"template_id":"stage1_f0_workflow_012","question_template":"For downstream voice analysis, provide the speaker's average fundamental frequency in Hz.","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_workflow_013","question_template":"I am creating pitch labels for speech samples. Can you report this clip's F0 estimate?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_workflow_014","question_template":"I am organizing acoustic features for this recording. Please provide the utterance-level mean F0.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_workflow_015","question_template":"For an automatic speech analysis task, estimate the speaker's average F0 in Hz.","answer_template":"{F0} Hz","weight":0.77}
+{"template_id":"stage1_f0_workflow_016","question_template":"For this audio metadata generation step, give the mean fundamental frequency of the utterance.","answer_template":"{F0} Hz","weight":0.70}
+{"template_id":"stage1_f0_workflow_017","question_template":"I am evaluating pitch estimation outputs. What is the F0 value for this speech sample?","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_workflow_018","question_template":"I am compiling prosodic descriptors for this clip. Please report the average pitch frequency.","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_workflow_019","question_template":"You are filling in a speech feature table. Enter the speaker's average F0 in Hz for this utterance.","answer_template":"{F0} Hz","weight":0.68}
+{"template_id":"stage1_f0_workflow_020","question_template":"You are asked to annotate this sample with its mean pitch frequency. What value should be used?","answer_template":"{F0} Hz","weight":0.70}
+{"template_id":"stage1_f0_workflow_021","question_template":"For a paralinguistic speech analysis dataset, provide the utterance-level fundamental frequency.","answer_template":"{F0} Hz","weight":0.72}
+{"template_id":"stage1_f0_workflow_022","question_template":"I am preparing features for a pitch-aware speech model. Can you give the average F0 in Hz?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_workflow_023","question_template":"For this metadata annotation pass, report the mean F0 of the speaker's voice.","answer_template":"{F0} Hz","weight":0.72}
+{"template_id":"stage1_f0_workflow_024","question_template":"I am validating utterance-level acoustic labels. Please provide the fundamental frequency estimate for this clip.","answer_template":"{F0} Hz","weight":0.77}
+{"template_id":"stage1_f0_workflow_025","question_template":"You are completing an F0 estimation task for this speech recording. Report the value in Hz.","answer_template":"{F0} Hz","weight":0.70}
+{"template_id":"stage1_f0_help_001","question_template":"I need your help estimating the speaker's average F0 in this clip.","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_help_002","question_template":"Can you help me find the mean fundamental frequency of this utterance?","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_help_003","question_template":"Could you help me report the average pitch frequency for this recording?","answer_template":"{F0} Hz","weight":0.85}
+{"template_id":"stage1_f0_help_004","question_template":"I need help getting the F0 estimate for this speech sample.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_help_005","question_template":"Can you help estimate the speaker's mean F0 in Hz?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_help_006","question_template":"Please help me determine the average fundamental frequency of this voice.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_help_007","question_template":"Help me report the utterance-level F0 for this speech clip.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_help_008","question_template":"I need the speaker's average pitch frequency. Can you provide it in Hz?","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_help_009","question_template":"Could you help me estimate this utterance's F0 value?","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_help_010","question_template":"Can you help me fill in the mean F0 for this recording?","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_help_011","question_template":"I need assistance with F0 estimation for this speech sample. What is the value in Hz?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_help_012","question_template":"Help me identify the average fundamental frequency for the speaker in this audio.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_help_013","question_template":"Could you help provide the speaker's mean pitch frequency for this clip?","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_help_014","question_template":"I need your help reporting the F0 of this utterance in hertz.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_help_015","question_template":"Can you help me estimate the average F0 across this speech recording?","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_help_016","question_template":"Please help me get the utterance-level mean pitch frequency for this sample.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_help_017","question_template":"I need help with this speech clip's pitch feature. What is the average F0?","answer_template":"{F0} Hz","weight":0.85}
+{"template_id":"stage1_f0_help_018","question_template":"Can you help me report the speaker's fundamental frequency estimate?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_help_019","question_template":"Help me estimate the mean F0 for the voice in this utterance.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_help_020","question_template":"Could you help me determine the F0 estimate for this speaker?","answer_template":"{F0} Hz","weight":0.83}
+{"template_id":"stage1_f0_help_021","question_template":"I need your help extracting the average pitch frequency from this speech sample.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_help_022","question_template":"Can you help me provide the mean fundamental frequency for this audio clip?","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_help_023","question_template":"Please help estimate this recording's utterance-level F0 in Hz.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_help_024","question_template":"I need help assigning an F0 value to this speech utterance. What should it be?","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_help_025","question_template":"Could you help me give the speaker's average F0, measured in hertz?","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_casual_001","question_template":"Tell me the F0 for this clip.","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_casual_002","question_template":"Tell me the speaker's average pitch in Hz.","answer_template":"{F0} Hz","weight":0.96}
+{"template_id":"stage1_f0_casual_003","question_template":"What's the average F0 here?","answer_template":"{F0} Hz","weight":0.94}
+{"template_id":"stage1_f0_casual_004","question_template":"What's the pitch frequency for this voice?","answer_template":"{F0} Hz","weight":0.87}
+{"template_id":"stage1_f0_casual_005","question_template":"Give me the speaker's F0 estimate.","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_casual_006","question_template":"What's this speaker's mean pitch?","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_casual_007","question_template":"Tell me the average fundamental frequency.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_casual_008","question_template":"What F0 do you get for this utterance?","answer_template":"{F0} Hz","weight":0.85}
+{"template_id":"stage1_f0_casual_009","question_template":"Can you get the average pitch for this clip?","answer_template":"{F0} Hz","weight":0.94}
+{"template_id":"stage1_f0_casual_010","question_template":"What's the speaker's F0 in Hz?","answer_template":"{F0} Hz","weight":0.95}
+{"template_id":"stage1_f0_formal_001","question_template":"Listen to the audio and provide the F0 estimate, defined as the utterance-level mean fundamental frequency in Hz.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_formal_002","question_template":"Please listen to this speech sample and report the speaker's F0, defined as the average fundamental frequency across the utterance.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_formal_003","question_template":"According to the speech recording, what is the F0 estimate, defined as the mean pitch frequency of the speaker's voice?","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_formal_004","question_template":"Please provide the utterance-level F0 estimate for this audio, where F0 refers to the mean fundamental frequency in hertz.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_formal_005","question_template":"Listen to the speech clip and report the average F0 value, expressed in Hz and rounded to the nearest 5 Hz.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_formal_006","question_template":"For this speech sample, please estimate the fundamental frequency, defined here as the speaker's mean F0 across the utterance.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_formal_007","question_template":"Could you listen to the recording and provide the F0 estimation, defined as the average pitch frequency of the speaker's voice?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_formal_008","question_template":"Please determine the F0 value for this utterance, where the value represents the mean fundamental frequency measured in Hz.","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_formal_009","question_template":"Based on the provided speech audio, report the F0 estimate, defined as the utterance-level average fundamental frequency.","answer_template":"{F0} Hz","weight":0.77}
+{"template_id":"stage1_f0_formal_010","question_template":"Please listen to the audio and tell me the F0 estimation in Hz, defined as the rounded mean fundamental frequency of the utterance.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_direct_001","question_template":"Listen to this speech clip. What is the speaker's average F0?","answer_template":"{F0} Hz","weight":0.96}
+{"template_id":"stage1_f0_direct_002","question_template":"Listen to this utterance. What is its fundamental frequency?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_direct_003","question_template":"Listen to the speech and estimate the speaker's mean pitch frequency in Hz.","answer_template":"{F0} Hz","weight":0.94}
+{"template_id":"stage1_f0_direct_004","question_template":"Listen to this speech sample and tell me the average F0.","answer_template":"{F0} Hz","weight":0.95}
+{"template_id":"stage1_f0_direct_005","question_template":"Listen to this recording and give the mean fundamental frequency.","answer_template":"{F0} Hz","weight":0.87}
+{"template_id":"stage1_f0_direct_006","question_template":"Listen to the audio and report the average pitch frequency of the speaker in Hz.","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_direct_007","question_template":"Listen to this speech audio and estimate the utterance-level F0.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_008","question_template":"Listen to the speaker and give their average fundamental frequency in hertz.","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_direct_009","question_template":"Listen to this speech clip and estimate the average F0 in Hz.","answer_template":"{F0} Hz","weight":0.95}
+{"template_id":"stage1_f0_direct_010","question_template":"Listen to the utterance and report its mean fundamental frequency.","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_direct_011","question_template":"Please listen to this recording and estimate the mean F0 of the speaker's voice.","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_direct_012","question_template":"Please listen to this speech sample and provide the average pitch frequency, measured in Hz.","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_direct_013","question_template":"Listen to this speech sample and estimate the speaker's utterance-level mean F0 in Hz.","answer_template":"{F0} Hz","weight":0.87}
+{"template_id":"stage1_f0_direct_014","question_template":"Listen to this speech recording and provide the mean fundamental frequency of the speaker's voice.","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_direct_015","question_template":"Listen to this utterance and report the speaker's average pitch frequency in hertz.","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_direct_016","question_template":"Please listen to the speech sample and give the estimated F0, rounded to the nearest 5 Hz.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_017","question_template":"Listen to this speech clip and estimate the mean fundamental frequency, using the nearest 5-Hz value.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_direct_018","question_template":"Listen to this speech sample. What is the average fundamental frequency, defined as the mean F0 of the utterance in Hz?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_direct_019","question_template":"Please listen to this speech recording and determine the utterance-level mean pitch frequency, expressed in hertz.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_direct_020","question_template":"Listen to this speaker and estimate the average fundamental frequency across the utterance, rounded to the nearest 5 Hz.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_wh_001","question_template":"Listen to this speech clip. What is its F0?","answer_template":"{F0} Hz","weight":0.96}
+{"template_id":"stage1_f0_wh_002","question_template":"Listen to the speaker. What is their average pitch in Hz?","answer_template":"{F0} Hz","weight":0.97}
+{"template_id":"stage1_f0_wh_003","question_template":"Listen to this audio. What is the speaker's mean fundamental frequency?","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_wh_004","question_template":"Listen to this utterance. What is the estimated F0?","answer_template":"{F0} Hz","weight":0.94}
+{"template_id":"stage1_f0_wh_005","question_template":"Listen to this recording. What is the utterance-level mean F0?","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_wh_006","question_template":"Listen to this speech sample. What fundamental frequency does it have, in Hz?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_wh_007","question_template":"Listen to this audio. What is the mean pitch frequency of the voice?","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_wh_008","question_template":"Listen to this clip. What is the average fundamental frequency of the speaker's voice?","answer_template":"{F0} Hz","weight":0.91}
+{"template_id":"stage1_f0_wh_009","question_template":"Listen to this speaker. What is their average F0, rounded to the nearest 5 Hz?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_wh_010","question_template":"Listen to this speech sample. What is the estimated mean F0 value?","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_wh_011","question_template":"Listen to the speaker. How high is their average fundamental frequency in Hz?","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_wh_012","question_template":"Listen to this recording. How many hertz is the speaker's mean F0?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_wh_013","question_template":"Listen to this utterance. How would you estimate its average F0 in Hz?","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_wh_014","question_template":"Listen to this speech clip. How would you report the speaker's mean pitch frequency?","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_wh_015","question_template":"Can you listen to this speech sample and estimate the average F0?","answer_template":"{F0} Hz","weight":0.96}
+{"template_id":"stage1_f0_wh_016","question_template":"Can you listen to this audio and tell me the speaker's mean fundamental frequency in Hz?","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_wh_017","question_template":"Can you listen to this recording and provide the utterance-level average pitch frequency?","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_wh_018","question_template":"Could you listen to this speech and estimate the mean F0 of the speaker's voice?","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_wh_019","question_template":"Could you listen to this speech audio and report the average fundamental frequency?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_wh_020","question_template":"Could you listen to this speaker and give their average pitch frequency in hertz?","answer_template":"{F0} Hz","weight":0.91}
+{"template_id":"stage1_f0_wh_021","question_template":"Could you listen to this utterance and provide its mean F0 in Hz?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_wh_022","question_template":"Could you listen to this clip and identify the average fundamental frequency of the speaker?","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_wh_023","question_template":"Help! Listen to this audio and tell me the speaker's average F0.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_wh_024","question_template":"Help me listen to this audio and estimate the speaker's mean pitch frequency in Hz.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_wh_025","question_template":"I need the average F0 for this utterance. Please listen and tell me what it is in Hz.","answer_template":"{F0} Hz","weight":0.89}
+{"template_id":"stage1_f0_constrained_001","question_template":"Listen to the audio and report the speaker's average F0 in Hz. Answer with only the number.","answer_template":"{F0}","weight":0.68}
+{"template_id":"stage1_f0_constrained_002","question_template":"Listen to the utterance and provide the utterance-level mean fundamental frequency in Hz. Return only the numeric value.","answer_template":"{F0}","weight":0.62}
+{"template_id":"stage1_f0_constrained_003","question_template":"Listen to this speech clip and estimate the mean pitch frequency in Hz. Answer using only the number.","answer_template":"{F0}","weight":0.67}
+{"template_id":"stage1_f0_constrained_004","question_template":"Listen to the speech. What is the speaker's average F0 in Hz? Give only the numeric Hz value.","answer_template":"{F0}","weight":0.70}
+{"template_id":"stage1_f0_constrained_005","question_template":"Listen to this utterance. What is the mean fundamental frequency? Respond with just the number in Hz.","answer_template":"{F0}","weight":0.66}
+{"template_id":"stage1_f0_constrained_006","question_template":"Listen to this speech sample and report the average pitch frequency. Use the format: <number> Hz.","answer_template":"{F0} Hz","weight":0.56}
+{"template_id":"stage1_f0_constrained_007","question_template":"Listen to this clip and provide the speaker's average F0. Use the format: F0: <number> Hz.","answer_template":"F0: {F0} Hz","weight":0.48}
+{"template_id":"stage1_f0_constrained_008","question_template":"Listen to the utterance and estimate the utterance-level mean F0. Answer in the format: mean F0 = <number> Hz.","answer_template":"mean F0 = {F0} Hz","weight":0.45}
+{"template_id":"stage1_f0_constrained_009","question_template":"Listen to this speech recording and give the average fundamental frequency as a key-value pair using the key F0_Hz.","answer_template":"F0_Hz: {F0}","weight":0.36}
+{"template_id":"stage1_f0_constrained_010","question_template":"Listen to this speaker and report the mean pitch frequency as a JSON object with the key \"F0_Hz\".","answer_template":"{{\"F0_Hz\": {F0}}}","weight":0.28}
+{"template_id":"stage1_f0_constrained_011","question_template":"Listen to this speech sample and provide the speaker's mean F0 rounded to the nearest 5 Hz. Answer with the number and unit only.","answer_template":"{F0} Hz","weight":0.62}
+{"template_id":"stage1_f0_constrained_012","question_template":"Listen to the speech and report the average fundamental frequency in Hz. Keep the answer to a number followed by Hz.","answer_template":"{F0} Hz","weight":0.61}
+{"template_id":"stage1_f0_constrained_013","question_template":"Please listen to the audio and provide the speaker's average pitch frequency in hertz, using no extra explanation.","answer_template":"{F0} Hz","weight":0.68}
+{"template_id":"stage1_f0_constrained_014","question_template":"Please listen to the utterance, estimate the utterance-level mean F0 in Hz, and answer with a compact value only.","answer_template":"{F0} Hz","weight":0.62}
+{"template_id":"stage1_f0_constrained_015","question_template":"Listen to this speech sample. What is the mean F0 of the speaker's voice? Answer as '<number> Hz'.","answer_template":"{F0} Hz","weight":0.56}
+{"template_id":"stage1_f0_constrained_016","question_template":"Listen to this recording and report the average fundamental frequency of the utterance. Use the format 'F0 = <number> Hz'.","answer_template":"F0 = {F0} Hz","weight":0.48}
+{"template_id":"stage1_f0_constrained_017","question_template":"Please listen to this utterance and return the utterance-level mean pitch frequency in hertz as 'average pitch: <number> Hz'.","answer_template":"average pitch: {F0} Hz","weight":0.46}
+{"template_id":"stage1_f0_constrained_018","question_template":"Listen to the speaker and estimate their mean fundamental frequency, rounded to the nearest 5 Hz. Write only the final value with its unit.","answer_template":"{F0} Hz","weight":0.62}
+{"template_id":"stage1_f0_constrained_019","question_template":"Listen to this audio clip and give the average F0 of the speaker in Hz. Do not include any explanation.","answer_template":"{F0} Hz","weight":0.69}
+{"template_id":"stage1_f0_constrained_020","question_template":"Please listen to the utterance and provide the mean F0 in hertz. Use a short answer only.","answer_template":"{F0} Hz","weight":0.67}
+{"template_id":"stage1_f0_constrained_021","question_template":"Listen to this speech sample. What is the utterance-level fundamental frequency estimate? Answer with a single Hz value.","answer_template":"{F0} Hz","weight":0.62}
+{"template_id":"stage1_f0_constrained_022","question_template":"Listen to this utterance and give the mean F0 as an integer number of Hz.","answer_template":"{F0}","weight":0.56}
+{"template_id":"stage1_f0_constrained_023","question_template":"Listen to the speaker and report their average fundamental frequency as an integer Hz value rounded to the nearest 5.","answer_template":"{F0}","weight":0.55}
+{"template_id":"stage1_f0_constrained_024","question_template":"Please listen to this speech recording and provide the average F0 in this exact form: '<number> Hz'.","answer_template":"{F0} Hz","weight":0.54}
+{"template_id":"stage1_f0_constrained_025","question_template":"Could you listen to the audio, estimate the speaker's mean pitch frequency, and answer only with the F0 value in Hz?","answer_template":"{F0} Hz","weight":0.68}
+{"template_id":"stage1_f0_direct_extra_001","question_template":"Listen to this speech clip and estimate its F0 in Hz.","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_direct_extra_002","question_template":"Listen to this utterance and report its average F0.","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_direct_extra_003","question_template":"Listen to this recording and give the F0 estimate for the speaker.","answer_template":"{F0} Hz","weight":0.91}
+{"template_id":"stage1_f0_direct_extra_004","question_template":"Listen to this speech audio and provide the mean F0 value.","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_direct_extra_005","question_template":"Listen to this utterance and estimate the speaker's F0.","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_direct_extra_006","question_template":"Listen to this speech sample and report the fundamental frequency estimate.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_extra_007","question_template":"Listen to this utterance and give the utterance-level F0 value in hertz.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_direct_extra_008","question_template":"Listen to this speaker and provide the average fundamental frequency measured for them.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_direct_extra_009","question_template":"Listen to this utterance and estimate the average pitch frequency.","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_direct_extra_010","question_template":"Listen to this audio clip and report the speaker's mean pitch frequency.","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_direct_extra_011","question_template":"Listen to this speech recording and give the average vocal pitch frequency.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_extra_012","question_template":"Listen to this speech utterance and provide the F0 measurement.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_direct_extra_013","question_template":"Listen to this utterance and estimate the mean fundamental frequency across it.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_extra_014","question_template":"Listen to this speech sample and report the average F0 extracted for it.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_direct_extra_015","question_template":"Listen to this speaker and give their pitch estimate as an F0 value in Hz.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_extra_016","question_template":"Listen to this utterance and provide its mean pitch value in hertz.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_extra_017","question_template":"Listen to this clip and estimate the fundamental frequency of the voice.","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_direct_extra_018","question_template":"Listen to this recording and report the mean F0 for the voice heard in it.","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_direct_extra_019","question_template":"Listen to this utterance and give the average fundamental frequency estimate.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_direct_extra_020","question_template":"Listen to this speech sample and provide its F0 estimate, measured in Hz.","answer_template":"{F0} Hz","weight":0.89}
+{"template_id":"stage1_f0_wh_extra_001","question_template":"Listen to this utterance. What F0 value is estimated for it?","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_wh_extra_002","question_template":"Listen to this speech clip. What is its mean F0?","answer_template":"{F0} Hz","weight":0.94}
+{"template_id":"stage1_f0_wh_extra_003","question_template":"Listen to this recording. What is the average vocal pitch frequency?","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_wh_extra_004","question_template":"Listen to this speaker. What is the estimated fundamental frequency?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_wh_extra_005","question_template":"Listen to this utterance. What is the F0 estimate for the voice?","answer_template":"{F0} Hz","weight":0.91}
+{"template_id":"stage1_f0_wh_extra_006","question_template":"Listen to this speech sample. What mean pitch frequency should be assigned to it?","answer_template":"{F0} Hz","weight":0.74}
+{"template_id":"stage1_f0_wh_extra_007","question_template":"Listen to this utterance. What is the average F0 measured across it?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_wh_extra_008","question_template":"Listen to this speaker. What is their pitch frequency estimate in hertz?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_wh_extra_009","question_template":"Listen to this clip. What is the mean fundamental frequency value?","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_wh_extra_010","question_template":"Listen to this speech recording. What F0 should be reported for it?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_wh_extra_011","question_template":"Listen to this utterance. How would you label its average F0 in Hz?","answer_template":"{F0} Hz","weight":0.72}
+{"template_id":"stage1_f0_wh_extra_012","question_template":"Listen to this speaker. How high is the estimated mean pitch frequency?","answer_template":"{F0} Hz","weight":0.74}
+{"template_id":"stage1_f0_wh_extra_013","question_template":"Listen to this speech sample. How many Hz is the average fundamental frequency?","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_wh_extra_014","question_template":"Listen to this utterance. How should the speaker's F0 be reported?","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_wh_extra_015","question_template":"Can you listen to this clip and estimate its average fundamental frequency?","answer_template":"{F0} Hz","weight":0.93}
+{"template_id":"stage1_f0_wh_extra_016","question_template":"Can you listen to this recording and give the F0 estimate in Hz?","answer_template":"{F0} Hz","weight":0.94}
+{"template_id":"stage1_f0_wh_extra_017","question_template":"Can you listen to this utterance and report the mean pitch frequency?","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_wh_extra_018","question_template":"Could you listen to this speech sample and provide its average F0?","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_wh_extra_019","question_template":"Could you listen to this speaker and tell me the estimated fundamental frequency?","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_wh_extra_020","question_template":"Could you listen to this utterance and report the utterance-level F0 value in hertz?","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_workflow_001","question_template":"I am working on prosody analysis. Can you listen to this speech clip and provide the speaker's average F0?","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_workflow_002","question_template":"I am preparing pitch-related metadata for this utterance. Please listen and report the mean fundamental frequency in Hz.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_workflow_003","question_template":"I am building a speech style dataset and need you to listen to this recording and provide the utterance-level F0.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_workflow_004","question_template":"For a voice analysis workflow, listen to this audio and estimate the speaker's average pitch frequency in Hz.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_workflow_005","question_template":"I am annotating speech prosody features. Please listen to this utterance and tell me its mean F0.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_workflow_006","question_template":"I am checking pitch statistics for this sample. Please listen and give the average fundamental frequency.","answer_template":"{F0} Hz","weight":0.81}
+{"template_id":"stage1_f0_workflow_007","question_template":"For this prosody modeling task, listen to the speech and report the speaker's average F0 in hertz.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_workflow_008","question_template":"You are tasked with listening to this speech sample and extracting the F0 feature. Report the mean F0 in Hz.","answer_template":"{F0} Hz","weight":0.74}
+{"template_id":"stage1_f0_workflow_009","question_template":"You are preparing an utterance-level pitch annotation. Listen to the audio and provide the fundamental frequency estimate in Hz.","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_workflow_010","question_template":"You are labeling speech prosody metadata. Listen to this clip and report the average F0 that should be assigned to it.","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_workflow_011","question_template":"As part of a speech representation pipeline, listen to this utterance and estimate its mean pitch frequency.","answer_template":"{F0} Hz","weight":0.79}
+{"template_id":"stage1_f0_workflow_012","question_template":"For downstream voice analysis, listen to the recording and provide the speaker's average fundamental frequency in Hz.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_workflow_013","question_template":"I am creating pitch labels for speech samples. Can you listen to this clip and report its F0 estimate?","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_workflow_014","question_template":"I am organizing acoustic features for this recording. Please listen and provide the utterance-level mean F0.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_workflow_015","question_template":"For an automatic speech analysis task, listen to this audio and estimate the speaker's average F0 in Hz.","answer_template":"{F0} Hz","weight":0.81}
+{"template_id":"stage1_f0_workflow_016","question_template":"For this audio metadata generation step, listen to the utterance and give its mean fundamental frequency.","answer_template":"{F0} Hz","weight":0.74}
+{"template_id":"stage1_f0_workflow_017","question_template":"I am evaluating pitch estimation outputs. Please listen to this speech sample and tell me the F0 value.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_workflow_018","question_template":"I am compiling prosodic descriptors for this clip. Please listen and report the average pitch frequency.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_workflow_019","question_template":"You are filling in a speech feature table. Listen to this utterance and enter the speaker's average F0 in Hz.","answer_template":"{F0} Hz","weight":0.72}
+{"template_id":"stage1_f0_workflow_020","question_template":"You are asked to listen to this sample and annotate it with its mean pitch frequency. What value should be used?","answer_template":"{F0} Hz","weight":0.74}
+{"template_id":"stage1_f0_workflow_021","question_template":"For a paralinguistic speech analysis dataset, listen to the audio and provide the utterance-level fundamental frequency.","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_workflow_022","question_template":"I am preparing features for a pitch-aware speech model. Can you listen and give the average F0 in Hz?","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_workflow_023","question_template":"For this metadata annotation pass, listen to the clip and report the mean F0 of the speaker's voice.","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_workflow_024","question_template":"I am validating utterance-level acoustic labels. Please listen and provide the fundamental frequency estimate for this clip.","answer_template":"{F0} Hz","weight":0.81}
+{"template_id":"stage1_f0_workflow_025","question_template":"You are completing an F0 estimation task for this speech recording. Listen to the audio and report the value in Hz.","answer_template":"{F0} Hz","weight":0.74}
+{"template_id":"stage1_f0_help_001","question_template":"I need your help listening to this clip and estimating the speaker's average F0.","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_help_002","question_template":"Can you help me listen to this utterance and find its mean fundamental frequency?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_help_003","question_template":"Could you help me listen to this recording and report the average pitch frequency?","answer_template":"{F0} Hz","weight":0.83}
+{"template_id":"stage1_f0_help_004","question_template":"I need help listening to this speech sample and getting the F0 estimate.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_help_005","question_template":"Can you help listen to the audio and estimate the speaker's mean F0 in Hz?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_help_006","question_template":"Please help me listen to this voice and determine the average fundamental frequency.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_help_007","question_template":"Help me listen to this speech clip and report the utterance-level F0.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_help_008","question_template":"I need the speaker's average pitch frequency. Can you listen and provide it in Hz?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_help_009","question_template":"Could you help me listen to this utterance and estimate its F0 value?","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_help_010","question_template":"Can you help me listen to this recording and fill in the mean F0?","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_help_011","question_template":"I need assistance with F0 estimation for this speech sample. Please listen and tell me the value in Hz.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_help_012","question_template":"Help me listen to this audio and identify the average fundamental frequency for the speaker.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_help_013","question_template":"Could you help listen to this clip and provide the speaker's mean pitch frequency?","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_help_014","question_template":"I need your help listening to this utterance and reporting its F0 in hertz.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_help_015","question_template":"Can you help me listen to this speech recording and estimate the average F0 across it?","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_help_016","question_template":"Please help me listen to this sample and get the utterance-level mean pitch frequency.","answer_template":"{F0} Hz","weight":0.78}
+{"template_id":"stage1_f0_help_017","question_template":"I need help with this speech clip's pitch feature. Please listen and tell me the average F0.","answer_template":"{F0} Hz","weight":0.85}
+{"template_id":"stage1_f0_help_018","question_template":"Can you help me listen to this speaker and report the fundamental frequency estimate?","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_help_019","question_template":"Help me listen to this utterance and estimate the mean F0 for the voice.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_help_020","question_template":"Could you help me listen to this speaker and determine the F0 estimate?","answer_template":"{F0} Hz","weight":0.81}
+{"template_id":"stage1_f0_help_021","question_template":"I need your help listening to this speech sample and extracting the average pitch frequency.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_help_022","question_template":"Can you help me listen to this audio clip and provide the mean fundamental frequency?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_help_023","question_template":"Please help listen to this recording and estimate its utterance-level F0 in Hz.","answer_template":"{F0} Hz","weight":0.76}
+{"template_id":"stage1_f0_help_024","question_template":"I need help listening to this speech utterance and assigning an F0 value. What should it be?","answer_template":"{F0} Hz","weight":0.74}
+{"template_id":"stage1_f0_help_025","question_template":"Could you help me listen to this speaker and give their average F0, measured in hertz?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_casual_001","question_template":"Listen and tell me the F0 for this clip.","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_casual_002","question_template":"Listen to this speaker and tell me their average pitch in Hz.","answer_template":"{F0} Hz","weight":0.95}
+{"template_id":"stage1_f0_casual_003","question_template":"Listen to this. What's the average F0 here?","answer_template":"{F0} Hz","weight":0.94}
+{"template_id":"stage1_f0_casual_004","question_template":"Listen to this voice. What's the pitch frequency?","answer_template":"{F0} Hz","weight":0.88}
+{"template_id":"stage1_f0_casual_005","question_template":"Listen to the clip and give me the speaker's F0 estimate.","answer_template":"{F0} Hz","weight":0.90}
+{"template_id":"stage1_f0_casual_006","question_template":"Listen to this speaker. What's their mean pitch?","answer_template":"{F0} Hz","weight":0.92}
+{"template_id":"stage1_f0_casual_007","question_template":"Listen and tell me the average fundamental frequency.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_casual_008","question_template":"Listen to this utterance. What F0 do you get?","answer_template":"{F0} Hz","weight":0.86}
+{"template_id":"stage1_f0_casual_009","question_template":"Can you listen and get the average pitch for this clip?","answer_template":"{F0} Hz","weight":0.93}
+{"template_id":"stage1_f0_casual_010","question_template":"Listen to the speaker. What's their F0 in Hz?","answer_template":"{F0} Hz","weight":0.94}
+{"template_id":"stage1_f0_formal_001","question_template":"Listen to the audio and provide the F0 estimate, defined as the utterance-level mean fundamental frequency in Hz.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_formal_002","question_template":"Please listen to this speech sample and report the speaker's F0, defined as the average fundamental frequency across the utterance.","answer_template":"{F0} Hz","weight":0.84}
+{"template_id":"stage1_f0_formal_003","question_template":"Please listen to the speech recording. What is the F0 estimate, defined as the mean pitch frequency of the speaker's voice?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_formal_004","question_template":"Please listen to this audio and provide the utterance-level F0 estimate, where F0 refers to the mean fundamental frequency in hertz.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_formal_005","question_template":"Listen to the speech clip and report the average F0 value, expressed in Hz and rounded to the nearest 5 Hz.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_formal_006","question_template":"Please listen to this speech sample and estimate the fundamental frequency, defined here as the speaker's mean F0 across the utterance.","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_formal_007","question_template":"Could you listen to the recording and provide the F0 estimation, defined as the average pitch frequency of the speaker's voice?","answer_template":"{F0} Hz","weight":0.82}
+{"template_id":"stage1_f0_formal_008","question_template":"Please listen to this utterance and determine the F0 value, where the value represents the mean fundamental frequency measured in Hz.","answer_template":"{F0} Hz","weight":0.80}
+{"template_id":"stage1_f0_formal_009","question_template":"Please listen to the provided speech audio and report the F0 estimate, defined as the utterance-level average fundamental frequency.","answer_template":"{F0} Hz","weight":0.81}
+{"template_id":"stage1_f0_formal_010","question_template":"Please listen to the audio and tell me the F0 estimation in Hz, defined as the rounded mean fundamental frequency of the utterance.","answer_template":"{F0} Hz","weight":0.82}
