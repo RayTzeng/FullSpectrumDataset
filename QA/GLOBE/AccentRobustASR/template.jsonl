@@ -1,0 +1,570 @@
+{"question_template":"Listen to this speech clip and tell me the accent and the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.94}
+{"question_template":"Listen to the utterance, identify the speaker's accent, and transcribe it.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.93}
+{"question_template":"Please listen to this speaker, tell me the accent, and write out what they say.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.91}
+{"question_template":"Can you listen to this clip, identify the accent, and provide the transcript?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.95}
+{"question_template":"Listen to the audio, determine the speaker's accent, and transcribe it.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.88}
+{"question_template":"After listening, what accent does this speaker have, and what exactly is being said?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.94}
+{"question_template":"Please listen to this speech sample, identify the accent, and then transcribe it.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.90}
+{"question_template":"Listen to this audio. What is the speaker's accent, and what is the full transcription?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.92}
+{"question_template":"Listen to this utterance, recognize the accent, and provide the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.84}
+{"question_template":"Can you first listen to the audio, identify the accent, and then transcribe what is said?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.93}
+{"question_template":"Listen to the clip, identify the accent, and write the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.90}
+{"question_template":"Listen to this audio and tell me both the accent and the transcription.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.95}
+{"question_template":"For this speech recording, listen and tell me the accent and the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.92}
+{"question_template":"Please listen to this clip and provide the accent label and spoken transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.89}
+{"question_template":"Listen to this recording, identify the accent, and return the transcript as well.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.91}
+{"question_template":"After listening, what accent is this speaker using, and what do they say?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.94}
+{"question_template":"Can you listen and say what accent this is, then transcribe the utterance?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.93}
+{"question_template":"Please listen to the speaker, identify the accent, then write out the speech.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.87}
+{"question_template":"Listen to this audio. I need both pieces of information: the accent and the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.90}
+{"question_template":"Listen to this English speech. What is the accent, and how would you transcribe it?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.88}
+{"question_template":"Please listen to this English speaker, identify the accent, and provide the exact transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.91}
+{"question_template":"For this utterance, listen, identify the accent, and write the spoken words.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.86}
+{"question_template":"Listen to this clip. What accent does it have, and what is being said in it?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.90}
+{"question_template":"Could you listen to this recording, classify the accent, and also transcribe it?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.92}
+{"question_template":"Please listen to the audio and report the accent first and the transcript second.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.85}
+{"question_template":"Listen to this audio. What is the speaker's accent, and what is the written transcript?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.89}
+{"question_template":"Listen to the utterance, identify the accent variety, and transcribe it.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.83}
+{"question_template":"Can you listen to this speaker, label the accent, and provide the transcript?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.91}
+{"question_template":"After listening, what accent is represented here, and what are the spoken words?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.87}
+{"question_template":"Please listen to this speech clip and give the accent and the full transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.93}
+{"question_template":"Listen to this utterance, determine the accent, and return the transcription.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.84}
+{"question_template":"I want to know the accent and the transcript of this recording. Please listen and provide both.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.92}
+{"question_template":"Can you listen to this audio, identify the accent type, and write down exactly what is said?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.93}
+{"question_template":"Please listen to this speech sample, classify the accent, and transcribe it verbatim.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.88}
+{"question_template":"Listen to this speech clip. What is the accent? Also provide the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.94}
+{"question_template":"Listen to this speaker, tell me the accent, then transcribe the clip.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.90}
+{"question_template":"Could you listen, identify the accent, and then give the exact spoken content?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.91}
+{"question_template":"Listen to this recording. What accent does this person speak with, and what do they say?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.92}
+{"question_template":"For this audio sample, listen, identify the accent, and transcribe the speech.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.90}
+{"question_template":"Please listen to this utterance and return both the accent and the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.93}
+{"question_template":"Can you listen, recognize the accent, and also write out the utterance?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.89}
+{"question_template":"Listen to this clip, identify the speaker's accent, and provide the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.87}
+{"question_template":"Listen to this speech. What accent is this, and how would it be transcribed?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.88}
+{"question_template":"Listen to this clip and give me the accent label and the corresponding transcription.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.91}
+{"question_template":"Please listen to the recording, identify the accent, and write the full transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.90}
+{"question_template":"Listen to the speaker here. What is the accent, and what is being said?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.89}
+{"question_template":"Could you listen and provide the speaker's accent and the exact transcript?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.94}
+{"question_template":"Listen to this recording. What accent does it contain, and what is the utterance?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.84}
+{"question_template":"Listen to this audio, classify the accent, and transcribe the spoken sentence.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.86}
+{"question_template":"Please listen to this clip, identify the accent variety, and write out the speech.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.85}
+{"question_template":"I need the accent and the transcript for this speech recording. Please listen and provide both.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.91}
+{"question_template":"Listen to this clip. What accent does this speaker have, and what is the transcription?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.92}
+{"question_template":"Listen to this speech sample, name the accent, and transcribe the clip.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.83}
+{"question_template":"Please listen, tell me the accent, and then provide a faithful transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.88}
+{"question_template":"After listening, what accent is heard here, and what are the exact spoken words?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.90}
+{"question_template":"Listen to this utterance, identify the accent, and write its transcript in full.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.87}
+{"question_template":"Can you listen to this sample, determine the accent, and return the transcript?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.92}
+{"question_template":"For this clip, after listening, what accent is the speaker using, and what do they say exactly?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.91}
+{"question_template":"Please listen to this spoken clip, identify the accent, and provide the written transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.89}
+{"question_template":"Listen to this speaker. What is the accent? Also transcribe the audio.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.93}
+{"question_template":"Listen to this utterance, recognize the accent, and write out the full transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.84}
+{"question_template":"Please provide two things for this recording after listening: the accent and the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.94}
+{"question_template":"Listen to this audio, identify the accent, and then transcribe it.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.90}
+{"question_template":"After listening, report the accent and provide the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.88}
+{"question_template":"Can you listen to the clip and tell me both the accent and the transcription?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.93}
+{"question_template":"Please listen to the recording, identify the accent, and write what is said.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.89}
+{"question_template":"Listen to this audio. What is the accent? Please also return the exact transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.94}
+{"question_template":"Could you listen to this speech sample, identify the accent, and transcribe it?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.91}
+{"question_template":"Listen carefully and provide the accent label together with the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.87}
+{"question_template":"After listening to the clip, what is the accent and what is being said?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.92}
+{"question_template":"Based on this audio, identify the accent and provide the spoken transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.89}
+{"question_template":"From this recording, determine the accent and write out the speech.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.86}
+{"question_template":"Using the clip, listen and tell me the accent and the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.85}
+{"question_template":"Please listen to this utterance and return both its accent and transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.90}
+{"question_template":"Can you identify the accent after listening and then transcribe the speech?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.88}
+{"question_template":"What accent do you hear in this recording, and what is the transcript?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.93}
+{"question_template":"Please listen and provide the accent classification and the full written transcript for this clip.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.88}
+{"question_template":"Listen to the speaker, identify the accent, and write down exactly what is said.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.91}
+{"question_template":"Could you listen, determine the accent of this speaker, and transcribe the utterance verbatim?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.89}
+{"question_template":"Please listen to this speech sample, report the accent, and include the transcript.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.86}
+{"question_template":"For this audio clip, identify the accent and provide the exact spoken content.","answer_template":"format_accent_cascade_region(accent, text)","weight":0.92}
+{"question_template":"Listen to this recording. What accent is this speaker using, and what is the full transcript?","answer_template":"format_accent_cascade_region(accent, text)","weight":0.93}
+{"question_template":"Transcribe this {accent_display} utterance.","answer_template":"text","weight":0.90}
+{"question_template":"Write the transcript of this {accent_display} speech clip.","answer_template":"text","weight":0.88}
+{"question_template":"Please transcribe this {accent_display} recording.","answer_template":"text","weight":0.86}
+{"question_template":"Can you transcribe this {accent_display} audio sample?","answer_template":"text","weight":0.95}
+{"question_template":"Could you write out what this {accent_display} speaker is saying?","answer_template":"text","weight":0.93}
+{"question_template":"What does this {accent_display} speaker say in this clip?","answer_template":"text","weight":0.94}
+{"question_template":"What is being said in this {accent_display} recording?","answer_template":"text","weight":0.92}
+{"question_template":"Provide the transcript for this {accent_display} utterance.","answer_template":"text","weight":0.84}
+{"question_template":"Return the spoken words from this {accent_display} audio clip.","answer_template":"text","weight":0.78}
+{"question_template":"Generate the transcript of this {accent_display} speech sample.","answer_template":"text","weight":0.76}
+{"question_template":"Write down the speech in this {accent_display} clip.","answer_template":"text","weight":0.87}
+{"question_template":"Produce the transcription of this {accent_display} recording.","answer_template":"text","weight":0.73}
+{"question_template":"Can you tell me what this {accent_display} speaker is saying?","answer_template":"text","weight":0.94}
+{"question_template":"Could you provide the transcript of this {accent_display} audio?","answer_template":"text","weight":0.91}
+{"question_template":"What is the full transcript of this {accent_display} audio?","answer_template":"text","weight":0.90}
+{"question_template":"What exactly is said in this {accent_display} utterance?","answer_template":"text","weight":0.86}
+{"question_template":"What are the spoken words in this {accent_display} clip?","answer_template":"text","weight":0.91}
+{"question_template":"What is said in this {accent_display} speech sample?","answer_template":"text","weight":0.88}
+{"question_template":"What is the speaker saying in this {accent_display} recording?","answer_template":"text","weight":0.92}
+{"question_template":"What is the spoken content of this {accent_display} clip?","answer_template":"text","weight":0.85}
+{"question_template":"What is the transcript for this {accent_display} clip?","answer_template":"text","weight":0.95}
+{"question_template":"How would you transcribe this {accent_display} audio?","answer_template":"text","weight":0.70}
+{"question_template":"How should this {accent_display} utterance be written out?","answer_template":"text","weight":0.60}
+{"question_template":"How would this {accent_display} recording be written as text?","answer_template":"text","weight":0.61}
+{"question_template":"How should the speech in this {accent_display} clip be transcribed?","answer_template":"text","weight":0.68}
+{"question_template":"How would you write the spoken content of this {accent_display} audio?","answer_template":"text","weight":0.62}
+{"question_template":"How should this {accent_display} recording appear in written form?","answer_template":"text","weight":0.58}
+{"question_template":"How would you render this {accent_display} utterance as text?","answer_template":"text","weight":0.57}
+{"question_template":"How should the words in this {accent_display} clip be written down?","answer_template":"text","weight":0.63}
+{"question_template":"How would this {accent_display} speech be transcribed?","answer_template":"text","weight":0.66}
+{"question_template":"How would you convert this {accent_display} recording into text?","answer_template":"text","weight":0.60}
+{"question_template":"Listen to the audio and transcribe this {accent_display} clip.","answer_template":"text","weight":0.85}
+{"question_template":"Listen to this {accent_display} recording and write what is said.","answer_template":"text","weight":0.83}
+{"question_template":"Listen carefully and provide the transcript of this {accent_display} utterance.","answer_template":"text","weight":0.80}
+{"question_template":"Listen to the recording and write out the speech from this {accent_display} speaker.","answer_template":"text","weight":0.84}
+{"question_template":"Based on this audio, provide the transcript of the {accent_display} speech.","answer_template":"text","weight":0.72}
+{"question_template":"Based on the recording, write what this {accent_display} speaker says.","answer_template":"text","weight":0.74}
+{"question_template":"From this clip, generate the transcription of the {accent_display} utterance.","answer_template":"text","weight":0.71}
+{"question_template":"Using the audio, write the spoken content of this {accent_display} sample as text.","answer_template":"text","weight":0.64}
+{"question_template":"From this recording, produce the transcript of the {accent_display} speech.","answer_template":"text","weight":0.73}
+{"question_template":"After listening, write out this {accent_display} utterance.","answer_template":"text","weight":0.75}
+{"question_template":"Transcribe the speech in this {accent_display} clip.","answer_template":"text","weight":0.86}
+{"question_template":"Write the contents of this {accent_display} recording as text.","answer_template":"text","weight":0.72}
+{"question_template":"Convert this {accent_display} spoken audio into text.","answer_template":"text","weight":0.66}
+{"question_template":"Return a transcription of this {accent_display} utterance.","answer_template":"text","weight":0.69}
+{"question_template":"Provide the spoken content of this {accent_display} audio as text.","answer_template":"text","weight":0.71}
+{"question_template":"Render the speech in this {accent_display} recording as a transcript.","answer_template":"text","weight":0.55}
+{"question_template":"Create a written transcript for this {accent_display} clip.","answer_template":"text","weight":0.70}
+{"question_template":"Produce the full transcription of this {accent_display} audio.","answer_template":"text","weight":0.74}
+{"question_template":"Write the spoken passage from this {accent_display} recording.","answer_template":"text","weight":0.69}
+{"question_template":"Generate a complete transcript of the {accent_display} utterance.","answer_template":"text","weight":0.67}
+{"question_template":"Can you write down what is said by this {accent_display} speaker?","answer_template":"text","weight":0.92}
+{"question_template":"Can you provide a clean transcript of this {accent_display} audio?","answer_template":"text","weight":0.89}
+{"question_template":"Could you write out the speech from this {accent_display} clip?","answer_template":"text","weight":0.90}
+{"question_template":"Could you return the exact transcript of this {accent_display} utterance?","answer_template":"text","weight":0.82}
+{"question_template":"Please provide a complete transcription of this {accent_display} recording.","answer_template":"text","weight":0.80}
+{"question_template":"Please write the speech from this {accent_display} clip as text.","answer_template":"text","weight":0.81}
+{"question_template":"Would you mind transcribing this {accent_display} utterance?","answer_template":"text","weight":0.79}
+{"question_template":"Would you please write out the spoken words from this {accent_display} speaker?","answer_template":"text","weight":0.83}
+{"question_template":"Can you give me the full transcript of this {accent_display} clip?","answer_template":"text","weight":0.90}
+{"question_template":"Could you transcribe this {accent_display} audio for me?","answer_template":"text","weight":0.97}
+{"question_template":"What is this {accent_display} speaker saying in this audio?","answer_template":"text","weight":0.92}
+{"question_template":"What does this {accent_display} recording say when written out?","answer_template":"text","weight":0.86}
+{"question_template":"What is the exact transcript of this {accent_display} utterance?","answer_template":"text","weight":0.84}
+{"question_template":"What words are spoken in this {accent_display} clip?","answer_template":"text","weight":0.86}
+{"question_template":"What is the spoken content of this {accent_display} recording, written out?","answer_template":"text","weight":0.82}
+{"question_template":"What would the transcript of this {accent_display} audio be?","answer_template":"text","weight":0.83}
+{"question_template":"What is the full written version of the speech in this {accent_display} clip?","answer_template":"text","weight":0.88}
+{"question_template":"What does the {accent_display} utterance sound like when transcribed?","answer_template":"text","weight":0.58}
+{"question_template":"What is being said here by this {accent_display} speaker, written as text?","answer_template":"text","weight":0.89}
+{"question_template":"What is the complete transcription of this {accent_display} segment?","answer_template":"text","weight":0.87}
+{"question_template":"Please listen to the recording and provide the exact transcript of this {accent_display} speech.","answer_template":"text","weight":0.78}
+{"question_template":"After listening to this clip, write the full spoken content of this {accent_display} recording as text.","answer_template":"text","weight":0.73}
+{"question_template":"Transcribe this {accent_display} audio segment verbatim.","answer_template":"text","weight":0.76}
+{"question_template":"Write exactly what is spoken in this {accent_display} recording.","answer_template":"text","weight":0.79}
+{"question_template":"Provide the complete spoken transcript for this {accent_display} utterance.","answer_template":"text","weight":0.74}
+{"question_template":"Return the contents of this {accent_display} recording as a faithful transcript.","answer_template":"text","weight":0.65}
+{"question_template":"Please produce a transcription of the speech in this {accent_display} clip.","answer_template":"text","weight":0.82}
+{"question_template":"From the audio provided, generate the exact transcript of this {accent_display} speech sample.","answer_template":"text","weight":0.72}
+{"question_template":"Listen to this {accent_display} speech sample and write out everything said.","answer_template":"text","weight":0.85}
+{"question_template":"What is the full spoken content of this {accent_display} audio clip?","answer_template":"text","weight":0.86}
+{"question": "Transcribe this accented English audio.", "answer": "text", "weight": 0.67}
+{"question": "Write the transcript of this accented English utterance.", "answer": "text", "weight": 0.7}
+{"question": "Provide the transcript for this accented English speech clip.", "answer": "text", "weight": 0.38}
+{"question": "Return the spoken words from this accented English recording.", "answer": "text", "weight": 0.3}
+{"question": "Produce a transcription of this accented English utterance.", "answer": "text", "weight": 0.6}
+{"question": "Transcribe this accented English utterance as written text.", "answer": "text", "weight": 0.81}
+{"question": "Give the transcript of this accented English speech in written form.", "answer": "text", "weight": 0.57}
+{"question": "Write out what is said in this accented English clip.", "answer": "text", "weight": 0.48}
+{"question": "Can you transcribe this accented English speech clip?", "answer": "text", "weight": 0.79}
+{"question": "Can you write this accented English audio out as text?", "answer": "text", "weight": 0.66}
+{"question": "Could you transcribe this accented English clip?", "answer": "text", "weight": 0.77}
+{"question": "Could you write the spoken content of this accented English recording as a transcript?", "answer": "text", "weight": 0.85}
+{"question": "Please transcribe this accented English recording.", "answer": "text", "weight": 0.56}
+{"question": "Please write the accented English utterance in written form.", "answer": "text", "weight": 0.52}
+{"question": "Would you transcribe this accented English audio sample?", "answer": "text", "weight": 0.64}
+{"question": "Would you please provide the transcript of this accented English utterance?", "answer": "text", "weight": 0.87}
+{"question": "Can you turn this accented English recording into text?", "answer": "text", "weight": 0.91}
+{"question": "Could you give me the transcript of this accented English speech?", "answer": "text", "weight": 0.73}
+{"question": "What is being said in this accented English recording?", "answer": "text", "weight": 0.93}
+{"question": "What does the speaker say in this accented English clip?", "answer": "text", "weight": 0.95}
+{"question": "What is the full transcript of this accented English audio?", "answer": "text", "weight": 0.93}
+{"question": "What exactly is said in this accented English utterance?", "answer": "text", "weight": 0.64}
+{"question": "What are the spoken words in this accented English clip?", "answer": "text", "weight": 0.77}
+{"question": "What is said in this accented English recording, as written text?", "answer": "text", "weight": 0.83}
+{"question": "What is the complete written transcript of this accented English audio?", "answer": "text", "weight": 0.96}
+{"question": "What does this accented English speech segment say?", "answer": "text", "weight": 0.68}
+{"question": "What is the speaker saying in this accented English sample?", "answer": "text", "weight": 0.66}
+{"question": "How would this accented English utterance be transcribed?", "answer": "text", "weight": 0.45}
+{"question": "How should this accented English clip be written as a transcript?", "answer": "text", "weight": 0.42}
+{"question": "How would you write the spoken content of this accented English recording?", "answer": "text", "weight": 0.43}
+{"question": "How should the speech in this accented English audio appear in written form?", "answer": "text", "weight": 0.43}
+{"question": "How would this accented English recording be transcribed as written text?", "answer": "text", "weight": 0.47}
+{"question": "How would you transcribe the words spoken in this accented English clip?", "answer": "text", "weight": 0.56}
+{"question": "How should the transcript of this accented English audio be written?", "answer": "text", "weight": 0.36}
+{"question": "Listen to the audio and transcribe this accented English speech.", "answer": "text", "weight": 0.61}
+{"question": "Listen to this accented English recording and write the spoken content.", "answer": "text", "weight": 0.57}
+{"question": "Listen carefully and provide the full transcript of this accented English utterance.", "answer": "text", "weight": 0.77}
+{"question": "Please listen to the clip and transcribe the accented English speech.", "answer": "text", "weight": 0.79}
+{"question": "Based on this audio, provide a transcription of the accented English speech.", "answer": "text", "weight": 0.67}
+{"question": "Based on the recording, write exactly what is said in this accented English clip.", "answer": "text", "weight": 0.4}
+{"question": "From this clip, produce the complete transcript of the accented English speech.", "answer": "text", "weight": 0.53}
+{"question": "Using the audio, write out the accented English utterance as text.", "answer": "text", "weight": 0.5}
+{"question": "From this recording, generate the transcript of the accented English speech.", "answer": "text", "weight": 0.69}
+{"question": "Write the contents of this accented English recording as a readable transcript.", "answer": "text", "weight": 0.42}
+{"question": "Please convert the accented English speech into a transcript.", "answer": "text", "weight": 0.8}
+{"question": "Provide the spoken content of this accented English audio as written text.", "answer": "text", "weight": 0.47}
+{"question": "Render the speech in this accented English recording as a transcript.", "answer": "text", "weight": 0.26}
+{"question": "Create a written transcript for this accented English clip.", "answer": "text", "weight": 0.35}
+{"question": "Produce the full transcription of this accented English audio.", "answer": "text", "weight": 0.31}
+{"question": "Write the spoken passage from this accented English recording in text form.", "answer": "text", "weight": 0.67}
+{"question": "Can you write down what is said in this accented English clip?", "answer": "text", "weight": 0.79}
+{"question": "Can you provide a clean transcript of this accented English audio?", "answer": "text", "weight": 0.76}
+{"question": "Could you write out the speech from this accented English clip?", "answer": "text", "weight": 0.68}
+{"question": "Could you return the exact transcript of this accented English utterance?", "answer": "text", "weight": 0.85}
+{"question": "Please provide a complete transcription of this accented English recording.", "answer": "text", "weight": 0.52}
+{"question": "Please write the speech from this accented English clip as a transcript.", "answer": "text", "weight": 0.81}
+{"question": "Would you mind transcribing this accented English utterance?", "answer": "text", "weight": 0.57}
+{"question": "Would you please write out the spoken words from this accented English clip?", "answer": "text", "weight": 0.72}
+{"question": "Can you give me the full transcript of this accented English clip?", "answer": "text", "weight": 0.66}
+{"question": "Could you transcribe this accented English audio for me?", "answer": "text", "weight": 0.72}
+{"question": "What is the speaker saying in this accented English audio?", "answer": "text", "weight": 0.68}
+{"question": "What does this accented English recording say when written out?", "answer": "text", "weight": 0.93}
+{"question": "What is the exact transcript of this accented English utterance?", "answer": "text", "weight": 0.4}
+{"question": "What words are spoken in this accented English clip?", "answer": "text", "weight": 0.83}
+{"question": "What is the spoken content of this accented English recording?", "answer": "text", "weight": 0.87}
+{"question": "What is the full written version of the speech in this accented English clip?", "answer": "text", "weight": 0.95}
+{"question": "What is being said here in this accented English sample?", "answer": "text", "weight": 0.36}
+{"question": "How should the spoken words in this accented English recording be written as a transcript?", "answer": "text", "weight": 0.51}
+{"question": "How would this accented English utterance appear when transcribed?", "answer": "text", "weight": 0.44}
+{"question": "How would you write this accented English clip out as text?", "answer": "text", "weight": 0.39}
+{"question": "How should this accented English audio be transcribed?", "answer": "text", "weight": 0.31}
+{"question": "How would the speech in this accented English clip be rendered in written form?", "answer": "text", "weight": 0.34}
+{"question": "How would you convert this accented English speech recording into text?", "answer": "text", "weight": 0.49}
+{"question": "How should the spoken content here be transcribed, even if the accent is unfamiliar?", "answer": "text", "weight": 0.4}
+{"question": "How would this accented English recording be written down as a proper transcript?", "answer": "text", "weight": 0.51}
+{"question": "Please listen to the recording and provide the exact transcript of this accented English speech.", "answer": "text", "weight": 0.49}
+{"question": "After listening to this clip, write the full spoken content of the accented English utterance as text.", "answer": "text", "weight": 0.41}
+{"question": "Write exactly what is spoken in this accented English recording.", "answer": "text", "weight": 0.69}
+{"question": "Provide the complete spoken transcript for this accented English utterance.", "answer": "text", "weight": 0.39}
+{"question": "Please produce a transcription of the accented English speech in this clip.", "answer": "text", "weight": 0.59}
+{"question": "From the audio provided, generate the exact transcript of this accented English speech.", "answer": "text", "weight": 0.46}
+{"question": "Listen to this accented English speech sample and write out everything said.", "answer": "text", "weight": 0.84}
+{"question": "What is the full spoken content of this accented English audio clip?", "answer": "text", "weight": 0.87}
+{"question": "Transcribe this accented English audio, even if the accent is unfamiliar.", "answer": "text", "weight": 0.84}
+{"question": "Can you transcribe this accented English audio?", "answer": "text", "weight": 0.97}
+{"question": "Could you provide the transcript of this accented English audio?", "answer": "text", "weight": 0.91}
+{"question": "What is the transcript for this accented English clip?", "answer": "text", "weight": 0.97}
+{"question": "Transcribe this audio with punctuation.", "answer": "text", "weight": 0.67}
+{"question": "Write the punctuated transcript.", "answer": "text", "weight": 0.7}
+{"question": "Provide the transcript with proper punctuation.", "answer": "text", "weight": 0.38}
+{"question": "Return the spoken words with punctuation.", "answer": "text", "weight": 0.3}
+{"question": "Produce a punctuated transcription.", "answer": "text", "weight": 0.6}
+{"question": "Transcribe this utterance as written text.", "answer": "text", "weight": 0.81}
+{"question": "Give the transcript in normal written form.", "answer": "text", "weight": 0.57}
+{"question": "Write out what is said, including punctuation.", "answer": "text", "weight": 0.48}
+{"question": "Generate the transcript with punctuation restored.", "answer": "text", "weight": 0.18}
+{"question": "Output the speech as punctuated text.", "answer": "text", "weight": 0.28}
+{"question": "Can you transcribe this with punctuation?", "answer": "text", "weight": 0.79}
+{"question": "Can you write this audio out with proper punctuation?", "answer": "text", "weight": 0.66}
+{"question": "Could you transcribe this clip with punctuation included?", "answer": "text", "weight": 0.77}
+{"question": "Could you write the spoken content as a punctuated transcript?", "answer": "text", "weight": 0.85}
+{"question": "Please transcribe this recording with proper punctuation.", "answer": "text", "weight": 0.56}
+{"question": "Please write the utterance in standard written form.", "answer": "text", "weight": 0.52}
+{"question": "Would you transcribe this audio and include punctuation?", "answer": "text", "weight": 0.64}
+{"question": "Would you please provide the punctuated transcript?", "answer": "text", "weight": 0.87}
+{"question": "Can you turn this recording into punctuated text?", "answer": "text", "weight": 0.91}
+{"question": "Could you give me the transcript with normal punctuation?", "answer": "text", "weight": 0.73}
+{"question": "What is being said in this recording?", "answer": "text", "weight": 0.93}
+{"question": "What does the speaker say in this clip?", "answer": "text", "weight": 0.95}
+{"question": "What is the full transcript of this audio?", "answer": "text", "weight": 0.93}
+{"question": "What is the punctuated transcript of this utterance?", "answer": "text", "weight": 0.44}
+{"question": "What exactly is said here? Return it with punctuation.", "answer": "text", "weight": 0.64}
+{"question": "What are the spoken words in this clip, written with punctuation?", "answer": "text", "weight": 0.77}
+{"question": "What is said in this recording, as standard written text?", "answer": "text", "weight": 0.83}
+{"question": "What is the complete written transcript of this audio?", "answer": "text", "weight": 0.96}
+{"question": "What does this speech segment say? Include punctuation.", "answer": "text", "weight": 0.68}
+{"question": "What is the speaker saying? Write it with proper punctuation.", "answer": "text", "weight": 0.66}
+{"question": "How would this utterance be transcribed with punctuation?", "answer": "text", "weight": 0.45}
+{"question": "How should this clip be written as a punctuated transcript?", "answer": "text", "weight": 0.42}
+{"question": "How would you write the spoken content of this recording?", "answer": "text", "weight": 0.43}
+{"question": "How should the speech in this audio appear in written form?", "answer": "text", "weight": 0.43}
+{"question": "How would this recording be transcribed as normal written text?", "answer": "text", "weight": 0.47}
+{"question": "How would you render this utterance with punctuation restored?", "answer": "text", "weight": 0.2}
+{"question": "How should this spoken passage be written with punctuation?", "answer": "text", "weight": 0.38}
+{"question": "How would you transcribe the words spoken in this clip?", "answer": "text", "weight": 0.56}
+{"question": "How should the transcript of this audio be written?", "answer": "text", "weight": 0.36}
+{"question": "How would this speech be written out clearly and with punctuation?", "answer": "text", "weight": 0.35}
+{"question": "Listen to the audio and transcribe it with proper punctuation.", "answer": "text", "weight": 0.61}
+{"question": "Listen to this recording and write the spoken content with punctuation.", "answer": "text", "weight": 0.57}
+{"question": "Listen carefully and provide the full punctuated transcript.", "answer": "text", "weight": 0.77}
+{"question": "Please listen to the clip and transcribe the speech in written form.", "answer": "text", "weight": 0.79}
+{"question": "Listen to this utterance and return the transcript with punctuation marks.", "answer": "text", "weight": 0.54}
+{"question": "Based on this audio, provide a properly punctuated transcription.", "answer": "text", "weight": 0.67}
+{"question": "Based on the recording, write exactly what is said with punctuation.", "answer": "text", "weight": 0.4}
+{"question": "From this clip, produce the complete transcript with punctuation.", "answer": "text", "weight": 0.53}
+{"question": "Using the audio, write out the utterance as standard written text.", "answer": "text", "weight": 0.5}
+{"question": "From this recording, generate the punctuated transcript.", "answer": "text", "weight": 0.69}
+{"question": "Transcribe the speech in this clip using normal punctuation and capitalization.", "answer": "text", "weight": 0.48}
+{"question": "Write the contents of this recording as a readable transcript with punctuation.", "answer": "text", "weight": 0.42}
+{"question": "Please convert the spoken audio into a properly punctuated transcript.", "answer": "text", "weight": 0.8}
+{"question": "Return a transcription of this utterance with standard punctuation and casing.", "answer": "text", "weight": 0.08}
+{"question": "Provide the spoken content of this audio as well-formed written text.", "answer": "text", "weight": 0.47}
+{"question": "Render the speech in this recording as a punctuated transcript.", "answer": "text", "weight": 0.26}
+{"question": "Create a written transcript for this clip, preserving punctuation.", "answer": "text", "weight": 0.35}
+{"question": "Produce the full transcription of this audio with punctuation restored.", "answer": "text", "weight": 0.31}
+{"question": "Write the spoken passage from this recording in standard written English.", "answer": "text", "weight": 0.67}
+{"question": "Generate a complete transcript of the utterance with proper punctuation.", "answer": "text", "weight": 0.14}
+{"question": "Can you write down what is said here in standard written form?", "answer": "text", "weight": 0.79}
+{"question": "Can you provide a clean transcript of this audio with punctuation?", "answer": "text", "weight": 0.76}
+{"question": "Could you write out the speech from this clip with proper punctuation?", "answer": "text", "weight": 0.68}
+{"question": "Could you return the exact transcript in punctuated form?", "answer": "text", "weight": 0.85}
+{"question": "Please provide a complete transcription of this recording, including punctuation.", "answer": "text", "weight": 0.52}
+{"question": "Please write the speech from this clip as a properly punctuated transcript.", "answer": "text", "weight": 0.81}
+{"question": "Would you mind transcribing this utterance with punctuation restored?", "answer": "text", "weight": 0.57}
+{"question": "Would you please write out the spoken words in standard written form?", "answer": "text", "weight": 0.72}
+{"question": "Can you give me the full transcript of this clip with proper punctuation?", "answer": "text", "weight": 0.66}
+{"question": "Could you transcribe this audio so that it reads like normal written text?", "answer": "text", "weight": 0.72}
+{"question": "What is the speaker saying in this audio? Please include punctuation.", "answer": "text", "weight": 0.68}
+{"question": "What does this recording say when written out as proper text?", "answer": "text", "weight": 0.93}
+{"question": "What is the exact transcript of this utterance in punctuated form?", "answer": "text", "weight": 0.4}
+{"question": "What words are spoken in this clip? Return them as written text.", "answer": "text", "weight": 0.83}
+{"question": "What is said here if you transcribe it with normal punctuation and casing?", "answer": "text", "weight": 0.33}
+{"question": "What is the spoken content of this recording, written properly?", "answer": "text", "weight": 0.87}
+{"question": "What would the correctly punctuated transcript of this audio be?", "answer": "text", "weight": 0.34}
+{"question": "What is the full written version of the speech in this clip?", "answer": "text", "weight": 0.95}
+{"question": "What does the utterance sound like in standard written transcription?", "answer": "text", "weight": 0.22}
+{"question": "What is being said here, transcribed as readable text with punctuation?", "answer": "text", "weight": 0.36}
+{"question": "How would you transcribe this speech clip using proper punctuation and capitalization?", "answer": "text", "weight": 0.18}
+{"question": "How should the spoken words in this recording be written as a transcript?", "answer": "text", "weight": 0.51}
+{"question": "How would this utterance appear when transcribed as normal written text?", "answer": "text", "weight": 0.44}
+{"question": "How would you write this clip out as a properly punctuated sentence or passage?", "answer": "text", "weight": 0.39}
+{"question": "How should this audio be transcribed so that punctuation is included?", "answer": "text", "weight": 0.31}
+{"question": "How would the speech in this clip be rendered in standard written form?", "answer": "text", "weight": 0.34}
+{"question": "How should the transcript look if punctuation is restored correctly?", "answer": "text", "weight": 0.24}
+{"question": "How would you convert this spoken recording into punctuated text?", "answer": "text", "weight": 0.49}
+{"question": "How should the spoken content here be transcribed for readable output?", "answer": "text", "weight": 0.4}
+{"question": "How would this recording be written down as a proper transcript?", "answer": "text", "weight": 0.51}
+{"question": "Please listen to the recording and provide the exact transcript with punctuation marks restored.", "answer": "text", "weight": 0.49}
+{"question": "After listening to this clip, write the full spoken content as standard written text with punctuation.", "answer": "text", "weight": 0.41}
+{"question": "Transcribe this audio segment verbatim and present it with normal punctuation and capitalization.", "answer": "text", "weight": 0.36}
+{"question": "Write exactly what is spoken in this recording, formatted as a properly punctuated transcript.", "answer": "text", "weight": 0.69}
+{"question": "Provide the complete spoken transcript for this utterance, making sure punctuation is included.", "answer": "text", "weight": 0.39}
+{"question": "Return the contents of this recording as a faithful written transcript with proper punctuation.", "answer": "text", "weight": 0.16}
+{"question": "Please produce a transcription of the speech in this clip that reads like normal written text.", "answer": "text", "weight": 0.59}
+{"question": "From the audio provided, generate the exact transcript and include appropriate punctuation.", "answer": "text", "weight": 0.46}
+{"question": "Listen to this speech sample and write out everything said as a correctly punctuated transcript.", "answer": "text", "weight": 0.84}
+{"question": "What is the full spoken content of this audio clip? Please return it as properly punctuated written text.", "answer": "text", "weight": 0.87}
+{"question": "Transcribe this audio.", "answer": "text", "weight": 0.84}
+{"question": "Transcribe this clip.", "answer": "text", "weight": 0.83}
+{"question": "Transcribe this recording.", "answer": "text", "weight": 0.81}
+{"question": "Write the transcript.", "answer": "text", "weight": 0.62}
+{"question": "Provide the transcript.", "answer": "text", "weight": 0.58}
+{"question": "Return the transcript.", "answer": "text", "weight": 0.36}
+{"question": "Generate the transcript.", "answer": "text", "weight": 0.28}
+{"question": "Write out what is said.", "answer": "text", "weight": 0.72}
+{"question": "Write down the speech in this clip.", "answer": "text", "weight": 0.73}
+{"question": "Produce the transcription.", "answer": "text", "weight": 0.44}
+{"question": "Can you transcribe this audio?", "answer": "text", "weight": 0.97}
+{"question": "Can you write out what is being said?", "answer": "text", "weight": 0.96}
+{"question": "Could you transcribe this clip?", "answer": "text", "weight": 0.95}
+{"question": "Could you write down the utterance?", "answer": "text", "weight": 0.89}
+{"question": "Please transcribe this recording.", "answer": "text", "weight": 0.82}
+{"question": "Please write out the spoken content.", "answer": "text", "weight": 0.76}
+{"question": "Would you transcribe this audio sample?", "answer": "text", "weight": 0.84}
+{"question": "Would you write the transcript for this clip?", "answer": "text", "weight": 0.86}
+{"question": "Can you tell me what is being said here?", "answer": "text", "weight": 0.92}
+{"question": "Could you provide the transcript of this audio?", "answer": "text", "weight": 0.91}
+{"question": "What is being said in this recording?", "answer": "text", "weight": 0.93}
+{"question": "What does the speaker say in this clip?", "answer": "text", "weight": 0.95}
+{"question": "What is the full transcript of this audio?", "answer": "text", "weight": 0.93}
+{"question": "What exactly is said here?", "answer": "text", "weight": 0.84}
+{"question": "What are the spoken words in this clip?", "answer": "text", "weight": 0.95}
+{"question": "What is said in this utterance?", "answer": "text", "weight": 0.9}
+{"question": "What is the speaker saying?", "answer": "text", "weight": 0.94}
+{"question": "What is the spoken content of this recording?", "answer": "text", "weight": 0.87}
+{"question": "What do we hear in terms of speech here?", "answer": "text", "weight": 0.18}
+{"question": "What is the transcript for this clip?", "answer": "text", "weight": 0.97}
+{"question": "How would you transcribe this audio?", "answer": "text", "weight": 0.55}
+{"question": "How should this utterance be written out?", "answer": "text", "weight": 0.46}
+{"question": "How would this recording be written as text?", "answer": "text", "weight": 0.49}
+{"question": "How should the speech in this clip be transcribed?", "answer": "text", "weight": 0.56}
+{"question": "How would you write the spoken content of this audio?", "answer": "text", "weight": 0.44}
+{"question": "How should this recording appear in written form?", "answer": "text", "weight": 0.42}
+{"question": "How would you render this utterance as text?", "answer": "text", "weight": 0.46}
+{"question": "How should the words in this clip be written down?", "answer": "text", "weight": 0.51}
+{"question": "How would this speech be transcribed?", "answer": "text", "weight": 0.55}
+{"question": "How would you convert this recording into text?", "answer": "text", "weight": 0.49}
+{"question": "Listen to the audio and transcribe it.", "answer": "text", "weight": 0.87}
+{"question": "Listen to this clip and write what is said.", "answer": "text", "weight": 0.83}
+{"question": "Listen carefully and provide the transcript.", "answer": "text", "weight": 0.77}
+{"question": "Listen to the recording and write out the speech.", "answer": "text", "weight": 0.85}
+{"question": "Based on this audio, provide the transcript.", "answer": "text", "weight": 0.67}
+{"question": "Based on the recording, write what is said.", "answer": "text", "weight": 0.64}
+{"question": "From this clip, generate the transcription.", "answer": "text", "weight": 0.71}
+{"question": "Using the audio, write the spoken content as text.", "answer": "text", "weight": 0.54}
+{"question": "From this recording, produce the transcript.", "answer": "text", "weight": 0.69}
+{"question": "After listening, write out the utterance.", "answer": "text", "weight": 0.74}
+{"question": "Transcribe the speech in this clip.", "answer": "text", "weight": 0.86}
+{"question": "Write the contents of this recording as text.", "answer": "text", "weight": 0.67}
+{"question": "Convert this spoken audio into text.", "answer": "text", "weight": 0.52}
+{"question": "Return a transcription of this utterance.", "answer": "text", "weight": 0.46}
+{"question": "Provide the spoken content of this audio as text.", "answer": "text", "weight": 0.56}
+{"question": "Render the speech in this recording as a transcript.", "answer": "text", "weight": 0.26}
+{"question": "Create a written transcript for this clip.", "answer": "text", "weight": 0.53}
+{"question": "Produce the full transcription of this audio.", "answer": "text", "weight": 0.57}
+{"question": "Write the spoken passage from this recording.", "answer": "text", "weight": 0.67}
+{"question": "Generate a complete transcript of the utterance.", "answer": "text", "weight": 0.4}
+{"question": "Can you write down what is said here?", "answer": "text", "weight": 0.96}
+{"question": "Can you provide a clean transcript of this audio?", "answer": "text", "weight": 0.94}
+{"question": "Could you write out the speech from this clip?", "answer": "text", "weight": 0.94}
+{"question": "Could you return the exact transcript?", "answer": "text", "weight": 0.85}
+{"question": "Please provide a complete transcription of this recording.", "answer": "text", "weight": 0.76}
+{"question": "Please write the speech from this clip as text.", "answer": "text", "weight": 0.79}
+{"question": "Would you mind transcribing this utterance?", "answer": "text", "weight": 0.83}
+{"question": "Would you please write out the spoken words?", "answer": "text", "weight": 0.89}
+{"question": "Can you give me the full transcript of this clip?", "answer": "text", "weight": 0.92}
+{"question": "Could you transcribe this audio for me?", "answer": "text", "weight": 0.99}
+{"question": "What is the speaker saying in this audio?", "answer": "text", "weight": 0.94}
+{"question": "What does this recording say when written out?", "answer": "text", "weight": 0.93}
+{"question": "What is the exact transcript of this utterance?", "answer": "text", "weight": 0.86}
+{"question": "What words are spoken in this clip?", "answer": "text", "weight": 0.85}
+{"question": "What is the spoken content of this recording, written out?", "answer": "text", "weight": 0.87}
+{"question": "What would the transcript of this audio be?", "answer": "text", "weight": 0.86}
+{"question": "What is the full written version of the speech in this clip?", "answer": "text", "weight": 0.95}
+{"question": "What does the utterance sound like when transcribed?", "answer": "text", "weight": 0.67}
+{"question": "What is being said here, written as text?", "answer": "text", "weight": 0.94}
+{"question": "What is the complete transcription of this segment?", "answer": "text", "weight": 0.93}
+{"question": "How would you transcribe this speech clip?", "answer": "text", "weight": 0.56}
+{"question": "How should the spoken words in this recording be written?", "answer": "text", "weight": 0.49}
+{"question": "How would this utterance appear when transcribed?", "answer": "text", "weight": 0.51}
+{"question": "How would you write this clip out as text?", "answer": "text", "weight": 0.51}
+{"question": "How should this audio be transcribed?", "answer": "text", "weight": 0.55}
+{"question": "How would the speech in this clip be rendered in writing?", "answer": "text", "weight": 0.51}
+{"question": "How should the transcript look for this recording?", "answer": "text", "weight": 0.28}
+{"question": "How would you convert this spoken recording into written text?", "answer": "text", "weight": 0.49}
+{"question": "How should the spoken content here be transcribed?", "answer": "text", "weight": 0.49}
+{"question": "How would this recording be written down?", "answer": "text", "weight": 0.49}
+{"question": "Please listen to the recording and provide the exact transcript.", "answer": "text", "weight": 0.75}
+{"question": "After listening to this clip, write the full spoken content as text.", "answer": "text", "weight": 0.69}
+{"question": "Transcribe this audio segment verbatim.", "answer": "text", "weight": 0.74}
+{"question": "Write exactly what is spoken in this recording.", "answer": "text", "weight": 0.67}
+{"question": "Provide the complete spoken transcript for this utterance.", "answer": "text", "weight": 0.57}
+{"question": "Return the contents of this recording as a faithful transcript.", "answer": "text", "weight": 0.42}
+{"question": "Please produce a transcription of the speech in this clip.", "answer": "text", "weight": 0.81}
+{"question": "From the audio provided, generate the exact transcript.", "answer": "text", "weight": 0.64}
+{"question": "Listen to this speech sample and write out everything said.", "answer": "text", "weight": 0.82}
+{"question": "What is the full spoken content of this audio clip?", "answer": "text", "weight": 0.89}
+{"question": "What'd they say here?", "answer": "text", "weight": 0.94}
+{"question": "Can you jot down what's being said?", "answer": "text", "weight": 0.95}
+{"question": "Write down what this person is saying real quick.", "answer": "text", "weight": 0.77}
+{"question": "What's being said in this clip?", "answer": "text", "weight": 0.95}
+{"question": "Can you type out what you hear?", "answer": "text", "weight": 0.95}
+{"question": "What are they saying here?", "answer": "text", "weight": 0.94}
+{"question": "Mind writing out the speech in this audio?", "answer": "text", "weight": 0.92}
+{"question": "Can you put this audio into words?", "answer": "text", "weight": 0.95}
+{"question": "Write out whatever's being said here.", "answer": "text", "weight": 0.72}
+{"question": "What's the speaker saying in this one?", "answer": "text", "weight": 0.94}
+{"question": "Can you tell me what this clip says?", "answer": "text", "weight": 0.93}
+{"question": "Just transcribe this for me.", "answer": "text", "weight": 0.99}
+{"question": "Can you write down the words from this recording?", "answer": "text", "weight": 0.95}
+{"question": "What's said in this recording?", "answer": "text", "weight": 0.93}
+{"question": "Type up the speech from this clip.", "answer": "text", "weight": 0.83}
+{"question": "Please provide a transcription of this audio recording.", "answer": "text", "weight": 0.79}
+{"question": "Could you please transcribe the speech contained in this clip?", "answer": "text", "weight": 0.89}
+{"question": "Would you kindly provide the transcript for this recording?", "answer": "text", "weight": 0.81}
+{"question": "Please write out the spoken content of this audio sample.", "answer": "text", "weight": 0.72}
+{"question": "Could you provide the full transcript of this utterance?", "answer": "text", "weight": 0.84}
+{"question": "Would you please transcribe this recording verbatim?", "answer": "text", "weight": 0.82}
+{"question": "Please produce a complete transcription of the speech in this clip.", "answer": "text", "weight": 0.78}
+{"question": "I would appreciate it if you could transcribe this audio segment.", "answer": "text", "weight": 0.81}
+{"question": "Kindly provide the spoken content of this recording in text form.", "answer": "text", "weight": 0.65}
+{"question": "Please render the speech in this clip as a written transcript.", "answer": "text", "weight": 0.81}
+{"question": "Could you please write out exactly what is said in this recording?", "answer": "text", "weight": 0.86}
+{"question": "Would you be so kind as to provide the transcript of this audio?", "answer": "text", "weight": 0.8}
+{"question": "Please convert the spoken content of this clip into text.", "answer": "text", "weight": 0.73}
+{"question": "Could you furnish a faithful transcription of this utterance?", "answer": "text", "weight": 0.8}
+{"question": "Please provide the exact transcript of the speech contained in this recording.", "answer": "text", "weight": 0.67}
+{"question": "Listen to the audio and transcribe this clip.", "answer": "text", "weight": 0.88}
+{"question": "Please listen to the recording and write the transcript.", "answer": "text", "weight": 0.81}
+{"question": "Listen to this audio and provide the transcript.", "answer": "text", "weight": 0.84}
+{"question": "After listening to the clip, return the transcript.", "answer": "text", "weight": 0.77}
+{"question": "Listen to the audio and generate the transcript.", "answer": "text", "weight": 0.84}
+{"question": "Please listen to this recording and write out what is said.", "answer": "text", "weight": 0.83}
+{"question": "Listen to the speech in this clip and write down the words.", "answer": "text", "weight": 0.87}
+{"question": "After listening to the audio, produce the transcription.", "answer": "text", "weight": 0.76}
+{"question": "Can you listen to this audio and transcribe it?", "answer": "text", "weight": 0.97}
+{"question": "Could you listen to this clip and write down the utterance?", "answer": "text", "weight": 0.9}
+{"question": "Please listen to this recording and transcribe it for me.", "answer": "text", "weight": 0.89}
+{"question": "Would you listen to this audio sample and write the transcript?", "answer": "text", "weight": 0.81}
+{"question": "Can you listen to the audio and tell me what is being said here?", "answer": "text", "weight": 0.92}
+{"question": "Could you listen to this recording and provide the transcript?", "answer": "text", "weight": 0.9}
+{"question": "What is being said in this recording? Please listen and transcribe it.", "answer": "text", "weight": 0.95}
+{"question": "What does the speaker say in this clip? Listen to the audio and write it out.", "answer": "text", "weight": 0.93}
+{"question": "What is the full transcript of this audio? Please listen carefully.", "answer": "text", "weight": 0.86}
+{"question": "What exactly is said here? Listen to the clip and return the transcript.", "answer": "text", "weight": 0.85}
+{"question": "How would you transcribe this audio after listening to it?", "answer": "text", "weight": 0.55}
+{"question": "How should this utterance be written out after listening to the recording?", "answer": "text", "weight": 0.45}
+{"question": "Listen to the recording and write out the speech as text.", "answer": "text", "weight": 0.85}
+{"question": "Based on this audio, listen carefully and provide the transcript.", "answer": "text", "weight": 0.6}
+{"question": "From this clip, listen and generate the transcription.", "answer": "text", "weight": 0.68}
+{"question": "Using the audio, listen and write the spoken content as text.", "answer": "text", "weight": 0.51}
+{"question": "After listening, provide the spoken content of this audio as text.", "answer": "text", "weight": 0.68}
+{"question": "Please listen to the recording and provide a complete transcription.", "answer": "text", "weight": 0.78}
+{"question": "Would you mind listening to this utterance and transcribing it?", "answer": "text", "weight": 0.83}
+{"question": "Could you please listen to the clip and write out the spoken words?", "answer": "text", "weight": 0.96}
+{"question": "Just listen to this and transcribe it for me.", "answer": "text", "weight": 0.99}
+{"question": "Please listen to this audio recording and provide the exact transcript.", "answer": "text", "weight": 0.75}
+{"question":"I am preparing meeting notes. Can you transcribe this audio into clean written text?","answer":"text","weight":0.95}
+{"question":"I am documenting an interview and need the spoken content written out clearly. Can you transcribe this clip?","answer":"text","weight":0.92}
+{"question":"I am working on a report and need a readable transcript of this recording. Can you write it out?","answer":"text","weight":0.90}
+{"question":"I am reviewing a voice memo for my records. Please transcribe what is said in this audio.","answer":"text","weight":0.88}
+{"question":"I am organizing call records and need this recording turned into written text. Can you transcribe it?","answer":"text","weight":0.86}
+{"question":"I am preparing documentation and need the exact spoken content from this clip in written form.","answer":"text","weight":0.82}
+{"question":"I am compiling notes from recorded discussions. Please write out what is said in this audio.","answer":"text","weight":0.89}
+{"question":"I am turning spoken material into written documentation. Can you transcribe this recording?","answer":"text","weight":0.78}
+{"question":"I am processing recorded remarks and need them in normal written form. What is said here?","answer":"text","weight":0.74}
+{"question":"I am creating a written record of this conversation. Please transcribe the audio.","answer":"text","weight":0.90}
+{"question":"I am working on a transcript for archival purposes. Can you write out the speech in this clip?","answer":"text","weight":0.68}
+{"question":"I am preparing written materials from audio recordings. Please convert this speech into text.","answer":"text","weight":0.73}
+{"question":"I am summarizing a recorded discussion and first need the full transcript. Can you provide it?","answer":"text","weight":0.94}
+{"question":"I am editing content from a recorded talk. Please write down exactly what is said here.","answer":"text","weight":0.84}
+{"question":"I am converting recorded speech into a written draft. Can you transcribe this utterance?","answer":"text","weight":0.80}
+{"question":"I am working on a case where I need the spoken words from this clip written out accurately.","answer":"text","weight":0.65}
+{"question":"I am producing a text version of this recording for review. What does the speaker say?","answer":"text","weight":0.72}
+{"question":"I am preparing materials based on this audio and need the spoken content transcribed.","answer":"text","weight":0.76}
+{"question":"I am making a clean written record from this voice recording. Can you provide the transcript?","answer":"text","weight":0.87}
+{"question":"I am handling audio-to-text documentation. Please transcribe the speech in this recording.","answer":"text","weight":0.58}
+{"question":"You are helping me turn recorded speech into written notes. Please transcribe this clip.","answer":"text","weight":0.70}
+{"question":"You are assisting with documentation, and I need this audio rendered as written text.","answer":"text","weight":0.48}
+{"question":"You are tasked with preparing a readable transcript from this recording. What is being said?","answer":"text","weight":0.44}
+{"question":"You are helping convert a spoken utterance into a final written version. Can you transcribe this?","answer":"text","weight":0.50}
+{"question":"You are assisting with recordkeeping. Please write out the contents of this audio clip.","answer":"text","weight":0.42}
+{"question":"You are supporting a workflow that requires speech-to-text conversion. Please transcribe this recording.","answer":"text","weight":0.30}
+{"question":"For my documentation workflow, I need this spoken clip written out as text. Can you do that?","answer":"text","weight":0.55}
+{"question":"As part of preparing written records, please transcribe the speech in this audio.","answer":"text","weight":0.67}
+{"question":"For a transcription workflow I am running, I need the exact words from this clip in written form.","answer":"text","weight":0.46}
+{"question":"In the workflow I am working on, this recording needs to be turned into clear written text. What does it say?","answer":"text","weight":0.52}
+{"question":"I need your help transcribing this audio into written text.","answer":"text","weight":0.93}
+{"question":"Can you help me write out what is being said in this recording?","answer":"text","weight":0.95}
+{"question":"I need help getting the transcript for this clip.","answer":"text","weight":0.90}
+{"question":"Could you help me turn this speech into text?","answer":"text","weight":0.89}
+{"question":"I need your help with this recording. What is the speaker saying?","answer":"text","weight":0.92}
+{"question":"Can you help me transcribe the spoken content of this audio?","answer":"text","weight":0.91}
+{"question":"I need help writing down exactly what is said in this clip.","answer":"text","weight":0.88}
+{"question":"Would you help me transcribe this utterance?","answer":"text","weight":0.78}
+{"question":"I need your help producing a clean transcript of this recording.","answer":"text","weight":0.86}
+{"question":"Could you help me figure out what is being said here and write it out?","answer":"text","weight":0.90}
+{"question":"Please help me convert this audio into written text.","answer":"text","weight":0.89}
+{"question":"I need help with the transcript for this speech sample.","answer":"text","weight":0.84}
+{"question":"Can you help me capture the spoken words from this recording in text form?","answer":"text","weight":0.83}
+{"question":"I need your help writing out this audio clip as a transcript.","answer":"text","weight":0.85}
+{"question":"Could you help me transcribe this recording accurately?","answer":"text","weight":0.90}
+{"question":"Please help me by writing down the speech in this clip.","answer":"text","weight":0.82}
+{"question":"I need help obtaining the full written version of what is said here.","answer":"text","weight":0.76}
+{"question":"Can you help me with an audio transcription for this utterance?","answer":"text","weight":0.68}
+{"question":"I need your help turning this spoken recording into readable text.","answer":"text","weight":0.84}
+{"question":"Would you help me write out what the speaker says in this audio?","answer":"text","weight":0.79}
+{"question":"Please help me transcribe this clip for my notes.","answer":"text","weight":0.94}
+{"question":"I could use your help transcribing the words spoken in this recording.","answer":"text","weight":0.87}
+{"question":"Can you help me generate the transcript of this audio segment?","answer":"text","weight":0.80}
+{"question":"I need help writing down the contents of this recording.","answer":"text","weight":0.86}
+{"question":"Could you help me produce the exact transcript of this utterance?","answer":"text","weight":0.82}
+{"question":"Please help me understand what is said here by transcribing the audio.","answer":"text","weight":0.88}
+{"question":"I need your help with speech-to-text for this clip. Can you transcribe it?","answer":"text","weight":0.56}
+{"question":"Can you help me create a written transcript from this audio recording?","answer":"text","weight":0.85}
+{"question":"I need help turning this utterance into a written transcript.","answer":"text","weight":0.81}
+{"question":"Would you please help me write out everything said in this clip?","answer":"text","weight":0.83}
