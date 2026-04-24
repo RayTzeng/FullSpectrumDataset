@@ -1,0 +1,180 @@
+{"template_id":"ipa_direct_001","question_template":"Transcribe this speech into IPA phonemes.","answer_template":"IPA","weight":0.92}
+{"template_id":"ipa_direct_002","question_template":"Write the IPA phoneme sequence for this audio.","answer_template":"IPA","weight":0.90}
+{"template_id":"ipa_direct_003","question_template":"Provide the IPA transcription of this utterance.","answer_template":"IPA","weight":0.89}
+{"template_id":"ipa_direct_004","question_template":"Generate the IPA phoneme sequence for this speech clip.","answer_template":"IPA","weight":0.86}
+{"template_id":"ipa_direct_005","question_template":"Return the IPA phonemes for the spoken utterance.","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_direct_006","question_template":"Listen to the audio and output its IPA phoneme sequence.","answer_template":"IPA","weight":0.88}
+{"template_id":"ipa_direct_007","question_template":"Transcribe the speech sounds in IPA.","answer_template":"IPA","weight":0.90}
+{"template_id":"ipa_direct_008","question_template":"Write this utterance as a sequence of IPA phones.","answer_template":"IPA","weight":0.87}
+{"template_id":"ipa_direct_009","question_template":"Give the phonemic transcription of this audio in IPA.","answer_template":"IPA","weight":0.88}
+{"template_id":"ipa_direct_010","question_template":"Produce the IPA phone sequence for this recording.","answer_template":"IPA","weight":0.82}
+{"template_id":"ipa_direct_011","question_template":"Output only the IPA phoneme sequence for this clip.","answer_template":"IPA","weight":0.80}
+{"template_id":"ipa_direct_012","question_template":"Return the normalized IPA sequence for the audio.","answer_template":"IPA","weight":0.70}
+{"template_id":"ipa_direct_013","question_template":"Listen and write the utterance in IPA phonemes.","answer_template":"IPA","weight":0.86}
+{"template_id":"ipa_direct_014","question_template":"Please provide the IPA phoneme transcription for this clip.","answer_template":"IPA","weight":0.90}
+{"template_id":"ipa_direct_015","question_template":"Please transcribe this utterance into IPA phones.","answer_template":"IPA","weight":0.91}
+{"template_id":"ipa_direct_016","question_template":"Please return the IPA representation of the spoken words.","answer_template":"IPA","weight":0.78}
+{"template_id":"ipa_direct_017","question_template":"Give me the IPA phoneme sequence for this speech sample.","answer_template":"IPA","weight":0.89}
+{"template_id":"ipa_direct_018","question_template":"Help me transcribe this audio into IPA phonemes.","answer_template":"IPA","weight":0.93}
+{"template_id":"ipa_direct_019","question_template":"Help me write out the phones in this utterance using IPA symbols.","answer_template":"IPA","weight":0.86}
+{"template_id":"ipa_direct_020","question_template":"Help! I need the IPA phoneme sequence for this clip.","answer_template":"IPA","weight":0.76}
+{"template_id":"ipa_direct_021","question_template":"I need the phoneme-level IPA transcription of this speech recording.","answer_template":"IPA","weight":0.88}
+{"template_id":"ipa_direct_022","question_template":"I need your help converting this spoken utterance into an IPA phone sequence.","answer_template":"IPA","weight":0.83}
+{"template_id":"ipa_direct_023","question_template":"Listen to this clip carefully and provide its IPA phoneme sequence.","answer_template":"IPA","weight":0.88}
+{"template_id":"ipa_direct_024","question_template":"Listen to the recording carefully. Please write the speech as IPA phonemes.","answer_template":"IPA","weight":0.87}
+{"template_id":"ipa_direct_025","question_template":"Please generate a phoneme-level transcription of this audio using IPA symbols.","answer_template":"IPA","weight":0.86}
+{"template_id":"ipa_direct_026","question_template":"For this speech clip, provide the corresponding IPA phoneme sequence.","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_direct_027","question_template":"For the given audio, return the spoken content as IPA phonemes.","answer_template":"IPA","weight":0.75}
+{"template_id":"ipa_direct_028","question_template":"Use IPA symbols to transcribe the phoneme sequence in this utterance.","answer_template":"IPA","weight":0.82}
+{"template_id":"ipa_direct_029","question_template":"Write the phoneme sequence of this speech sample using the International Phonetic Alphabet.","answer_template":"IPA","weight":0.83}
+{"template_id":"ipa_direct_030","question_template":"Provide the International Phonetic Alphabet transcription for this utterance.","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_wh_001","question_template":"What is the IPA phoneme sequence for this audio?","answer_template":"IPA","weight":0.95}
+{"template_id":"ipa_wh_002","question_template":"What are the IPA phonemes in this utterance?","answer_template":"IPA","weight":0.91}
+{"template_id":"ipa_wh_003","question_template":"What is the phonemic transcription of this speech in IPA?","answer_template":"IPA","weight":0.90}
+{"template_id":"ipa_wh_004","question_template":"What IPA symbols represent the speech sounds in this clip?","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_wh_005","question_template":"What is the IPA phone sequence for the spoken words?","answer_template":"IPA","weight":0.88}
+{"template_id":"ipa_wh_006","question_template":"What would the utterance look like as an IPA phoneme sequence?","answer_template":"IPA","weight":0.80}
+{"template_id":"ipa_wh_007","question_template":"What is being spoken here at the phoneme level in IPA?","answer_template":"IPA","weight":0.78}
+{"template_id":"ipa_wh_008","question_template":"What sequence of IPA phones corresponds to this speech sample?","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_wh_009","question_template":"What is the normalized IPA transcription for this recording?","answer_template":"IPA","weight":0.72}
+{"template_id":"ipa_wh_010","question_template":"What IPA phoneme string should be assigned to this audio?","answer_template":"IPA","weight":0.60}
+{"template_id":"ipa_wh_011","question_template":"Which IPA phonemes are present in this spoken utterance?","answer_template":"IPA","weight":0.76}
+{"template_id":"ipa_wh_012","question_template":"Which IPA phone sequence matches this speech clip?","answer_template":"IPA","weight":0.65}
+{"template_id":"ipa_wh_013","question_template":"Which sequence of IPA symbols best transcribes this utterance?","answer_template":"IPA","weight":0.70}
+{"template_id":"ipa_wh_014","question_template":"Which phonemes should be written down for this audio in IPA format?","answer_template":"IPA","weight":0.72}
+{"template_id":"ipa_wh_015","question_template":"How should this utterance be transcribed in IPA phonemes?","answer_template":"IPA","weight":0.90}
+{"template_id":"ipa_wh_016","question_template":"How would you write this speech clip as an IPA phone sequence?","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_wh_017","question_template":"How can this audio be represented as a sequence of IPA phonemes?","answer_template":"IPA","weight":0.80}
+{"template_id":"ipa_wh_018","question_template":"How would the spoken words be represented using IPA symbols?","answer_template":"IPA","weight":0.82}
+{"template_id":"ipa_wh_019","question_template":"How should the phoneme-level transcription of this clip be written in IPA?","answer_template":"IPA","weight":0.86}
+{"template_id":"ipa_wh_020","question_template":"How would you encode the speech sounds in this recording with IPA symbols?","answer_template":"IPA","weight":0.69}
+{"template_id":"ipa_can_001","question_template":"Can you transcribe this audio into IPA phonemes?","answer_template":"IPA","weight":0.96}
+{"template_id":"ipa_can_002","question_template":"Can you write the IPA phoneme sequence for this utterance?","answer_template":"IPA","weight":0.93}
+{"template_id":"ipa_can_003","question_template":"Can you provide the IPA transcription of this speech clip?","answer_template":"IPA","weight":0.93}
+{"template_id":"ipa_can_004","question_template":"Can you listen to this clip and return its IPA phone sequence?","answer_template":"IPA","weight":0.92}
+{"template_id":"ipa_can_005","question_template":"Can you give me the phoneme-level IPA transcription for this recording?","answer_template":"IPA","weight":0.91}
+{"template_id":"ipa_can_006","question_template":"Can you represent the spoken utterance using IPA symbols?","answer_template":"IPA","weight":0.82}
+{"template_id":"ipa_can_007","question_template":"Can you output the normalized IPA phoneme sequence for this sample?","answer_template":"IPA","weight":0.73}
+{"template_id":"ipa_can_008","question_template":"Can you identify the IPA phones in this speech sample?","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_can_009","question_template":"Can you convert this speech audio into a sequence of IPA phonemes?","answer_template":"IPA","weight":0.80}
+{"template_id":"ipa_can_010","question_template":"Can you help me get the IPA phoneme sequence from this audio?","answer_template":"IPA","weight":0.90}
+{"template_id":"ipa_could_001","question_template":"Could you transcribe this utterance into IPA phonemes?","answer_template":"IPA","weight":0.94}
+{"template_id":"ipa_could_002","question_template":"Could you provide the IPA phone sequence for this audio?","answer_template":"IPA","weight":0.93}
+{"template_id":"ipa_could_003","question_template":"Could you write out the speech sounds here using IPA symbols?","answer_template":"IPA","weight":0.88}
+{"template_id":"ipa_could_004","question_template":"Could you listen to the clip and generate its IPA phoneme sequence?","answer_template":"IPA","weight":0.90}
+{"template_id":"ipa_could_005","question_template":"Could you please return the phoneme-level IPA transcription of this recording?","answer_template":"IPA","weight":0.89}
+{"template_id":"ipa_could_006","question_template":"Could you please transcribe this speech sample in the International Phonetic Alphabet?","answer_template":"IPA","weight":0.91}
+{"template_id":"ipa_could_007","question_template":"Could you help me produce the IPA transcription for this spoken utterance?","answer_template":"IPA","weight":0.89}
+{"template_id":"ipa_could_008","question_template":"Could you help me write the phones in this audio using IPA notation?","answer_template":"IPA","weight":0.86}
+{"template_id":"ipa_could_009","question_template":"Could you carefully listen to this clip and provide the corresponding IPA phoneme sequence?","answer_template":"IPA","weight":0.87}
+{"template_id":"ipa_could_010","question_template":"Could you please generate the normalized IPA phone sequence for this utterance?","answer_template":"IPA","weight":0.76}
+{"template_id":"ipa_workflow_001","question_template":"I am working on phoneme recognition. Please provide the IPA phoneme sequence for this audio.","answer_template":"IPA","weight":0.85}
+{"template_id":"ipa_workflow_002","question_template":"I am preparing phoneme-level labels for speech data. Can you transcribe this clip into IPA?","answer_template":"IPA","weight":0.88}
+{"template_id":"ipa_workflow_003","question_template":"I need a phoneme-level transcription for this utterance. Please write it in IPA.","answer_template":"IPA","weight":0.91}
+{"template_id":"ipa_workflow_004","question_template":"I need your help with IPA phoneme recognition for this audio sample.","answer_template":"IPA","weight":0.86}
+{"template_id":"ipa_workflow_005","question_template":"I am building a speech dataset and need the IPA phone sequence for this recording.","answer_template":"IPA","weight":0.82}
+{"template_id":"ipa_workflow_006","question_template":"I am checking phoneme recognition outputs. Could you provide the IPA transcription for this clip?","answer_template":"IPA","weight":0.82}
+{"template_id":"ipa_workflow_007","question_template":"I am annotating speech at the phoneme level. Please return this utterance in IPA symbols.","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_workflow_008","question_template":"I am working with IPA-based speech labels. Can you give the phoneme sequence for this audio?","answer_template":"IPA","weight":0.82}
+{"template_id":"ipa_workflow_009","question_template":"For my speech processing workflow, I need the IPA phoneme sequence of this clip.","answer_template":"IPA","weight":0.79}
+{"template_id":"ipa_workflow_010","question_template":"For phoneme recognition evaluation, please output the IPA transcription of this utterance.","answer_template":"IPA","weight":0.76}
+{"template_id":"ipa_workflow_011","question_template":"You are tasked with transcribing this speech sample into IPA phonemes.","answer_template":"IPA","weight":0.68}
+{"template_id":"ipa_workflow_012","question_template":"You are given a speech clip. Return its phoneme sequence using IPA symbols.","answer_template":"IPA","weight":0.66}
+{"template_id":"ipa_workflow_013","question_template":"You are helping prepare phoneme-level speech annotations. Write this utterance in IPA.","answer_template":"IPA","weight":0.72}
+{"template_id":"ipa_workflow_014","question_template":"You are performing IPA phoneme recognition on this audio. Provide the target sequence.","answer_template":"IPA","weight":0.58}
+{"template_id":"ipa_workflow_015","question_template":"You are labeling a speech clip with IPA phones. Output the corresponding phoneme sequence.","answer_template":"IPA","weight":0.62}
+{"template_id":"ipa_workflow_016","question_template":"Please help with this phoneme-recognition item by returning the IPA sequence.","answer_template":"IPA","weight":0.68}
+{"template_id":"ipa_workflow_017","question_template":"Help me prepare the IPA label for this spoken utterance.","answer_template":"IPA","weight":0.82}
+{"template_id":"ipa_workflow_018","question_template":"Help me convert this speech clip into a phoneme sequence written in IPA.","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_workflow_019","question_template":"Help me check what the IPA phoneme transcription should be for this recording.","answer_template":"IPA","weight":0.83}
+{"template_id":"ipa_workflow_020","question_template":"Listen to this clip carefully. I need the phoneme-level IPA transcription for my speech dataset.","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_format_001","question_template":"What is the IPA transcript of this speech clip? Output it as space-separated IPA phones with word-boundary markers.","answer_template":"IPA","weight":0.73}
+{"template_id":"ipa_format_002","question_template":"Transcribe this utterance into IPA phonemes. Use spaces between phones and word-boundary markers between words.","answer_template":"IPA","weight":0.78}
+{"template_id":"ipa_format_003","question_template":"What is the IPA transcript of this speech clip? Output as space-separated IPA phones with the word-boundary markers.","answer_template":"IPA","weight":0.72}
+{"template_id":"ipa_format_004","question_template":"Listen to the audio and write the IPA phoneme sequence using space-separated phones and word-level boundary markers.","answer_template":"IPA","weight":0.78}
+{"template_id":"ipa_format_005","question_template":"Provide the IPA phoneme transcription of this utterance, formatted with spaces between phonemes and boundaries between words.","answer_template":"IPA","weight":0.75}
+{"template_id":"ipa_format_006","question_template":"Can you transcribe this speech into IPA and format it as space-separated phones with word boundaries?","answer_template":"IPA","weight":0.78}
+{"template_id":"ipa_format_007","question_template":"Could you provide the IPA phone sequence for this recording, keeping the word-level segmentation in the output?","answer_template":"IPA","weight":0.77}
+{"template_id":"ipa_format_008","question_template":"How should this speech clip be written in IPA? Use a normalized phone sequence with word-boundary markers.","answer_template":"IPA","weight":0.74}
+{"template_id":"ipa_format_009","question_template":"Write the phoneme-level IPA transcription for this audio, separating individual phones with spaces and words with boundary markers.","answer_template":"IPA","weight":0.73}
+{"template_id":"ipa_format_010","question_template":"For this utterance, return the IPA transcription in a word-boundary-preserving phone sequence format.","answer_template":"IPA","weight":0.69}
+{"template_id":"ipa_format_011","question_template":"I need the IPA phoneme sequence for this speech sample. Please format it with space-separated phones and word boundaries.","answer_template":"IPA","weight":0.76}
+{"template_id":"ipa_format_012","question_template":"I am preparing IPA phoneme labels for this audio. Can you output the speech as space-separated IPA phones with word boundaries? For example: f i l | ʌ b aʊ t | h j u m æ n ɪ t i","answer_template":"IPA","weight":0.70}
+{"template_id":"ipa_format_013","question_template":"You are given a speech clip. Transcribe it into IPA phones and preserve word-level boundaries in the sequence. For example: w i | t i | ɡ ɛ t | ð ʌ","answer_template":"IPA","weight":0.61}
+{"template_id":"ipa_format_014","question_template":"Please listen to this recording and return its IPA phoneme transcription with explicit word-boundary markers. For example: ð ɪ s | w ʌ t | aɪ | k ɔ l","answer_template":"IPA","weight":0.72}
+{"template_id":"ipa_format_015","question_template":"Could you help me generate the IPA transcript for this utterance in the standard space-separated phone format with word boundaries? For example: b ʊ k | ɪ z | w ʌ n | θ ɪ ŋ","answer_template":"IPA","weight":0.75}
+{"template_id":"ipa_format_016","question_template":"What IPA phoneme sequence corresponds to this audio? Please keep phones space-separated and words explicitly segmented. For example: ɹ aɪ t | ɡ aɪ z","answer_template":"IPA","weight":0.74}
+{"template_id":"ipa_format_017","question_template":"Can you write this spoken utterance as IPA phones, with word boundaries retained in the sequence? For example: j u | n oʊ | l ɪ t ʌ l","answer_template":"IPA","weight":0.73}
+{"template_id":"ipa_format_018","question_template":"Please provide the phoneme-level IPA transcript of this clip using a normalized word-segmented format. For example: θ ɪ ŋ z | ð æ t | n i d | t u","answer_template":"IPA","weight":0.70}
+{"template_id":"ipa_format_019","question_template":"For phoneme recognition, transcribe this audio into IPA symbols and keep the word-boundary structure. For example: ð ʌ | w ɛ ð ɜ˞ | ɹ aɪ t","answer_template":"IPA","weight":0.68}
+{"template_id":"ipa_format_020","question_template":"Listen carefully to the clip and output the corresponding IPA phone sequence with clear word segmentation. For example: f ɪ k s t | ɔ ɹ","answer_template":"IPA","weight":0.76}
+{"template_id":"ipa_polite_001","question_template":"Listen to this speech clip carefully. Can you please generate the corresponding IPA phoneme sequence?","answer_template":"IPA","weight":0.88}
+{"template_id":"ipa_polite_002","question_template":"Could you please listen to the utterance and provide a phoneme-level transcription using IPA symbols?","answer_template":"IPA","weight":0.90}
+{"template_id":"ipa_polite_003","question_template":"Please analyze the spoken utterance and return its normalized IPA phoneme sequence.","answer_template":"IPA","weight":0.75}
+{"template_id":"ipa_polite_004","question_template":"I would like to obtain the IPA phoneme transcription for this audio clip. Could you provide it?","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_polite_005","question_template":"For this speech recording, could you please write out the sequence of IPA phones that corresponds to the utterance?","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_polite_006","question_template":"Please listen to the provided audio and transcribe the speech at the phoneme level using the International Phonetic Alphabet.","answer_template":"IPA","weight":0.88}
+{"template_id":"ipa_polite_007","question_template":"Could you help me by producing the IPA phoneme sequence for the speech in this recording?","answer_template":"IPA","weight":0.87}
+{"template_id":"ipa_polite_008","question_template":"I am trying to obtain a phoneme-level representation of this utterance. Could you write it in IPA?","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_polite_009","question_template":"Please provide the IPA transcription of this speech sample, preserving the normalized word-boundary format.","answer_template":"IPA","weight":0.78}
+{"template_id":"ipa_polite_010","question_template":"Listen carefully to the audio and return the spoken content as a sequence of IPA phonemes with word boundaries preserved.","answer_template":"IPA","weight":0.82}
+{"template_id":"ipa_outputonly_001","question_template":"Transcribe this speech clip into IPA phonemes. Output only the IPA sequence.","answer_template":"IPA","weight":0.82}
+{"template_id":"ipa_outputonly_002","question_template":"What is the IPA phoneme sequence for this audio? Return only the IPA transcription, with no explanation.","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_outputonly_003","question_template":"Listen to this utterance and write its IPA phone sequence. Respond with only the sequence.","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_outputonly_004","question_template":"Provide the phoneme-level IPA transcription of this recording. Do not include any extra text.","answer_template":"IPA","weight":0.82}
+{"template_id":"ipa_outputonly_005","question_template":"Can you transcribe this speech into IPA symbols? Give only the IPA phoneme sequence.","answer_template":"IPA","weight":0.86}
+{"template_id":"ipa_outputonly_006","question_template":"Could you write the IPA transcript for this utterance? Please output only the transcription.","answer_template":"IPA","weight":0.85}
+{"template_id":"ipa_outputonly_007","question_template":"Generate the IPA phoneme sequence for this speech sample, and return nothing else.","answer_template":"IPA","weight":0.78}
+{"template_id":"ipa_outputonly_008","question_template":"What are the IPA phones in this clip? Answer only with the IPA phone sequence.","answer_template":"IPA","weight":0.83}
+{"template_id":"ipa_outputonly_009","question_template":"Please listen to the audio and provide its IPA phoneme transcription only.","answer_template":"IPA","weight":0.86}
+{"template_id":"ipa_outputonly_010","question_template":"For this utterance, output only the corresponding IPA phoneme sequence.","answer_template":"IPA","weight":0.78}
+{"template_id":"ipa_outputonly_011","question_template":"I need the IPA transcript for this audio. Please return just the IPA sequence.","answer_template":"IPA","weight":0.86}
+{"template_id":"ipa_outputonly_012","question_template":"Help me transcribe this clip into IPA phones. Please give only the phone sequence.","answer_template":"IPA","weight":0.88}
+{"template_id":"ipa_outputonly_013","question_template":"What is the phoneme-level IPA transcription of this speech? Do not add comments or explanation.","answer_template":"IPA","weight":0.82}
+{"template_id":"ipa_outputonly_014","question_template":"Can you provide the IPA phone sequence for this utterance without any surrounding text?","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_outputonly_015","question_template":"Could you help with IPA phoneme recognition for this clip? Return only the target sequence.","answer_template":"IPA","weight":0.75}
+{"template_id":"ipa_outputonly_016","question_template":"Write this speech as IPA phonemes, and keep the response to the transcription only.","answer_template":"IPA","weight":0.79}
+{"template_id":"ipa_outputonly_017","question_template":"Please transcribe the spoken utterance into IPA and avoid adding anything beyond the phoneme sequence.","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_outputonly_018","question_template":"For phoneme recognition, provide only the IPA transcription of this recording.","answer_template":"IPA","weight":0.76}
+{"template_id":"ipa_outputonly_019","question_template":"Listen carefully and return only the IPA phoneme sequence corresponding to this speech clip.","answer_template":"IPA","weight":0.84}
+{"template_id":"ipa_outputonly_020","question_template":"I am checking an IPA recognition target. Please output only the IPA phoneme sequence for this audio.","answer_template":"IPA","weight":0.70}
+{"template_id":"ipa_variant_lineword_001","question_template":"Transcribe this speech into IPA, placing each word-level phoneme group on a separate line.","answer_template":"IPA.replace(' | ', '\\n')","weight":0.48}
+{"template_id":"ipa_variant_lineword_002","question_template":"Write the IPA transcription for this utterance with one word's phonemes per line.","answer_template":"IPA.replace(' | ', '\\n')","weight":0.50}
+{"template_id":"ipa_variant_lineword_003","question_template":"What is the IPA transcript of this clip? Format it line by line, one word-level segment per line.","answer_template":"IPA.replace(' | ', '\\n')","weight":0.52}
+{"template_id":"ipa_variant_lineword_004","question_template":"Can you provide the IPA phone sequence for this audio with each word-level segment on its own line?","answer_template":"IPA.replace(' | ', '\\n')","weight":0.54}
+{"template_id":"ipa_variant_lineword_005","question_template":"Could you transcribe this utterance into IPA and write each word's phones on a new line?","answer_template":"IPA.replace(' | ', '\\n')","weight":0.55}
+{"template_id":"ipa_variant_flat_001","question_template":"Transcribe this speech into IPA as a flat space-separated phone list.","answer_template":"IPA.replace(' | ', ' ')","weight":0.50}
+{"template_id":"ipa_variant_flat_002","question_template":"Write the IPA phonemes for this utterance as one continuous phone sequence.","answer_template":"IPA.replace(' | ', ' ')","weight":0.52}
+{"template_id":"ipa_variant_flat_003","question_template":"What is the IPA transcript of this clip? Format it as a flat list of phones.","answer_template":"IPA.replace(' | ', ' ')","weight":0.55}
+{"template_id":"ipa_variant_flat_004","question_template":"Can you provide the IPA phone sequence as a flat list?","answer_template":"IPA.replace(' | ', ' ')","weight":0.56}
+{"template_id":"ipa_variant_flat_005","question_template":"Could you transcribe this audio into IPA as a single space-separated sequence of phones?","answer_template":"IPA.replace(' | ', ' ')","weight":0.58}
+{"template_id":"ipa_variant_comma_001","question_template":"Transcribe this speech into IPA and separate the phones with commas.","answer_template":"IPA.replace(' | ', ' ').replace(' ', ', ')","weight":0.42}
+{"template_id":"ipa_variant_comma_002","question_template":"Write the IPA phonemes for this utterance as a comma-separated list.","answer_template":"IPA.replace(' | ', ' ').replace(' ', ', ')","weight":0.44}
+{"template_id":"ipa_variant_comma_003","question_template":"What is the IPA transcript of this clip? Format the phones as a comma-separated sequence.","answer_template":"IPA.replace(' | ', ' ').replace(' ', ', ')","weight":0.45}
+{"template_id":"ipa_variant_comma_004","question_template":"Can you provide the IPA phone sequence as a comma-separated list?","answer_template":"IPA.replace(' | ', ' ').replace(' ', ', ')","weight":0.47}
+{"template_id":"ipa_variant_comma_005","question_template":"Could you output the IPA phones in this audio separated by commas?","answer_template":"IPA.replace(' | ', ' ').replace(' ', ', ')","weight":0.47}
+{"template_id":"ipa_variant_lineword_006","question_template":"Listen to the clip and output the IPA phonemes grouped by word, one group per line. For example:\nf i l\nʌ b aʊ t\nh j u m æ n ɪ t i","answer_template":"IPA.replace(' | ', '\\n')","weight":0.47}
+{"template_id":"ipa_variant_lineword_007","question_template":"Please provide the phoneme-level IPA transcription in a multi-line format, with each line corresponding to one word. For example:\nw i\nt i\nɡ ɛ t","answer_template":"IPA.replace(' | ', '\\n')","weight":0.46}
+{"template_id":"ipa_variant_lineword_008","question_template":"I need the IPA transcript of this speech arranged as one word-level phoneme group per line. For example:\nð ɪ s\nw ʌ t\naɪ","answer_template":"IPA.replace(' | ', '\\n')","weight":0.48}
+{"template_id":"ipa_variant_lineword_009","question_template":"Help me format this speech as IPA phones, split into separate lines by word. For example:\nb ʊ k\nɪ z\nw ʌ n","answer_template":"IPA.replace(' | ', '\\n')","weight":0.49}
+{"template_id":"ipa_variant_lineword_010","question_template":"For this utterance, return the IPA transcription as newline-separated word-level phone groups. For example:\nɹ aɪ t\nɡ aɪ z","answer_template":"IPA.replace(' | ', '\\n')","weight":0.46}
+{"template_id":"ipa_variant_flat_006","question_template":"Please output the IPA phonemes in this utterance as one flat phone sequence. For example: f i l ʌ b aʊ t h j u m æ n ɪ t i","answer_template":"IPA.replace(' | ', ' ')","weight":0.50}
+{"template_id":"ipa_variant_flat_007","question_template":"Listen to the speech and return its IPA transcription as a continuous phone-level sequence. For example: w i t i ɡ ɛ t ð ʌ","answer_template":"IPA.replace(' | ', ' ')","weight":0.52}
+{"template_id":"ipa_variant_flat_008","question_template":"I need the IPA phoneme transcription of this recording as a flat phone list. For example: ð ɪ s w ʌ t aɪ k ɔ l","answer_template":"IPA.replace(' | ', ' ')","weight":0.51}
+{"template_id":"ipa_variant_flat_009","question_template":"Help me convert this utterance into a flat IPA phone sequence. For example: b ʊ k ɪ z w ʌ n θ ɪ ŋ","answer_template":"IPA.replace(' | ', ' ')","weight":0.53}
+{"template_id":"ipa_variant_flat_010","question_template":"For this speech sample, provide the IPA phones as a single space-separated list. For example: ɹ aɪ t ɡ aɪ z","answer_template":"IPA.replace(' | ', ' ')","weight":0.54}
+{"template_id":"ipa_variant_comma_006","question_template":"Please listen to the utterance and return its IPA phones in comma-separated format. For example: f, i, l, ʌ, b, aʊ, t","answer_template":"IPA.replace(' | ', ' ').replace(' ', ', ')","weight":0.45}
+{"template_id":"ipa_variant_comma_007","question_template":"I need the IPA transcription of this speech as a list of phones separated by commas. For example: w, i, t, i, ɡ, ɛ, t","answer_template":"IPA.replace(' | ', ' ').replace(' ', ', ')","weight":0.44}
+{"template_id":"ipa_variant_comma_008","question_template":"Help me format the IPA phonemes from this audio as a comma-separated phone list. For example: ð, ɪ, s, w, ʌ, t, aɪ","answer_template":"IPA.replace(' | ', ' ').replace(' ', ', ')","weight":0.46}
+{"template_id":"ipa_variant_comma_009","question_template":"For this recording, provide the corresponding IPA phones as comma-separated items. For example: b, ʊ, k, ɪ, z, w, ʌ, n","answer_template":"IPA.replace(' | ', ' ').replace(' ', ', ')","weight":0.43}
+{"template_id":"ipa_variant_comma_010","question_template":"Generate the IPA phoneme sequence for this speech sample and separate each phone with a comma. For example: ɹ, aɪ, t, ɡ, aɪ, z","answer_template":"IPA.replace(' | ', ' ').replace(' ', ', ')","weight":0.42}
+{"template_id":"ipa_direct_001","question_template":"Listen to the speech and transcribe it into IPA phonemes.","answer_template":"IPA","weight":0.93}
+{"template_id":"ipa_direct_002","question_template":"Listen to the audio and write the IPA phoneme sequence.","answer_template":"IPA","weight":0.92}
+{"template_id":"ipa_direct_003","question_template":"Listen to the utterance and provide its IPA transcription.","answer_template":"IPA","weight":0.91}
+{"template_id":"ipa_direct_004","question_template":"Listen to this speech clip and generate the IPA phoneme sequence.","answer_template":"IPA","weight":0.89}
+{"template_id":"ipa_direct_005","question_template":"Listen to the spoken utterance and return its IPA phonemes.","answer_template":"IPA","weight":0.87}
+{"template_id":"ipa_direct_007","question_template":"Listen to the speech and transcribe its sounds in IPA.","answer_template":"IPA","weight":0.91}
+{"template_id":"ipa_direct_008","question_template":"Listen to this utterance and write it as a sequence of IPA phones.","answer_template":"IPA","weight":0.89}
+{"template_id":"ipa_direct_009","question_template":"Listen to the audio and give the phonemic transcription in IPA.","answer_template":"IPA","weight":0.90}
+{"template_id":"ipa_direct_010","question_template":"Listen to this recording and produce the IPA phone sequence.","answer_template":"IPA","weight":0.85}
+{"template_id":"ipa_direct_011","question_template":"Listen to this clip and output only the IPA phoneme sequence.","answer_template":"IPA","weight":0.84}
