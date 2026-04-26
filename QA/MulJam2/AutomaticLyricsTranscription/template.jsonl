@@ -1,0 +1,570 @@
+{"question_template":"Listen to this song clip and tell me the sung language, then provide the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.94}
+{"question_template":"Listen to the vocal segment, identify the sung language, and transcribe the lyrics in the original language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.93}
+{"question_template":"Please listen to the vocalist, tell me the language being sung, and write out the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.91}
+{"question_template":"Can you listen to this music clip, identify the sung language, and provide the lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.95}
+{"question_template":"Listen to the audio, determine the language of the vocals, and transcribe the lyrics in the language being sung.","answer_template":"format_language_cascade(language, lyrics)","weight":0.88}
+{"question_template":"After listening, what language are the vocals in, and what exactly are the lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.94}
+{"question_template":"Please listen to this music sample, identify the sung language, and then transcribe the lyrics in the original language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.9}
+{"question_template":"Listen to this audio. What is the sung language, and what is the full lyric transcription in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.92}
+{"question_template":"Listen to this vocal passage, recognize the language, and provide the lyrics in the language being sung.","answer_template":"format_language_cascade(language, lyrics)","weight":0.84}
+{"question_template":"Can you first listen to the song clip, identify the language, and then transcribe the sung lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.93}
+{"question_template":"Listen to the music clip, identify the sung language, and write the lyrics in the original language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.9}
+{"question_template":"Listen to this audio and tell me both the sung language and the lyric transcription in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.95}
+{"question_template":"For this music recording, listen and tell me the language of the vocals and the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.92}
+{"question_template":"Please listen to this clip and provide the sung-language label and the lyric transcript in the original language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.89}
+{"question_template":"Listen to this recording, identify the sung language, and return the lyrics in that language as well.","answer_template":"format_language_cascade(language, lyrics)","weight":0.91}
+{"question_template":"After listening, what language are the vocals using, and what are the lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.94}
+{"question_template":"Can you listen and say what language this song is in, then transcribe the sung lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.93}
+{"question_template":"Please listen to the vocalist, identify the language, then write out the lyrics in the original language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.87}
+{"question_template":"Listen to this audio. I need both pieces of information: the sung language and the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.9}
+{"question_template":"Listen to this song. What is the language, and how would you transcribe the lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.88}
+{"question_template":"Please listen to this vocalist, identify the language, and provide the exact lyrics in the language being sung.","answer_template":"format_language_cascade(language, lyrics)","weight":0.91}
+{"question_template":"For this vocal passage, listen, identify the language, and write the sung words in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.86}
+{"question_template":"Listen to this clip. What language do the vocals use, and what lyrics are being sung in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.9}
+{"question_template":"Could you listen to this recording, classify the sung language, and also transcribe the lyrics in the original language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.92}
+{"question_template":"Please listen to the audio and report the sung language first and the lyrics in that language second.","answer_template":"format_language_cascade(language, lyrics)","weight":0.85}
+{"question_template":"Listen to this audio. What is the sung language, and what is the written lyric transcript in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.89}
+{"question_template":"Listen to the vocal segment, identify the language, and transcribe the lyrics in the language being sung.","answer_template":"format_language_cascade(language, lyrics)","weight":0.83}
+{"question_template":"Can you listen to this vocalist, label the language, and provide the lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.91}
+{"question_template":"After listening, what language is represented in the vocals, and what are the sung words in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.87}
+{"question_template":"Please listen to this song clip and give the sung language and the full lyrics in the original language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.93}
+{"question_template":"Listen to this vocal passage, determine the language, and return the lyric transcription in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.84}
+{"question_template":"I want to know the sung language and the lyrics of this recording. Please listen and provide the lyrics in the language being sung.","answer_template":"format_language_cascade(language, lyrics)","weight":0.92}
+{"question_template":"Can you listen to this audio, identify the sung language, and write down exactly what lyrics are sung in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.93}
+{"question_template":"Please listen to this music sample, classify the sung language, and transcribe the lyrics verbatim in the original language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.88}
+{"question_template":"Listen to this song clip. What is the language? Also provide the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.94}
+{"question_template":"Listen to this vocalist, tell me the language, then transcribe the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.9}
+{"question_template":"Could you listen, identify the sung language, and then give the exact lyric content in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.91}
+{"question_template":"Listen to this recording. What language are the vocals in, and what lyrics are being sung in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.92}
+{"question_template":"For this audio sample, listen, identify the sung language, and transcribe the lyrics in the original language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.9}
+{"question_template":"Please listen to this vocal segment and return both the language and the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.93}
+{"question_template":"Can you listen, recognize the sung language, and also write out the lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.89}
+{"question_template":"Listen to this clip, identify the vocalist's language, and provide the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.87}
+{"question_template":"Listen to this song. What language is this, and how would the lyrics be transcribed in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.88}
+{"question_template":"Listen to this clip and give me the sung-language label and the corresponding lyric transcription in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.91}
+{"question_template":"Please listen to the recording, identify the sung language, and write the full lyrics in the original language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.9}
+{"question_template":"Listen to the vocalist here. What is the language, and what lyrics are being sung in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.89}
+{"question_template":"Could you listen and provide the vocalist's language and the exact lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.94}
+{"question_template":"Listen to this recording. What language does it contain, and what is the sung lyric line in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.84}
+{"question_template":"Listen to this audio, classify the sung language, and transcribe the sung lyric line in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.86}
+{"question_template":"Please listen to this clip, identify the sung language, and write out the lyrics in the original language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.85}
+{"question_template":"I need the sung language and the lyrics for this music recording. Please listen and provide the lyrics in the language being sung.","answer_template":"format_language_cascade(language, lyrics)","weight":0.91}
+{"question_template":"Listen to this clip. What language does this vocalist use, and what is the lyric transcription in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.92}
+{"question_template":"Listen to this music sample, name the sung language, and transcribe the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.83}
+{"question_template":"Please listen, tell me the sung language, and then provide a faithful lyric transcript in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.88}
+{"question_template":"After listening, what language is heard in the vocals, and what are the exact lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.9}
+{"question_template":"Listen to this vocal passage, identify the language, and write its lyrics in full in the original language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.87}
+{"question_template":"Can you listen to this sample, determine the sung language, and return the lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.92}
+{"question_template":"For this clip, after listening, what language is the vocalist using, and what lyrics do they sing exactly in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.91}
+{"question_template":"Please listen to this sung clip, identify the language, and provide the written lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.89}
+{"question_template":"Listen to this vocalist. What is the language? Also transcribe the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.93}
+{"question_template":"Listen to this vocal passage, recognize the language, and write out the full lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.84}
+{"question_template":"Please provide two things for this recording after listening: the sung language and the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.94}
+{"question_template":"Listen to this audio, identify the sung language, and then transcribe the lyrics in the language being sung.","answer_template":"format_language_cascade(language, lyrics)","weight":0.9}
+{"question_template":"After listening, report the sung language and provide the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.88}
+{"question_template":"Can you listen to the clip and tell me both the sung language and the lyric transcription in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.93}
+{"question_template":"Please listen to the recording, identify the sung language, and write what is sung in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.89}
+{"question_template":"Listen to this audio. What is the language? Please also return the exact lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.94}
+{"question_template":"Could you listen to this music sample, identify the sung language, and transcribe the lyrics in the original language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.91}
+{"question_template":"Listen carefully and provide the sung-language label together with the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.87}
+{"question_template":"After listening to the clip, what is the sung language and what lyrics are being sung in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.92}
+{"question_template":"Based on this audio, identify the sung language and provide the lyric transcript in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.89}
+{"question_template":"From this recording, determine the sung language and write out the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.86}
+{"question_template":"Using the clip, listen and tell me the sung language and the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.85}
+{"question_template":"Please listen to this vocal passage and return both its language and lyrics in the original language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.9}
+{"question_template":"Can you identify the sung language after listening and then transcribe the lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.88}
+{"question_template":"What language do you hear in this recording, and what are the lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.93}
+{"question_template":"Please listen and provide the sung-language classification and the full written lyrics in that language for this clip.","answer_template":"format_language_cascade(language, lyrics)","weight":0.88}
+{"question_template":"Listen to the vocalist, identify the language, and write down exactly what lyrics are sung in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.91}
+{"question_template":"Could you listen, determine the language of these vocals, and transcribe the lyrics verbatim in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.89}
+{"question_template":"Please listen to this music sample, report the sung language, and include the lyrics in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.86}
+{"question_template":"For this audio clip, identify the sung language and provide the exact lyric content in that language.","answer_template":"format_language_cascade(language, lyrics)","weight":0.92}
+{"question_template":"Listen to this recording. What language is this vocalist using, and what are the full lyrics in that language?","answer_template":"format_language_cascade(language, lyrics)","weight":0.93}
+{"question_template":"Transcribe the lyrics of this {lang_display} song clip in the original language.","answer_template":"lyrics","weight":0.9}
+{"question_template":"Write the lyrics from this {lang_display} vocal clip.","answer_template":"lyrics","weight":0.88}
+{"question_template":"Please transcribe this {lang_display} music recording as lyrics.","answer_template":"lyrics","weight":0.86}
+{"question_template":"Can you transcribe the lyrics from this {lang_display} audio sample in the language being sung?","answer_template":"lyrics","weight":0.95}
+{"question_template":"Could you write out what this {lang_display} vocalist is singing?","answer_template":"lyrics","weight":0.93}
+{"question_template":"What does this {lang_display} vocalist sing in this clip? Please answer.","answer_template":"lyrics","weight":0.94}
+{"question_template":"What lyrics are being sung in this {lang_display} recording? Please transcribe them.","answer_template":"lyrics","weight":0.92}
+{"question_template":"Provide the lyrics for this {lang_display} vocal passage in the original language.","answer_template":"lyrics","weight":0.84}
+{"question_template":"Return the sung words from this {lang_display} music clip.","answer_template":"lyrics","weight":0.78}
+{"question_template":"Generate the lyric transcript of this {lang_display} music sample.","answer_template":"lyrics","weight":0.76}
+{"question_template":"Write down the lyrics in this {lang_display} clip in the language being sung.","answer_template":"lyrics","weight":0.87}
+{"question_template":"Produce the lyric transcription of this {lang_display} recording.","answer_template":"lyrics","weight":0.73}
+{"question_template":"Can you tell me what this {lang_display} vocalist is singing?","answer_template":"lyrics","weight":0.94}
+{"question_template":"Could you provide the lyrics of this {lang_display} audio in the original language?","answer_template":"lyrics","weight":0.91}
+{"question_template":"What are the full lyrics of this {lang_display} audio?","answer_template":"lyrics","weight":0.9}
+{"question_template":"What exactly is sung in this {lang_display} vocal passage? Please transcribe it.","answer_template":"lyrics","weight":0.86}
+{"question_template":"What are the sung words in this {lang_display} clip? Please write them.","answer_template":"lyrics","weight":0.91}
+{"question_template":"What is sung in this {lang_display} music sample? Please answer with the lyrics.","answer_template":"lyrics","weight":0.88}
+{"question_template":"What is the vocalist singing in this {lang_display} recording? Please transcribe it.","answer_template":"lyrics","weight":0.92}
+{"question_template":"What is the sung content of this {lang_display} clip?","answer_template":"lyrics","weight":0.85}
+{"question_template":"What are the lyrics for this {lang_display} clip in the original language?","answer_template":"lyrics","weight":0.95}
+{"question_template":"How would you transcribe the lyrics of this {lang_display} audio?","answer_template":"lyrics","weight":0.7}
+{"question_template":"How should this {lang_display} vocal passage be written out as lyrics?","answer_template":"lyrics","weight":0.6}
+{"question_template":"How would this {lang_display} music recording be written as lyrics?","answer_template":"lyrics","weight":0.61}
+{"question_template":"How should the vocals in this {lang_display} clip be transcribed as lyrics?","answer_template":"lyrics","weight":0.68}
+{"question_template":"How would you write the sung content of this {lang_display} audio?","answer_template":"lyrics","weight":0.62}
+{"question_template":"How should this {lang_display} recording appear in written lyric form?","answer_template":"lyrics","weight":0.58}
+{"question_template":"How would you render this {lang_display} vocal passage as lyrics?","answer_template":"lyrics","weight":0.57}
+{"question_template":"How should the sung words in this {lang_display} clip be written down?","answer_template":"lyrics","weight":0.63}
+{"question_template":"How would this {lang_display} vocal performance be transcribed in the original language?","answer_template":"lyrics","weight":0.66}
+{"question_template":"How would you convert this {lang_display} song recording into lyric text?","answer_template":"lyrics","weight":0.6}
+{"question_template":"Listen to the audio and transcribe the lyrics of this {lang_display} clip.","answer_template":"lyrics","weight":0.85}
+{"question_template":"Listen to this {lang_display} recording and write what is sung.","answer_template":"lyrics","weight":0.83}
+{"question_template":"Listen carefully and provide the lyric transcript of this {lang_display} vocal passage.","answer_template":"lyrics","weight":0.8}
+{"question_template":"Listen to the recording and write out the lyrics from this {lang_display} vocalist.","answer_template":"lyrics","weight":0.84}
+{"question_template":"Based on this audio, provide the lyrics of the {lang_display} vocals.","answer_template":"lyrics","weight":0.72}
+{"question_template":"Based on the recording, write what this {lang_display} vocalist sings.","answer_template":"lyrics","weight":0.74}
+{"question_template":"From this clip, generate the lyric transcription of the {lang_display} vocals.","answer_template":"lyrics","weight":0.71}
+{"question_template":"Using the audio, write the sung content of this {lang_display} sample as lyrics.","answer_template":"lyrics","weight":0.64}
+{"question_template":"From this recording, produce the lyric transcript of the {lang_display} vocals.","answer_template":"lyrics","weight":0.73}
+{"question_template":"After listening, write out the lyrics of this {lang_display} vocal passage.","answer_template":"lyrics","weight":0.75}
+{"question_template":"Transcribe the lyrics in this {lang_display} clip.","answer_template":"lyrics","weight":0.86}
+{"question_template":"Write the vocal contents of this {lang_display} recording as lyrics.","answer_template":"lyrics","weight":0.72}
+{"question_template":"Convert this {lang_display} sung audio into lyric text.","answer_template":"lyrics","weight":0.66}
+{"question_template":"Return a lyric transcription of this {lang_display} vocal passage.","answer_template":"lyrics","weight":0.69}
+{"question_template":"Provide the sung content of this {lang_display} audio as lyrics.","answer_template":"lyrics","weight":0.71}
+{"question_template":"Render the vocals in this {lang_display} recording as a lyric transcript.","answer_template":"lyrics","weight":0.55}
+{"question_template":"Create a written lyric transcript for this {lang_display} clip.","answer_template":"lyrics","weight":0.7}
+{"question_template":"Produce the full lyric transcription of this {lang_display} audio.","answer_template":"lyrics","weight":0.74}
+{"question_template":"Write the sung passage from this {lang_display} recording.","answer_template":"lyrics","weight":0.69}
+{"question_template":"Generate a complete lyric transcript of the {lang_display} vocal passage.","answer_template":"lyrics","weight":0.67}
+{"question_template":"Can you write down what is sung by this {lang_display} vocalist?","answer_template":"lyrics","weight":0.92}
+{"question_template":"Can you provide a clean lyric transcript of this {lang_display} audio?","answer_template":"lyrics","weight":0.89}
+{"question_template":"Could you write out the lyrics from this {lang_display} clip in the original language?","answer_template":"lyrics","weight":0.9}
+{"question_template":"Could you return the exact lyrics of this {lang_display} vocal passage?","answer_template":"lyrics","weight":0.82}
+{"question_template":"Please provide a complete lyric transcription of this {lang_display} recording.","answer_template":"lyrics","weight":0.8}
+{"question_template":"Please write the lyrics from this {lang_display} clip as text.","answer_template":"lyrics","weight":0.81}
+{"question_template":"Would you mind transcribing the lyrics of this {lang_display} vocal passage?","answer_template":"lyrics","weight":0.79}
+{"question_template":"Would you please write out the sung words from this {lang_display} vocalist?","answer_template":"lyrics","weight":0.83}
+{"question_template":"Can you give me the full lyrics of this {lang_display} clip?","answer_template":"lyrics","weight":0.9}
+{"question_template":"Could you transcribe this {lang_display} song audio for me?","answer_template":"lyrics","weight":0.97}
+{"question_template":"What is this {lang_display} vocalist singing in this audio? Please transcribe it.","answer_template":"lyrics","weight":0.92}
+{"question_template":"What does this {lang_display} recording say when written out as lyrics?","answer_template":"lyrics","weight":0.86}
+{"question_template":"What are the exact lyrics of this {lang_display} vocal passage?","answer_template":"lyrics","weight":0.84}
+{"question_template":"What words are sung in this {lang_display} clip? Please write them.","answer_template":"lyrics","weight":0.86}
+{"question_template":"What is the sung content of this {lang_display} recording, written out?","answer_template":"lyrics","weight":0.82}
+{"question_template":"What would the lyrics of this {lang_display} audio be?","answer_template":"lyrics","weight":0.83}
+{"question_template":"What is the full written version of the vocals in this {lang_display} clip?","answer_template":"lyrics","weight":0.88}
+{"question_template":"What do the lyrics in this {lang_display} vocal passage look like when transcribed in {lang_display}?","answer_template":"lyrics","weight":0.58}
+{"question_template":"What is being sung here by this {lang_display} vocalist, written as lyrics in {lang_display}?","answer_template":"lyrics","weight":0.89}
+{"question_template":"What is the complete lyric transcription of this {lang_display} segment in {lang_display}?","answer_template":"lyrics","weight":0.87}
+{"question_template":"Please listen to the recording and provide the exact lyrics of this {lang_display} vocal performance in {lang_display}.","answer_template":"lyrics","weight":0.78}
+{"question_template":"After listening to this clip, write the full sung content of this {lang_display} recording as lyrics in {lang_display}.","answer_template":"lyrics","weight":0.73}
+{"question_template":"Transcribe this {lang_display} song segment verbatim as lyrics in {lang_display}.","answer_template":"lyrics","weight":0.76}
+{"question_template":"Write exactly what is sung in this {lang_display} recording in {lang_display}.","answer_template":"lyrics","weight":0.79}
+{"question_template":"Provide the complete lyric transcript for this {lang_display} vocal passage in {lang_display}.","answer_template":"lyrics","weight":0.74}
+{"question_template":"Return the contents of this {lang_display} recording as a faithful lyric transcript in {lang_display}.","answer_template":"lyrics","weight":0.65}
+{"question_template":"Please produce a transcription of the lyrics in this {lang_display} clip in {lang_display}.","answer_template":"lyrics","weight":0.82}
+{"question_template":"From the audio provided, generate the exact lyric transcript of this {lang_display} music sample in {lang_display}.","answer_template":"lyrics","weight":0.72}
+{"question_template":"Listen to this {lang_display} music sample and write out everything sung in {lang_display}.","answer_template":"lyrics","weight":0.85}
+{"question_template":"What is the full sung content of this {lang_display} audio clip in {lang_display}?","answer_template":"lyrics","weight":0.86}
+{"question":"Transcribe these lyrics in the language being sung.","answer":"lyrics","weight":0.67}
+{"question":"Write the lyric transcript of this vocal passage in the original language.","answer":"lyrics","weight":0.7}
+{"question":"Provide the lyrics for this song clip.","answer":"lyrics","weight":0.38}
+{"question":"Return the sung words from this recording in the language being sung.","answer":"lyrics","weight":0.3}
+{"question":"Produce a lyric transcription of this vocal passage.","answer":"lyrics","weight":0.6}
+{"question":"Transcribe this vocal passage as lyric text in the original language.","answer":"lyrics","weight":0.81}
+{"question":"Give the lyrics from this vocal performance in written form.","answer":"lyrics","weight":0.57}
+{"question":"Write out what is sung in this clip.","answer":"lyrics","weight":0.48}
+{"question":"Can you transcribe the lyrics in this song clip?","answer":"lyrics","weight":0.79}
+{"question":"Can you write this sung audio out as lyrics in the language being sung?","answer":"lyrics","weight":0.66}
+{"question":"Could you transcribe the lyrics in this clip?","answer":"lyrics","weight":0.77}
+{"question":"Could you write the sung content of this recording as a lyric transcript?","answer":"lyrics","weight":0.85}
+{"question":"Please transcribe the lyrics in this recording.","answer":"lyrics","weight":0.56}
+{"question":"Please write the vocal passage in lyric form.","answer":"lyrics","weight":0.52}
+{"question":"Would you transcribe this sung audio sample?","answer":"lyrics","weight":0.64}
+{"question":"Would you please provide the lyric transcript of this vocal passage?","answer":"lyrics","weight":0.87}
+{"question":"Can you turn this song recording into lyric text?","answer":"lyrics","weight":0.91}
+{"question":"Could you give me the lyrics from this vocal performance?","answer":"lyrics","weight":0.73}
+{"question":"What is being sung in this recording?","answer":"lyrics","weight":0.93}
+{"question":"What does the vocalist sing in this clip?","answer":"lyrics","weight":0.95}
+{"question":"What are the full lyrics of this audio?","answer":"lyrics","weight":0.93}
+{"question":"What exactly is sung in this vocal passage?","answer":"lyrics","weight":0.64}
+{"question":"What are the sung words in this clip?","answer":"lyrics","weight":0.77}
+{"question":"What is sung in this recording, as written lyrics?","answer":"lyrics","weight":0.83}
+{"question":"What is the complete written lyric transcript of this audio?","answer":"lyrics","weight":0.96}
+{"question":"What does this vocal segment say in the lyrics?","answer":"lyrics","weight":0.68}
+{"question":"What is the vocalist singing in this sample?","answer":"lyrics","weight":0.66}
+{"question":"How would this vocal passage be transcribed as lyrics?","answer":"lyrics","weight":0.45}
+{"question":"How should this clip be written as a lyric transcript?","answer":"lyrics","weight":0.42}
+{"question":"How would you write the sung content of this recording?","answer":"lyrics","weight":0.43}
+{"question":"How should the vocals in this audio appear in written lyric form?","answer":"lyrics","weight":0.43}
+{"question":"How would this recording be transcribed as written lyrics?","answer":"lyrics","weight":0.47}
+{"question":"How would you transcribe the words sung in this clip?","answer":"lyrics","weight":0.56}
+{"question":"How should the lyric transcript of this audio be written?","answer":"lyrics","weight":0.36}
+{"question":"Listen to the audio and transcribe the lyrics.","answer":"lyrics","weight":0.61}
+{"question":"Listen to this recording and write the sung content.","answer":"lyrics","weight":0.57}
+{"question":"Listen carefully and provide the full lyric transcript of this vocal passage.","answer":"lyrics","weight":0.77}
+{"question":"Please listen to the clip and transcribe the lyrics.","answer":"lyrics","weight":0.79}
+{"question":"Based on this audio, provide a transcription of the lyrics.","answer":"lyrics","weight":0.67}
+{"question":"Based on the recording, write exactly what is sung in this clip.","answer":"lyrics","weight":0.4}
+{"question":"From this clip, produce the complete lyric transcript.","answer":"lyrics","weight":0.53}
+{"question":"Using the audio, write out the vocals as lyrics.","answer":"lyrics","weight":0.5}
+{"question":"From this recording, generate the lyric transcript.","answer":"lyrics","weight":0.69}
+{"question":"Write the contents of this recording as a readable lyric transcript.","answer":"lyrics","weight":0.42}
+{"question":"Please convert the sung vocals into a lyric transcript.","answer":"lyrics","weight":0.8}
+{"question":"Provide the sung content of this audio as written lyrics.","answer":"lyrics","weight":0.47}
+{"question":"Render the vocals in this recording as a lyric transcript.","answer":"lyrics","weight":0.26}
+{"question":"Create a written lyric transcript for this clip.","answer":"lyrics","weight":0.35}
+{"question":"Produce the full lyric transcription of this audio.","answer":"lyrics","weight":0.31}
+{"question":"Write the sung passage from this recording in text form.","answer":"lyrics","weight":0.67}
+{"question":"Can you write down what is sung in this clip?","answer":"lyrics","weight":0.79}
+{"question":"Can you provide a clean lyric transcript of this audio?","answer":"lyrics","weight":0.76}
+{"question":"Could you write out the lyrics from this clip?","answer":"lyrics","weight":0.68}
+{"question":"Could you return the exact lyrics of this vocal passage?","answer":"lyrics","weight":0.85}
+{"question":"Please provide a complete lyric transcription of this recording.","answer":"lyrics","weight":0.52}
+{"question":"Please write the vocals from this clip as a lyric transcript.","answer":"lyrics","weight":0.81}
+{"question":"Would you mind transcribing this vocal passage?","answer":"lyrics","weight":0.57}
+{"question":"Would you please write out the sung words from this clip?","answer":"lyrics","weight":0.72}
+{"question":"Can you give me the full lyrics of this clip?","answer":"lyrics","weight":0.66}
+{"question":"Could you transcribe the lyrics in this audio for me?","answer":"lyrics","weight":0.72}
+{"question":"What is the vocalist singing in this audio?","answer":"lyrics","weight":0.68}
+{"question":"What does this recording say when written out as lyrics?","answer":"lyrics","weight":0.93}
+{"question":"What are the exact lyrics of this vocal passage?","answer":"lyrics","weight":0.4}
+{"question":"What words are sung in this clip?","answer":"lyrics","weight":0.83}
+{"question":"What is the sung content of this recording?","answer":"lyrics","weight":0.87}
+{"question":"What is the full written version of the lyrics in this clip?","answer":"lyrics","weight":0.95}
+{"question":"What is being sung here in this sample?","answer":"lyrics","weight":0.36}
+{"question":"How should the sung words in this recording be written as lyrics?","answer":"lyrics","weight":0.51}
+{"question":"How would this vocal passage appear when transcribed as lyrics?","answer":"lyrics","weight":0.44}
+{"question":"How would you write this song clip out as lyric text?","answer":"lyrics","weight":0.39}
+{"question":"How should this sung audio be transcribed?","answer":"lyrics","weight":0.31}
+{"question":"How would the vocals in this clip be rendered in written lyric form?","answer":"lyrics","weight":0.34}
+{"question":"How would you convert this vocal recording into lyric text?","answer":"lyrics","weight":0.49}
+{"question":"How should the sung content here be transcribed, even if the language is unfamiliar?","answer":"lyrics","weight":0.4}
+{"question":"How would this recording be written down as a proper lyric transcript?","answer":"lyrics","weight":0.51}
+{"question":"Please listen to the recording and provide the exact lyrics of this vocal performance.","answer":"lyrics","weight":0.49}
+{"question":"After listening to this clip, write the full sung content of the vocals as text.","answer":"lyrics","weight":0.41}
+{"question":"Write exactly what is sung in this recording.","answer":"lyrics","weight":0.69}
+{"question":"Provide the complete lyric transcript for this vocal passage.","answer":"lyrics","weight":0.39}
+{"question":"Please produce a transcription of the lyrics in this clip.","answer":"lyrics","weight":0.59}
+{"question":"From the audio provided, generate the exact lyric transcript.","answer":"lyrics","weight":0.46}
+{"question":"Listen to this music sample and write out everything sung.","answer":"lyrics","weight":0.84}
+{"question":"What is the full sung content of this audio clip?","answer":"lyrics","weight":0.87}
+{"question":"Transcribe this sung audio, even if the language is unfamiliar.","answer":"lyrics","weight":0.84}
+{"question":"Can you transcribe the lyrics in this audio?","answer":"lyrics","weight":0.97}
+{"question":"Could you provide the lyrics from this audio?","answer":"lyrics","weight":0.91}
+{"question":"What are the lyrics for this clip?","answer":"lyrics","weight":0.97}
+{"question":"Transcribe this sung audio in the language being sung.","answer":"lyrics","weight":0.67}
+{"question":"Write the lyrics in the original language.","answer":"lyrics","weight":0.7}
+{"question":"Provide the lyrics of this clip.","answer":"lyrics","weight":0.38}
+{"question":"Return the sung words from this recording.","answer":"lyrics","weight":0.3}
+{"question":"Produce a lyric transcription of this audio.","answer":"lyrics","weight":0.6}
+{"question":"Transcribe this vocal passage as written lyrics.","answer":"lyrics","weight":0.81}
+{"question":"Give the lyrics in normal written form.","answer":"lyrics","weight":0.57}
+{"question":"Write out what is sung in this recording.","answer":"lyrics","weight":0.48}
+{"question":"Generate the lyric transcript of this vocal passage.","answer":"lyrics","weight":0.18}
+{"question":"Output the sung vocals as written lyrics.","answer":"lyrics","weight":0.28}
+{"question":"Can you transcribe the lyrics in this audio?","answer":"lyrics","weight":0.79}
+{"question":"Can you write this sung audio out as text?","answer":"lyrics","weight":0.66}
+{"question":"Could you transcribe the lyrics in this clip?","answer":"lyrics","weight":0.77}
+{"question":"Could you write the sung content as a lyric transcript?","answer":"lyrics","weight":0.85}
+{"question":"Please transcribe the lyrics in this recording.","answer":"lyrics","weight":0.56}
+{"question":"Please write the vocal passage in standard written form.","answer":"lyrics","weight":0.52}
+{"question":"Would you transcribe this sung audio?","answer":"lyrics","weight":0.64}
+{"question":"Would you please provide the lyrics?","answer":"lyrics","weight":0.87}
+{"question":"Can you turn this recording into written lyrics?","answer":"lyrics","weight":0.91}
+{"question":"Could you give me the lyrics from this recording?","answer":"lyrics","weight":0.73}
+{"question":"What is being sung in this recording?","answer":"lyrics","weight":0.93}
+{"question":"What does the vocalist sing in this clip?","answer":"lyrics","weight":0.95}
+{"question":"What are the full lyrics of this audio?","answer":"lyrics","weight":0.93}
+{"question":"What is the lyric transcript of this vocal passage?","answer":"lyrics","weight":0.44}
+{"question":"What exactly is sung here? Return the lyrics.","answer":"lyrics","weight":0.64}
+{"question":"What are the sung words in this clip, written out?","answer":"lyrics","weight":0.77}
+{"question":"What is sung in this recording, as standard written lyrics?","answer":"lyrics","weight":0.83}
+{"question":"What is the complete written lyric transcript of this audio?","answer":"lyrics","weight":0.96}
+{"question":"What does this vocal segment say in the lyrics?","answer":"lyrics","weight":0.68}
+{"question":"What is the vocalist singing? Write it out as lyrics.","answer":"lyrics","weight":0.66}
+{"question":"How would this vocal passage be transcribed?","answer":"lyrics","weight":0.45}
+{"question":"How should this clip be written as a lyric transcript?","answer":"lyrics","weight":0.42}
+{"question":"How would you write the sung content of this recording?","answer":"lyrics","weight":0.43}
+{"question":"How should the vocals in this audio appear in written form?","answer":"lyrics","weight":0.43}
+{"question":"How would this recording be transcribed as normal written lyrics?","answer":"lyrics","weight":0.47}
+{"question":"How would you render this vocal passage as text?","answer":"lyrics","weight":0.2}
+{"question":"How should this sung passage be written out?","answer":"lyrics","weight":0.38}
+{"question":"How would you transcribe the words sung in this clip?","answer":"lyrics","weight":0.56}
+{"question":"How should the lyric transcript of this audio be written?","answer":"lyrics","weight":0.36}
+{"question":"How would these lyrics be written out clearly?","answer":"lyrics","weight":0.35}
+{"question":"Listen to the audio and transcribe the lyrics.","answer":"lyrics","weight":0.61}
+{"question":"Listen to this recording and write the sung content.","answer":"lyrics","weight":0.57}
+{"question":"Listen carefully and provide the full lyrics.","answer":"lyrics","weight":0.77}
+{"question":"Please listen to the clip and transcribe the vocals in written form.","answer":"lyrics","weight":0.79}
+{"question":"Listen to this vocal passage and return the lyrics.","answer":"lyrics","weight":0.54}
+{"question":"Based on this audio, provide a lyric transcription.","answer":"lyrics","weight":0.67}
+{"question":"Based on the recording, write exactly what is sung.","answer":"lyrics","weight":0.4}
+{"question":"From this clip, produce the complete lyric transcript.","answer":"lyrics","weight":0.53}
+{"question":"Using the audio, write out the vocals as standard written lyrics.","answer":"lyrics","weight":0.5}
+{"question":"From this recording, generate the lyrics.","answer":"lyrics","weight":0.69}
+{"question":"Transcribe the lyrics in this clip.","answer":"lyrics","weight":0.48}
+{"question":"Write the contents of this recording as a readable lyric transcript.","answer":"lyrics","weight":0.42}
+{"question":"Please convert the sung audio into a lyric transcript.","answer":"lyrics","weight":0.8}
+{"question":"Return a lyric transcription of this vocal passage.","answer":"lyrics","weight":0.08}
+{"question":"Provide the sung content of this audio as well-formed written lyrics.","answer":"lyrics","weight":0.47}
+{"question":"Render the vocals in this recording as a lyric transcript.","answer":"lyrics","weight":0.26}
+{"question":"Create a written lyric transcript for this clip.","answer":"lyrics","weight":0.35}
+{"question":"Produce the full lyric transcription of this audio.","answer":"lyrics","weight":0.31}
+{"question":"Write the sung passage from this recording in standard written form.","answer":"lyrics","weight":0.67}
+{"question":"Generate a complete lyric transcript of this vocal passage.","answer":"lyrics","weight":0.14}
+{"question":"Can you write down what is sung here in standard written form?","answer":"lyrics","weight":0.79}
+{"question":"Can you provide a clean lyric transcript of this audio?","answer":"lyrics","weight":0.76}
+{"question":"Could you write out the lyrics from this clip?","answer":"lyrics","weight":0.68}
+{"question":"Could you return the exact lyrics of this clip?","answer":"lyrics","weight":0.85}
+{"question":"Please provide a complete lyric transcription of this recording.","answer":"lyrics","weight":0.52}
+{"question":"Please write the vocals from this clip as a lyric transcript.","answer":"lyrics","weight":0.81}
+{"question":"Would you mind transcribing this vocal passage?","answer":"lyrics","weight":0.57}
+{"question":"Would you please write out the sung words in standard written form?","answer":"lyrics","weight":0.72}
+{"question":"Can you give me the full lyrics of this clip?","answer":"lyrics","weight":0.66}
+{"question":"Could you transcribe this audio so that it reads like normal written lyrics?","answer":"lyrics","weight":0.72}
+{"question":"What is the vocalist singing in this audio?","answer":"lyrics","weight":0.68}
+{"question":"What does this recording say when written out as proper lyrics?","answer":"lyrics","weight":0.93}
+{"question":"What are the exact lyrics of this vocal passage?","answer":"lyrics","weight":0.4}
+{"question":"What words are sung in this clip? Return them as written lyrics.","answer":"lyrics","weight":0.83}
+{"question":"What is sung in this clip if you transcribe it?","answer":"lyrics","weight":0.33}
+{"question":"What is the sung content of this recording, written properly?","answer":"lyrics","weight":0.87}
+{"question":"What would the lyrics of this audio be?","answer":"lyrics","weight":0.34}
+{"question":"What is the full written version of the lyrics in this clip?","answer":"lyrics","weight":0.95}
+{"question":"What does the vocal passage sound like in standard lyric transcription?","answer":"lyrics","weight":0.22}
+{"question":"What is being sung here, written as readable lyrics?","answer":"lyrics","weight":0.36}
+{"question":"How would you transcribe the lyrics in this clip?","answer":"lyrics","weight":0.18}
+{"question":"How should the sung words in this recording be written as lyrics?","answer":"lyrics","weight":0.51}
+{"question":"How would this vocal passage appear when transcribed as normal written lyrics?","answer":"lyrics","weight":0.44}
+{"question":"How would you write this song clip out as lyric text?","answer":"lyrics","weight":0.39}
+{"question":"How should this sung audio be transcribed?","answer":"lyrics","weight":0.31}
+{"question":"How would the vocals in this clip be rendered in standard written form?","answer":"lyrics","weight":0.34}
+{"question":"How should the lyric transcript of this audio look?","answer":"lyrics","weight":0.24}
+{"question":"How would you convert this sung recording into written lyrics?","answer":"lyrics","weight":0.49}
+{"question":"How should the sung content here be transcribed for readable output?","answer":"lyrics","weight":0.4}
+{"question":"How would this recording be written down as a proper lyric transcript?","answer":"lyrics","weight":0.51}
+{"question":"Please listen to the recording and provide the exact lyrics.","answer":"lyrics","weight":0.49}
+{"question":"After listening to this clip, write the full sung content as text.","answer":"lyrics","weight":0.41}
+{"question":"Transcribe this song segment verbatim.","answer":"lyrics","weight":0.36}
+{"question":"Write exactly what is sung in this recording.","answer":"lyrics","weight":0.69}
+{"question":"Provide the complete lyric transcript for this vocal passage.","answer":"lyrics","weight":0.39}
+{"question":"Return the contents of this recording as a faithful written lyric transcript.","answer":"lyrics","weight":0.16}
+{"question":"Please produce a lyric transcription of this clip that reads like normal written text.","answer":"lyrics","weight":0.59}
+{"question":"From the audio provided, generate the exact lyrics.","answer":"lyrics","weight":0.46}
+{"question":"Listen to this music sample and write out everything sung.","answer":"lyrics","weight":0.84}
+{"question":"What is the full sung content of this audio clip?","answer":"lyrics","weight":0.87}
+{"question":"Transcribe the lyrics in this audio.","answer":"lyrics","weight":0.84}
+{"question":"Transcribe the lyrics in this clip.","answer":"lyrics","weight":0.83}
+{"question":"Transcribe the lyrics in this recording.","answer":"lyrics","weight":0.81}
+{"question":"Write the lyrics.","answer":"lyrics","weight":0.62}
+{"question":"Provide the lyrics.","answer":"lyrics","weight":0.58}
+{"question":"Return the lyrics.","answer":"lyrics","weight":0.36}
+{"question":"Generate the lyric transcript.","answer":"lyrics","weight":0.28}
+{"question":"Write out what is sung.","answer":"lyrics","weight":0.72}
+{"question":"Write down the lyrics in this clip.","answer":"lyrics","weight":0.73}
+{"question":"Produce the lyric transcription.","answer":"lyrics","weight":0.44}
+{"question":"Can you transcribe the lyrics in this audio?","answer":"lyrics","weight":0.97}
+{"question":"Can you write out what is being sung?","answer":"lyrics","weight":0.96}
+{"question":"Could you transcribe the lyrics in this clip?","answer":"lyrics","weight":0.95}
+{"question":"Could you write down the vocal passage?","answer":"lyrics","weight":0.89}
+{"question":"Please transcribe the lyrics in this recording.","answer":"lyrics","weight":0.82}
+{"question":"Please write out the sung content.","answer":"lyrics","weight":0.76}
+{"question":"Would you transcribe this sung audio sample?","answer":"lyrics","weight":0.84}
+{"question":"Would you write the lyrics for this clip?","answer":"lyrics","weight":0.86}
+{"question":"Can you tell me what is being sung here?","answer":"lyrics","weight":0.92}
+{"question":"Could you provide the lyrics from this audio?","answer":"lyrics","weight":0.91}
+{"question":"What is being sung in this recording?","answer":"lyrics","weight":0.93}
+{"question":"What does the vocalist sing in this clip?","answer":"lyrics","weight":0.95}
+{"question":"What are the full lyrics of this audio?","answer":"lyrics","weight":0.93}
+{"question":"What exactly is sung here?","answer":"lyrics","weight":0.84}
+{"question":"What are the sung words in this clip?","answer":"lyrics","weight":0.95}
+{"question":"What is sung in this vocal passage?","answer":"lyrics","weight":0.9}
+{"question":"What is the vocalist singing?","answer":"lyrics","weight":0.94}
+{"question":"What is the sung content of this recording?","answer":"lyrics","weight":0.87}
+{"question":"What do we hear in terms of vocals here?","answer":"lyrics","weight":0.18}
+{"question":"What are the lyrics for this clip?","answer":"lyrics","weight":0.97}
+{"question":"How would you transcribe the lyrics in this audio?","answer":"lyrics","weight":0.55}
+{"question":"How should this vocal passage be written out?","answer":"lyrics","weight":0.46}
+{"question":"How would this recording be written as lyrics?","answer":"lyrics","weight":0.49}
+{"question":"How should the vocals in this clip be transcribed?","answer":"lyrics","weight":0.56}
+{"question":"How would you write the sung content of this audio?","answer":"lyrics","weight":0.44}
+{"question":"How should this recording appear in lyric form?","answer":"lyrics","weight":0.42}
+{"question":"How would you render this vocal passage as lyrics?","answer":"lyrics","weight":0.46}
+{"question":"How should the words in this clip be written down as lyrics?","answer":"lyrics","weight":0.51}
+{"question":"How would these lyrics be transcribed?","answer":"lyrics","weight":0.55}
+{"question":"How would you convert this recording into lyric text?","answer":"lyrics","weight":0.49}
+{"question":"Listen to the audio and transcribe the lyrics.","answer":"lyrics","weight":0.87}
+{"question":"Listen to this clip and write what is sung.","answer":"lyrics","weight":0.83}
+{"question":"Listen carefully and provide the lyrics.","answer":"lyrics","weight":0.77}
+{"question":"Listen to the recording and write out the vocals.","answer":"lyrics","weight":0.85}
+{"question":"Based on this audio, provide the lyrics.","answer":"lyrics","weight":0.67}
+{"question":"Based on the recording, write what is sung.","answer":"lyrics","weight":0.64}
+{"question":"From this clip, generate the lyric transcription.","answer":"lyrics","weight":0.71}
+{"question":"Using the audio, write the sung content as text.","answer":"lyrics","weight":0.54}
+{"question":"From this recording, produce the lyrics.","answer":"lyrics","weight":0.69}
+{"question":"After listening, write out the vocal passage.","answer":"lyrics","weight":0.74}
+{"question":"Transcribe the lyrics in this clip.","answer":"lyrics","weight":0.86}
+{"question":"Write the contents of this recording as lyrics.","answer":"lyrics","weight":0.67}
+{"question":"Convert this sung audio into text.","answer":"lyrics","weight":0.52}
+{"question":"Return a lyric transcription of this vocal passage.","answer":"lyrics","weight":0.46}
+{"question":"Provide the sung content of this audio as text.","answer":"lyrics","weight":0.56}
+{"question":"Render the vocals in this recording as a lyric transcript.","answer":"lyrics","weight":0.26}
+{"question":"Create a written lyric transcript for this clip.","answer":"lyrics","weight":0.53}
+{"question":"Produce the full lyric transcription of this audio.","answer":"lyrics","weight":0.57}
+{"question":"Write the sung passage from this recording.","answer":"lyrics","weight":0.67}
+{"question":"Generate a complete lyric transcript of the vocal passage.","answer":"lyrics","weight":0.4}
+{"question":"Can you write down what is sung here?","answer":"lyrics","weight":0.96}
+{"question":"Can you provide a clean lyric transcript of this audio?","answer":"lyrics","weight":0.94}
+{"question":"Could you write out the lyrics from this clip?","answer":"lyrics","weight":0.94}
+{"question":"Could you return the exact lyrics?","answer":"lyrics","weight":0.85}
+{"question":"Please provide a complete lyric transcription of this recording.","answer":"lyrics","weight":0.76}
+{"question":"Please write the vocals from this clip as text.","answer":"lyrics","weight":0.79}
+{"question":"Would you mind transcribing this vocal passage?","answer":"lyrics","weight":0.83}
+{"question":"Would you please write out the sung words?","answer":"lyrics","weight":0.89}
+{"question":"Can you give me the full lyrics of this clip?","answer":"lyrics","weight":0.92}
+{"question":"Could you transcribe the lyrics in this audio for me?","answer":"lyrics","weight":0.99}
+{"question":"What is the vocalist singing in this audio?","answer":"lyrics","weight":0.94}
+{"question":"What does this recording say when written out as lyrics?","answer":"lyrics","weight":0.93}
+{"question":"What are the exact lyrics of this vocal passage?","answer":"lyrics","weight":0.86}
+{"question":"What words are sung in this clip?","answer":"lyrics","weight":0.85}
+{"question":"What is the sung content of this recording, written out?","answer":"lyrics","weight":0.87}
+{"question":"What would the lyrics of this audio be?","answer":"lyrics","weight":0.86}
+{"question":"What is the full written version of the lyrics in this clip?","answer":"lyrics","weight":0.95}
+{"question":"What does the vocal passage sound like when transcribed?","answer":"lyrics","weight":0.67}
+{"question":"What is being sung here, written as text?","answer":"lyrics","weight":0.94}
+{"question":"What is the complete lyric transcription of this segment?","answer":"lyrics","weight":0.93}
+{"question":"How would you transcribe the lyrics in this clip?","answer":"lyrics","weight":0.56}
+{"question":"How should the sung words in this recording be written?","answer":"lyrics","weight":0.49}
+{"question":"How would this vocal passage appear when transcribed?","answer":"lyrics","weight":0.51}
+{"question":"How would you write this song clip out as text?","answer":"lyrics","weight":0.51}
+{"question":"How should this sung audio be transcribed?","answer":"lyrics","weight":0.55}
+{"question":"How would the vocals in this clip be rendered in writing?","answer":"lyrics","weight":0.51}
+{"question":"How should the lyric transcript look for this recording?","answer":"lyrics","weight":0.28}
+{"question":"How would you convert this sung recording into written lyrics?","answer":"lyrics","weight":0.49}
+{"question":"How should the sung content here be transcribed?","answer":"lyrics","weight":0.49}
+{"question":"How would this recording be written down as lyrics?","answer":"lyrics","weight":0.49}
+{"question":"Please listen to the recording and provide the exact lyrics.","answer":"lyrics","weight":0.75}
+{"question":"After listening to this clip, write the full sung content as text.","answer":"lyrics","weight":0.69}
+{"question":"Transcribe this song segment verbatim.","answer":"lyrics","weight":0.74}
+{"question":"Write exactly what is sung in this recording.","answer":"lyrics","weight":0.67}
+{"question":"Provide the complete lyric transcript for this vocal passage.","answer":"lyrics","weight":0.57}
+{"question":"Return the contents of this recording as a faithful lyric transcript.","answer":"lyrics","weight":0.42}
+{"question":"Please produce a transcription of the lyrics in this clip.","answer":"lyrics","weight":0.81}
+{"question":"From the audio provided, generate the exact lyrics.","answer":"lyrics","weight":0.64}
+{"question":"Listen to this music sample and write out everything sung.","answer":"lyrics","weight":0.82}
+{"question":"What is the full sung content of this audio clip?","answer":"lyrics","weight":0.89}
+{"question":"What are they singing here?","answer":"lyrics","weight":0.94}
+{"question":"Can you jot down what's being sung?","answer":"lyrics","weight":0.95}
+{"question":"Write down what this vocalist is singing real quick.","answer":"lyrics","weight":0.77}
+{"question":"What's being sung in this clip?","answer":"lyrics","weight":0.95}
+{"question":"Can you type out the lyrics you hear?","answer":"lyrics","weight":0.95}
+{"question":"What are they singing here?","answer":"lyrics","weight":0.94}
+{"question":"Mind writing out the lyrics in this audio?","answer":"lyrics","weight":0.92}
+{"question":"Can you put this song audio into lyrics?","answer":"lyrics","weight":0.95}
+{"question":"Write out whatever's being sung here.","answer":"lyrics","weight":0.72}
+{"question":"What's the vocalist singing in this one?","answer":"lyrics","weight":0.94}
+{"question":"Can you tell me what lyrics this clip has?","answer":"lyrics","weight":0.93}
+{"question":"Just transcribe the lyrics for me.","answer":"lyrics","weight":0.99}
+{"question":"Can you write down the words sung in this recording?","answer":"lyrics","weight":0.95}
+{"question":"What's sung in this recording?","answer":"lyrics","weight":0.93}
+{"question":"Type up the lyrics from this clip.","answer":"lyrics","weight":0.83}
+{"question":"Please provide a lyric transcription of this audio recording.","answer":"lyrics","weight":0.79}
+{"question":"Could you please transcribe the lyrics contained in this clip?","answer":"lyrics","weight":0.89}
+{"question":"Would you kindly provide the lyrics for this recording?","answer":"lyrics","weight":0.81}
+{"question":"Please write out the sung content of this audio sample.","answer":"lyrics","weight":0.72}
+{"question":"Could you provide the full lyric transcript of this vocal passage?","answer":"lyrics","weight":0.84}
+{"question":"Would you please transcribe this recording's lyrics verbatim?","answer":"lyrics","weight":0.82}
+{"question":"Please produce a complete transcription of the lyrics in this clip.","answer":"lyrics","weight":0.78}
+{"question":"I would appreciate it if you could transcribe the lyrics in this audio segment.","answer":"lyrics","weight":0.81}
+{"question":"Kindly provide the sung content of this recording in text form.","answer":"lyrics","weight":0.65}
+{"question":"Please render the vocals in this clip as a written lyric transcript.","answer":"lyrics","weight":0.81}
+{"question":"Could you please write out exactly what is sung in this recording?","answer":"lyrics","weight":0.86}
+{"question":"Would you be so kind as to provide the lyrics of this audio?","answer":"lyrics","weight":0.8}
+{"question":"Please convert the sung content of this clip into text.","answer":"lyrics","weight":0.73}
+{"question":"Could you furnish a faithful lyric transcription of this vocal passage?","answer":"lyrics","weight":0.8}
+{"question":"Please provide the exact lyrics contained in this recording.","answer":"lyrics","weight":0.67}
+{"question":"Listen to the audio and transcribe the lyrics in this clip.","answer":"lyrics","weight":0.88}
+{"question":"Please listen to the recording and write the lyrics.","answer":"lyrics","weight":0.81}
+{"question":"Listen to this audio and provide the lyrics.","answer":"lyrics","weight":0.84}
+{"question":"After listening to the clip, return the lyrics.","answer":"lyrics","weight":0.77}
+{"question":"Listen to the audio and generate the lyric transcript.","answer":"lyrics","weight":0.84}
+{"question":"Please listen to this recording and write out what is sung.","answer":"lyrics","weight":0.83}
+{"question":"Listen to the vocals in this clip and write down the words.","answer":"lyrics","weight":0.87}
+{"question":"After listening to the audio, produce the lyric transcription.","answer":"lyrics","weight":0.76}
+{"question":"Can you listen to this audio and transcribe the lyrics?","answer":"lyrics","weight":0.97}
+{"question":"Could you listen to this clip and write down the vocals?","answer":"lyrics","weight":0.9}
+{"question":"Please listen to this recording and transcribe the lyrics for me.","answer":"lyrics","weight":0.89}
+{"question":"Would you listen to this audio sample and write the lyrics?","answer":"lyrics","weight":0.81}
+{"question":"Can you listen to the audio and tell me what is being sung here?","answer":"lyrics","weight":0.92}
+{"question":"Could you listen to this recording and provide the lyrics?","answer":"lyrics","weight":0.9}
+{"question":"What is being sung in this recording? Please listen and transcribe it.","answer":"lyrics","weight":0.95}
+{"question":"What does the vocalist sing in this clip? Listen to the audio and write it out.","answer":"lyrics","weight":0.93}
+{"question":"What are the full lyrics of this audio? Please listen carefully.","answer":"lyrics","weight":0.86}
+{"question":"What exactly is sung here? Listen to the clip and return the lyrics.","answer":"lyrics","weight":0.85}
+{"question":"How would you transcribe the lyrics in this audio after listening to it?","answer":"lyrics","weight":0.55}
+{"question":"How should this vocal passage be written out after listening to the recording?","answer":"lyrics","weight":0.45}
+{"question":"Listen to the recording and write out the vocals as text.","answer":"lyrics","weight":0.85}
+{"question":"Based on this audio, listen carefully and provide the lyrics.","answer":"lyrics","weight":0.6}
+{"question":"From this clip, listen and generate the lyric transcription.","answer":"lyrics","weight":0.68}
+{"question":"Using the audio, listen and write the sung content as text.","answer":"lyrics","weight":0.51}
+{"question":"After listening, provide the sung content of this audio as text.","answer":"lyrics","weight":0.68}
+{"question":"Please listen to the recording and provide a complete lyric transcription.","answer":"lyrics","weight":0.78}
+{"question":"Would you mind listening to this vocal passage and transcribing it?","answer":"lyrics","weight":0.83}
+{"question":"Could you please listen to the clip and write out the sung words?","answer":"lyrics","weight":0.96}
+{"question":"Just listen to this and transcribe the lyrics for me.","answer":"lyrics","weight":0.99}
+{"question":"Please listen to this audio recording and provide the exact lyrics.","answer":"lyrics","weight":0.75}
+{"question":"I am preparing notes from this song recording. Can you transcribe the lyrics into clean written text?","answer":"lyrics","weight":0.95}
+{"question":"I am documenting a recorded vocal sample and need the sung content written out clearly. Can you transcribe this clip?","answer":"lyrics","weight":0.92}
+{"question":"I am working on a report and need a readable lyric transcript of this recording. Can you write it out?","answer":"lyrics","weight":0.9}
+{"question":"I am reviewing a song memo for my records. Please transcribe what is sung in this audio.","answer":"lyrics","weight":0.88}
+{"question":"I am organizing music records and need this recording turned into written lyrics. Can you transcribe it?","answer":"lyrics","weight":0.86}
+{"question":"I am preparing documentation and need the exact sung content from this clip in written form.","answer":"lyrics","weight":0.82}
+{"question":"I am compiling notes from recorded vocals. Please write out what is sung in this audio.","answer":"lyrics","weight":0.89}
+{"question":"I am turning sung material into written documentation. Can you transcribe this recording?","answer":"lyrics","weight":0.78}
+{"question":"I am processing recorded vocals and need them in normal written form. What is sung here?","answer":"lyrics","weight":0.74}
+{"question":"I am creating a written record of this recording. Please transcribe the lyrics.","answer":"lyrics","weight":0.9}
+{"question":"I am working on a lyric transcript for archival purposes. Can you write out the vocals in this clip?","answer":"lyrics","weight":0.68}
+{"question":"I am preparing written materials from music recordings. Please convert these vocals into text.","answer":"lyrics","weight":0.73}
+{"question":"I am reviewing a recorded vocal passage and first need the full lyrics. Can you provide them?","answer":"lyrics","weight":0.94}
+{"question":"I am editing content from a recorded vocal sample. Please write down exactly what is sung here.","answer":"lyrics","weight":0.84}
+{"question":"I am converting recorded vocals into a written draft. Can you transcribe this passage?","answer":"lyrics","weight":0.8}
+{"question":"I am working on a case where I need the sung words from this clip written out accurately.","answer":"lyrics","weight":0.65}
+{"question":"I am producing a text version of this recording for review. What does the vocalist sing?","answer":"lyrics","weight":0.72}
+{"question":"I am preparing materials based on this audio and need the sung content transcribed.","answer":"lyrics","weight":0.76}
+{"question":"I am making a clean written record from this vocal recording. Can you provide the lyrics?","answer":"lyrics","weight":0.87}
+{"question":"I am handling audio-to-lyrics documentation. Please transcribe the vocals in this recording.","answer":"lyrics","weight":0.58}
+{"question":"You are helping me turn recorded vocals into written lyrics. Please transcribe this clip.","answer":"lyrics","weight":0.7}
+{"question":"You are assisting with documentation, and I need this audio rendered as written lyrics.","answer":"lyrics","weight":0.48}
+{"question":"You are tasked with preparing a readable lyric transcript from this recording. What is being sung?","answer":"lyrics","weight":0.44}
+{"question":"You are helping convert a sung vocal passage into a final written version. Can you transcribe this?","answer":"lyrics","weight":0.5}
+{"question":"You are assisting with recordkeeping. Please write out the lyric contents of this audio clip.","answer":"lyrics","weight":0.42}
+{"question":"You are supporting a workflow that requires lyrics transcription. Please transcribe this recording.","answer":"lyrics","weight":0.3}
+{"question":"For my documentation workflow, I need this sung clip written out as lyrics. Can you do that?","answer":"lyrics","weight":0.55}
+{"question":"As part of preparing written records, please transcribe the lyrics in this audio.","answer":"lyrics","weight":0.67}
+{"question":"For a lyrics transcription workflow I am running, I need the exact sung words from this clip in written form.","answer":"lyrics","weight":0.46}
+{"question":"In the workflow I am working on, this recording needs to be turned into clear written lyrics. What does it say?","answer":"lyrics","weight":0.52}
+{"question":"I need your help transcribing this audio into written lyrics.","answer":"lyrics","weight":0.93}
+{"question":"Can you help me write out what is being sung in this recording?","answer":"lyrics","weight":0.95}
+{"question":"I need help getting the lyrics for this clip.","answer":"lyrics","weight":0.9}
+{"question":"Could you help me turn these vocals into text?","answer":"lyrics","weight":0.89}
+{"question":"I need your help with this recording. What is the vocalist singing?","answer":"lyrics","weight":0.92}
+{"question":"Can you help me transcribe the sung content of this audio?","answer":"lyrics","weight":0.91}
+{"question":"I need help writing down exactly what is sung in this clip.","answer":"lyrics","weight":0.88}
+{"question":"Would you help me transcribe this vocal passage?","answer":"lyrics","weight":0.78}
+{"question":"I need your help producing a clean lyric transcript of this recording.","answer":"lyrics","weight":0.86}
+{"question":"Could you help me figure out what is being sung here and write it out?","answer":"lyrics","weight":0.9}
+{"question":"Please help me convert this audio into written lyrics.","answer":"lyrics","weight":0.89}
+{"question":"I need help with the lyrics for this music sample.","answer":"lyrics","weight":0.84}
+{"question":"Can you help me capture the sung words from this recording in text form?","answer":"lyrics","weight":0.83}
+{"question":"I need your help writing out this audio clip as a lyric transcript.","answer":"lyrics","weight":0.85}
+{"question":"Could you help me transcribe this recording accurately?","answer":"lyrics","weight":0.9}
+{"question":"Please help me by writing down the lyrics in this clip.","answer":"lyrics","weight":0.82}
+{"question":"I need help obtaining the full written version of what is sung here.","answer":"lyrics","weight":0.76}
+{"question":"Can you help me with lyrics transcription for this vocal passage?","answer":"lyrics","weight":0.68}
+{"question":"I need your help turning this sung recording into readable text.","answer":"lyrics","weight":0.84}
+{"question":"Would you help me write out what the vocalist sings in this audio?","answer":"lyrics","weight":0.79}
+{"question":"Please help me transcribe this clip for my notes.","answer":"lyrics","weight":0.94}
+{"question":"I could use your help transcribing the words sung in this recording.","answer":"lyrics","weight":0.87}
+{"question":"Can you help me generate the lyrics of this audio segment?","answer":"lyrics","weight":0.8}
+{"question":"I need help writing down the contents of this recording.","answer":"lyrics","weight":0.86}
+{"question":"Could you help me produce the exact lyrics of this vocal passage?","answer":"lyrics","weight":0.82}
+{"question":"Please help me understand what is sung here by transcribing the audio.","answer":"lyrics","weight":0.88}
+{"question":"I need your help with lyrics transcription for this clip. Can you transcribe it?","answer":"lyrics","weight":0.56}
+{"question":"Can you help me create a written lyric transcript from this audio recording?","answer":"lyrics","weight":0.85}
+{"question":"I need help turning this vocal passage into a written lyric transcript.","answer":"lyrics","weight":0.81}
+{"question":"Would you please help me write out everything sung in this clip?","answer":"lyrics","weight":0.83}
