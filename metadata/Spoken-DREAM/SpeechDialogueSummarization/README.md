@@ -1,7 +1,7 @@
 # Spoken-DREAM (Speech Summarization)
 
 ## Overview
-**Spoken-DREAM** is a spoken dialogue comprehension benchmark derived from **DREAM**, a dialogue-based multiple-choice reading comprehension dataset constructed from English-as-a-foreign-language (EFL) exam materials. In this work, the original text dialogues are converted into speech by synthesizing each dialogue with the **VibeVoice** TTS model. This manifest (`SpeechSummarization`) pairs each synthesized dialogue audio with an **abstractive summary** and a short **topic label**, enabling spoken dialogue summarization experiments. Audio is synthesized at **24 kHz** and stored in **WAV format**.
+**Spoken-DREAM** is a spoken dialogue comprehension benchmark derived from **DREAM**, a dialogue-based multiple-choice reading comprehension dataset constructed from English-as-a-foreign-language (EFL) exam materials. In this work, the original text dialogues are converted into speech by synthesizing each dialogue with the **VibeVoice** TTS model. This manifest (`SpeechSummarization`) pairs each synthesized dialogue audio with an **abstractive summary** and a short **topic label** sourced from the **DialogSum** dataset (Chen et al., ACL-Findings 2021), enabling spoken dialogue summarization experiments. Audio is synthesized at **24 kHz** and stored in **WAV format**.
 
 ## Supported Tasks
 1. **Spoken Dialogue Summarization** — Generate a concise abstractive summary of the content of a synthesized multi-turn dialogue
@@ -73,4 +73,5 @@ The `summary` field contains abstractive, multi-sentence descriptions of the dia
 - All speech is **synthesized** using the **VibeVoice** TTS model. Speaker gender for each dialogue turn is encoded in the filename suffix (e.g., `_FM` = female–male, `_MF` = male–female, `_MM` = male–male, `_UM` = unknown–male).
 - The original DREAM dataset covers a wide range of everyday conversational topics drawn from EFL exam materials. Topics represented include (but are not limited to): job interviews, road tests, fishing, dental treatment, travel plans, neighborhood disputes, and family interactions.
 - Summaries use generic speaker labels (`Speaker1`, `Speaker2`) rather than character names unless the name is explicitly stated in the dialogue.
+- The `summary` and `topic` fields are sourced from the **DialogSum** dataset (Chen et al., "DialogSum: A Real-Life Scenario Dialogue Summarization Dataset", ACL-Findings 2021), which provides abstractive summaries and topic labels for spoken dialogue transcripts.
 - The companion manifest at `../ReasoningQA/` pairs the same synthesized dialogue audio with multiple-choice comprehension questions and answers.
