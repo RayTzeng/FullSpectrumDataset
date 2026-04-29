@@ -1,0 +1,346 @@
+{"template_id": "jamendomaxcaps_music_caption_direct_001", "question": "After hearing this music clip, write a natural-language caption describing the track.", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_direct_002", "question": "Describe this music clip in a natural-language caption.", "answer": "caption", "weight": 0.95}
+{"template_id": "jamendomaxcaps_music_caption_direct_003", "question": "Provide a music caption for this audio segment.", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_direct_004", "question": "Write a caption that describes the genre, mood, and sound of this music.", "answer": "caption", "weight": 0.91}
+{"template_id": "jamendomaxcaps_music_caption_direct_005", "question": "Generate a descriptive caption for this instrumental music clip.", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_direct_006", "question": "From the audio, write a caption describing the musical style and atmosphere.", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_direct_007", "question": "Create a caption for this track that captures its overall musical character.", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_direct_008", "question": "Give a natural-language description of this music recording.", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_direct_009", "question": "Write a music description for this clip based on what is heard.", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_direct_010", "question": "Summarize this music clip with a caption.", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_direct_011", "question": "Describe the musical content of this audio in caption form.", "answer": "caption", "weight": 0.82}
+{"template_id": "jamendomaxcaps_music_caption_direct_012", "question": "Provide a caption describing the track's sound, mood, and possible setting.", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_direct_013", "question": "Generate a caption that explains what kind of music this is.", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_direct_014", "question": "Describe this piece of music using a concise but informative caption.", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_direct_015", "question": "Write a caption for this music segment, including relevant musical details.", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_direct_016", "question": "After reviewing the audio, provide a caption describing this track.", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_wh_001", "question": "What kind of music is this?", "answer": "caption", "weight": 0.99}
+{"template_id": "jamendomaxcaps_music_caption_wh_002", "question": "How would you describe this music clip?", "answer": "caption", "weight": 0.98}
+{"template_id": "jamendomaxcaps_music_caption_wh_003", "question": "What does this track sound like?", "answer": "caption", "weight": 0.96}
+{"template_id": "jamendomaxcaps_music_caption_wh_004", "question": "How would you caption this piece of music?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_wh_005", "question": "What is a good caption for this music clip?", "answer": "caption", "weight": 0.91}
+{"template_id": "jamendomaxcaps_music_caption_wh_006", "question": "How would you describe the genre and mood of this track?", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_wh_007", "question": "What musical style and atmosphere does this audio have?", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_wh_008", "question": "What would you write as a caption for this instrumental track?", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_wh_009", "question": "How should this music be described in a caption?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_wh_010", "question": "What sort of musical description fits this clip?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_wh_011", "question": "How would you summarize the sound and feel of this track?", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_wh_012", "question": "What does this music suggest in terms of style, mood, and use?", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_wh_013", "question": "What is the overall character of this music clip?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_wh_014", "question": "How would you explain this track to someone who has not heard it?", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_wh_015", "question": "What caption would best describe the music in this audio?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_wh_016", "question": "How would you characterize the music heard in this recording?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_can_001", "question": "Can you describe this music clip in a caption?", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_can_002", "question": "Can you write a natural-language caption for this track?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_can_003", "question": "Can you tell me what kind of music this is?", "answer": "caption", "weight": 0.97}
+{"template_id": "jamendomaxcaps_music_caption_can_004", "question": "Can you give me a caption describing the sound of this music?", "answer": "caption", "weight": 0.93}
+{"template_id": "jamendomaxcaps_music_caption_can_005", "question": "Can you summarize this track's genre, mood, and instrumentation?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_can_006", "question": "Can you provide a descriptive caption for this audio clip?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_can_007", "question": "Can you caption this music based on its overall feel?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_can_008", "question": "Can you describe the mood and musical style of this track?", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_can_009", "question": "Can you turn this music clip into a written caption?", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_can_010", "question": "Can you write a caption that captures the musical atmosphere here?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_can_011", "question": "Could you describe this instrumental music in one caption?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_can_012", "question": "Could you provide a caption explaining the style and mood of this music?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_instr_001", "question": "Return only a music caption for this audio clip.", "answer": "caption", "weight": 0.72}
+{"template_id": "jamendomaxcaps_music_caption_instr_002", "question": "Write the music caption only. Do not add any extra explanation.", "answer": "caption", "weight": 0.71}
+{"template_id": "jamendomaxcaps_music_caption_instr_003", "question": "Based on the audio, output just the caption describing the music.", "answer": "caption", "weight": 0.73}
+{"template_id": "jamendomaxcaps_music_caption_instr_004", "question": "Provide only the caption that describes this track.", "answer": "caption", "weight": 0.74}
+{"template_id": "jamendomaxcaps_music_caption_instr_005", "question": "Generate a caption for this music clip and return nothing else.", "answer": "caption", "weight": 0.73}
+{"template_id": "jamendomaxcaps_music_caption_instr_006", "question": "Describe this track in one caption, without commentary.", "answer": "caption", "weight": 0.75}
+{"template_id": "jamendomaxcaps_music_caption_instr_007", "question": "Write a single natural-language caption describing the music in the audio.", "answer": "caption", "weight": 0.82}
+{"template_id": "jamendomaxcaps_music_caption_instr_008", "question": "Use this audio clip to produce a caption about the music. Output only the caption text.", "answer": "caption", "weight": 0.71}
+{"template_id": "jamendomaxcaps_music_caption_instr_009", "question": "Respond with a caption describing the music's genre, mood, instrumentation, and use case when relevant.", "answer": "caption", "weight": 0.78}
+{"template_id": "jamendomaxcaps_music_caption_instr_010", "question": "Write a descriptive music caption, but do not include analysis outside the caption.", "answer": "caption", "weight": 0.75}
+{"template_id": "jamendomaxcaps_music_caption_instr_011", "question": "After checking the audio, provide the final music caption only.", "answer": "caption", "weight": 0.7}
+{"template_id": "jamendomaxcaps_music_caption_instr_012", "question": "Generate only the natural-language description of the music.", "answer": "caption", "weight": 0.72}
+{"template_id": "jamendomaxcaps_music_caption_instr_013", "question": "Describe the track as a caption, keeping the response focused on the music.", "answer": "caption", "weight": 0.78}
+{"template_id": "jamendomaxcaps_music_caption_instr_014", "question": "Write the caption for this music segment in plain natural language.", "answer": "caption", "weight": 0.82}
+{"template_id": "jamendomaxcaps_music_caption_instr_015", "question": "Output a caption that summarizes the music clip, with no additional notes.", "answer": "caption", "weight": 0.74}
+{"template_id": "jamendomaxcaps_music_caption_casual_001", "question": "What's this music like?", "answer": "caption", "weight": 0.98}
+{"template_id": "jamendomaxcaps_music_caption_casual_002", "question": "How would you describe this track?", "answer": "caption", "weight": 0.97}
+{"template_id": "jamendomaxcaps_music_caption_casual_003", "question": "Give me a quick caption for this music.", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_casual_004", "question": "What kind of vibe does this music have?", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_casual_005", "question": "Can you put this track into words?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_casual_006", "question": "Tell me what this music sounds like.", "answer": "caption", "weight": 0.95}
+{"template_id": "jamendomaxcaps_music_caption_casual_007", "question": "What would you say about this song clip?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_casual_008", "question": "Give me a description of this music.", "answer": "caption", "weight": 0.93}
+{"template_id": "jamendomaxcaps_music_caption_casual_009", "question": "How does this track feel?", "answer": "caption", "weight": 0.93}
+{"template_id": "jamendomaxcaps_music_caption_casual_010", "question": "What sort of track am I hearing here?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_casual_011", "question": "Describe the music in this clip for me.", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_casual_012", "question": "What is the mood and style of this music?", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_formal_001", "question": "Please provide a natural-language caption describing this music clip.", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_formal_002", "question": "Could you please generate a descriptive caption for this track?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_formal_003", "question": "Please describe the musical characteristics of this audio segment in caption form.", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_formal_004", "question": "Would you provide a caption summarizing the genre, mood, instrumentation, and overall feel of this music?", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_formal_005", "question": "Please write a polished caption describing this piece of music.", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_formal_006", "question": "Could you characterize this music clip with a detailed natural-language caption?", "answer": "caption", "weight": 0.82}
+{"template_id": "jamendomaxcaps_music_caption_formal_007", "question": "Please summarize the musical style and atmosphere of this recording.", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_formal_008", "question": "Kindly provide a caption that describes the music heard in this audio.", "answer": "caption", "weight": 0.78}
+{"template_id": "jamendomaxcaps_music_caption_formal_009", "question": "Please generate a music caption that captures the track's sound and intended mood.", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_formal_010", "question": "Could you produce a descriptive caption suitable for this music recording?", "answer": "caption", "weight": 0.83}
+{"template_id": "jamendomaxcaps_music_caption_help_001", "question": "Can you help me describe this music clip?", "answer": "caption", "weight": 0.95}
+{"template_id": "jamendomaxcaps_music_caption_help_002", "question": "I need help writing a caption for this track.", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_help_003", "question": "Could you help me come up with a music caption for this audio?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_help_004", "question": "Help me describe the genre and mood of this music in a caption.", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_help_005", "question": "I am not sure how to describe this track. Can you help?", "answer": "caption", "weight": 0.91}
+{"template_id": "jamendomaxcaps_music_caption_help_006", "question": "Please help me write a natural-language description for this music.", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_help_007", "question": "Can you help me put the sound of this track into words?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_help_008", "question": "Could you help me summarize this music clip as a caption?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_help_009", "question": "I need a caption that captures this music's style and atmosphere.", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_help_010", "question": "Please help me describe what this music sounds like.", "answer": "caption", "weight": 0.91}
+{"template_id": "jamendomaxcaps_music_caption_help_011", "question": "Can you help me write a caption for this instrumental track?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_help_012", "question": "I need help creating a useful text description for this music clip.", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_workflow_001", "question": "I am annotating music clips for a dataset. Please write a caption for this audio segment.", "answer": "caption", "weight": 0.52}
+{"template_id": "jamendomaxcaps_music_caption_workflow_002", "question": "For a music captioning task, provide the caption that describes this track.", "answer": "caption", "weight": 0.56}
+{"template_id": "jamendomaxcaps_music_caption_workflow_003", "question": "I am preparing metadata for a music dataset. Generate the caption for this recording.", "answer": "caption", "weight": 0.5}
+{"template_id": "jamendomaxcaps_music_caption_workflow_004", "question": "You are tasked with writing a natural-language caption for this music clip.", "answer": "caption", "weight": 0.55}
+{"template_id": "jamendomaxcaps_music_caption_workflow_005", "question": "As part of music-caption annotation, describe this audio segment in caption form.", "answer": "caption", "weight": 0.5}
+{"template_id": "jamendomaxcaps_music_caption_workflow_006", "question": "I am building a music-language dataset and need a caption for this track.", "answer": "caption", "weight": 0.54}
+{"template_id": "jamendomaxcaps_music_caption_workflow_007", "question": "Fill in the caption field for this music dataset entry.", "answer": "caption", "weight": 0.41}
+{"template_id": "jamendomaxcaps_music_caption_workflow_008", "question": "Create the music-caption annotation for this audio sample.", "answer": "caption", "weight": 0.43}
+{"template_id": "jamendomaxcaps_music_caption_workflow_009", "question": "I am curating descriptions for instrumental music clips. Please caption this one.", "answer": "caption", "weight": 0.5}
+{"template_id": "jamendomaxcaps_music_caption_workflow_010", "question": "For this dataset item, write the natural-language description of the music.", "answer": "caption", "weight": 0.48}
+{"template_id": "jamendomaxcaps_music_caption_workflow_011", "question": "You are generating music metadata. Provide a descriptive caption for this audio.", "answer": "caption", "weight": 0.44}
+{"template_id": "jamendomaxcaps_music_caption_workflow_012", "question": "I am labeling a music corpus with captions. Please generate the caption for this clip.", "answer": "caption", "weight": 0.49}
+{"template_id": "jamendomaxcaps_music_caption_hint_001", "question": "Describe this music in terms of genre, mood, instrumentation, tempo, and possible use case.", "answer": "caption", "weight": 0.82}
+{"template_id": "jamendomaxcaps_music_caption_hint_002", "question": "Write a caption covering the track's style, instruments, mood, rhythm, and likely setting.", "answer": "caption", "weight": 0.78}
+{"template_id": "jamendomaxcaps_music_caption_hint_003", "question": "Provide a caption that mentions the music's genre, atmosphere, and musical features when relevant.", "answer": "caption", "weight": 0.77}
+{"template_id": "jamendomaxcaps_music_caption_hint_004", "question": "Describe the track's musical style, emotional tone, and potential use in media.", "answer": "caption", "weight": 0.78}
+{"template_id": "jamendomaxcaps_music_caption_hint_005", "question": "Write a music caption that includes details such as instruments, mood, tempo, and genre if they are apparent.", "answer": "caption", "weight": 0.74}
+{"template_id": "jamendomaxcaps_music_caption_hint_006", "question": "Summarize this clip by describing its sound, mood, arrangement, and possible context.", "answer": "caption", "weight": 0.81}
+{"template_id": "jamendomaxcaps_music_caption_hint_007", "question": "Caption the music with attention to its style, energy, atmosphere, and likely use case.", "answer": "caption", "weight": 0.74}
+{"template_id": "jamendomaxcaps_music_caption_hint_008", "question": "Describe the musical qualities of this track, including genre and mood where appropriate.", "answer": "caption", "weight": 0.79}
+{"template_id": "jamendomaxcaps_music_caption_direct_017", "question": "After hearing this music clip, write a natural-language caption describing its genre, mood, instrumentation, tempo, and possible use case when relevant.", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_direct_018", "question": "Describe this music clip.", "answer": "caption", "weight": 0.98}
+{"template_id": "jamendomaxcaps_music_caption_direct_019", "question": "Write a caption for this track that captures its musical style, atmosphere, and notable sonic features.", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_direct_020", "question": "Caption this music.", "answer": "caption", "weight": 0.82}
+{"template_id": "jamendomaxcaps_music_caption_direct_021", "question": "Provide a natural-language music caption describing the track's sound, mood, genre, and likely listening context.", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_direct_022", "question": "Summarize the music in this clip.", "answer": "caption", "weight": 0.93}
+{"template_id": "jamendomaxcaps_music_caption_direct_023", "question": "Generate a descriptive caption for this audio that explains what kind of music it is and how it feels.", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_direct_024", "question": "Describe the track.", "answer": "caption", "weight": 0.98}
+{"template_id": "jamendomaxcaps_music_caption_direct_025", "question": "Write a music caption that covers the clip's style, instrumentation, mood, rhythmic feel, and possible media use.", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_direct_026", "question": "Give a music caption.", "answer": "caption", "weight": 0.78}
+{"template_id": "jamendomaxcaps_music_caption_direct_027", "question": "Based on this audio, produce a caption describing the musical genre, emotional tone, arrangement, and overall character.", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_direct_028", "question": "Write a short description of this music.", "answer": "caption", "weight": 0.96}
+{"template_id": "jamendomaxcaps_music_caption_wh_017", "question": "How would you describe this music clip in terms of genre, mood, instrumentation, tempo, and possible use case?", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_wh_018", "question": "What kind of music is this?", "answer": "caption", "weight": 0.99}
+{"template_id": "jamendomaxcaps_music_caption_wh_019", "question": "What caption would describe this track's musical style, atmosphere, and notable features?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_wh_020", "question": "How does this track sound?", "answer": "caption", "weight": 0.96}
+{"template_id": "jamendomaxcaps_music_caption_wh_021", "question": "What natural-language description best captures the genre, mood, instruments, and overall feel of this music?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_wh_022", "question": "What is this music like?", "answer": "caption", "weight": 0.97}
+{"template_id": "jamendomaxcaps_music_caption_wh_023", "question": "How would you explain this music to someone who wants to know its sound, mood, and possible use?", "answer": "caption", "weight": 0.91}
+{"template_id": "jamendomaxcaps_music_caption_wh_024", "question": "What caption fits this clip?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_wh_025", "question": "What musical qualities, mood, and setting would you mention in a caption for this track?", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_wh_026", "question": "How would you caption it?", "answer": "caption", "weight": 0.8}
+{"template_id": "jamendomaxcaps_music_caption_wh_027", "question": "What is the overall musical character of this audio segment?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_wh_028", "question": "What does the music sound like?", "answer": "caption", "weight": 0.97}
+{"template_id": "jamendomaxcaps_music_caption_can_013", "question": "Can you write a natural-language caption describing this music clip's genre, mood, instrumentation, tempo, and likely use case?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_can_014", "question": "Can you describe this music?", "answer": "caption", "weight": 0.96}
+{"template_id": "jamendomaxcaps_music_caption_can_015", "question": "Can you provide a caption that captures the track's musical style, atmosphere, and notable sonic details?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_can_016", "question": "Can you caption this track?", "answer": "caption", "weight": 0.83}
+{"template_id": "jamendomaxcaps_music_caption_can_017", "question": "Could you describe the genre, instruments, mood, energy, and possible context of this music in a caption?", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_can_018", "question": "Can you tell me what this sounds like?", "answer": "caption", "weight": 0.96}
+{"template_id": "jamendomaxcaps_music_caption_can_019", "question": "Can you turn this audio into a concise but informative music caption?", "answer": "caption", "weight": 0.83}
+{"template_id": "jamendomaxcaps_music_caption_can_020", "question": "Can you give me a caption for it?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_can_021", "question": "Could you summarize this music clip by describing its sound, mood, arrangement, and likely use?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_can_022", "question": "Can you put this music into words?", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_can_023", "question": "Can you generate a caption that explains the musical character and atmosphere of this recording?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_can_024", "question": "Can you describe the track?", "answer": "caption", "weight": 0.96}
+{"template_id": "jamendomaxcaps_music_caption_workflow_013", "question": "I am annotating music clips for a captioning dataset. Please write a natural-language caption covering this track's genre, mood, instrumentation, tempo, and possible use case.", "answer": "caption", "weight": 0.51}
+{"template_id": "jamendomaxcaps_music_caption_workflow_014", "question": "For this dataset item, write the music caption.", "answer": "caption", "weight": 0.45}
+{"template_id": "jamendomaxcaps_music_caption_workflow_015", "question": "For a music-language training example, generate the caption that describes this audio segment's style, mood, and musical content.", "answer": "caption", "weight": 0.49}
+{"template_id": "jamendomaxcaps_music_caption_workflow_016", "question": "Fill in the caption for this track.", "answer": "caption", "weight": 0.42}
+{"template_id": "jamendomaxcaps_music_caption_workflow_017", "question": "I am creating music-caption metadata and need a description of this clip's genre, instrumentation, mood, and likely context.", "answer": "caption", "weight": 0.5}
+{"template_id": "jamendomaxcaps_music_caption_workflow_018", "question": "Add a music caption for this audio.", "answer": "caption", "weight": 0.44}
+{"template_id": "jamendomaxcaps_music_caption_workflow_019", "question": "You are preparing a music captioning record. Write the natural-language description for this clip.", "answer": "caption", "weight": 0.46}
+{"template_id": "jamendomaxcaps_music_caption_workflow_020", "question": "Create the caption annotation.", "answer": "caption", "weight": 0.36}
+{"template_id": "jamendomaxcaps_music_caption_workflow_021", "question": "As part of dataset curation, provide a caption that summarizes this track's musical style, mood, and use-case fit.", "answer": "caption", "weight": 0.48}
+{"template_id": "jamendomaxcaps_music_caption_workflow_022", "question": "Write the dataset caption for this music clip.", "answer": "caption", "weight": 0.42}
+{"template_id": "jamendomaxcaps_music_caption_workflow_023", "question": "For music retrieval metadata, generate a descriptive text caption for this audio sample.", "answer": "caption", "weight": 0.45}
+{"template_id": "jamendomaxcaps_music_caption_workflow_024", "question": "Please caption this dataset example.", "answer": "caption", "weight": 0.37}
+{"template_id": "jamendomaxcaps_music_caption_help_013", "question": "Can you help me write a natural-language caption describing this music clip's genre, mood, instrumentation, tempo, and possible use case?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_help_014", "question": "Help me describe this music.", "answer": "caption", "weight": 0.93}
+{"template_id": "jamendomaxcaps_music_caption_help_015", "question": "I need help creating a caption that captures this track's musical style, atmosphere, and notable sound features.", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_help_016", "question": "Help me caption this track.", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_help_017", "question": "Could you help me summarize the genre, instruments, mood, energy, and likely setting of this music?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_help_018", "question": "I need a quick description of this music.", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_help_019", "question": "Please help me turn this audio into a useful music caption.", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_help_020", "question": "Help me put this track into words.", "answer": "caption", "weight": 0.91}
+{"template_id": "jamendomaxcaps_music_caption_help_021", "question": "I am trying to describe this music accurately; help me write a caption covering its sound and mood.", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_help_022", "question": "Can you help with a caption for this clip?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_help_023", "question": "Could you help me write a description that reflects this track's musical character and atmosphere?", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_help_024", "question": "I need a music caption for this.", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_direct_001", "question": "After hearing this music clip, write a natural-language caption describing the track.", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_direct_002", "question": "Listen to the music clip and describe it in a natural-language caption.", "answer": "caption", "weight": 0.91}
+{"template_id": "jamendomaxcaps_music_caption_direct_003", "question": "Based on this audio segment, provide a music caption.", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_direct_004", "question": "Hear the music and write a caption that describes its genre, mood, and sound.", "answer": "caption", "weight": 0.83}
+{"template_id": "jamendomaxcaps_music_caption_direct_005", "question": "Review this instrumental music clip and generate a descriptive caption.", "answer": "caption", "weight": 0.81}
+{"template_id": "jamendomaxcaps_music_caption_direct_006", "question": "From the audio, write a caption describing the musical style and atmosphere.", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_direct_007", "question": "Use this track to create a caption that captures its overall musical character.", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_direct_008", "question": "Listen to this music recording and give a natural-language description.", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_direct_009", "question": "Write a music description for this clip based on what is heard.", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_direct_010", "question": "After hearing this music clip, summarize it with a caption.", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_direct_011", "question": "Describe the musical content of this audio in caption form.", "answer": "caption", "weight": 0.82}
+{"template_id": "jamendomaxcaps_music_caption_direct_012", "question": "Check the track and provide a caption describing its sound, mood, and possible setting.", "answer": "caption", "weight": 0.82}
+{"template_id": "jamendomaxcaps_music_caption_direct_013", "question": "Based on the music you hear, generate a caption that explains what kind of music this is.", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_direct_014", "question": "Listen to this piece of music and describe it using a concise but informative caption.", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_direct_015", "question": "Use this music segment to write a caption including relevant musical details.", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_direct_016", "question": "After reviewing the audio, provide a caption describing this track.", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_wh_001", "question": "After hearing this clip, what kind of music is this?", "answer": "caption", "weight": 0.96}
+{"template_id": "jamendomaxcaps_music_caption_wh_002", "question": "Listen to this music clip. How would you describe it?", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_wh_003", "question": "What does this track sound like?", "answer": "caption", "weight": 0.96}
+{"template_id": "jamendomaxcaps_music_caption_wh_004", "question": "Based on the music, how would you caption this piece?", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_wh_005", "question": "Hear the clip. What is a good caption for this music?", "answer": "caption", "weight": 0.83}
+{"template_id": "jamendomaxcaps_music_caption_wh_006", "question": "From the audio, how would you describe the genre and mood of this track?", "answer": "caption", "weight": 0.93}
+{"template_id": "jamendomaxcaps_music_caption_wh_007", "question": "What musical style and atmosphere does this audio have?", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_wh_008", "question": "After hearing it, what would you write as a caption for this instrumental track?", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_wh_009", "question": "How should this music be described in a caption after hearing it?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_wh_010", "question": "What sort of musical description fits this clip?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_wh_011", "question": "Listen to the track. How would you summarize its sound and feel?", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_wh_012", "question": "Based on the audio, what does this music suggest in terms of style, mood, and use?", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_wh_013", "question": "What is the overall character of this music clip?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_wh_014", "question": "Hear this track. How would you explain it to someone who has not heard it?", "answer": "caption", "weight": 0.78}
+{"template_id": "jamendomaxcaps_music_caption_wh_015", "question": "What caption would best describe the music in this audio?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_wh_016", "question": "How would you characterize the music heard in this recording?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_can_001", "question": "Can you listen to this music clip and describe it in a caption?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_can_002", "question": "Can you write a natural-language caption for this track after hearing it?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_can_003", "question": "Can you tell me what kind of music this is based on the audio?", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_can_004", "question": "Can you give me a caption describing the sound of this music?", "answer": "caption", "weight": 0.93}
+{"template_id": "jamendomaxcaps_music_caption_can_005", "question": "Can you summarize this track's genre, mood, and instrumentation from what you hear?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_can_006", "question": "Can you provide a descriptive caption for this audio clip?", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_can_007", "question": "Can you caption this music based on its overall feel?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_can_008", "question": "Can you describe the mood and musical style of this track from the audio?", "answer": "caption", "weight": 0.93}
+{"template_id": "jamendomaxcaps_music_caption_can_009", "question": "Can you turn this music clip into a written caption?", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_can_010", "question": "Can you write a caption that captures the musical atmosphere heard here?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_can_011", "question": "Could you describe this instrumental music in one caption?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_can_012", "question": "Could you provide a caption explaining the style and mood of this music from the audio?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_instr_001", "question": "Listen to this audio clip and return only a music caption.", "answer": "caption", "weight": 0.73}
+{"template_id": "jamendomaxcaps_music_caption_instr_002", "question": "After hearing the music, write the music caption only. Do not add any extra explanation.", "answer": "caption", "weight": 0.72}
+{"template_id": "jamendomaxcaps_music_caption_instr_003", "question": "Based on the audio, output just the caption describing the music.", "answer": "caption", "weight": 0.73}
+{"template_id": "jamendomaxcaps_music_caption_instr_004", "question": "Review the track and provide only the caption that describes it.", "answer": "caption", "weight": 0.71}
+{"template_id": "jamendomaxcaps_music_caption_instr_005", "question": "Use this music clip to generate a caption and return nothing else.", "answer": "caption", "weight": 0.73}
+{"template_id": "jamendomaxcaps_music_caption_instr_006", "question": "Describe this track in one caption from what you hear, without commentary.", "answer": "caption", "weight": 0.75}
+{"template_id": "jamendomaxcaps_music_caption_instr_007", "question": "Write a single natural-language caption describing the music in the audio.", "answer": "caption", "weight": 0.82}
+{"template_id": "jamendomaxcaps_music_caption_instr_008", "question": "Use this audio clip to produce a caption about the music. Output only the caption text.", "answer": "caption", "weight": 0.71}
+{"template_id": "jamendomaxcaps_music_caption_instr_009", "question": "Listen to the music and respond with a caption describing its genre, mood, instrumentation, and use case when relevant.", "answer": "caption", "weight": 0.76}
+{"template_id": "jamendomaxcaps_music_caption_instr_010", "question": "Based on the audio, write a descriptive music caption, but do not include analysis outside the caption.", "answer": "caption", "weight": 0.75}
+{"template_id": "jamendomaxcaps_music_caption_instr_011", "question": "After checking the audio, provide the final music caption only.", "answer": "caption", "weight": 0.7}
+{"template_id": "jamendomaxcaps_music_caption_instr_012", "question": "Hear the clip and generate only the natural-language description of the music.", "answer": "caption", "weight": 0.68}
+{"template_id": "jamendomaxcaps_music_caption_instr_013", "question": "Describe the track from the audio as a caption, keeping the response focused on the music.", "answer": "caption", "weight": 0.78}
+{"template_id": "jamendomaxcaps_music_caption_instr_014", "question": "Use this music segment to write the caption in plain natural language.", "answer": "caption", "weight": 0.8}
+{"template_id": "jamendomaxcaps_music_caption_instr_015", "question": "After hearing this music clip, output a caption that summarizes it, with no additional notes.", "answer": "caption", "weight": 0.73}
+{"template_id": "jamendomaxcaps_music_caption_casual_001", "question": "After hearing it, what's this music like?", "answer": "caption", "weight": 0.93}
+{"template_id": "jamendomaxcaps_music_caption_casual_002", "question": "Listen to the track. How would you describe it?", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_casual_003", "question": "Give me a quick caption for this music after hearing it.", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_casual_004", "question": "What kind of vibe does this music have?", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_casual_005", "question": "Can you put this track into words from the audio?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_casual_006", "question": "Tell me what this music sounds like.", "answer": "caption", "weight": 0.95}
+{"template_id": "jamendomaxcaps_music_caption_casual_007", "question": "Hear this song clip. What would you say about it?", "answer": "caption", "weight": 0.77}
+{"template_id": "jamendomaxcaps_music_caption_casual_008", "question": "Give me a description of this music based on the clip.", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_casual_009", "question": "How does this track feel when you hear it?", "answer": "caption", "weight": 0.93}
+{"template_id": "jamendomaxcaps_music_caption_casual_010", "question": "What sort of track am I hearing here?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_casual_011", "question": "Describe the music in this clip for me.", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_casual_012", "question": "From the audio, what is the mood and style of this music?", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_formal_001", "question": "Please listen to this music clip and provide a natural-language caption describing it.", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_formal_002", "question": "Could you please generate a descriptive caption for this track after reviewing the audio?", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_formal_003", "question": "Please describe the musical characteristics of this audio segment in caption form.", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_formal_004", "question": "After hearing this music, would you provide a caption summarizing its genre, mood, instrumentation, and overall feel?", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_formal_005", "question": "Please write a polished caption describing this piece of music after hearing it.", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_formal_006", "question": "Could you characterize this music clip with a detailed natural-language caption based on the audio?", "answer": "caption", "weight": 0.82}
+{"template_id": "jamendomaxcaps_music_caption_formal_007", "question": "Please summarize the musical style and atmosphere of this recording.", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_formal_008", "question": "Kindly provide a caption that describes the music heard in this audio.", "answer": "caption", "weight": 0.78}
+{"template_id": "jamendomaxcaps_music_caption_formal_009", "question": "Please generate a music caption that captures the track's sound and intended mood after reviewing it.", "answer": "caption", "weight": 0.82}
+{"template_id": "jamendomaxcaps_music_caption_formal_010", "question": "Could you produce a descriptive caption suitable for this music recording?", "answer": "caption", "weight": 0.83}
+{"template_id": "jamendomaxcaps_music_caption_help_001", "question": "Can you help me describe this music clip after hearing it?", "answer": "caption", "weight": 0.93}
+{"template_id": "jamendomaxcaps_music_caption_help_002", "question": "I need help writing a caption for this track based on the audio.", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_help_003", "question": "Could you help me come up with a music caption for this audio?", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_help_004", "question": "Help me describe the genre and mood of this music in a caption after hearing it.", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_help_005", "question": "I am not sure how to describe this track from the audio. Can you help?", "answer": "caption", "weight": 0.91}
+{"template_id": "jamendomaxcaps_music_caption_help_006", "question": "Please help me write a natural-language description for this music after reviewing the clip.", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_help_007", "question": "Can you help me put the sound of this track into words?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_help_008", "question": "Could you help me summarize this music clip as a caption?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_help_009", "question": "I need a caption that captures this music's style and atmosphere from the audio.", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_help_010", "question": "Please help me describe what this music sounds like.", "answer": "caption", "weight": 0.91}
+{"template_id": "jamendomaxcaps_music_caption_help_011", "question": "Can you help me write a caption for this instrumental track after hearing it?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_help_012", "question": "I need help creating a useful text description for this music clip.", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_workflow_001", "question": "I am annotating music clips for a dataset. Please review this audio segment and write a caption.", "answer": "caption", "weight": 0.52}
+{"template_id": "jamendomaxcaps_music_caption_workflow_002", "question": "For a music captioning task, provide the caption that describes this track after hearing it.", "answer": "caption", "weight": 0.55}
+{"template_id": "jamendomaxcaps_music_caption_workflow_003", "question": "I am preparing metadata for a music dataset. Generate the caption for this recording.", "answer": "caption", "weight": 0.5}
+{"template_id": "jamendomaxcaps_music_caption_workflow_004", "question": "You are tasked with writing a natural-language caption for this music clip based on the audio.", "answer": "caption", "weight": 0.54}
+{"template_id": "jamendomaxcaps_music_caption_workflow_005", "question": "As part of music-caption annotation, describe this audio segment in caption form.", "answer": "caption", "weight": 0.5}
+{"template_id": "jamendomaxcaps_music_caption_workflow_006", "question": "I am building a music-language dataset and need a caption for this track after hearing it.", "answer": "caption", "weight": 0.52}
+{"template_id": "jamendomaxcaps_music_caption_workflow_007", "question": "After checking the audio, fill in the caption field for this music dataset entry.", "answer": "caption", "weight": 0.42}
+{"template_id": "jamendomaxcaps_music_caption_workflow_008", "question": "Create the music-caption annotation for this audio sample.", "answer": "caption", "weight": 0.43}
+{"template_id": "jamendomaxcaps_music_caption_workflow_009", "question": "I am curating descriptions for instrumental music clips. Please review this one and caption it.", "answer": "caption", "weight": 0.5}
+{"template_id": "jamendomaxcaps_music_caption_workflow_010", "question": "For this dataset item, write the natural-language description of the music from the audio.", "answer": "caption", "weight": 0.48}
+{"template_id": "jamendomaxcaps_music_caption_workflow_011", "question": "You are generating music metadata. Provide a descriptive caption for this audio.", "answer": "caption", "weight": 0.44}
+{"template_id": "jamendomaxcaps_music_caption_workflow_012", "question": "I am labeling a music corpus with captions. Please generate the caption for this clip after hearing it.", "answer": "caption", "weight": 0.49}
+{"template_id": "jamendomaxcaps_music_caption_hint_001", "question": "After hearing the track, describe this music in terms of genre, mood, instrumentation, tempo, and possible use case.", "answer": "caption", "weight": 0.81}
+{"template_id": "jamendomaxcaps_music_caption_hint_002", "question": "Based on the audio, write a caption covering the track's style, instruments, mood, rhythm, and likely setting.", "answer": "caption", "weight": 0.78}
+{"template_id": "jamendomaxcaps_music_caption_hint_003", "question": "Provide a caption that mentions the music's genre, atmosphere, and musical features when relevant.", "answer": "caption", "weight": 0.77}
+{"template_id": "jamendomaxcaps_music_caption_hint_004", "question": "Listen to the track and describe its musical style, emotional tone, and potential use in media.", "answer": "caption", "weight": 0.78}
+{"template_id": "jamendomaxcaps_music_caption_hint_005", "question": "Write a music caption that includes details such as instruments, mood, tempo, and genre if they are apparent in the audio.", "answer": "caption", "weight": 0.74}
+{"template_id": "jamendomaxcaps_music_caption_hint_006", "question": "Summarize this clip by describing its sound, mood, arrangement, and possible context.", "answer": "caption", "weight": 0.81}
+{"template_id": "jamendomaxcaps_music_caption_hint_007", "question": "Caption the music with attention to its style, energy, atmosphere, and likely use case.", "answer": "caption", "weight": 0.74}
+{"template_id": "jamendomaxcaps_music_caption_hint_008", "question": "Describe the musical qualities of this track, including genre and mood where appropriate.", "answer": "caption", "weight": 0.79}
+{"template_id": "jamendomaxcaps_music_caption_direct_017", "question": "After hearing this music clip, write a natural-language caption describing its genre, mood, instrumentation, tempo, and possible use case when relevant.", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_direct_018", "question": "Listen to the audio and describe this music clip.", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_direct_019", "question": "Based on the audio, write a caption for this track that captures its musical style, atmosphere, and notable sonic features.", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_direct_020", "question": "Hear the track and caption this music.", "answer": "caption", "weight": 0.74}
+{"template_id": "jamendomaxcaps_music_caption_direct_021", "question": "Provide a natural-language music caption describing the track's sound, mood, genre, and likely listening context from the audio.", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_direct_022", "question": "Summarize the music in this clip after hearing it.", "answer": "caption", "weight": 0.91}
+{"template_id": "jamendomaxcaps_music_caption_direct_023", "question": "Generate a descriptive caption for this audio that explains what kind of music it is and how it feels.", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_direct_024", "question": "Review the track and describe it.", "answer": "caption", "weight": 0.8}
+{"template_id": "jamendomaxcaps_music_caption_direct_025", "question": "Write a music caption that covers the clip's style, instrumentation, mood, rhythmic feel, and possible media use.", "answer": "caption", "weight": 0.84}
+{"template_id": "jamendomaxcaps_music_caption_direct_026", "question": "After reviewing the audio, give a music caption.", "answer": "caption", "weight": 0.8}
+{"template_id": "jamendomaxcaps_music_caption_direct_027", "question": "Based on this audio, produce a caption describing the musical genre, emotional tone, arrangement, and overall character.", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_direct_028", "question": "Listen to the clip and write a short description of this music.", "answer": "caption", "weight": 0.93}
+{"template_id": "jamendomaxcaps_music_caption_wh_017", "question": "After hearing it, how would you describe this music clip in terms of genre, mood, instrumentation, tempo, and possible use case?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_wh_018", "question": "What kind of music is this based on what you hear?", "answer": "caption", "weight": 0.96}
+{"template_id": "jamendomaxcaps_music_caption_wh_019", "question": "What caption would describe this track's musical style, atmosphere, and notable features?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_wh_020", "question": "How does this track sound?", "answer": "caption", "weight": 0.96}
+{"template_id": "jamendomaxcaps_music_caption_wh_021", "question": "Listen to the music. What natural-language description best captures its genre, mood, instruments, and overall feel?", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_wh_022", "question": "After hearing it, what is this music like?", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_wh_023", "question": "How would you explain this music to someone who wants to know its sound, mood, and possible use?", "answer": "caption", "weight": 0.91}
+{"template_id": "jamendomaxcaps_music_caption_wh_024", "question": "What caption fits this clip after hearing it?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_wh_025", "question": "What musical qualities, mood, and setting would you mention in a caption for this track?", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_wh_026", "question": "After hearing it, how would you caption it?", "answer": "caption", "weight": 0.79}
+{"template_id": "jamendomaxcaps_music_caption_wh_027", "question": "What is the overall musical character of this audio segment?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_wh_028", "question": "What does the music sound like?", "answer": "caption", "weight": 0.97}
+{"template_id": "jamendomaxcaps_music_caption_can_013", "question": "Can you listen to this music clip and write a natural-language caption describing its genre, mood, instrumentation, tempo, and likely use case?", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_can_014", "question": "Can you describe this music after hearing it?", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_can_015", "question": "Can you provide a caption that captures the track's musical style, atmosphere, and notable sonic details?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_can_016", "question": "Can you caption this track based on the audio?", "answer": "caption", "weight": 0.83}
+{"template_id": "jamendomaxcaps_music_caption_can_017", "question": "Could you describe the genre, instruments, mood, energy, and possible context of this music in a caption?", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_can_018", "question": "Can you tell me what this sounds like?", "answer": "caption", "weight": 0.96}
+{"template_id": "jamendomaxcaps_music_caption_can_019", "question": "Can you turn this audio into a concise but informative music caption?", "answer": "caption", "weight": 0.83}
+{"template_id": "jamendomaxcaps_music_caption_can_020", "question": "Can you check the clip and give me a caption for it?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_can_021", "question": "Could you summarize this music clip by describing its sound, mood, arrangement, and likely use?", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_can_022", "question": "Can you put this music into words?", "answer": "caption", "weight": 0.92}
+{"template_id": "jamendomaxcaps_music_caption_can_023", "question": "Can you generate a caption that explains the musical character and atmosphere of this recording?", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_can_024", "question": "Can you describe the track after hearing it?", "answer": "caption", "weight": 0.94}
+{"template_id": "jamendomaxcaps_music_caption_workflow_013", "question": "I am annotating music clips for a captioning dataset. Please review this audio and write a natural-language caption covering the track's genre, mood, instrumentation, tempo, and possible use case.", "answer": "caption", "weight": 0.51}
+{"template_id": "jamendomaxcaps_music_caption_workflow_014", "question": "For this dataset item, listen to the music and write the caption.", "answer": "caption", "weight": 0.47}
+{"template_id": "jamendomaxcaps_music_caption_workflow_015", "question": "For a music-language training example, generate the caption that describes this audio segment's style, mood, and musical content.", "answer": "caption", "weight": 0.49}
+{"template_id": "jamendomaxcaps_music_caption_workflow_016", "question": "After checking the track, fill in its caption.", "answer": "caption", "weight": 0.42}
+{"template_id": "jamendomaxcaps_music_caption_workflow_017", "question": "I am creating music-caption metadata and need a description of this clip's genre, instrumentation, mood, and likely context from the audio.", "answer": "caption", "weight": 0.5}
+{"template_id": "jamendomaxcaps_music_caption_workflow_018", "question": "Add a music caption for this audio.", "answer": "caption", "weight": 0.44}
+{"template_id": "jamendomaxcaps_music_caption_workflow_019", "question": "You are preparing a music captioning record. Write the natural-language description for this clip after hearing it.", "answer": "caption", "weight": 0.46}
+{"template_id": "jamendomaxcaps_music_caption_workflow_020", "question": "After reviewing the audio, create the caption annotation.", "answer": "caption", "weight": 0.38}
+{"template_id": "jamendomaxcaps_music_caption_workflow_021", "question": "As part of dataset curation, provide a caption that summarizes this track's musical style, mood, and use-case fit.", "answer": "caption", "weight": 0.48}
+{"template_id": "jamendomaxcaps_music_caption_workflow_022", "question": "After hearing this music clip, write the dataset caption.", "answer": "caption", "weight": 0.45}
+{"template_id": "jamendomaxcaps_music_caption_workflow_023", "question": "For music retrieval metadata, generate a descriptive text caption for this audio sample.", "answer": "caption", "weight": 0.45}
+{"template_id": "jamendomaxcaps_music_caption_workflow_024", "question": "Please review the audio and caption this dataset example.", "answer": "caption", "weight": 0.42}
+{"template_id": "jamendomaxcaps_music_caption_help_013", "question": "Can you help me write a natural-language caption describing this music clip's genre, mood, instrumentation, tempo, and possible use case after hearing it?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_help_014", "question": "Help me describe this music after checking the clip.", "answer": "caption", "weight": 0.9}
+{"template_id": "jamendomaxcaps_music_caption_help_015", "question": "I need help creating a caption that captures this track's musical style, atmosphere, and notable sound features.", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_help_016", "question": "Help me caption this track based on the audio.", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_help_017", "question": "Could you help me summarize the genre, instruments, mood, energy, and likely setting of this music?", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_help_018", "question": "After listening, I need a quick description of this music.", "answer": "caption", "weight": 0.88}
+{"template_id": "jamendomaxcaps_music_caption_help_019", "question": "Please help me turn this audio into a useful music caption.", "answer": "caption", "weight": 0.86}
+{"template_id": "jamendomaxcaps_music_caption_help_020", "question": "Help me put this track into words after hearing it.", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_help_021", "question": "I am trying to describe this music accurately; help me write a caption covering its sound and mood.", "answer": "caption", "weight": 0.89}
+{"template_id": "jamendomaxcaps_music_caption_help_022", "question": "Can you help with a caption for this clip after reviewing it?", "answer": "caption", "weight": 0.85}
+{"template_id": "jamendomaxcaps_music_caption_help_023", "question": "Could you help me write a description that reflects this track's musical character and atmosphere?", "answer": "caption", "weight": 0.87}
+{"template_id": "jamendomaxcaps_music_caption_help_024", "question": "After hearing this, I need a music caption for it.", "answer": "caption", "weight": 0.83}
