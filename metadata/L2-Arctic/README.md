@@ -16,9 +16,16 @@
 | train | 24,180 |
 | test | 2,687 |
 
+**Audio Characteristics:**
+- Average duration: ~3.6 seconds
+- Duration range: 0.68s - 12.07s (train), 0.88s - 10.21s (test)
+- Total duration: ~24.4 hours (train), ~2.7 hours (test)
+- Sampling rate: 44.1 kHz (all clips)
+
 **Annotated samples with mispronunciation labels:**
-- Train: 3,076 utterances (~12.7%)
-- Test: 312 utterances (~11.6%)
+- Train: 3,076 utterances (~12.7%, 16,795 total error annotations)
+- Test: 312 utterances (~11.6%, 1,634 total error annotations)
+- Average errors per annotated sample: ~5.5 errors
 
 ---
 
@@ -54,12 +61,18 @@ Where:
 
 ## Example Entries
 
+### Sample with mispronunciation annotations:
 ```json
 {"id": "BWC_arctic_a0008", "path": "/saltpool0/data/tseng/FullSpectrumDataset/corpus/L2-Arctic/BWC/BWC/wav/arctic_a0008.wav", "sampling_rate": 44100, "duration": 3.234943, "dataset": "L2-Arctic", "text": "Gad your letter came just in time", "mispronunciation": ["substitution, [0.14-0.37], AE, AA, gad", "addition, [1.42-1.47], sil, HH, letter", "substitution, [1.75-1.86], EY, EH, came", "substitution, [2.18-2.29], JH, CH, just", "deletion, [2.48-2.51], T, sil, just"]}
+```
 
-{"id": "ZHAA_arctic_a0359", "path": "/saltpool0/data/tseng/FullSpectrumDataset/corpus/L2-Arctic/ZHAA/ZHAA/wav/arctic_a0359.wav", "sampling_rate": 44100, "duration": 3.273175, "dataset": "L2-Arctic", "text": "Earth and gravel seemed to fill the pan", "mispronunciation": []}
+### Samples without mispronunciation annotations:
+```json
+{"id": "BWC_arctic_a0577", "path": "/saltpool0/data/tseng/FullSpectrumDataset/corpus/L2-Arctic/BWC/BWC/wav/arctic_a0577.wav", "sampling_rate": 44100, "duration": 7.67195, "dataset": "L2-Arctic", "text": "Once the jews harp began emitting its barbaric rhythms, Michael was helpless.", "mispronunciation": []}
 
-{"id": "ASI_arctic_b0268", "path": "/saltpool0/data/tseng/FullSpectrumDataset/corpus/L2-Arctic/ASI/ASI/wav/arctic_b0268.wav", "sampling_rate": 44100, "duration": 2.070544, "dataset": "L2-Arctic", "text": "Saxon nodded and the boy frowned", "mispronunciation": []}
+{"id": "ASI_arctic_b0268", "path": "/saltpool0/data/tseng/FullSpectrumDataset/corpus/L2-Arctic/ASI/ASI/wav/arctic_b0268.wav", "sampling_rate": 44100, "duration": 2.070544, "dataset": "L2-Arctic", "text": "Saxon nodded, and the boy frowned.", "mispronunciation": []}
+
+{"id": "RRBI_arctic_a0263", "path": "/saltpool0/data/tseng/FullSpectrumDataset/corpus/L2-Arctic/RRBI/RRBI/wav/arctic_a0263.wav", "sampling_rate": 44100, "duration": 4.37, "dataset": "L2-Arctic", "text": "Joan looked triumphantly at Sheldon, who bowed.", "mispronunciation": []}
 ```
 
 ---
