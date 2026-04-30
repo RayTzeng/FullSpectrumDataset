@@ -6,9 +6,7 @@
 The original dataset contains **2,269 question-answer pairs** with unique audio recordings. We have enhanced this to **9,076 total entries (4.0x expansion)** by creating different task variants. Audio is sampled at **16 kHz** in **WAV format**, with durations ranging from 2.46 to 50.02 seconds (average ~13.79s).
 
 ## Supported Tasks
-1. **Spoken Math Question Answering** (Direct Answer)
-2. **Transcription-then-Answer** (Cascade Task)
-3. **Multiple-Choice Question Answering**
+1. **Spoken Mathematical QA** (Direct Answer)
 
 ---
 
