@@ -1,0 +1,324 @@
+{"question": "Transcribe this utterance and wrap each stressed word in double asterisks.", "answer": "text", "weight": 0.95}
+{"question": "Listen to this audio and transcribe it, wrapping each stressed word in double asterisks.", "answer": "text", "weight": 0.9}
+{"question": "Write out what is said, marking the emphasized words with **.", "answer": "text", "weight": 0.9}
+{"question": "Listen to the recording and write out what is said, marking the emphasized words with **.", "answer": "text", "weight": 0.85}
+{"question": "Transcribe the speech, using markdown bold (**word**) for any word the speaker stresses.", "answer": "text", "weight": 0.85}
+{"question": "Listen carefully, then transcribe the speech, using markdown bold (**word**) for any word the speaker stresses.", "answer": "text", "weight": 0.8}
+{"question": "Give me the transcript with the stressed words in **double asterisks**.", "answer": "text", "weight": 0.95}
+{"question": "Give the clip a listen and hand me the transcript with the stressed words in **double asterisks**.", "answer": "text", "weight": 0.9}
+{"question": "Transcribe the sentence and bold the words that carry emphasis, like **this**.", "answer": "text", "weight": 0.85}
+{"question": "After listening to the audio, transcribe the sentence and bold the words that carry emphasis, like **this**.", "answer": "text", "weight": 0.8}
+{"question": "Do a stress-aware transcription of this clip: normal words plain, emphasized words wrapped in **.", "answer": "text", "weight": 0.7}
+{"question": "Listen to this clip and do a stress-aware transcription: normal words plain, emphasized words wrapped in **.", "answer": "text", "weight": 0.65}
+{"question": "Write the transcript. Put ** around every word the speaker emphasizes.", "answer": "text", "weight": 0.9}
+{"question": "Listen to the audio. Write the transcript, putting ** around every word the speaker emphasizes.", "answer": "text", "weight": 0.85}
+{"question": "Transcribe and mark sentence stress with **word** notation.", "answer": "text", "weight": 0.75}
+{"question": "Listen, then transcribe and mark sentence stress with **word** notation.", "answer": "text", "weight": 0.7}
+{"question": "Transcribe this utterance exactly as spoken and wrap every stressed word in ** - there may be more than one.", "answer": "text", "weight": 0.75}
+{"question": "Listen to this utterance, transcribe it exactly as spoken, and wrap every stressed word in ** - there may be more than one.", "answer": "text", "weight": 0.7}
+{"question": "Turn this speech into text, keeping the emphasis visible with double asterisks around the stressed words.", "answer": "text", "weight": 0.7}
+{"question": "Listen to this speech and turn it into text, keeping the emphasis visible with double asterisks around the stressed words.", "answer": "text", "weight": 0.65}
+{"question": "Do ASR on this and annotate sentence stress inline (**word**).", "answer": "text", "weight": 0.55}
+{"question": "Listen to this, do ASR on it, and annotate sentence stress inline (**word**).", "answer": "text", "weight": 0.5}
+{"question": "Transcribe the recording; any word the speaker stresses should appear between double asterisks.", "answer": "text", "weight": 0.7}
+{"question": "Play the audio and transcribe it; any word the speaker stresses should appear between double asterisks.", "answer": "text", "weight": 0.65}
+{"question": "Write the utterance out in full, adding ** on both sides of each stressed word.", "answer": "text", "weight": 0.7}
+{"question": "Listen to the utterance and write it out in full, adding ** on both sides of each stressed word.", "answer": "text", "weight": 0.65}
+{"question": "Transcribe this utterance and mark the stressed words.", "answer": "text", "weight": 0.95}
+{"question": "Listen to this audio and transcribe it, marking the stressed words.", "answer": "text", "weight": 0.9}
+{"question": "Give me the transcript with the stressed words marked.", "answer": "text", "weight": 0.95}
+{"question": "Listen to the clip and give me the transcript with the stressed words marked.", "answer": "text", "weight": 0.9}
+{"question": "Transcribe the speech and indicate which words are emphasized.", "answer": "text", "weight": 0.9}
+{"question": "Listen to the speech, transcribe it, and indicate which words are emphasized.", "answer": "text", "weight": 0.85}
+{"question": "Write out the sentence with the emphasized words highlighted.", "answer": "text", "weight": 0.85}
+{"question": "After listening to the recording, write out the sentence with the emphasized words highlighted.", "answer": "text", "weight": 0.8}
+{"question": "Transcribe this clip with stress annotation.", "answer": "text", "weight": 0.8}
+{"question": "Listen to this clip and transcribe it with stress annotation.", "answer": "text", "weight": 0.75}
+{"question": "Produce a stress-marked transcript of this utterance.", "answer": "text", "weight": 0.8}
+{"question": "Listen to this utterance and produce a stress-marked transcript.", "answer": "text", "weight": 0.75}
+{"question": "Transcribe the audio and flag the words that receive emphasis.", "answer": "text", "weight": 0.85}
+{"question": "Give the audio a listen, transcribe it, and flag the words that receive emphasis.", "answer": "text", "weight": 0.8}
+{"question": "Give me a stress-annotated transcript of what is said here.", "answer": "text", "weight": 0.8}
+{"question": "Listen to the recording and give me a stress-annotated transcript of what is said.", "answer": "text", "weight": 0.75}
+{"question": "Transcribe this and show where the speaker places the emphasis.", "answer": "text", "weight": 0.85}
+{"question": "Listen to this and transcribe it, showing where the speaker places the emphasis.", "answer": "text", "weight": 0.8}
+{"question": "What does the speaker say, and which words do they stress? Give the transcript with stressed words in **double asterisks**.", "answer": "text", "weight": 0.9}
+{"question": "Listen to this. What does the speaker say, and which words do they stress? Give the transcript with stressed words in **double asterisks**.", "answer": "text", "weight": 0.85}
+{"question": "What is said here? Transcribe it with ** around the emphasized words.", "answer": "text", "weight": 0.9}
+{"question": "Listen to the recording. What is said here? Transcribe it with ** around the emphasized words.", "answer": "text", "weight": 0.85}
+{"question": "How would you transcribe this if you also marked the stressed words with double asterisks?", "answer": "text", "weight": 0.7}
+{"question": "How would you transcribe this after listening to it, marking the stressed words with double asterisks?", "answer": "text", "weight": 0.65}
+{"question": "What words are spoken, and where does the emphasis fall? Answer as a transcript with **bolded** stressed words.", "answer": "text", "weight": 0.8}
+{"question": "Listen and tell me what words are spoken and where the emphasis falls. Answer as a transcript with **bolded** stressed words.", "answer": "text", "weight": 0.75}
+{"question": "What's the sentence, with the emphasized words shown as **word**?", "answer": "text", "weight": 0.75}
+{"question": "Listen to the audio: what's the sentence, with the emphasized words shown as **word**?", "answer": "text", "weight": 0.7}
+{"question": "Which words are emphasized, and what is the full sentence? Write it out with ** on the stressed words.", "answer": "text", "weight": 0.8}
+{"question": "Listen to the clip. Which words are emphasized, and what is the full sentence? Write it out with ** on the stressed words.", "answer": "text", "weight": 0.75}
+{"question": "What's the utterance, and which words get emphasized? Use ** around the stressed ones.", "answer": "text", "weight": 0.75}
+{"question": "From the recording, what's the utterance and which words get emphasized? Use ** around the stressed ones.", "answer": "text", "weight": 0.7}
+{"question": "What is the stress-marked transcription of this clip, using **word** for emphasis?", "answer": "text", "weight": 0.6}
+{"question": "Once you've listened, what is the stress-marked transcription of this clip, using **word** for emphasis?", "answer": "text", "weight": 0.55}
+{"question": "What is being said, and which words are stressed? Give me a marked transcript.", "answer": "text", "weight": 0.9}
+{"question": "Listen to this. What is being said, and which words are stressed? Give me a marked transcript.", "answer": "text", "weight": 0.85}
+{"question": "What does this person say? Transcribe it and mark the emphasis.", "answer": "text", "weight": 0.9}
+{"question": "Listen to the audio. What does this person say? Transcribe it and mark the emphasis.", "answer": "text", "weight": 0.85}
+{"question": "Where does the stress fall in this sentence? Write the transcript with those words marked.", "answer": "text", "weight": 0.85}
+{"question": "Listen closely - where does the stress fall in this sentence? Write the transcript with those words marked.", "answer": "text", "weight": 0.8}
+{"question": "How would you write this out with the emphasis marked?", "answer": "text", "weight": 0.8}
+{"question": "After listening, how would you write this out with the emphasis marked?", "answer": "text", "weight": 0.75}
+{"question": "What did they say, and what did they emphasize? A stress-marked transcript works.", "answer": "text", "weight": 0.8}
+{"question": "Have a listen: what did they say, and what did they emphasize? A stress-marked transcript works.", "answer": "text", "weight": 0.75}
+{"question": "Can you transcribe this and mark the stressed words with **?", "answer": "text", "weight": 0.95}
+{"question": "Can you listen to this and transcribe it, marking the stressed words with **?", "answer": "text", "weight": 0.9}
+{"question": "Could you write out the utterance with markdown bold on the emphasized words?", "answer": "text", "weight": 0.85}
+{"question": "Could you listen to the clip and write out the utterance with markdown bold on the emphasized words?", "answer": "text", "weight": 0.8}
+{"question": "I need a transcript that shows which words are stressed - can you do that with **double asterisks**?", "answer": "text", "weight": 0.75}
+{"question": "I need a transcript that shows which words are stressed - can you listen and do that with **double asterisks**?", "answer": "text", "weight": 0.7}
+{"question": "Are you able to transcribe this speech and bold the stressed words using **?", "answer": "text", "weight": 0.65}
+{"question": "Are you able to listen to this speech, transcribe it, and bold the stressed words using **?", "answer": "text", "weight": 0.6}
+{"question": "Help me out: transcribe this and put ** around the emphasized words.", "answer": "text", "weight": 0.75}
+{"question": "Help me out: listen to this, transcribe it, and put ** around the emphasized words.", "answer": "text", "weight": 0.7}
+{"question": "Can you give me this sentence with ** around the words the speaker emphasizes?", "answer": "text", "weight": 0.8}
+{"question": "Can you listen and give me this sentence with ** around the words the speaker emphasizes?", "answer": "text", "weight": 0.75}
+{"question": "Can you transcribe this and mark which words are stressed?", "answer": "text", "weight": 0.95}
+{"question": "Can you listen to this and transcribe it, marking which words are stressed?", "answer": "text", "weight": 0.9}
+{"question": "Could you give me a transcript with the emphasis marked?", "answer": "text", "weight": 0.9}
+{"question": "Could you listen to this and give me a transcript with the emphasis marked?", "answer": "text", "weight": 0.85}
+{"question": "Would you be able to transcribe this and show the stressed words?", "answer": "text", "weight": 0.8}
+{"question": "Would you be able to listen to this, transcribe it, and show the stressed words?", "answer": "text", "weight": 0.75}
+{"question": "I need to know what was said and which words were emphasized - can you write that out?", "answer": "text", "weight": 0.75}
+{"question": "I need to know what was said and which words were emphasized - can you listen and write that out?", "answer": "text", "weight": 0.7}
+{"question": "Mind transcribing this and marking the stress for me?", "answer": "text", "weight": 0.8}
+{"question": "Mind giving this a listen, transcribing it, and marking the stress for me?", "answer": "text", "weight": 0.75}
+{"question": "Would you please transcribe this utterance, wrapping the stressed words in double asterisks?", "answer": "text", "weight": 0.8}
+{"question": "Would you please listen to this utterance and transcribe it, wrapping the stressed words in double asterisks?", "answer": "text", "weight": 0.75}
+{"question": "I would appreciate a transcript of this clip with the emphasized words marked as **word**.", "answer": "text", "weight": 0.6}
+{"question": "I would appreciate it if you listened to this clip and gave me a transcript with the emphasized words marked as **word**.", "answer": "text", "weight": 0.55}
+{"question": "Kindly provide the transcription with markdown bold on each stressed word.", "answer": "text", "weight": 0.55}
+{"question": "Kindly listen to the recording and provide the transcription with markdown bold on each stressed word.", "answer": "text", "weight": 0.5}
+{"question": "If you don't mind, transcribe this and highlight the stressed words with double asterisks.", "answer": "text", "weight": 0.65}
+{"question": "If you don't mind, give the audio a listen and transcribe it, highlighting the stressed words with double asterisks.", "answer": "text", "weight": 0.6}
+{"question": "Please provide a verbatim transcription in which stressed words are wrapped in **.", "answer": "text", "weight": 0.55}
+{"question": "Please listen to the audio and provide a verbatim transcription in which stressed words are wrapped in **.", "answer": "text", "weight": 0.5}
+{"question": "Would you please transcribe this and mark the stressed words?", "answer": "text", "weight": 0.85}
+{"question": "Would you please listen to this and transcribe it, marking the stressed words?", "answer": "text", "weight": 0.8}
+{"question": "I'd be grateful for a stress-marked transcript of this recording.", "answer": "text", "weight": 0.65}
+{"question": "I'd be grateful if you listened to this recording and produced a stress-marked transcript.", "answer": "text", "weight": 0.6}
+{"question": "Please transcribe this utterance and indicate the emphasized words.", "answer": "text", "weight": 0.8}
+{"question": "Please listen to this utterance, transcribe it, and indicate the emphasized words.", "answer": "text", "weight": 0.75}
+{"question": "Could I get a transcript of this with the emphasis marked, please?", "answer": "text", "weight": 0.8}
+{"question": "Could you listen to this and get me a transcript with the emphasis marked, please?", "answer": "text", "weight": 0.75}
+{"question": "Produce a transcript in which every emphasized word is surrounded by **.", "answer": "text", "weight": 0.8}
+{"question": "Listen to the audio and produce a transcript in which every emphasized word is surrounded by **.", "answer": "text", "weight": 0.75}
+{"question": "Write down the sentence and use ** to flag the words that were stressed.", "answer": "text", "weight": 0.75}
+{"question": "After listening to this recording, write down the sentence and use ** to flag the words that were stressed.", "answer": "text", "weight": 0.7}
+{"question": "Transcribe this in stressed-speech format (**word** for emphasis).", "answer": "text", "weight": 0.7}
+{"question": "Give the clip a listen and transcribe it in stressed-speech format (**word** for emphasis).", "answer": "text", "weight": 0.65}
+{"question": "Pay attention to how the speaker delivers this line, then transcribe it with the emphasized words in **double asterisks**.", "answer": "text", "weight": 0.65}
+{"question": "Listen closely to how the speaker delivers this line, then transcribe it with the emphasized words in **double asterisks**.", "answer": "text", "weight": 0.6}
+{"question": "Some words in this sentence are emphasized. Write the full transcript and mark those words with double asterisks.", "answer": "text", "weight": 0.8}
+{"question": "Listen to the audio. Some words in this sentence are emphasized - write the full transcript and mark those words with double asterisks.", "answer": "text", "weight": 0.75}
+{"question": "Follow the speaker's delivery and transcribe the line, using ** around each word that receives extra emphasis.", "answer": "text", "weight": 0.6}
+{"question": "Listen to the speaker's delivery, then transcribe the line, using ** around each word that receives extra emphasis.", "answer": "text", "weight": 0.55}
+{"question": "Pay attention to the prosody and transcribe this with the emphasized words marked.", "answer": "text", "weight": 0.75}
+{"question": "Listen to the prosody carefully, then transcribe this with the emphasized words marked.", "answer": "text", "weight": 0.7}
+{"question": "Notice which words the speaker emphasizes, then transcribe the sentence with those words marked.", "answer": "text", "weight": 0.75}
+{"question": "Listen for which words the speaker emphasizes, then transcribe the sentence with those words marked.", "answer": "text", "weight": 0.7}
+{"question": "The speaker emphasizes at least one word here. Transcribe the utterance and mark the emphasis.", "answer": "text", "weight": 0.8}
+{"question": "Listen to the clip - the speaker emphasizes at least one word. Transcribe the utterance and mark the emphasis.", "answer": "text", "weight": 0.75}
+{"question": "Transcribe what is said and mark the words that stand out as stressed.", "answer": "text", "weight": 0.8}
+{"question": "Transcribe what you hear and mark the words that stand out as stressed.", "answer": "text", "weight": 0.75}
+{"question": "I'm building a prosody-aware ASR system. Please transcribe this clip with stressed words wrapped in **.", "answer": "text", "weight": 0.5}
+{"question": "I'm building a prosody-aware ASR system. Please listen to this clip and transcribe it with stressed words wrapped in **.", "answer": "text", "weight": 0.45}
+{"question": "For my emphasis-detection dataset, I need the transcript with **markers** on the stressed words. Can you provide it?", "answer": "text", "weight": 0.45}
+{"question": "For my emphasis-detection dataset, listen to this and give me the transcript with **markers** on the stressed words.", "answer": "text", "weight": 0.4}
+{"question": "We're annotating sentence stress in synthesized speech. Transcribe this sample and bold the emphasized words with double asterisks.", "answer": "text", "weight": 0.45}
+{"question": "We're annotating sentence stress in synthesized speech. Listen to this sample, transcribe it, and bold the emphasized words with double asterisks.", "answer": "text", "weight": 0.4}
+{"question": "I'm preparing training data for a speech model that predicts emphasis. Give me this utterance with ** around the stressed words.", "answer": "text", "weight": 0.45}
+{"question": "I'm preparing training data for a speech model that predicts emphasis. Listen and give me this utterance with ** around the stressed words.", "answer": "text", "weight": 0.4}
+{"question": "As part of a prosody study, transcribe this recording and mark sentence-level stress inline with **.", "answer": "text", "weight": 0.4}
+{"question": "As part of a prosody study, listen to this recording, transcribe it, and mark sentence-level stress inline with **.", "answer": "text", "weight": 0.35}
+{"question": "My pipeline expects transcripts where emphasized words look like **this**. Please format this clip accordingly.", "answer": "text", "weight": 0.5}
+{"question": "My pipeline expects transcripts where emphasized words look like **this**. Listen to the clip and format it accordingly.", "answer": "text", "weight": 0.45}
+{"question": "I'm labeling emphasis for a speech corpus. Transcribe this and put ** around each stressed word.", "answer": "text", "weight": 0.45}
+{"question": "I'm labeling emphasis for a speech corpus. Listen to this, transcribe it, and put ** around each stressed word.", "answer": "text", "weight": 0.4}
+{"question": "I'm evaluating a stress-detection model. Transcribe this clip with the stressed words marked.", "answer": "text", "weight": 0.55}
+{"question": "I'm evaluating a stress-detection model. Listen to this clip and transcribe it with the stressed words marked.", "answer": "text", "weight": 0.5}
+{"question": "For a linguistics assignment on sentence stress, transcribe this utterance and mark the emphasis.", "answer": "text", "weight": 0.5}
+{"question": "For a linguistics assignment on sentence stress, listen to this utterance, transcribe it, and mark the emphasis.", "answer": "text", "weight": 0.45}
+{"question": "We're building a TTS evaluation set. Give me the transcript with the emphasized words marked.", "answer": "text", "weight": 0.5}
+{"question": "We're building a TTS evaluation set. Listen to this and give me the transcript with the emphasized words marked.", "answer": "text", "weight": 0.45}
+{"question": "Our annotation guidelines ask for a transcript with the stressed words marked. Please transcribe this clip.", "answer": "text", "weight": 0.45}
+{"question": "Our annotation guidelines ask for a transcript with the stressed words marked. Please listen to this clip and transcribe it.", "answer": "text", "weight": 0.4}
+{"question": "Return only the transcript, with stressed words wrapped in **. No extra commentary.", "answer": "text", "weight": 0.7}
+{"question": "Listen to the audio and return only the transcript, with stressed words wrapped in **. No extra commentary.", "answer": "text", "weight": 0.65}
+{"question": "Output one line: the transcription with double asterisks around each emphasized word.", "answer": "text", "weight": 0.65}
+{"question": "Listen, then output one line: the transcription with double asterisks around each emphasized word.", "answer": "text", "weight": 0.6}
+{"question": "Answer with the marked transcript alone - keep the original punctuation and capitalization, and add ** around the stressed words.", "answer": "text", "weight": 0.6}
+{"question": "After listening, answer with the marked transcript alone - keep the original punctuation and capitalization, and add ** around the stressed words.", "answer": "text", "weight": 0.55}
+{"question": "Give me the sentence verbatim, punctuation included, with **double asterisks** on the stressed words and nothing else.", "answer": "text", "weight": 0.6}
+{"question": "Listen to the recording and give me the sentence verbatim, punctuation included, with **double asterisks** on the stressed words and nothing else.", "answer": "text", "weight": 0.55}
+{"question": "Format: markdown text where emphasized words are bold. Transcribe accordingly.", "answer": "text", "weight": 0.5}
+{"question": "Format: markdown text where emphasized words are bold. Listen and transcribe accordingly.", "answer": "text", "weight": 0.45}
+{"question": "Transcribe with emphasis annotation: keep punctuation and casing as spoken, and bold the stressed words with **.", "answer": "text", "weight": 0.55}
+{"question": "Listen to the clip. Transcribe with emphasis annotation: keep punctuation and casing as spoken, and bold the stressed words with **.", "answer": "text", "weight": 0.5}
+{"question": "Reply with just the transcription. Stressed words go in **, everything else stays plain.", "answer": "text", "weight": 0.6}
+{"question": "Listen to the audio and reply with just the transcription. Stressed words go in **, everything else stays plain.", "answer": "text", "weight": 0.55}
+{"question": "Plain text output: the sentence exactly as spoken, with ** on either side of each emphasized word.", "answer": "text", "weight": 0.5}
+{"question": "Listen to the utterance. Plain text output: the sentence exactly as spoken, with ** on either side of each emphasized word.", "answer": "text", "weight": 0.45}
+{"question": "Return the stress-marked transcript only - no explanation.", "answer": "text", "weight": 0.75}
+{"question": "Listen to the audio and return the stress-marked transcript only - no explanation.", "answer": "text", "weight": 0.7}
+{"question": "One line, transcript with the emphasis marked. Nothing else.", "answer": "text", "weight": 0.7}
+{"question": "Listen, then give me one line: the transcript with the emphasis marked. Nothing else.", "answer": "text", "weight": 0.65}
+{"question": "Transcribe verbatim, preserving punctuation and capitalization, and mark the stressed words. Output the transcript only.", "answer": "text", "weight": 0.65}
+{"question": "Listen to the clip and transcribe verbatim, preserving punctuation and capitalization, and marking the stressed words. Output the transcript only.", "answer": "text", "weight": 0.6}
+{"question": "Just the marked transcript, please - no preamble, no notes.", "answer": "text", "weight": 0.7}
+{"question": "Give it a listen and send back just the marked transcript - no preamble, no notes.", "answer": "text", "weight": 0.65}
+{"question": "Just transcribe it and star the stressed words (**like this**).", "answer": "text", "weight": 0.85}
+{"question": "Give it a listen and just transcribe it, starring the stressed words (**like this**).", "answer": "text", "weight": 0.8}
+{"question": "What'd they say, and which words did they emphasize? Transcript with ** on the stressed ones, please.", "answer": "text", "weight": 0.7}
+{"question": "Listen - what'd they say, and which words did they emphasize? Transcript with ** on the stressed ones, please.", "answer": "text", "weight": 0.65}
+{"question": "Quick one: transcript with the emphasized words in **.", "answer": "text", "weight": 0.75}
+{"question": "Quick one - have a listen and give me the transcript with the emphasized words in **.", "answer": "text", "weight": 0.7}
+{"question": "Type out what is said, wrapping the emphasized words in double asterisks.", "answer": "text", "weight": 0.7}
+{"question": "Listen and type out what you hear, wrapping the emphasized words in double asterisks.", "answer": "text", "weight": 0.65}
+{"question": "Write it down and throw ** around the words they stress.", "answer": "text", "weight": 0.65}
+{"question": "Give this a listen, write it down, and throw ** around the words they stress.", "answer": "text", "weight": 0.6}
+{"question": "Transcribe it - stressed words in **, the rest as normal text.", "answer": "text", "weight": 0.75}
+{"question": "Listen to it and transcribe - stressed words in **, the rest as normal text.", "answer": "text", "weight": 0.7}
+{"question": "Transcribe this for me, and mark the words the speaker emphasizes.", "answer": "text", "weight": 0.85}
+{"question": "Have a listen and transcribe this for me, marking the words the speaker emphasizes.", "answer": "text", "weight": 0.8}
+{"question": "What'd they say? Write it out with the stressed words marked.", "answer": "text", "weight": 0.85}
+{"question": "Listen to this - what'd they say? Write it out with the stressed words marked.", "answer": "text", "weight": 0.8}
+{"question": "Quick transcript with the emphasis marked, please.", "answer": "text", "weight": 0.8}
+{"question": "Give it a quick listen and send the transcript with the emphasis marked.", "answer": "text", "weight": 0.75}
+{"question": "Type out the sentence and mark whichever words got emphasized.", "answer": "text", "weight": 0.75}
+{"question": "Listen to the clip, type out the sentence, and mark whichever words got emphasized.", "answer": "text", "weight": 0.7}
+{"question": "Just write out what they said, and mark where the emphasis lands.", "answer": "text", "weight": 0.75}
+{"question": "Listen through it and just write out what they said, marking where the emphasis lands.", "answer": "text", "weight": 0.7}
+{"question": "Transcribe this and point out the stressed words in the text itself.", "answer": "text", "weight": 0.7}
+{"question": "Listen to this, transcribe it, and point out the stressed words in the text itself.", "answer": "text", "weight": 0.65}
+{"question": "Which word or words does the speaker stress? List them, comma-separated.", "answer": "stressed_words(text)", "weight": 0.6}
+{"question": "Listen to the audio. Which word or words does the speaker stress? List them, comma-separated.", "answer": "stressed_words(text)", "weight": 0.55}
+{"question": "The speaker emphasizes part of this sentence. Which words are they? Comma-separated list, please.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "Listen to this. The speaker emphasizes part of the sentence - which words are they? Comma-separated list, please.", "answer": "stressed_words(text)", "weight": 0.45}
+{"question": "Can you tell me which words are emphasized here? Just the words, separated by commas.", "answer": "stressed_words(text)", "weight": 0.55}
+{"question": "Can you listen to this and tell me which words are emphasized? Just the words, separated by commas.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "List the stressed words in this utterance, comma-separated, in the order they are spoken.", "answer": "stressed_words(text)", "weight": 0.55}
+{"question": "Listen to the utterance and list the stressed words, comma-separated, in the order they are spoken.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "What words carry the emphasis? Answer with the words only, comma-separated.", "answer": "stressed_words(text)", "weight": 0.55}
+{"question": "After listening, tell me what words carry the emphasis. Answer with the words only, comma-separated.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "Name the stressed words in this clip, separated by commas.", "answer": "stressed_words(text)", "weight": 0.55}
+{"question": "Listen to this clip and name the stressed words, separated by commas.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "For my prosody annotation sheet I just need the emphasized words from this clip, comma-separated.", "answer": "stressed_words(text)", "weight": 0.35}
+{"question": "For my prosody annotation sheet, listen to this clip and give me just the emphasized words, comma-separated.", "answer": "stressed_words(text)", "weight": 0.3}
+{"question": "Which words did the speaker emphasize? Just list them, comma-separated.", "answer": "stressed_words(text)", "weight": 0.55}
+{"question": "Give it a listen - which words did the speaker emphasize? Just list them, comma-separated.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "Identify the words the speaker emphasizes in this utterance and list them, separated by commas.", "answer": "stressed_words(text)", "weight": 0.4}
+{"question": "Listen to the recording, identify the words the speaker emphasizes, and list them separated by commas.", "answer": "stressed_words(text)", "weight": 0.35}
+{"question": "Would you please list the words that receive sentence stress here, comma-separated?", "answer": "stressed_words(text)", "weight": 0.45}
+{"question": "Would you please listen to this and list the words that receive sentence stress, comma-separated?", "answer": "stressed_words(text)", "weight": 0.4}
+{"question": "Output only the stressed words, comma-separated. No transcript, no explanation.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "Listen to the audio and output only the stressed words, comma-separated. No transcript, no explanation.", "answer": "stressed_words(text)", "weight": 0.45}
+{"question": "Skip the full transcript - which words are stressed? Comma-separated.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "Listen to the clip and skip the full transcript - which words are stressed? Comma-separated.", "answer": "stressed_words(text)", "weight": 0.45}
+{"question": "Where is the emphasis in this sentence? Give the stressed words, comma-separated.", "answer": "stressed_words(text)", "weight": 0.55}
+{"question": "Listen to this sentence. Where is the emphasis? Give the stressed words, comma-separated.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "Tell me the emphasized words in this recording, separated by commas.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "Listen to this recording and tell me the emphasized words, separated by commas.", "answer": "stressed_words(text)", "weight": 0.45}
+{"question": "I only need the stressed words from this clip, comma-separated.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "Have a listen - I only need the stressed words from this clip, comma-separated.", "answer": "stressed_words(text)", "weight": 0.45}
+{"question": "Which words stand out as stressed? List them, comma-separated.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "Listen to the audio - which words stand out as stressed? List them, comma-separated.", "answer": "stressed_words(text)", "weight": 0.45}
+{"question": "Give me a comma-separated list of the words that receive extra emphasis.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "Listen to the clip and give me a comma-separated list of the words that receive extra emphasis.", "answer": "stressed_words(text)", "weight": 0.45}
+{"question": "Report the stressed words in this utterance as a comma-separated list, in spoken order.", "answer": "stressed_words(text)", "weight": 0.4}
+{"question": "Listen to this utterance and report the stressed words as a comma-separated list, in spoken order.", "answer": "stressed_words(text)", "weight": 0.35}
+{"question": "Could you extract just the emphasized words? Comma-separated, please.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "Could you listen to this and extract just the emphasized words? Comma-separated, please.", "answer": "stressed_words(text)", "weight": 0.45}
+{"question": "For each word the speaker stresses, write it down; separate them with commas.", "answer": "stressed_words(text)", "weight": 0.4}
+{"question": "Listen to the audio and, for each word the speaker stresses, write it down; separate them with commas.", "answer": "stressed_words(text)", "weight": 0.35}
+{"question": "Don't transcribe the whole thing - just the stressed words, comma-separated.", "answer": "stressed_words(text)", "weight": 0.5}
+{"question": "Listen to this, but don't transcribe the whole thing - just the stressed words, comma-separated.", "answer": "stressed_words(text)", "weight": 0.45}
+{"question": "Answer with the emphasized words only, in order, separated by commas.", "answer": "stressed_words(text)", "weight": 0.45}
+{"question": "After listening, answer with the emphasized words only, in order, separated by commas.", "answer": "stressed_words(text)", "weight": 0.4}
+{"question": "What are the stress-bearing words in this sentence? Comma-separated.", "answer": "stressed_words(text)", "weight": 0.45}
+{"question": "Listen to the sentence. What are the stress-bearing words? Comma-separated.", "answer": "stressed_words(text)", "weight": 0.4}
+{"question": "I'm scoring stress detection. Give me just the emphasized words from this clip, comma-separated.", "answer": "stressed_words(text)", "weight": 0.35}
+{"question": "I'm scoring stress detection. Listen to this clip and give me just the emphasized words, comma-separated.", "answer": "stressed_words(text)", "weight": 0.3}
+{"question": "List the stressed words in the format [word_1, word_2, ...].", "answer": "stressed_words_bracketed(text)", "weight": 0.3}
+{"question": "Listen to the audio and list the stressed words in the format [word_1, word_2, ...].", "answer": "stressed_words_bracketed(text)", "weight": 0.25}
+{"question": "Answer format: [stressed_word_1, ...]. Which words does the speaker stress?", "answer": "stressed_words_bracketed(text)", "weight": 0.28}
+{"question": "Listen to this recording. Answer format: [stressed_word_1, ...]. Which words does the speaker stress?", "answer": "stressed_words_bracketed(text)", "weight": 0.23}
+{"question": "Give the emphasized words as a bracketed list: [word, word, ...].", "answer": "stressed_words_bracketed(text)", "weight": 0.28}
+{"question": "Listen to the clip and give the emphasized words as a bracketed list: [word, word, ...].", "answer": "stressed_words_bracketed(text)", "weight": 0.23}
+{"question": "Which words are stressed? Reply in the form [word_1, word_2, ...] and nothing else.", "answer": "stressed_words_bracketed(text)", "weight": 0.25}
+{"question": "Listen to the audio. Which words are stressed? Reply in the form [word_1, word_2, ...] and nothing else.", "answer": "stressed_words_bracketed(text)", "weight": 0.2}
+{"question": "My parser reads a bracketed list. Return the stressed words as [word_1, word_2, ...].", "answer": "stressed_words_bracketed(text)", "weight": 0.22}
+{"question": "My parser reads a bracketed list. Listen to this and return the stressed words as [word_1, word_2, ...].", "answer": "stressed_words_bracketed(text)", "weight": 0.17}
+{"question": "Transcribe this utterance, writing any stressed word in ALL CAPS and everything else normally.", "answer": "mark_upper(text)", "weight": 0.3}
+{"question": "Listen to this utterance and transcribe it, writing any stressed word in ALL CAPS and everything else normally.", "answer": "mark_upper(text)", "weight": 0.25}
+{"question": "Give me the transcript with the emphasized words fully capitalized.", "answer": "mark_upper(text)", "weight": 0.25}
+{"question": "Listen to the clip and give me the transcript with the emphasized words fully capitalized.", "answer": "mark_upper(text)", "weight": 0.2}
+{"question": "I can't use markdown here. Transcribe this and put the stressed words in uppercase instead.", "answer": "mark_upper(text)", "weight": 0.2}
+{"question": "I can't use markdown here. Listen to this, transcribe it, and put the stressed words in uppercase instead.", "answer": "mark_upper(text)", "weight": 0.15}
+{"question": "Transcribe the sentence; put every stressed word in capital letters so the emphasis shows up in plain text.", "answer": "mark_upper(text)", "weight": 0.25}
+{"question": "Listen to the sentence and transcribe it; put every stressed word in capital letters so the emphasis shows up in plain text.", "answer": "mark_upper(text)", "weight": 0.2}
+{"question": "Write out the utterance with the stressed words in caps and the rest in normal case.", "answer": "mark_upper(text)", "weight": 0.22}
+{"question": "Listen to the audio and write out the utterance with the stressed words in caps and the rest in normal case.", "answer": "mark_upper(text)", "weight": 0.17}
+{"question": "Plain-text emphasis, please: transcribe this and uppercase the words that are stressed.", "answer": "mark_upper(text)", "weight": 0.22}
+{"question": "Plain-text emphasis, please: listen to this, transcribe it, and uppercase the words that are stressed.", "answer": "mark_upper(text)", "weight": 0.17}
+{"question": "Transcribe the audio and enclose each stressed word in square brackets, like [this].", "answer": "mark_brackets(text)", "weight": 0.25}
+{"question": "Listen to the audio, transcribe it, and enclose each stressed word in square brackets, like [this].", "answer": "mark_brackets(text)", "weight": 0.2}
+{"question": "My parser expects [word] for emphasis. Please transcribe this clip in that format.", "answer": "mark_brackets(text)", "weight": 0.18}
+{"question": "My parser expects [word] for emphasis. Listen to this clip and transcribe it in that format.", "answer": "mark_brackets(text)", "weight": 0.13}
+{"question": "Transcribe the sentence, putting square brackets around every emphasized word.", "answer": "mark_brackets(text)", "weight": 0.22}
+{"question": "Listen to the sentence and transcribe it, putting square brackets around every emphasized word.", "answer": "mark_brackets(text)", "weight": 0.17}
+{"question": "Give me the transcript with the stressed words in square brackets instead of asterisks.", "answer": "mark_brackets(text)", "weight": 0.2}
+{"question": "Listen to the recording and give me the transcript with the stressed words in square brackets instead of asterisks.", "answer": "mark_brackets(text)", "weight": 0.15}
+{"question": "Transcribe this and bracket the emphasized words: [word] for stressed, plain text otherwise.", "answer": "mark_brackets(text)", "weight": 0.18}
+{"question": "Listen to this and transcribe it, bracketing the emphasized words: [word] for stressed, plain text otherwise.", "answer": "mark_brackets(text)", "weight": 0.13}
+{"question": "Transcribe this and wrap the stressed words in <em> tags.", "answer": "mark_em(text)", "weight": 0.2}
+{"question": "Listen to this and transcribe it, wrapping the stressed words in <em> tags.", "answer": "mark_em(text)", "weight": 0.15}
+{"question": "I need HTML output: the transcript with each emphasized word inside <em>...</em>.", "answer": "mark_em(text)", "weight": 0.15}
+{"question": "I need HTML output. Listen to the audio and give me the transcript with each emphasized word inside <em>...</em>.", "answer": "mark_em(text)", "weight": 0.1}
+{"question": "Transcribe the utterance as HTML, using <em> around the words that carry emphasis.", "answer": "mark_em(text)", "weight": 0.18}
+{"question": "Listen to the utterance and transcribe it as HTML, using <em> around the words that carry emphasis.", "answer": "mark_em(text)", "weight": 0.13}
+{"question": "Render this transcript for the web: stressed words inside <em> tags, everything else plain.", "answer": "mark_em(text)", "weight": 0.15}
+{"question": "Listen to the clip and render the transcript for the web: stressed words inside <em> tags, everything else plain.", "answer": "mark_em(text)", "weight": 0.1}
+{"question": "Same transcript, but mark the emphasis with <em> tags rather than asterisks.", "answer": "mark_em(text)", "weight": 0.12}
+{"question": "Listen to the audio and transcribe it, marking the emphasis with <em> tags rather than asterisks.", "answer": "mark_em(text)", "weight": 0.08}
+{"question": "Transcribe the utterance using single asterisks (*word*) around the stressed words.", "answer": "mark_single_star(text)", "weight": 0.2}
+{"question": "Listen to the utterance and transcribe it using single asterisks (*word*) around the stressed words.", "answer": "mark_single_star(text)", "weight": 0.15}
+{"question": "Transcribe this with italic-style emphasis: one asterisk on each side of every stressed word.", "answer": "mark_single_star(text)", "weight": 0.15}
+{"question": "Listen to this and transcribe it with italic-style emphasis: one asterisk on each side of every stressed word.", "answer": "mark_single_star(text)", "weight": 0.1}
+{"question": "Give me the transcript, but use *single* asterisks for the emphasized words rather than double.", "answer": "mark_single_star(text)", "weight": 0.18}
+{"question": "Listen to the clip and give me the transcript, but use *single* asterisks for the emphasized words rather than double.", "answer": "mark_single_star(text)", "weight": 0.13}
+{"question": "Transcribe this clip and mark the stressed words with a single asterisk on each side.", "answer": "mark_single_star(text)", "weight": 0.15}
+{"question": "Listen to this clip, transcribe it, and mark the stressed words with a single asterisk on each side.", "answer": "mark_single_star(text)", "weight": 0.1}
+{"question": "Transcribe this clip, then list the stressed words. Format:\nTranscription: <sentence>\nStressed words: <comma-separated words>", "answer": "cascade_plain_then_stress(text)", "weight": 0.45}
+{"question": "Listen to this clip, transcribe it, then list the stressed words. Format:\nTranscription: <sentence>\nStressed words: <comma-separated words>", "answer": "cascade_plain_then_stress(text)", "weight": 0.4}
+{"question": "Give me two lines: the plain transcript on the first and the emphasized words on the second, labeled \"Transcription:\" and \"Stressed words:\".", "answer": "cascade_plain_then_stress(text)", "weight": 0.4}
+{"question": "Listen to the audio and give me two lines: the plain transcript on the first and the emphasized words on the second, labeled \"Transcription:\" and \"Stressed words:\".", "answer": "cascade_plain_then_stress(text)", "weight": 0.35}
+{"question": "For my annotation tool, output \"Transcription: ...\" with the unmarked sentence, then \"Stressed words: ...\" with the emphasized words comma-separated.", "answer": "cascade_plain_then_stress(text)", "weight": 0.32}
+{"question": "For my annotation tool, listen to this and output \"Transcription: ...\" with the unmarked sentence, then \"Stressed words: ...\" with the emphasized words comma-separated.", "answer": "cascade_plain_then_stress(text)", "weight": 0.27}
+{"question": "Write the sentence without any markup, then on the next line the stressed words. Use the labels \"Transcription:\" and \"Stressed words:\".", "answer": "cascade_plain_then_stress(text)", "weight": 0.38}
+{"question": "Listen to the recording, write the sentence without any markup, then on the next line the stressed words. Use the labels \"Transcription:\" and \"Stressed words:\".", "answer": "cascade_plain_then_stress(text)", "weight": 0.33}
+{"question": "I need the clean transcript and the emphasis separately. Format:\nTranscription: <sentence>\nStressed words: <comma-separated words>", "answer": "cascade_plain_then_stress(text)", "weight": 0.35}
+{"question": "Listen to the clip - I need the clean transcript and the emphasis separately. Format:\nTranscription: <sentence>\nStressed words: <comma-separated words>", "answer": "cascade_plain_then_stress(text)", "weight": 0.3}
+{"question": "Two lines please: \"Transcription:\" with the plain sentence, \"Stressed words:\" with the comma-separated emphasized words.", "answer": "cascade_plain_then_stress(text)", "weight": 0.35}
+{"question": "Give the audio a listen, then two lines please: \"Transcription:\" with the plain sentence, \"Stressed words:\" with the comma-separated emphasized words.", "answer": "cascade_plain_then_stress(text)", "weight": 0.3}
+{"question": "Separate the content from the prosody: line one \"Transcription:\" with no markup, line two \"Stressed words:\" comma-separated.", "answer": "cascade_plain_then_stress(text)", "weight": 0.3}
+{"question": "Listen to this and separate the content from the prosody: line one \"Transcription:\" with no markup, line two \"Stressed words:\" comma-separated.", "answer": "cascade_plain_then_stress(text)", "weight": 0.25}
+{"question": "Transcribe with ** around the stressed words, then repeat those words on a second line. Use the labels \"Transcription:\" and \"Stressed words:\".", "answer": "cascade_marked_then_stress(text)", "weight": 0.45}
+{"question": "Listen to the audio, transcribe with ** around the stressed words, then repeat those words on a second line. Use the labels \"Transcription:\" and \"Stressed words:\".", "answer": "cascade_marked_then_stress(text)", "weight": 0.4}
+{"question": "First the stress-marked transcript (** on emphasized words), then a summary of which words were stressed. Label the lines \"Transcription:\" and \"Stressed words:\".", "answer": "cascade_marked_then_stress(text)", "weight": 0.4}
+{"question": "Listen, then give the stress-marked transcript (** on emphasized words) followed by a summary of which words were stressed. Label the lines \"Transcription:\" and \"Stressed words:\".", "answer": "cascade_marked_then_stress(text)", "weight": 0.35}
+{"question": "Give me the marked transcript and a list of the stressed words. Format:\nTranscription: <sentence with ** on stressed words>\nStressed words: <comma-separated words>", "answer": "cascade_marked_then_stress(text)", "weight": 0.4}
+{"question": "Listen to this and give me the marked transcript and a list of the stressed words. Format:\nTranscription: <sentence with ** on stressed words>\nStressed words: <comma-separated words>", "answer": "cascade_marked_then_stress(text)", "weight": 0.35}
+{"question": "Output the transcript with the emphasis marked, then a second line listing the stressed words. Labels: \"Transcription:\" and \"Stressed words:\".", "answer": "cascade_marked_then_stress(text)", "weight": 0.38}
+{"question": "Listen to the clip and output the transcript with the emphasis marked, then a second line listing the stressed words. Labels: \"Transcription:\" and \"Stressed words:\".", "answer": "cascade_marked_then_stress(text)", "weight": 0.33}
+{"question": "Two-line answer: the stress-marked sentence after \"Transcription:\", and the emphasized words after \"Stressed words:\".", "answer": "cascade_marked_then_stress(text)", "weight": 0.38}
+{"question": "Listen to the audio. Two-line answer: the stress-marked sentence after \"Transcription:\", and the emphasized words after \"Stressed words:\".", "answer": "cascade_marked_then_stress(text)", "weight": 0.33}
+{"question": "Transcribe this and mark the stressed words inline with **, then restate those words on a \"Stressed words:\" line. Start the first line with \"Transcription:\".", "answer": "cascade_marked_then_stress(text)", "weight": 0.32}
+{"question": "Listen to this, transcribe it and mark the stressed words inline with **, then restate those words on a \"Stressed words:\" line. Start the first line with \"Transcription:\".", "answer": "cascade_marked_then_stress(text)", "weight": 0.27}
