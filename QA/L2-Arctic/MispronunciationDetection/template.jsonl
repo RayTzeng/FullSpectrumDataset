@@ -1,0 +1,294 @@
+{"question": "Script: \"{text}\". Identify the mispronounced phones in this recording. Give one line per word: `word: CANONICAL -> PRODUCED`.", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "Script: \"{text}\". Listen to this recording and identify the mispronounced phones. Give one line per word: `word: CANONICAL -> PRODUCED`.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "List the pronunciation errors grouped by word, in the form `word: AE -> AA`, writing dropped phones as `X deleted` and added ones as `Y inserted`.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Listen to the audio and list the pronunciation errors grouped by word, in the form `word: AE -> AA`, writing dropped phones as `X deleted` and added ones as `Y inserted`.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "The speaker is reading \"{text}\". Detect any mispronunciations and report them as `word: PHONE -> PHONE`, one word per line.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "The speaker is reading \"{text}\". Listen to this clip, detect any mispronunciations, and report them as `word: PHONE -> PHONE`, one word per line.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Reference text: \"{text}\". Report the phone-level errors in ARPABET, grouped by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Reference text: \"{text}\". Listen to the recording and report the phone-level errors in ARPABET, grouped by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Go through this utterance and flag any phones the speaker pronounced wrong. One line per word: `word: canonical -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Listen through this utterance and flag any phones the speaker pronounced wrong. One line per word: `word: canonical -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Mark the pronunciation errors word by word. Deletions read `X deleted`, insertions read `Y inserted`.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Listen to the audio and mark the pronunciation errors word by word. Deletions read `X deleted`, insertions read `Y inserted`.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Expected transcript: \"{text}\". Give me the mispronunciation report: each mispronounced word on its own line as `word: expected -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Expected transcript: \"{text}\". Listen to this and give me the mispronunciation report: each mispronounced word on its own line as `word: expected -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Check this non-native speech for phone errors and list them by word, using ARPABET symbols.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Listen to this non-native speech, check it for phone errors, and list them by word using ARPABET symbols.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Produce a word-by-word list of pronunciation errors. Separate multiple errors on the same word with a semicolon.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Listen to the clip and produce a word-by-word list of pronunciation errors. Separate multiple errors on the same word with a semicolon.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Annotate the phone-level errors as `word: CANONICAL -> PERCEIVED`, one line per word, in ARPABET.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Listen to the recording and annotate the phone-level errors as `word: CANONICAL -> PERCEIVED`, one line per word, in ARPABET.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "Identify any mispronunciations in this recording.", "answer": "group_by_word(mispronunciation)", "weight": 0.95}
+{"question": "Listen to this recording and identify any mispronunciations.", "answer": "group_by_word(mispronunciation)", "weight": 0.9}
+{"question": "The prompt was \"{text}\". List the pronunciation errors in this utterance, grouped by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.95}
+{"question": "The prompt was \"{text}\". Listen to this utterance and list the pronunciation errors, grouped by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.9}
+{"question": "Detect mispronunciations and report which words are affected and how.", "answer": "group_by_word(mispronunciation)", "weight": 0.9}
+{"question": "Listen to the audio, detect mispronunciations, and report which words are affected and how.", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "Target sentence: \"{text}\". Run mispronunciation detection on this clip.", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "Target sentence: \"{text}\". Listen to this clip and run mispronunciation detection on it.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Report any phone-level pronunciation errors, word by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "Listen to the recording and report any phone-level pronunciation errors, word by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "They were asked to read \"{text}\". Tell me which words this speaker mispronounced and what they said instead.", "answer": "group_by_word(mispronunciation)", "weight": 0.9}
+{"question": "They were asked to read \"{text}\". Listen to this and tell me which words the speaker mispronounced and what they said instead.", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "Find the pronunciation mistakes in this recording, if there are any.", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "Listen to this recording and find the pronunciation mistakes, if there are any.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Assess this speaker's pronunciation and list any errors by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Listen to the speaker and assess their pronunciation, listing any errors by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "This clip should say \"{text}\". Point out any words that were pronounced incorrectly, and how.", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "This clip should say \"{text}\". Listen to the clip and point out any words that were pronounced incorrectly, and how.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Give me a mispronunciation breakdown for this utterance.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Listen to this utterance and give me a mispronunciation breakdown.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "The sentence being read is \"{text}\". Which words are mispronounced, and which phones changed? Answer as `word: expected -> produced`, one per line.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "The sentence being read is \"{text}\". Listen to this. Which words are mispronounced, and which phones changed? Answer as `word: expected -> produced`, one per line.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Prompt: \"{text}\". What pronunciation errors does this speaker make? List them by word in ARPABET.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Prompt: \"{text}\". Listen to the recording. What pronunciation errors does this speaker make? List them by word in ARPABET.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Which phones did the speaker substitute, drop, or add? Group them by word as `word: X -> Y`.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Listen to the audio. Which phones did the speaker substitute, drop, or add? Group them by word as `word: X -> Y`.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "What does a phone-level error analysis of this clip look like? One line per word: `word: canonical -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "After listening, what does a phone-level error analysis of this clip look like? One line per word: `word: canonical -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "What errors would a pronunciation scorer flag here? Report `word: PHONE -> PHONE` per line.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Listen to this clip. What errors would a pronunciation scorer flag? Report `word: PHONE -> PHONE` per line.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "Which words contain phone errors, and what are they? Use `word: expected -> produced`, with semicolons between multiple errors on one word.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Listen and tell me which words contain phone errors and what they are. Use `word: expected -> produced`, with semicolons between multiple errors on one word.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "The speaker was given the line \"{text}\". Which words did the speaker mispronounce, and how?", "answer": "group_by_word(mispronunciation)", "weight": 0.95}
+{"question": "The speaker was given the line \"{text}\". Listen to this. Which words did the speaker mispronounce, and how?", "answer": "group_by_word(mispronunciation)", "weight": 0.9}
+{"question": "What did this speaker get wrong, pronunciation-wise?", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "Listen to the recording. What did this speaker get wrong, pronunciation-wise?", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Canonical transcript: \"{text}\". Where does the pronunciation go wrong in this utterance?", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "Canonical transcript: \"{text}\". Listen to this utterance. Where does the pronunciation go wrong?", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Are there any mispronunciations here? If so, which words and which phones?", "answer": "group_by_word(mispronunciation)", "weight": 0.9}
+{"question": "Listen to the clip. Are there any mispronunciations? If so, which words and which phones?", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "How accurate is this speaker's pronunciation? List any word-level errors.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Listen to the speaker. How accurate is their pronunciation? List any word-level errors.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "The intended utterance is \"{text}\". Which phones did the speaker miss, and in what words?", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "The intended utterance is \"{text}\". Listen to this recording. Which phones did the speaker miss, and in what words?", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "What pronunciation feedback would you give on this recording? List it by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Listen to this recording. What pronunciation feedback would you give? List it by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Ground truth: \"{text}\". Can you list the mispronounced phones here, grouped by word as `word: X -> Y`?", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Ground truth: \"{text}\". Can you listen to this and list the mispronounced phones, grouped by word as `word: X -> Y`?", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Could you check this for pronunciation errors and report them as `word: canonical -> produced`?", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Could you listen to this, check it for pronunciation errors, and report them as `word: canonical -> produced`?", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Can you run phone-level error detection and give me one line per mispronounced word?", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Can you listen to this, run phone-level error detection, and give me one line per mispronounced word?", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Can you annotate the pronunciation errors word by word, in ARPABET?", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Can you listen to the audio and annotate the pronunciation errors word by word, in ARPABET?", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "Here is the reference sentence: \"{text}\". Can you detect any mispronunciations in this recording?", "answer": "group_by_word(mispronunciation)", "weight": 0.95}
+{"question": "Here is the reference sentence: \"{text}\". Can you listen to this recording and detect any mispronunciations?", "answer": "group_by_word(mispronunciation)", "weight": 0.9}
+{"question": "The text on the prompt card reads \"{text}\". Could you tell me which words were mispronounced and how?", "answer": "group_by_word(mispronunciation)", "weight": 0.9}
+{"question": "The text on the prompt card reads \"{text}\". Could you listen to this and tell me which words were mispronounced and how?", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "Are you able to identify pronunciation errors in this speech?", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Are you able to listen to this speech and identify pronunciation errors?", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "They are reading \"{text}\". I need to know which words this learner mispronounced - can you check?", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "They are reading \"{text}\". I need to know which words this learner mispronounced - can you give it a listen and check?", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Would you mind checking this recording for pronunciation mistakes?", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Would you mind listening to this recording and checking it for pronunciation mistakes?", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Help me spot the pronunciation errors in this clip.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Listen to this clip and help me spot the pronunciation errors.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Would you please list the pronunciation errors, grouped by word as `word: expected -> produced`?", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Would you please listen to this and list the pronunciation errors, grouped by word as `word: expected -> produced`?", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "I would appreciate a phone-level error report for this clip, one line per mispronounced word.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "I would appreciate it if you listened to this clip and gave me a phone-level error report, one line per mispronounced word.", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "Script: \"{text}\". Please provide the mispronunciation annotations grouped by word, using ARPABET phones.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "Script: \"{text}\". Please listen to the recording and provide the mispronunciation annotations grouped by word, using ARPABET phones.", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "Please report each mispronounced word on its own line as `word: canonical -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Please listen to the audio and report each mispronounced word on its own line as `word: canonical -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "The reference transcript is \"{text}\". Would you please identify any mispronunciations in this utterance?", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "The reference transcript is \"{text}\". Would you please listen to this utterance and identify any mispronunciations?", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Kindly review this recording for pronunciation errors.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Kindly listen to this recording and review it for pronunciation errors.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "If you don't mind, go through this and note any words that were mispronounced.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "If you don't mind, give this a listen and note any words that were mispronounced.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "The recording is a reading of \"{text}\". Could I get a pronunciation error report for this recording, please?", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "The recording is a reading of \"{text}\". Could you listen to this recording and get me a pronunciation error report, please?", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Report any phone-level errors by word: `word: X -> Y`.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Listen for phone-level errors and report them by word: `word: X -> Y`.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Produce a word-by-word pronunciation error list in ARPABET.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Listen carefully and produce a word-by-word pronunciation error list in ARPABET.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "They were given the sentence \"{text}\". This is a learner recording. List any phone errors as `word: expected -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "They were given the sentence \"{text}\". Listen to this learner recording and list any phone errors as `word: expected -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Compare what was produced against the canonical pronunciation and report the differences per word.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Listen to the audio, compare what was produced against the canonical pronunciation, and report the differences per word.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "Pay attention to the speaker's articulation and note any mispronounced words.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Listen closely to the speaker's articulation and note any mispronounced words.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Attend to the articulation and list any words pronounced incorrectly.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Listen closely to the articulation and list any words pronounced incorrectly.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "The script reads \"{text}\". This is non-native English. Note any mispronunciations, word by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "The script reads \"{text}\". Listen to this non-native English speech and note any mispronunciations, word by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Reference text: \"{text}\". Check the speaker's pronunciation against standard American English and list any errors by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Reference text: \"{text}\". Listen to the speaker and check their pronunciation against standard American English, listing any errors by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Review this clip and tell me which words are pronounced incorrectly.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Give this clip a careful listen and tell me which words are pronounced incorrectly.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "I'm building a pronunciation-feedback tool. Return the errors as `word: canonical -> produced`, one line per word. The reference text is \"{text}\".", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "I'm building a pronunciation-feedback tool. Listen to this clip and return the errors as `word: canonical -> produced`, one line per word. The reference text is \"{text}\".", "answer": "group_by_word(mispronunciation)", "weight": 0.4}
+{"question": "For our CALL system, output the phone errors grouped by word in ARPABET.", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "For our CALL system, listen to this recording and output the phone errors grouped by word in ARPABET.", "answer": "group_by_word(mispronunciation)", "weight": 0.4}
+{"question": "I'm annotating L2 speech. Please give the per-word phone errors as `word: X -> Y`.", "answer": "group_by_word(mispronunciation)", "weight": 0.4}
+{"question": "I'm annotating L2 speech. Please listen to this and give the per-word phone errors as `word: X -> Y`.", "answer": "group_by_word(mispronunciation)", "weight": 0.35}
+{"question": "My pipeline expects one `word: expected -> produced` line per mispronounced word. Please check this clip for pronunciation errors.", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "My pipeline expects one `word: expected -> produced` line per mispronounced word. Please listen to this clip and check its pronunciation.", "answer": "group_by_word(mispronunciation)", "weight": 0.4}
+{"question": "For phonetics coursework, report the substitution, deletion, and addition errors by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.35}
+{"question": "For phonetics coursework, listen to this recording and report the substitution, deletion, and addition errors by word.", "answer": "group_by_word(mispronunciation)", "weight": 0.3}
+{"question": "I'm evaluating a mispronunciation detection model. Give me the reference errors for this clip.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "I'm evaluating a mispronunciation detection model. Listen to this clip and give me the reference errors.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "We're scoring L2 English pronunciation. List the errors in this recording. The script reads \"{text}\".", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "We're scoring L2 English pronunciation. Listen to this recording and list the errors. The script reads \"{text}\".", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "For a pronunciation-training app, tell me which words this learner needs to practice and why.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "For a pronunciation-training app, listen to this and tell me which words this learner needs to practice and why.", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "I'm preparing feedback for an English learner. What pronunciation errors are in this recording? They were reading \"{text}\".", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "I'm preparing feedback for an English learner. Listen to this recording - what pronunciation errors are in it? They were reading \"{text}\".", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "We're building a pronunciation assessment dataset. Report the errors in this utterance.", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "We're building a pronunciation assessment dataset. Listen to this utterance and report the errors.", "answer": "group_by_word(mispronunciation)", "weight": 0.4}
+{"question": "I teach ESL and need to know which words this student pronounced incorrectly in this recording. The prompt they read was \"{text}\".", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "I teach ESL - please listen to this recording and tell me which words this student pronounced incorrectly. The prompt they read was \"{text}\".", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "Script: \"{text}\". Return only the pronunciation error lines, `word: canonical -> produced`, nothing else.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Script: \"{text}\". Listen to the audio and return only the pronunciation error lines, `word: canonical -> produced`, nothing else.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Target sentence: \"{text}\". One line per mispronounced word. No commentary.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Target sentence: \"{text}\". Listen to this and give one line per mispronounced word. No commentary.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Reference: \"{text}\". Report every mispronounced word in this recording. Output format: `word: PHONE -> PHONE`, with `X deleted` and `Y inserted` for dropped and added phones. Nothing else.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Reference: \"{text}\". Listen to the clip and report every mispronounced word. Output format: `word: PHONE -> PHONE`, with `X deleted` and `Y inserted` for dropped and added phones. Nothing else.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "List the pronunciation errors only, in ARPABET, one mispronounced word per line. If a word has several errors, join them with semicolons.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "Listen to the recording and list the pronunciation errors only, in ARPABET, one mispronounced word per line. If a word has several errors, join them with semicolons.", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "Plain text, one line for each mispronounced word: the word, a colon, then the phone change.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "Listen to the audio. Plain text, one line for each mispronounced word: the word, a colon, then the phone change.", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "Answer with the per-word pronunciation error list alone. Use ARPABET symbols.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "Listen to this and answer with the per-word pronunciation error list alone. Use ARPABET symbols.", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "The speaker is reading \"{text}\". Just the pronunciation errors, grouped by word. No explanation.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "The speaker is reading \"{text}\". Listen to the clip and give me just the pronunciation errors, grouped by word. No explanation.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Give me the pronunciation errors and nothing more.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Listen to this and give me the pronunciation errors and nothing more.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Report the mispronunciations only - skip any preamble.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Listen to the recording and report the mispronunciations only - skip any preamble.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "The line is \"{text}\". What did they mispronounce here?", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "The line is \"{text}\". Have a listen - what did they mispronounce here?", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "They are reading \"{text}\". Any pronunciation errors in this one?", "answer": "group_by_word(mispronunciation)", "weight": 0.9}
+{"question": "They are reading \"{text}\". Give this a listen - any pronunciation errors?", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "Where's the pronunciation off in this clip?", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Listen to this clip - where's the pronunciation off?", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "They were supposed to say \"{text}\". Did they pronounce everything correctly? If not, which words?", "answer": "group_by_word(mispronunciation)", "weight": 0.85}
+{"question": "They were supposed to say \"{text}\". Listen to this. Did they pronounce everything correctly? If not, which words?", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Script: \"{text}\". Run a quick pronunciation check on this.", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Script: \"{text}\". Give this a quick listen and check the pronunciation.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Anything wrong with how they pronounced this?", "answer": "group_by_word(mispronunciation)", "weight": 0.8}
+{"question": "Listen to the clip - anything wrong with how they pronounced it?", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "How's their pronunciation here? List any words with errors.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Listen to this - how's their pronunciation? List any words with errors.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Quick check - which words were pronounced wrong? Use `word: expected -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Quick listen - which words were pronounced wrong? Use `word: expected -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Just list the mispronounced phones by word: `word: X -> Y`.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Listen to this and just list the mispronounced phones by word: `word: X -> Y`.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Quick one: per-word phone errors, `word: X -> Y`.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Quick one - give it a listen and send the per-word phone errors, `word: X -> Y`.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "The speaker is reading: \"{text}\" Which phones did they get wrong? One line per word: `word: expected -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "The speaker is reading: \"{text}\" Listen to the audio - which phones did they get wrong? One line per word: `word: expected -> produced`.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Reference text: \"{text}\" Report phone-level errors grouped by word, in ARPABET.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Reference text: \"{text}\" Listen to the recording and report phone-level errors grouped by word, in ARPABET.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Compare the audio against this transcript - \"{text}\" - and list per-word phone errors as `word: X -> Y`.", "answer": "group_by_word(mispronunciation)", "weight": 0.55}
+{"question": "Listen to the audio, compare it against this transcript - \"{text}\" - and list per-word phone errors as `word: X -> Y`.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "Given the reference \"{text}\", produce the mispronunciation annotations, one line per mispronounced word.", "answer": "group_by_word(mispronunciation)", "weight": 0.5}
+{"question": "Listen to the clip and, given the reference \"{text}\", produce the mispronunciation annotations, one line per mispronounced word.", "answer": "group_by_word(mispronunciation)", "weight": 0.45}
+{"question": "Target sentence: \"{text}\" Identify any mispronunciations.", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "Target sentence: \"{text}\" Listen to the recording and identify any mispronunciations.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "The prompt was \"{text}\". Which words did the speaker mispronounce, and how?", "answer": "group_by_word(mispronunciation)", "weight": 0.75}
+{"question": "The prompt was \"{text}\". Listen to the audio - which words did the speaker mispronounce, and how?", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "They were asked to read \"{text}\". Check their pronunciation.", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "They were asked to read \"{text}\". Listen to the recording and check their pronunciation.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Here's what they were supposed to say: \"{text}\" Which words did they pronounce wrong?", "answer": "group_by_word(mispronunciation)", "weight": 0.7}
+{"question": "Here's what they were supposed to say: \"{text}\" Listen to the clip - which words did they pronounce wrong?", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "The learner read \"{text}\". Where did their pronunciation deviate?", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "The learner read \"{text}\". Listen to the audio - where did their pronunciation deviate?", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "Script: \"{text}\". Note any words pronounced incorrectly.", "answer": "group_by_word(mispronunciation)", "weight": 0.65}
+{"question": "Script: \"{text}\". Listen to the recording and note any words pronounced incorrectly.", "answer": "group_by_word(mispronunciation)", "weight": 0.6}
+{"question": "The prompt was \"{text}\". List every pronunciation error on its own line as `word: CANONICAL -> PRODUCED (error type)`.", "answer": "arrow_lines(mispronunciation)", "weight": 0.6}
+{"question": "The prompt was \"{text}\". Listen to this and list every pronunciation error on its own line as `word: CANONICAL -> PRODUCED (error type)`.", "answer": "arrow_lines(mispronunciation)", "weight": 0.55}
+{"question": "Report each phone error separately, tagged by type: `word: X -> Y (substitution)`, `word: X deleted (deletion)`, `word: Y inserted (addition)`.", "answer": "arrow_lines(mispronunciation)", "weight": 0.55}
+{"question": "Listen to the audio and report each phone error separately, tagged by type: `word: X -> Y (substitution)`, `word: X deleted (deletion)`, `word: Y inserted (addition)`.", "answer": "arrow_lines(mispronunciation)", "weight": 0.5}
+{"question": "Give me one line per pronunciation error, including the error type in parentheses.", "answer": "arrow_lines(mispronunciation)", "weight": 0.55}
+{"question": "Listen to the clip and give me one line per pronunciation error, including the error type in parentheses.", "answer": "arrow_lines(mispronunciation)", "weight": 0.5}
+{"question": "Reference text: \"{text}\". Which pronunciation errors occurred? One per line, labeled substitution, deletion, or addition.", "answer": "arrow_lines(mispronunciation)", "weight": 0.5}
+{"question": "Reference text: \"{text}\". Listen to this recording. Which pronunciation errors occurred? One per line, labeled substitution, deletion, or addition.", "answer": "arrow_lines(mispronunciation)", "weight": 0.45}
+{"question": "Expected transcript: \"{text}\". Detect the mispronunciations and classify each one. Format: `word: phone change (type)`, one error per line.", "answer": "arrow_lines(mispronunciation)", "weight": 0.5}
+{"question": "Expected transcript: \"{text}\". Listen to the audio, detect the mispronunciations, and classify each one. Format: `word: phone change (type)`, one error per line.", "answer": "arrow_lines(mispronunciation)", "weight": 0.45}
+{"question": "I need each pronunciation error typed. Use `word: X -> Y (substitution)`, `word: X deleted (deletion)`, or `word: Y inserted (addition)`.", "answer": "arrow_lines(mispronunciation)", "weight": 0.45}
+{"question": "Listen to this clip. I need each pronunciation error typed: `word: X -> Y (substitution)`, `word: X deleted (deletion)`, or `word: Y inserted (addition)`.", "answer": "arrow_lines(mispronunciation)", "weight": 0.4}
+{"question": "List the pronunciation errors with their categories, one per line - no timestamps.", "answer": "arrow_lines(mispronunciation)", "weight": 0.45}
+{"question": "Listen to the recording and list the pronunciation errors with their categories, one per line - no timestamps.", "answer": "arrow_lines(mispronunciation)", "weight": 0.4}
+{"question": "The speaker is reading \"{text}\". For each phone error, give the word, the change, and whether it's a substitution, deletion, or addition.", "answer": "arrow_lines(mispronunciation)", "weight": 0.5}
+{"question": "The speaker is reading \"{text}\". Listen to this and, for each phone error, give the word, the change, and whether it's a substitution, deletion, or addition.", "answer": "arrow_lines(mispronunciation)", "weight": 0.45}
+{"question": "Can you list every phone error separately, with its type in parentheses?", "answer": "arrow_lines(mispronunciation)", "weight": 0.5}
+{"question": "Can you listen to this and list every phone error separately, with its type in parentheses?", "answer": "arrow_lines(mispronunciation)", "weight": 0.45}
+{"question": "Would you please report each pronunciation error on its own line, tagged with its error type?", "answer": "arrow_lines(mispronunciation)", "weight": 0.45}
+{"question": "Would you please listen to this and report each pronunciation error on its own line, tagged with its error type?", "answer": "arrow_lines(mispronunciation)", "weight": 0.4}
+{"question": "For my error-type statistics, list each mispronunciation with its category: `word: X -> Y (substitution)`.", "answer": "arrow_lines(mispronunciation)", "weight": 0.35}
+{"question": "For my error-type statistics, listen to this clip and list each mispronunciation with its category: `word: X -> Y (substitution)`.", "answer": "arrow_lines(mispronunciation)", "weight": 0.3}
+{"question": "Break the pronunciation errors out one per line and label each as substitution, deletion, or addition. The intended sentence was \"{text}\".", "answer": "arrow_lines(mispronunciation)", "weight": 0.45}
+{"question": "Listen to the audio, break the pronunciation errors out one per line, and label each as substitution, deletion, or addition. The intended sentence was \"{text}\".", "answer": "arrow_lines(mispronunciation)", "weight": 0.4}
+{"question": "Quick list of pronunciation errors: word, phone change, and type.", "answer": "arrow_lines(mispronunciation)", "weight": 0.45}
+{"question": "Give this a listen and send a quick list of pronunciation errors: word, phone change, and type.", "answer": "arrow_lines(mispronunciation)", "weight": 0.4}
+{"question": "Output one line per pronunciation error: `word: canonical -> produced (type)`. Nothing else.", "answer": "arrow_lines(mispronunciation)", "weight": 0.45}
+{"question": "Listen to the clip and output one line per pronunciation error: `word: canonical -> produced (type)`. Nothing else.", "answer": "arrow_lines(mispronunciation)", "weight": 0.4}
+{"question": "The speaker read \"{text}\". List each phone error on its own line with its type.", "answer": "arrow_lines(mispronunciation)", "weight": 0.4}
+{"question": "The speaker read \"{text}\". Listen to the audio and list each phone error on its own line with its type.", "answer": "arrow_lines(mispronunciation)", "weight": 0.35}
+{"question": "They were asked to read \"{text}\". Which words did the speaker mispronounce? List just the words, comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.55}
+{"question": "They were asked to read \"{text}\". Listen to this. Which words did the speaker mispronounce? List just the words, comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.5}
+{"question": "The prompt was \"{text}\". Name the mispronounced words in this utterance, separated by commas.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.5}
+{"question": "The prompt was \"{text}\". Listen to this utterance and name the mispronounced words, separated by commas.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "I only need the mispronounced words, comma-separated - no phone details.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.5}
+{"question": "Listen to the clip. I only need the mispronounced words, comma-separated - no phone details.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "List the words containing pronunciation errors, in the order they are spoken.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "Listen to the recording and list the words containing pronunciation errors, in the order they are spoken.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.4}
+{"question": "Which words were pronounced incorrectly and need practice? Just the words, comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.5}
+{"question": "Listen to this - which words were pronounced incorrectly and need practice? Just the words, comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "Script: \"{text}\". Give me a comma-separated list of the mispronounced words.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.5}
+{"question": "Script: \"{text}\". Listen to the audio and give me a comma-separated list of the mispronounced words.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "Skip the phone details - which words were pronounced wrong? Comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.5}
+{"question": "Listen to this and skip the phone details - which words were pronounced wrong? Comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "Can you tell me which words were mispronounced? Words only, comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.5}
+{"question": "Can you listen to this and tell me which words were mispronounced? Words only, comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "Output only the mispronounced words, comma-separated. No error types, no timestamps.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "Listen to the recording and output only the mispronounced words, comma-separated. No error types, no timestamps.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.4}
+{"question": "Would you please list the words with pronunciation errors, comma-separated?", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "Would you please listen to this and list the words with pronunciation errors, comma-separated?", "answer": "mispronounced_words(mispronunciation)", "weight": 0.4}
+{"question": "For a vocabulary drill, tell me which words this learner mispronounced.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.35}
+{"question": "For a vocabulary drill, listen to this recording and tell me which words this learner mispronounced.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.3}
+{"question": "Which words in this recording have phone errors? Comma-separated list.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "Listen to this recording. Which words have phone errors? Comma-separated list.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.4}
+{"question": "Any words pronounced incorrectly? Just name them, comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.5}
+{"question": "Give this a listen - any words pronounced incorrectly? Just name them, comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "The speaker read \"{text}\". Which of those words did they mispronounce? Comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "The speaker read \"{text}\". Listen to the audio - which of those words did they mispronounce? Comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.4}
+{"question": "I'm highlighting problem words in a transcript - which ones were mispronounced? Comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.35}
+{"question": "I'm highlighting problem words in a transcript. Listen to this clip - which ones were mispronounced? Comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.3}
+{"question": "List the mispronounced words, comma-separated, in spoken order. The canonical transcript is \"{text}\".", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "Listen to the audio and list the mispronounced words, comma-separated, in spoken order. The canonical transcript is \"{text}\".", "answer": "mispronounced_words(mispronunciation)", "weight": 0.4}
+{"question": "Just the mispronounced words, please - comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.45}
+{"question": "Listen to this and give me just the mispronounced words - comma-separated.", "answer": "mispronounced_words(mispronunciation)", "weight": 0.4}
+{"question": "The learner read \"{text}\". Explain the pronunciation errors in full sentences.", "answer": "prose_feedback(mispronunciation)", "weight": 0.5}
+{"question": "The learner read \"{text}\". Listen to this recording and explain the pronunciation errors in full sentences.", "answer": "prose_feedback(mispronunciation)", "weight": 0.45}
+{"question": "Describe the speaker's pronunciation errors in prose.", "answer": "prose_feedback(mispronunciation)", "weight": 0.5}
+{"question": "Listen to the audio and describe the speaker's pronunciation errors in prose.", "answer": "prose_feedback(mispronunciation)", "weight": 0.45}
+{"question": "Write feedback for this learner, explaining each pronunciation error in a sentence. The sentence they read was \"{text}\".", "answer": "prose_feedback(mispronunciation)", "weight": 0.45}
+{"question": "Listen to this learner's recording and write feedback explaining each pronunciation error in a sentence. The sentence they read was \"{text}\".", "answer": "prose_feedback(mispronunciation)", "weight": 0.4}
+{"question": "Summarize the phone errors in sentence form, one sentence per error.", "answer": "prose_feedback(mispronunciation)", "weight": 0.45}
+{"question": "Listen to the clip and summarize the phone errors in sentence form, one sentence per error.", "answer": "prose_feedback(mispronunciation)", "weight": 0.4}
+{"question": "How would you explain these pronunciation mistakes to the speaker? Use complete sentences.", "answer": "prose_feedback(mispronunciation)", "weight": 0.4}
+{"question": "Listen to this. How would you explain the pronunciation mistakes to the speaker? Use complete sentences.", "answer": "prose_feedback(mispronunciation)", "weight": 0.35}
+{"question": "Give me the pronunciation error analysis in prose rather than a list.", "answer": "prose_feedback(mispronunciation)", "weight": 0.45}
+{"question": "Listen to the recording and give me the pronunciation error analysis in prose rather than a list.", "answer": "prose_feedback(mispronunciation)", "weight": 0.4}
+{"question": "Could you describe each mispronunciation in a sentence?", "answer": "prose_feedback(mispronunciation)", "weight": 0.45}
+{"question": "Could you listen to this and describe each mispronunciation in a sentence?", "answer": "prose_feedback(mispronunciation)", "weight": 0.4}
+{"question": "I'm writing a feedback email to a student. Describe their pronunciation errors in sentences.", "answer": "prose_feedback(mispronunciation)", "weight": 0.35}
+{"question": "I'm writing a feedback email to a student. Listen to this recording and describe their pronunciation errors in sentences.", "answer": "prose_feedback(mispronunciation)", "weight": 0.3}
+{"question": "In plain sentences, what did this speaker mispronounce?", "answer": "prose_feedback(mispronunciation)", "weight": 0.45}
+{"question": "Listen to this. In plain sentences, what did the speaker mispronounce?", "answer": "prose_feedback(mispronunciation)", "weight": 0.4}
+{"question": "Write out the pronunciation errors as sentences, mentioning the word and the phones involved.", "answer": "prose_feedback(mispronunciation)", "weight": 0.4}
+{"question": "Listen to the audio and write out the pronunciation errors as sentences, mentioning the word and the phones involved.", "answer": "prose_feedback(mispronunciation)", "weight": 0.35}
+{"question": "Please explain, sentence by sentence, which phones were wrong in which words.", "answer": "prose_feedback(mispronunciation)", "weight": 0.35}
+{"question": "Please listen to this and explain, sentence by sentence, which phones were wrong in which words.", "answer": "prose_feedback(mispronunciation)", "weight": 0.3}
+{"question": "For a tutoring report, describe this speaker's pronunciation errors in prose.", "answer": "prose_feedback(mispronunciation)", "weight": 0.35}
+{"question": "For a tutoring report, listen to this recording and describe the speaker's pronunciation errors in prose.", "answer": "prose_feedback(mispronunciation)", "weight": 0.3}
+{"question": "Can you walk me through the pronunciation errors in sentence form?", "answer": "prose_feedback(mispronunciation)", "weight": 0.4}
+{"question": "Can you listen to this and walk me through the pronunciation errors in sentence form?", "answer": "prose_feedback(mispronunciation)", "weight": 0.35}
+{"question": "The learner read \"{text}\". Describe their pronunciation errors in complete sentences.", "answer": "prose_feedback(mispronunciation)", "weight": 0.35}
+{"question": "The learner read \"{text}\". Listen to the recording and describe their pronunciation errors in complete sentences.", "answer": "prose_feedback(mispronunciation)", "weight": 0.3}
+{"question": "Give the pronunciation errors as prose feedback, one sentence each.", "answer": "prose_feedback(mispronunciation)", "weight": 0.4}
+{"question": "Listen to the clip and give the pronunciation errors as prose feedback, one sentence each.", "answer": "prose_feedback(mispronunciation)", "weight": 0.35}
