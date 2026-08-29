@@ -1,0 +1,280 @@
+{"template_id": "mtasr_direct_001a", "question": "Transcribe this meeting segment and label who is speaking.", "answer": "transcript", "weight": 0.95}
+{"template_id": "mtasr_direct_001b", "question": "Listen to this meeting segment and transcribe it with speaker labels.", "answer": "transcript", "weight": 0.95}
+{"template_id": "mtasr_direct_002a", "question": "Write out this conversation with each speaker's turns labeled.", "answer": "transcript", "weight": 0.9}
+{"template_id": "mtasr_direct_002b", "question": "Listen to the recording and write out the conversation with each speaker's turns labeled.", "answer": "transcript", "weight": 0.9}
+{"template_id": "mtasr_direct_003a", "question": "Give me a speaker-attributed transcript of this audio.", "answer": "transcript", "weight": 0.92}
+{"template_id": "mtasr_direct_003b", "question": "Listen to this audio and give me a speaker-attributed transcript.", "answer": "transcript", "weight": 0.92}
+{"template_id": "mtasr_direct_004a", "question": "Transcribe the discussion in this recording, one line per speaker turn.", "answer": "transcript", "weight": 0.86}
+{"template_id": "mtasr_direct_004b", "question": "After listening to the discussion, transcribe it with one line per speaker turn.", "answer": "transcript", "weight": 0.86}
+{"template_id": "mtasr_direct_005a", "question": "Produce a turn-by-turn transcript of this clip with speaker tags.", "answer": "transcript", "weight": 0.84}
+{"template_id": "mtasr_direct_005b", "question": "Listen through this clip and produce a turn-by-turn transcript with speaker tags.", "answer": "transcript", "weight": 0.84}
+{"template_id": "mtasr_direct_006a", "question": "Separate the speakers in this audio and transcribe what each of them says.", "answer": "transcript", "weight": 0.82}
+{"template_id": "mtasr_direct_006b", "question": "Listen to the audio, separate the speakers, and transcribe what each of them says.", "answer": "transcript", "weight": 0.82}
+{"template_id": "mtasr_direct_007a", "question": "Transcribe every speaker in this recording and keep their turns apart.", "answer": "transcript", "weight": 0.8}
+{"template_id": "mtasr_direct_007b", "question": "Listen to this recording, transcribe every speaker, and keep their turns apart.", "answer": "transcript", "weight": 0.8}
+{"template_id": "mtasr_direct_008a", "question": "Write the transcript of this meeting with speaker attribution.", "answer": "transcript", "weight": 0.88}
+{"template_id": "mtasr_direct_008b", "question": "Listen to this meeting and write the transcript with speaker attribution.", "answer": "transcript", "weight": 0.88}
+{"template_id": "mtasr_direct_009a", "question": "Convert this meeting audio into a transcript with a speaker label on every turn.", "answer": "transcript", "weight": 0.83}
+{"template_id": "mtasr_direct_009b", "question": "Listen to this meeting audio and convert it into a transcript with a speaker label on every turn.", "answer": "transcript", "weight": 0.83}
+{"template_id": "mtasr_direct_010a", "question": "Transcribe this multi-speaker clip and mark who says what.", "answer": "transcript", "weight": 0.87}
+{"template_id": "mtasr_direct_010b", "question": "Listen to this multi-speaker clip and mark who says what in the transcript.", "answer": "transcript", "weight": 0.87}
+{"template_id": "mtasr_direct_011a", "question": "Transcribe this recording in full, attributing each line to a speaker.", "answer": "transcript", "weight": 0.85}
+{"template_id": "mtasr_direct_011b", "question": "Listen to the whole recording and transcribe it, attributing each line to a speaker.", "answer": "transcript", "weight": 0.85}
+{"template_id": "mtasr_direct_012a", "question": "Transcribe the audio and prefix each turn with the speaker who said it.", "answer": "transcript", "weight": 0.81}
+{"template_id": "mtasr_direct_012b", "question": "Listen to the audio, transcribe it, and prefix each turn with the speaker who said it.", "answer": "transcript", "weight": 0.81}
+{"template_id": "mtasr_direct_013a", "question": "Break this recording into speaker turns and transcribe them.", "answer": "transcript", "weight": 0.79}
+{"template_id": "mtasr_direct_013b", "question": "Listen to this recording, break it into speaker turns, and transcribe them.", "answer": "transcript", "weight": 0.79}
+{"template_id": "mtasr_direct_014a", "question": "Write down everything said in this clip, keeping track of who said it.", "answer": "transcript", "weight": 0.86}
+{"template_id": "mtasr_direct_014b", "question": "Listen and write down everything said in this clip, keeping track of who said it.", "answer": "transcript", "weight": 0.86}
+{"template_id": "mtasr_direct_015a", "question": "Transcribe this English meeting with speaker labels.", "answer": "transcript", "weight": 0.93}
+{"template_id": "mtasr_direct_015b", "question": "Listen to this English meeting and transcribe it with speaker labels.", "answer": "transcript", "weight": 0.93}
+{"template_id": "mtasr_direct_016a", "question": "Do speaker-attributed transcription on this recording.", "answer": "transcript", "weight": 0.72}
+{"template_id": "mtasr_direct_016b", "question": "Listen to this recording and do speaker-attributed transcription on it.", "answer": "transcript", "weight": 0.72}
+{"template_id": "mtasr_direct_017a", "question": "Transcribe all the speech in this segment, labeling each speaker.", "answer": "transcript", "weight": 0.84}
+{"template_id": "mtasr_direct_017b", "question": "Listen to this segment and transcribe all the speech in it, labeling each speaker.", "answer": "transcript", "weight": 0.84}
+{"template_id": "mtasr_direct_018a", "question": "Generate the transcript of this meeting with a speaker label attached to every turn.", "answer": "transcript", "weight": 0.78}
+{"template_id": "mtasr_direct_018b", "question": "After listening to the meeting, generate its transcript with a speaker label attached to every turn.", "answer": "transcript", "weight": 0.78}
+{"template_id": "mtasr_wh_001a", "question": "Who says what in this recording?", "answer": "transcript", "weight": 0.96}
+{"template_id": "mtasr_wh_001b", "question": "Listen to this recording. Who says what?", "answer": "transcript", "weight": 0.96}
+{"template_id": "mtasr_wh_002a", "question": "What does each speaker say in this clip?", "answer": "transcript", "weight": 0.94}
+{"template_id": "mtasr_wh_002b", "question": "Listen to this clip. What does each speaker say?", "answer": "transcript", "weight": 0.94}
+{"template_id": "mtasr_wh_003a", "question": "What is said in this audio, and by which speaker?", "answer": "transcript", "weight": 0.88}
+{"template_id": "mtasr_wh_003b", "question": "After listening to the audio, what is said in it, and by which speaker?", "answer": "transcript", "weight": 0.88}
+{"template_id": "mtasr_wh_004a", "question": "Which speaker says which line in this meeting?", "answer": "transcript", "weight": 0.9}
+{"template_id": "mtasr_wh_004b", "question": "Listen to this meeting. Which speaker says which line?", "answer": "transcript", "weight": 0.9}
+{"template_id": "mtasr_wh_005a", "question": "What's the speaker-labeled transcript of this audio?", "answer": "transcript", "weight": 0.86}
+{"template_id": "mtasr_wh_005b", "question": "Listen to the audio first. What's its speaker-labeled transcript?", "answer": "transcript", "weight": 0.86}
+{"template_id": "mtasr_wh_006a", "question": "How does the conversation in this clip go, turn by turn with speaker labels?", "answer": "transcript", "weight": 0.82}
+{"template_id": "mtasr_wh_006b", "question": "Listen to the conversation in this clip. How does it go, turn by turn with speaker labels?", "answer": "transcript", "weight": 0.82}
+{"template_id": "mtasr_wh_007a", "question": "What are the speaker turns in this segment, and what is said in each one?", "answer": "transcript", "weight": 0.8}
+{"template_id": "mtasr_wh_007b", "question": "Listen to this segment. What are the speaker turns, and what is said in each one?", "answer": "transcript", "weight": 0.8}
+{"template_id": "mtasr_wh_008a", "question": "What did the people in this meeting say, and who said each part?", "answer": "transcript", "weight": 0.87}
+{"template_id": "mtasr_wh_008b", "question": "After listening to this meeting, what did the people say, and who said each part?", "answer": "transcript", "weight": 0.87}
+{"template_id": "mtasr_wh_009a", "question": "How would you transcribe this multi-speaker audio with speaker labels?", "answer": "transcript", "weight": 0.84}
+{"template_id": "mtasr_wh_009b", "question": "How would you transcribe this multi-speaker audio with speaker labels after listening to it?", "answer": "transcript", "weight": 0.84}
+{"template_id": "mtasr_wh_010a", "question": "What was spoken in this meeting? Give it as a transcript with a speaker label on each turn.", "answer": "transcript", "weight": 0.83}
+{"template_id": "mtasr_wh_010b", "question": "Listen to this meeting. What was spoken? Give it as a transcript with a speaker label on each turn.", "answer": "transcript", "weight": 0.83}
+{"template_id": "mtasr_wh_011a", "question": "Who is talking in this recording and what are they saying?", "answer": "transcript", "weight": 0.92}
+{"template_id": "mtasr_wh_011b", "question": "Listen to the recording. Who is talking and what are they saying?", "answer": "transcript", "weight": 0.92}
+{"template_id": "mtasr_wh_012a", "question": "What does the transcript of this meeting look like with the speakers marked?", "answer": "transcript", "weight": 0.79}
+{"template_id": "mtasr_wh_012b", "question": "Listen to the meeting. What does its transcript look like with the speakers marked?", "answer": "transcript", "weight": 0.79}
+{"template_id": "mtasr_wh_013a", "question": "Which lines of speech belong to which speaker in this audio?", "answer": "transcript", "weight": 0.85}
+{"template_id": "mtasr_wh_013b", "question": "Listen to this audio. Which lines of speech belong to which speaker?", "answer": "transcript", "weight": 0.85}
+{"template_id": "mtasr_wh_014a", "question": "What would a speaker-attributed transcript of this clip look like?", "answer": "transcript", "weight": 0.81}
+{"template_id": "mtasr_wh_014b", "question": "After listening to this clip, what would its speaker-attributed transcript look like?", "answer": "transcript", "weight": 0.81}
+{"template_id": "mtasr_canyou_001a", "question": "Can you transcribe this meeting and label the speakers?", "answer": "transcript", "weight": 0.93}
+{"template_id": "mtasr_canyou_001b", "question": "Can you listen to this meeting and transcribe it with the speakers labeled?", "answer": "transcript", "weight": 0.93}
+{"template_id": "mtasr_canyou_002a", "question": "Could you write out who said what in this recording?", "answer": "transcript", "weight": 0.89}
+{"template_id": "mtasr_canyou_002b", "question": "Could you listen to this recording and write out who said what?", "answer": "transcript", "weight": 0.89}
+{"template_id": "mtasr_canyou_003a", "question": "Can you transcribe this audio with each speaker's turns separated?", "answer": "transcript", "weight": 0.87}
+{"template_id": "mtasr_canyou_003b", "question": "Can you listen to the audio and transcribe it with each speaker's turns separated?", "answer": "transcript", "weight": 0.87}
+{"template_id": "mtasr_canyou_004a", "question": "Are you able to transcribe this conversation with speaker attribution?", "answer": "transcript", "weight": 0.8}
+{"template_id": "mtasr_canyou_004b", "question": "Are you able to listen to this conversation and transcribe it with speaker attribution?", "answer": "transcript", "weight": 0.8}
+{"template_id": "mtasr_canyou_005a", "question": "Could you produce a speaker-labeled transcript of this recording?", "answer": "transcript", "weight": 0.85}
+{"template_id": "mtasr_canyou_005b", "question": "Could you listen to this recording and produce a speaker-labeled transcript?", "answer": "transcript", "weight": 0.85}
+{"template_id": "mtasr_canyou_006a", "question": "I need this meeting transcribed with speaker labels. Can you help?", "answer": "transcript", "weight": 0.88}
+{"template_id": "mtasr_canyou_006b", "question": "I need this meeting transcribed with speaker labels. Can you listen to it and help?", "answer": "transcript", "weight": 0.88}
+{"template_id": "mtasr_canyou_007a", "question": "Can you tell me what each person says in this clip?", "answer": "transcript", "weight": 0.86}
+{"template_id": "mtasr_canyou_007b", "question": "Can you listen to this clip and tell me what each person says?", "answer": "transcript", "weight": 0.86}
+{"template_id": "mtasr_canyou_008a", "question": "Would you be able to split this recording into speaker turns and transcribe them?", "answer": "transcript", "weight": 0.78}
+{"template_id": "mtasr_canyou_008b", "question": "Would you be able to listen to this recording, split it into speaker turns, and transcribe them?", "answer": "transcript", "weight": 0.78}
+{"template_id": "mtasr_canyou_009a", "question": "Can you handle this multi-talker audio and transcribe it with speaker labels?", "answer": "transcript", "weight": 0.82}
+{"template_id": "mtasr_canyou_009b", "question": "Can you listen to this multi-talker audio and transcribe it with speaker labels?", "answer": "transcript", "weight": 0.82}
+{"template_id": "mtasr_canyou_010a", "question": "Is it possible to transcribe this recording turn by turn with speaker tags?", "answer": "transcript", "weight": 0.76}
+{"template_id": "mtasr_canyou_010b", "question": "Is it possible to listen to this recording and transcribe it turn by turn with speaker tags?", "answer": "transcript", "weight": 0.76}
+{"template_id": "mtasr_canyou_011a", "question": "Could you transcribe the English speech in this clip and mark each speaker?", "answer": "transcript", "weight": 0.84}
+{"template_id": "mtasr_canyou_011b", "question": "Could you listen to the English speech in this clip, transcribe it, and mark each speaker?", "answer": "transcript", "weight": 0.84}
+{"template_id": "mtasr_polite_001a", "question": "Please transcribe this meeting with speaker labels.", "answer": "transcript", "weight": 0.8}
+{"template_id": "mtasr_polite_001b", "question": "Please listen to this meeting and transcribe it with speaker labels.", "answer": "transcript", "weight": 0.8}
+{"template_id": "mtasr_polite_002a", "question": "Would you please provide a speaker-attributed transcript of this audio?", "answer": "transcript", "weight": 0.72}
+{"template_id": "mtasr_polite_002b", "question": "Would you please listen to this audio and provide a speaker-attributed transcript?", "answer": "transcript", "weight": 0.72}
+{"template_id": "mtasr_polite_003a", "question": "I would appreciate a transcript of this recording with each speaker's turns marked.", "answer": "transcript", "weight": 0.66}
+{"template_id": "mtasr_polite_003b", "question": "I would appreciate it if you listened to this recording and transcribed it with each speaker's turns marked.", "answer": "transcript", "weight": 0.66}
+{"template_id": "mtasr_polite_004a", "question": "Kindly write out the conversation in this audio, labeling every speaker turn.", "answer": "transcript", "weight": 0.62}
+{"template_id": "mtasr_polite_004b", "question": "Kindly listen to the conversation in this audio and write it out, labeling every speaker turn.", "answer": "transcript", "weight": 0.62}
+{"template_id": "mtasr_polite_005a", "question": "If you would, transcribe this segment and attribute each line to a speaker.", "answer": "transcript", "weight": 0.6}
+{"template_id": "mtasr_polite_005b", "question": "If you would, listen to this segment, transcribe it, and attribute each line to a speaker.", "answer": "transcript", "weight": 0.6}
+{"template_id": "mtasr_polite_006a", "question": "Please write down what each speaker in this clip says, in order.", "answer": "transcript", "weight": 0.74}
+{"template_id": "mtasr_polite_006b", "question": "Please listen to the audio and write down what each speaker says, in order.", "answer": "transcript", "weight": 0.74}
+{"template_id": "mtasr_polite_007a", "question": "I'd be grateful if you could transcribe this meeting turn by turn with speaker labels.", "answer": "transcript", "weight": 0.64}
+{"template_id": "mtasr_polite_007b", "question": "I'd be grateful if you could listen to this meeting and transcribe it turn by turn with speaker labels.", "answer": "transcript", "weight": 0.64}
+{"template_id": "mtasr_polite_008a", "question": "Would you mind transcribing this recording and noting who speaks each line?", "answer": "transcript", "weight": 0.7}
+{"template_id": "mtasr_polite_008b", "question": "Would you mind listening to this recording, transcribing it, and noting who speaks each line?", "answer": "transcript", "weight": 0.7}
+{"template_id": "mtasr_listenfwd_001a", "question": "Work through this meeting carefully and transcribe it with speaker labels.", "answer": "transcript", "weight": 0.629}
+{"template_id": "mtasr_listenfwd_001b", "question": "Listen carefully to this meeting and transcribe it with speaker labels.", "answer": "transcript", "weight": 0.74}
+{"template_id": "mtasr_listenfwd_002a", "question": "Go through this recording from start to end, then transcribe it turn by turn with speaker tags.", "answer": "transcript", "weight": 0.595}
+{"template_id": "mtasr_listenfwd_002b", "question": "Listen to this recording from start to end, then transcribe it turn by turn with speaker tags.", "answer": "transcript", "weight": 0.7}
+{"template_id": "mtasr_listenfwd_003a", "question": "Write down each speaker's lines from this recording.", "answer": "transcript", "weight": 0.612}
+{"template_id": "mtasr_listenfwd_003b", "question": "Play this recording back and write down each speaker's lines.", "answer": "transcript", "weight": 0.72}
+{"template_id": "mtasr_listenfwd_004a", "question": "Transcribe this audio for me, speaker by speaker.", "answer": "transcript", "weight": 0.663}
+{"template_id": "mtasr_listenfwd_004b", "question": "Listen to the audio and transcribe it for me, speaker by speaker.", "answer": "transcript", "weight": 0.78}
+{"template_id": "mtasr_listenfwd_005a", "question": "Put together a speaker-labeled transcript of this recording.", "answer": "transcript", "weight": 0.646}
+{"template_id": "mtasr_listenfwd_005b", "question": "Have a listen to this recording and put together a speaker-labeled transcript.", "answer": "transcript", "weight": 0.76}
+{"template_id": "mtasr_listenfwd_006a", "question": "Lay out who said what in this recording, line by line.", "answer": "transcript", "weight": 0.578}
+{"template_id": "mtasr_listenfwd_006b", "question": "After listening to this recording, lay out who said what, line by line.", "answer": "transcript", "weight": 0.68}
+{"template_id": "mtasr_workflow_001a", "question": "I'm building meeting-minutes software. Transcribe this segment with speaker labels.", "answer": "transcript", "weight": 0.52}
+{"template_id": "mtasr_workflow_001b", "question": "I'm building meeting-minutes software. Listen to this segment and transcribe it with speaker labels.", "answer": "transcript", "weight": 0.52}
+{"template_id": "mtasr_workflow_002a", "question": "For our meeting archive, transcribe this recording and attribute each turn to a speaker.", "answer": "transcript", "weight": 0.48}
+{"template_id": "mtasr_workflow_002b", "question": "For our meeting archive, listen to this recording and transcribe it, attributing each turn to a speaker.", "answer": "transcript", "weight": 0.48}
+{"template_id": "mtasr_workflow_003a", "question": "I missed this meeting and need to catch up. Transcribe it with speaker labels.", "answer": "transcript", "weight": 0.58}
+{"template_id": "mtasr_workflow_003b", "question": "I missed this meeting and need to catch up. Listen to it and transcribe it with speaker labels.", "answer": "transcript", "weight": 0.58}
+{"template_id": "mtasr_workflow_004a", "question": "We're evaluating a diarization-plus-ASR pipeline. Transcribe this clip with speaker attribution.", "answer": "transcript", "weight": 0.36}
+{"template_id": "mtasr_workflow_004b", "question": "We're evaluating a diarization-plus-ASR pipeline. Listen to this clip and transcribe it with speaker attribution.", "answer": "transcript", "weight": 0.36}
+{"template_id": "mtasr_workflow_005a", "question": "This is a recorded meeting. Write out who said what so I can follow it.", "answer": "transcript", "weight": 0.55}
+{"template_id": "mtasr_workflow_005b", "question": "This is a recorded meeting. Listen to it and write out who said what so I can follow it.", "answer": "transcript", "weight": 0.55}
+{"template_id": "mtasr_workflow_006a", "question": "I'm preparing notes from this session. Transcribe the audio with each speaker's turns labeled.", "answer": "transcript", "weight": 0.5}
+{"template_id": "mtasr_workflow_006b", "question": "I'm preparing notes from this session. Listen to the audio and transcribe it with each speaker's turns labeled.", "answer": "transcript", "weight": 0.5}
+{"template_id": "mtasr_workflow_007a", "question": "For accessibility captions on this meeting video, transcribe the audio with speaker labels.", "answer": "transcript", "weight": 0.44}
+{"template_id": "mtasr_workflow_007b", "question": "For accessibility captions on this meeting video, listen to the audio and transcribe it with speaker labels.", "answer": "transcript", "weight": 0.44}
+{"template_id": "mtasr_workflow_008a", "question": "Our team logs every meeting. Transcribe this recording with a speaker label on each turn.", "answer": "transcript", "weight": 0.46}
+{"template_id": "mtasr_workflow_008b", "question": "Our team logs every meeting. Listen to this recording and transcribe it with a speaker label on each turn.", "answer": "transcript", "weight": 0.46}
+{"template_id": "mtasr_workflow_009a", "question": "I'm training a multi-talker ASR model and need this segment transcribed with speaker tags.", "answer": "transcript", "weight": 0.38}
+{"template_id": "mtasr_workflow_009b", "question": "I'm training a multi-talker ASR model. Listen to this segment and transcribe it with speaker tags.", "answer": "transcript", "weight": 0.38}
+{"template_id": "mtasr_format_001a", "question": "Transcribe this meeting. Use one line per speaker turn, and start each line with a label like 'Speaker01:'.", "answer": "transcript", "weight": 0.68}
+{"template_id": "mtasr_format_001b", "question": "Listen to this meeting and transcribe it, using one line per speaker turn and starting each line with a label like 'Speaker01:'.", "answer": "transcript", "weight": 0.68}
+{"template_id": "mtasr_format_002a", "question": "Transcribe this recording and return only the speaker-labeled transcript, with no commentary.", "answer": "transcript", "weight": 0.62}
+{"template_id": "mtasr_format_002b", "question": "Listen to this recording and return only the speaker-labeled transcript, with no commentary.", "answer": "transcript", "weight": 0.62}
+{"template_id": "mtasr_format_003a", "question": "Transcribe this audio, giving each turn as 'SpeakerNN: text' on its own line, where SpeakerNN identifies the speaker.", "answer": "transcript", "weight": 0.55}
+{"template_id": "mtasr_format_003b", "question": "Listen to this audio and transcribe it, giving each turn as 'SpeakerNN: text' on its own line, where SpeakerNN identifies the speaker.", "answer": "transcript", "weight": 0.55}
+{"template_id": "mtasr_format_004a", "question": "Transcribe the audio, prefixing every turn with its speaker label, and put nothing else in the output.", "answer": "transcript", "weight": 0.58}
+{"template_id": "mtasr_format_004b", "question": "Listen to the audio and transcribe it, prefixing every turn with its speaker label and putting nothing else in the output.", "answer": "transcript", "weight": 0.58}
+{"template_id": "mtasr_format_005a", "question": "Transcribe this recording with each speaker turn on its own line, starting with the speaker label and then what that speaker said.", "answer": "transcript", "weight": 0.6}
+{"template_id": "mtasr_format_005b", "question": "Listen to this recording and transcribe it with each speaker turn on its own line, starting with the speaker label and then what that speaker said.", "answer": "transcript", "weight": 0.6}
+{"template_id": "mtasr_format_006a", "question": "Transcribe this meeting and output the speaker-attributed transcript only. No summary, no notes.", "answer": "transcript", "weight": 0.64}
+{"template_id": "mtasr_format_006b", "question": "Listen to this meeting and output the speaker-attributed transcript only. No summary, no notes.", "answer": "transcript", "weight": 0.64}
+{"template_id": "mtasr_format_007a", "question": "Number the speakers in this recording Speaker01, Speaker02, and so on, then transcribe each of their turns on its own line.", "answer": "transcript", "weight": 0.46}
+{"template_id": "mtasr_format_007b", "question": "Listen to this recording, number the speakers Speaker01, Speaker02, and so on, then transcribe each of their turns on its own line.", "answer": "transcript", "weight": 0.46}
+{"template_id": "mtasr_casual_001a", "question": "Just transcribe this clip and mark who's talking.", "answer": "transcript", "weight": 0.88}
+{"template_id": "mtasr_casual_001b", "question": "Give this clip a listen and just transcribe it, marking who's talking.", "answer": "transcript", "weight": 0.88}
+{"template_id": "mtasr_casual_002a", "question": "What'd they say in this recording? Label each speaker.", "answer": "transcript", "weight": 0.84}
+{"template_id": "mtasr_casual_002b", "question": "Listen to this recording. What'd they say? Label each speaker.", "answer": "transcript", "weight": 0.84}
+{"template_id": "mtasr_casual_003a", "question": "Type up this meeting with speaker labels.", "answer": "transcript", "weight": 0.86}
+{"template_id": "mtasr_casual_003b", "question": "Listen to this meeting and type it up with speaker labels.", "answer": "transcript", "weight": 0.86}
+{"template_id": "mtasr_casual_004a", "question": "Who said what in this clip? Just the transcript with speaker labels.", "answer": "transcript", "weight": 0.82}
+{"template_id": "mtasr_casual_004b", "question": "Listen to this clip. Who said what? Just the transcript with speaker labels.", "answer": "transcript", "weight": 0.82}
+{"template_id": "mtasr_casual_005a", "question": "Write out this recording, speaker by speaker.", "answer": "transcript", "weight": 0.78}
+{"template_id": "mtasr_casual_005b", "question": "Have a listen and write out this recording, speaker by speaker.", "answer": "transcript", "weight": 0.78}
+{"template_id": "mtasr_casual_006a", "question": "Transcribe this clip, tag the speakers, that's it.", "answer": "transcript", "weight": 0.8}
+{"template_id": "mtasr_casual_006b", "question": "Listen to this clip, transcribe it, tag the speakers, that's it.", "answer": "transcript", "weight": 0.8}
+{"template_id": "mtasr_stripped_001a", "question": "Transcribe this meeting, but leave out the speaker labels. Just the spoken words.", "answer": "strip_speaker_labels(transcript)", "weight": 0.62}
+{"template_id": "mtasr_stripped_001b", "question": "Listen to this meeting and transcribe it, but leave out the speaker labels. Just the spoken words.", "answer": "strip_speaker_labels(transcript)", "weight": 0.62}
+{"template_id": "mtasr_stripped_002a", "question": "Give me the words spoken in this clip without any speaker tags.", "answer": "strip_speaker_labels(transcript)", "weight": 0.58}
+{"template_id": "mtasr_stripped_002b", "question": "Listen to this clip and give me the words spoken in it, without any speaker tags.", "answer": "strip_speaker_labels(transcript)", "weight": 0.58}
+{"template_id": "mtasr_stripped_003a", "question": "I don't need speaker attribution. Just transcribe everything said in this recording, one turn per line.", "answer": "strip_speaker_labels(transcript)", "weight": 0.52}
+{"template_id": "mtasr_stripped_003b", "question": "Listen to the audio. I don't need speaker attribution, just transcribe everything said in it, one turn per line.", "answer": "strip_speaker_labels(transcript)", "weight": 0.52}
+{"template_id": "mtasr_stripped_004a", "question": "Write out the speech in this recording with no speaker prefixes.", "answer": "strip_speaker_labels(transcript)", "weight": 0.6}
+{"template_id": "mtasr_stripped_004b", "question": "Listen to this recording and write out the speech in it with no speaker prefixes.", "answer": "strip_speaker_labels(transcript)", "weight": 0.6}
+{"template_id": "mtasr_stripped_005a", "question": "Can you transcribe this meeting without labeling who is speaking?", "answer": "strip_speaker_labels(transcript)", "weight": 0.64}
+{"template_id": "mtasr_stripped_005b", "question": "Can you listen to this meeting and transcribe it without labeling who is speaking?", "answer": "strip_speaker_labels(transcript)", "weight": 0.64}
+{"template_id": "mtasr_stripped_006a", "question": "Transcribe this recording without speaker labels. Give me only the spoken text.", "answer": "strip_speaker_labels(transcript)", "weight": 0.56}
+{"template_id": "mtasr_stripped_006b", "question": "Listen to this recording and transcribe it without speaker labels. Give me only the spoken text.", "answer": "strip_speaker_labels(transcript)", "weight": 0.56}
+{"template_id": "mtasr_stripped_007a", "question": "What is said in this recording? Skip the speaker labels.", "answer": "strip_speaker_labels(transcript)", "weight": 0.54}
+{"template_id": "mtasr_stripped_007b", "question": "Listen to this recording. What is said in it? Skip the speaker labels.", "answer": "strip_speaker_labels(transcript)", "weight": 0.54}
+{"template_id": "mtasr_stripped_008a", "question": "Please transcribe the audio without putting a speaker label on any line.", "answer": "strip_speaker_labels(transcript)", "weight": 0.48}
+{"template_id": "mtasr_stripped_008b", "question": "Please listen to the audio and transcribe it without putting a speaker label on any line.", "answer": "strip_speaker_labels(transcript)", "weight": 0.48}
+{"template_id": "mtasr_stripped_009a", "question": "Transcribe this clip: just the words, no speaker labels, one line per turn.", "answer": "strip_speaker_labels(transcript)", "weight": 0.5}
+{"template_id": "mtasr_stripped_009b", "question": "Listen to this clip and transcribe it: just the words, no speaker labels, one line per turn.", "answer": "strip_speaker_labels(transcript)", "weight": 0.5}
+{"template_id": "mtasr_stripped_010a", "question": "I want a plain transcript of this audio, so transcribe it without speaker attribution.", "answer": "strip_speaker_labels(transcript)", "weight": 0.44}
+{"template_id": "mtasr_stripped_010b", "question": "I want a plain transcript of this audio, so listen to it and transcribe it without speaker attribution.", "answer": "strip_speaker_labels(transcript)", "weight": 0.44}
+{"template_id": "mtasr_stripped_011a", "question": "Transcribe everything said in this clip as continuous text on a single line, without speaker labels.", "answer": "flatten_transcript(transcript)", "weight": 0.3}
+{"template_id": "mtasr_stripped_011b", "question": "Listen to this clip and transcribe everything said in it as continuous text on a single line, without speaker labels.", "answer": "flatten_transcript(transcript)", "weight": 0.3}
+{"template_id": "mtasr_stripped_012a", "question": "Transcribe this recording as one paragraph, with no speaker tags and no line breaks.", "answer": "flatten_transcript(transcript)", "weight": 0.28}
+{"template_id": "mtasr_stripped_012b", "question": "Listen to the audio and transcribe it as one paragraph, with no speaker tags and no line breaks.", "answer": "flatten_transcript(transcript)", "weight": 0.28}
+{"template_id": "mtasr_stripped_013a", "question": "Could you write out all the speech from this meeting as one block of text, no speaker labels?", "answer": "flatten_transcript(transcript)", "weight": 0.24}
+{"template_id": "mtasr_stripped_013b", "question": "Could you listen to this meeting and write out all the speech as one block of text, no speaker labels?", "answer": "flatten_transcript(transcript)", "weight": 0.24}
+{"template_id": "mtasr_stripped_014a", "question": "Transcribe the audio into plain running text. No speaker prefixes, no line breaks.", "answer": "flatten_transcript(transcript)", "weight": 0.26}
+{"template_id": "mtasr_stripped_014b", "question": "Listen to the audio and transcribe it into plain running text. No speaker prefixes, no line breaks.", "answer": "flatten_transcript(transcript)", "weight": 0.26}
+{"template_id": "mtasr_altlabel_001a", "question": "Transcribe this meeting and label the speakers as Speaker 1, Speaker 2, and so on.", "answer": "relabel_speakers(transcript, 'numbered')", "weight": 0.38}
+{"template_id": "mtasr_altlabel_001b", "question": "Listen to this meeting and transcribe it, labeling the speakers as Speaker 1, Speaker 2, and so on.", "answer": "relabel_speakers(transcript, 'numbered')", "weight": 0.38}
+{"template_id": "mtasr_altlabel_002a", "question": "Transcribe this recording turn by turn, prefixing each turn with 'Speaker 1:', 'Speaker 2:', and so on for each new speaker.", "answer": "relabel_speakers(transcript, 'numbered')", "weight": 0.34}
+{"template_id": "mtasr_altlabel_002b", "question": "Listen to this recording and transcribe it turn by turn, prefixing each turn with 'Speaker 1:', 'Speaker 2:', and so on for each new speaker.", "answer": "relabel_speakers(transcript, 'numbered')", "weight": 0.34}
+{"template_id": "mtasr_altlabel_003a", "question": "Write out who said what in this audio, numbering the speakers Speaker 1, Speaker 2, and up.", "answer": "relabel_speakers(transcript, 'numbered')", "weight": 0.32}
+{"template_id": "mtasr_altlabel_003b", "question": "Listen to this audio and write out who said what, numbering the speakers Speaker 1, Speaker 2, and up.", "answer": "relabel_speakers(transcript, 'numbered')", "weight": 0.32}
+{"template_id": "mtasr_altlabel_004a", "question": "Can you transcribe this clip with the speakers labeled Speaker 1, Speaker 2, and so forth?", "answer": "relabel_speakers(transcript, 'numbered')", "weight": 0.36}
+{"template_id": "mtasr_altlabel_004b", "question": "Can you listen to this clip and transcribe it with the speakers labeled Speaker 1, Speaker 2, and so forth?", "answer": "relabel_speakers(transcript, 'numbered')", "weight": 0.36}
+{"template_id": "mtasr_altlabel_005a", "question": "Transcribe this recording and label the speakers Speaker 1 through Speaker N, one turn per line.", "answer": "relabel_speakers(transcript, 'numbered')", "weight": 0.3}
+{"template_id": "mtasr_altlabel_005b", "question": "Listen to this recording and transcribe it, labeling the speakers Speaker 1 through Speaker N, one turn per line.", "answer": "relabel_speakers(transcript, 'numbered')", "weight": 0.3}
+{"template_id": "mtasr_altlabel_006a", "question": "Transcribe this audio, tagging each turn with a short speaker code like S1 or S2.", "answer": "relabel_speakers(transcript, 'short')", "weight": 0.24}
+{"template_id": "mtasr_altlabel_006b", "question": "Listen to this audio and transcribe it, tagging each turn with a short speaker code like S1 or S2.", "answer": "relabel_speakers(transcript, 'short')", "weight": 0.24}
+{"template_id": "mtasr_altlabel_007a", "question": "Transcribe every turn in this recording, using the short speaker codes S1, S2, S3 and so on as prefixes.", "answer": "relabel_speakers(transcript, 'short')", "weight": 0.2}
+{"template_id": "mtasr_altlabel_007b", "question": "Listen to this recording and transcribe every turn, using the short speaker codes S1, S2, S3 and so on as prefixes.", "answer": "relabel_speakers(transcript, 'short')", "weight": 0.2}
+{"template_id": "mtasr_altlabel_008a", "question": "Please transcribe this meeting with the speakers abbreviated as S1, S2, and so on.", "answer": "relabel_speakers(transcript, 'short')", "weight": 0.22}
+{"template_id": "mtasr_altlabel_008b", "question": "Please listen to this meeting and transcribe it with the speakers abbreviated as S1, S2, and so on.", "answer": "relabel_speakers(transcript, 'short')", "weight": 0.22}
+{"template_id": "mtasr_altlabel_009a", "question": "Transcribe this recording and put a compact speaker code (S1, S2, S3) in front of each turn.", "answer": "relabel_speakers(transcript, 'short')", "weight": 0.18}
+{"template_id": "mtasr_altlabel_009b", "question": "Listen to this recording and transcribe it, putting a compact speaker code (S1, S2, S3) in front of each turn.", "answer": "relabel_speakers(transcript, 'short')", "weight": 0.18}
+{"template_id": "mtasr_altlabel_010a", "question": "Transcribe this meeting with one turn per line, starting each line with a short speaker code like 'S1:' or 'S2:'.", "answer": "relabel_speakers(transcript, 'short')", "weight": 0.26}
+{"template_id": "mtasr_altlabel_010b", "question": "Listen to this meeting and transcribe it with one turn per line, starting each line with a short speaker code like 'S1:' or 'S2:'.", "answer": "relabel_speakers(transcript, 'short')", "weight": 0.26}
+{"template_id": "mtasr_altlabel_011a", "question": "Transcribe this conversation and label the speakers A, B, C.", "answer": "relabel_speakers(transcript, 'letter')", "weight": 0.22}
+{"template_id": "mtasr_altlabel_011b", "question": "Listen to this conversation and transcribe it, labeling the speakers A, B, C.", "answer": "relabel_speakers(transcript, 'letter')", "weight": 0.22}
+{"template_id": "mtasr_altlabel_012a", "question": "Transcribe this recording like a script, labeling the speakers with letters: 'A:', 'B:', and so on.", "answer": "relabel_speakers(transcript, 'letter')", "weight": 0.2}
+{"template_id": "mtasr_altlabel_012b", "question": "Listen to this recording and transcribe it like a script, labeling the speakers with letters: 'A:', 'B:', and so on.", "answer": "relabel_speakers(transcript, 'letter')", "weight": 0.2}
+{"template_id": "mtasr_altlabel_013a", "question": "Can you transcribe this meeting using letters for the speakers instead of numbers?", "answer": "relabel_speakers(transcript, 'letter')", "weight": 0.24}
+{"template_id": "mtasr_altlabel_013b", "question": "Can you listen to this meeting and transcribe it using letters for the speakers instead of numbers?", "answer": "relabel_speakers(transcript, 'letter')", "weight": 0.24}
+{"template_id": "mtasr_altlabel_014a", "question": "Transcribe this meeting with speaker attribution, using letter labels (A, B, C) for the participants.", "answer": "relabel_speakers(transcript, 'letter')", "weight": 0.18}
+{"template_id": "mtasr_altlabel_014b", "question": "Listen to this meeting and transcribe it with speaker attribution, using letter labels (A, B, C) for the participants.", "answer": "relabel_speakers(transcript, 'letter')", "weight": 0.18}
+{"template_id": "mtasr_altlabel_015a", "question": "Transcribe this recording like a play script: each line starts with a letter for the speaker, then what that speaker said.", "answer": "relabel_speakers(transcript, 'letter')", "weight": 0.16}
+{"template_id": "mtasr_altlabel_015b", "question": "Listen to this recording and transcribe it like a play script: each line starts with a letter for the speaker, then what that speaker said.", "answer": "relabel_speakers(transcript, 'letter')", "weight": 0.16}
+{"template_id": "mtasr_plain_001a", "question": "Transcribe this recording.", "answer": "strip_speaker_labels(transcript)", "weight": 0.82}
+{"template_id": "mtasr_plain_001b", "question": "Listen to this recording and transcribe it.", "answer": "strip_speaker_labels(transcript)", "weight": 0.82}
+{"template_id": "mtasr_plain_002a", "question": "What is being said in this audio?", "answer": "strip_speaker_labels(transcript)", "weight": 0.78}
+{"template_id": "mtasr_plain_002b", "question": "Listen to this audio. What is being said?", "answer": "strip_speaker_labels(transcript)", "weight": 0.78}
+{"template_id": "mtasr_plain_003a", "question": "Can you transcribe this audio for me?", "answer": "strip_speaker_labels(transcript)", "weight": 0.8}
+{"template_id": "mtasr_plain_003b", "question": "Can you listen to this audio and transcribe it for me?", "answer": "strip_speaker_labels(transcript)", "weight": 0.8}
+{"template_id": "mtasr_plain_004a", "question": "Please provide the transcript of this meeting.", "answer": "strip_speaker_labels(transcript)", "weight": 0.74}
+{"template_id": "mtasr_plain_004b", "question": "Please listen to this meeting and provide its transcript.", "answer": "strip_speaker_labels(transcript)", "weight": 0.74}
+{"template_id": "mtasr_plain_005a", "question": "Write out everything that's said in this clip.", "answer": "strip_speaker_labels(transcript)", "weight": 0.72}
+{"template_id": "mtasr_plain_005b", "question": "Listen to this clip and write out everything that's said in it.", "answer": "strip_speaker_labels(transcript)", "weight": 0.72}
+{"template_id": "mtasr_plain_006a", "question": "I just need the transcript of this recording, nothing else.", "answer": "strip_speaker_labels(transcript)", "weight": 0.68}
+{"template_id": "mtasr_plain_006b", "question": "Give this recording a listen. I just need its transcript, nothing else.", "answer": "strip_speaker_labels(transcript)", "weight": 0.68}
+{"template_id": "mtasr_plain_007a", "question": "Give me the plain transcript of this clip.", "answer": "strip_speaker_labels(transcript)", "weight": 0.7}
+{"template_id": "mtasr_plain_007b", "question": "Listen to this clip and give me its plain transcript.", "answer": "strip_speaker_labels(transcript)", "weight": 0.7}
+{"template_id": "mtasr_plain_008a", "question": "Transcribe the speech in this segment.", "answer": "strip_speaker_labels(transcript)", "weight": 0.76}
+{"template_id": "mtasr_plain_008b", "question": "Listen to this segment and transcribe the speech in it.", "answer": "strip_speaker_labels(transcript)", "weight": 0.76}
+{"template_id": "mtasr_plain_009a", "question": "Type out the speech in this recording.", "answer": "strip_speaker_labels(transcript)", "weight": 0.66}
+{"template_id": "mtasr_plain_009b", "question": "Type out what you hear in this recording.", "answer": "strip_speaker_labels(transcript)", "weight": 0.66}
+{"template_id": "mtasr_plain_010a", "question": "What are the words spoken in this meeting? Give them as one continuous passage.", "answer": "flatten_transcript(transcript)", "weight": 0.3}
+{"template_id": "mtasr_plain_010b", "question": "Listen to this meeting. What are the words spoken in it? Give them as one continuous passage.", "answer": "flatten_transcript(transcript)", "weight": 0.3}
+{"template_id": "mtasr_count_001a", "question": "How many speakers are in this recording, and what does each of them say?", "answer": "count_cascade(transcript)", "weight": 0.66}
+{"template_id": "mtasr_count_001b", "question": "Listen to this recording. How many speakers are there, and what does each of them say?", "answer": "count_cascade(transcript)", "weight": 0.66}
+{"template_id": "mtasr_count_002a", "question": "First tell me how many speakers are in this recording, then transcribe it with speaker labels.", "answer": "count_cascade(transcript)", "weight": 0.62}
+{"template_id": "mtasr_count_002b", "question": "Listen to the audio, first tell me how many speakers are in it, then transcribe it with speaker labels.", "answer": "count_cascade(transcript)", "weight": 0.62}
+{"template_id": "mtasr_count_003a", "question": "Count the speakers in this meeting, then transcribe it with speaker labels.", "answer": "count_cascade(transcript)", "weight": 0.64}
+{"template_id": "mtasr_count_003b", "question": "Listen to this meeting, count the speakers, then transcribe it with speaker labels.", "answer": "count_cascade(transcript)", "weight": 0.64}
+{"template_id": "mtasr_count_004a", "question": "Can you tell me how many people are talking in this clip and then write out what they say?", "answer": "count_cascade(transcript)", "weight": 0.6}
+{"template_id": "mtasr_count_004b", "question": "Can you listen to this clip and tell me how many people are talking, then write out what they say?", "answer": "count_cascade(transcript)", "weight": 0.6}
+{"template_id": "mtasr_count_005a", "question": "I need two things from this recording: the number of distinct speakers, and the speaker-attributed transcript.", "answer": "count_cascade(transcript)", "weight": 0.5}
+{"template_id": "mtasr_count_005b", "question": "Listen to this recording. I need two things from it: the number of distinct speakers, and the speaker-attributed transcript.", "answer": "count_cascade(transcript)", "weight": 0.5}
+{"template_id": "mtasr_count_006a", "question": "Report how many speakers you find in this audio, then transcribe each of their turns.", "answer": "count_cascade(transcript)", "weight": 0.56}
+{"template_id": "mtasr_count_006b", "question": "Listen to this audio, report how many speakers you find, then transcribe each of their turns.", "answer": "count_cascade(transcript)", "weight": 0.56}
+{"template_id": "mtasr_count_007a", "question": "How many participants speak in this meeting? Follow that with the speaker-labeled transcript.", "answer": "count_cascade(transcript)", "weight": 0.58}
+{"template_id": "mtasr_count_007b", "question": "Listen to this meeting. How many participants speak? Follow that with the speaker-labeled transcript.", "answer": "count_cascade(transcript)", "weight": 0.58}
+{"template_id": "mtasr_count_008a", "question": "Please say how many speakers are in this recording first, then give the full speaker-attributed transcript.", "answer": "count_cascade(transcript)", "weight": 0.54}
+{"template_id": "mtasr_count_008b", "question": "Please listen to this recording, say how many speakers are in it first, then give the full speaker-attributed transcript.", "answer": "count_cascade(transcript)", "weight": 0.54}
+{"template_id": "mtasr_count_009a", "question": "Transcribe this meeting, starting with a header line 'Speakers: N' that gives the number of speakers, then the turn-by-turn transcript with speaker labels.", "answer": "count_cascade_compact(transcript)", "weight": 0.34}
+{"template_id": "mtasr_count_009b", "question": "Listen to this meeting and transcribe it, starting with a header line 'Speakers: N' that gives the number of speakers, then the turn-by-turn transcript with speaker labels.", "answer": "count_cascade_compact(transcript)", "weight": 0.34}
+{"template_id": "mtasr_count_010a", "question": "Head the output with 'Speakers: N' for this recording, then give the transcript with a speaker label on each turn.", "answer": "count_cascade_compact(transcript)", "weight": 0.3}
+{"template_id": "mtasr_count_010b", "question": "Listen to this recording, head the output with 'Speakers: N', then give the transcript with a speaker label on each turn.", "answer": "count_cascade_compact(transcript)", "weight": 0.3}
+{"template_id": "mtasr_count_011a", "question": "Before the transcript, put a short 'Speakers: N' line for this meeting, then transcribe every turn with its speaker label.", "answer": "count_cascade_compact(transcript)", "weight": 0.32}
+{"template_id": "mtasr_count_011b", "question": "Listen to this meeting and, before the transcript, put a short 'Speakers: N' line, then transcribe every turn with its speaker label.", "answer": "count_cascade_compact(transcript)", "weight": 0.32}
+{"template_id": "mtasr_count_012a", "question": "Give a compact 'Speakers: N' count line for this clip first, then transcribe it with speaker attribution.", "answer": "count_cascade_compact(transcript)", "weight": 0.28}
+{"template_id": "mtasr_count_012b", "question": "Listen to this clip, give a compact 'Speakers: N' count line first, then transcribe it with speaker attribution.", "answer": "count_cascade_compact(transcript)", "weight": 0.28}
+{"template_id": "mtasr_extra_001a", "question": "This was recorded on a distant microphone in a conference room. Transcribe it with speaker labels.", "answer": "transcript", "weight": 0.7}
+{"template_id": "mtasr_extra_001b", "question": "Listen to this distant-microphone conference-room recording and transcribe it with speaker labels.", "answer": "transcript", "weight": 0.7}
+{"template_id": "mtasr_extra_002a", "question": "This audio is far-field and reverberant. Transcribe every speaker turn and label it.", "answer": "transcript", "weight": 0.62}
+{"template_id": "mtasr_extra_002b", "question": "Listen to this far-field, reverberant audio and transcribe every speaker turn with a label.", "answer": "transcript", "weight": 0.62}
+{"template_id": "mtasr_extra_003a", "question": "Several people are talking in this office meeting. Transcribe what each of them says.", "answer": "transcript", "weight": 0.58}
+{"template_id": "mtasr_extra_003b", "question": "Listen to this office meeting where several people are talking, and transcribe what each of them says.", "answer": "transcript", "weight": 0.58}
+{"template_id": "mtasr_extra_004a", "question": "This is a noisy meeting-room recording. Transcribe it with a speaker label on each turn.", "answer": "transcript", "weight": 0.5}
+{"template_id": "mtasr_extra_004b", "question": "Listen to this noisy meeting-room recording and transcribe it with a speaker label on each turn.", "answer": "transcript", "weight": 0.5}
+{"template_id": "mtasr_extra_005a", "question": "The mic is far from the speakers here and they overlap a lot. Do your best to transcribe each turn with its speaker label.", "answer": "transcript", "weight": 0.6}
+{"template_id": "mtasr_extra_005b", "question": "Listen closely: the mic is far from the speakers and they overlap a lot. Transcribe each turn with its speaker label.", "answer": "transcript", "weight": 0.6}
+{"template_id": "mtasr_extra_006a", "question": "Up to eight people can be in these office meetings. Transcribe this one with a label on every speaker turn.", "answer": "transcript", "weight": 0.56}
+{"template_id": "mtasr_extra_006b", "question": "Listen to this office meeting, which can involve up to eight people, and transcribe it with a label on every speaker turn.", "answer": "transcript", "weight": 0.56}
+{"template_id": "mtasr_extra_007a", "question": "Room noise and reverberation are heavy in this clip. Transcribe it with speaker labels anyway.", "answer": "transcript", "weight": 0.52}
+{"template_id": "mtasr_extra_007b", "question": "Listen past the room noise and reverberation in this clip, and transcribe it with speaker labels.", "answer": "transcript", "weight": 0.52}
+{"template_id": "mtasr_extra_008a", "question": "This recording comes from a single far-field device in a meeting room. Transcribe it with speaker attribution.", "answer": "transcript", "weight": 0.48}
+{"template_id": "mtasr_extra_008b", "question": "Listen to this recording from a single far-field device in a meeting room and transcribe it with speaker attribution.", "answer": "transcript", "weight": 0.48}
+{"template_id": "mtasr_extra_009a", "question": "Transcribe this meeting keeping every short interjection, and label the speaker for each turn.", "answer": "transcript", "weight": 0.54}
+{"template_id": "mtasr_extra_009b", "question": "Listen to this meeting and transcribe it keeping every short interjection, labeling the speaker for each turn.", "answer": "transcript", "weight": 0.54}
+{"template_id": "mtasr_extra_010a", "question": "Transcribe this far-field office meeting without speaker labels, just what was said.", "answer": "strip_speaker_labels(transcript)", "weight": 0.46}
+{"template_id": "mtasr_extra_010b", "question": "Listen to this far-field office meeting and transcribe it without speaker labels, just what was said.", "answer": "strip_speaker_labels(transcript)", "weight": 0.46}
