@@ -1,6 +1,22 @@
 #!/usr/bin/env python3
 """
-Generate QA pairs from a template .jsonl file and a metadata .jsonl/.jsonl.gz file.
+Generate raw-ASR QA pairs from a template .jsonl file and a metadata .jsonl(.gz).
+
+Same contract as the stock recognition generator, plus two row-conditional
+routings, both of which switch themselves off for template files that do not
+use them -- so this one file serves LibriSpeech and GigaSpeech unchanged:
+
+  * Non-speech routing.  GigaSpeech stores a whole-utterance music/noise/
+    silence segment as an empty transcript.  Such a row draws only from
+    templates flagged `"nonspeech_ok": true`, which state what to return when
+    a clip has no speech.  Those templates are phrased conditionally, so they
+    stay truthful on ordinary speech rows and remain in the general pool --
+    the only way the tag-free training split can teach the convention at all.
+
+  * Source gating.  A template that asserts where the audio comes from
+    ("This is a clip from a podcast.") declares `"requires": "podcast"` and is
+    offered only to rows whose id carries the matching GigaSpeech prefix.
+    Firing such a claim blindly would teach the model to ignore it.
 
 Output format (one JSON object per line):
     {"question": ..., "answer": ..., "metadata": {...}}
@@ -47,6 +63,7 @@ import gzip
 import json
 import math
 import random
+import re
 from pathlib import Path
 from typing import Any, Dict, Iterable, Iterator, List, Sequence
 
@@ -58,6 +75,17 @@ class SafeDict(dict):
 
     def __missing__(self, key: str) -> str:
         return "{" + key + "}"
+
+
+def title_words(text: str) -> str:
+    """Capitalize each whitespace-delimited word, leaving the rest lowercase.
+
+    str.title() is wrong for this corpus: it treats an apostrophe as a word
+    boundary, so LET'S becomes "Let'S".  ~24% of rows in both GigaSpeech and
+    LibriSpeech contain an apostrophe, so the title-case templates would
+    otherwise be teaching that artifact.
+    """
+    return " ".join(word.capitalize() for word in text.split())
 
 
 SAFE_BUILTINS = {
@@ -72,6 +100,7 @@ SAFE_BUILTINS = {
     "abs": abs,
     "sum": sum,
     "sorted": sorted,
+    "title_words": title_words,
 }
 
 SAFE_STR_METHODS = {
@@ -370,6 +399,77 @@ def select_templates(
     raise ValueError(f"Unknown mode: {mode}")
 
 
+
+# ---------------------------------------------------------------------------
+# Row-conditional template routing
+# ---------------------------------------------------------------------------
+#
+# Two independent constraints decide which templates a row may draw from.
+# Both are inferred from explicit template fields rather than from question
+# wording, so a rephrasing never silently changes a template's scope.
+
+# GigaSpeech id prefixes: YOU = YouTube, POD = podcast, AUD = audiobook.
+# Corpora whose ids carry no such prefix (LibriSpeech) satisfy no predicate,
+# which is harmless because their templates declare no requirement either.
+SOURCE_PREFIXES = {
+    "POD": "podcast",
+    "YOU": "youtube",
+    "AUD": "audiobook",
+}
+SOURCE_PREDICATES = frozenset(SOURCE_PREFIXES.values())
+
+NONSPEECH_FLAG = "nonspeech_ok"
+
+
+def row_source(metadata: Dict[str, Any]) -> Any:
+    """Which source predicate this row satisfies, or None."""
+    row_id = metadata.get("id")
+    if not isinstance(row_id, str):
+        return None
+    return SOURCE_PREFIXES.get(row_id[:3].upper())
+
+
+def is_nonspeech_row(metadata: Dict[str, Any], target_field: str) -> bool:
+    """True when the row's whole transcript target is empty."""
+    target = metadata.get(target_field)
+    return isinstance(target, str) and not target.strip()
+
+
+def template_requirement(template: Dict[str, Any]) -> Any:
+    """Validate and return a template's `requires` predicate, if any."""
+    req = template.get("requires")
+    if req in (None, "", []):
+        return None
+    if not isinstance(req, str):
+        raise ValueError(f"'requires' must be a string, got {type(req).__name__}")
+    if req not in SOURCE_PREDICATES:
+        raise ValueError(
+            f"Unknown 'requires' predicate {req!r}. "
+            f"Known predicates: {sorted(SOURCE_PREDICATES)}"
+        )
+    return req
+
+
+def build_pool(
+    templates: Sequence[Dict[str, Any]],
+    source: Any,
+    nonspeech: bool,
+    source_gating: bool,
+    nonspeech_routing: bool,
+) -> List[Dict[str, Any]]:
+    """Templates a row of this (source, nonspeech) class may draw from."""
+    pool: List[Dict[str, Any]] = []
+    for tpl in templates:
+        if source_gating:
+            req = tpl.get("requires")
+            if req and req != source:
+                continue
+        if nonspeech_routing and nonspeech and not tpl.get(NONSPEECH_FLAG):
+            continue
+        pool.append(tpl)
+    return pool
+
+
 def generate(
     template_path: str,
     metadata_path: str,
@@ -377,6 +477,9 @@ def generate(
     mode: str,
     num_templates_per_entry: int,
     seed: int,
+    target_field: str = "text",
+    source_gating: str = "auto",
+    nonspeech_routing: str = "auto",
 ) -> None:
     templates = load_jsonl(template_path)
     if not templates:
@@ -387,10 +490,43 @@ def generate(
         missing = required_keys - tpl.keys()
         if missing:
             raise ValueError(f"Template #{i} is missing required keys: {sorted(missing)}")
+        template_requirement(tpl)  # validate the predicate name early
+
+    has_gated = any(template_requirement(t) for t in templates)
+    has_nonspeech = any(t.get(NONSPEECH_FLAG) for t in templates)
+
+    if source_gating == "on" and not has_gated:
+        raise ValueError(
+            "Source gating was requested but no template declares a 'requires' "
+            "predicate. Either add such templates or pass --source-gating off."
+        )
+    if nonspeech_routing == "on" and not has_nonspeech:
+        raise ValueError(
+            f"Non-speech routing was requested but no template sets "
+            f"'{NONSPEECH_FLAG}'. Either add such templates or pass "
+            f"--nonspeech-routing off."
+        )
+    gating_on = source_gating == "on" or (source_gating == "auto" and has_gated)
+    routing_on = nonspeech_routing == "on" or (nonspeech_routing == "auto" and has_nonspeech)
+
+    # At most (#sources + 1) x 2 distinct row classes, so pools are built once
+    # each rather than per row.
+    pools: Dict[Any, List[Dict[str, Any]]] = {}
+
+    def pool_for(source: Any, nonspeech: bool) -> List[Dict[str, Any]]:
+        key = (source, nonspeech)
+        if key not in pools:
+            pools[key] = build_pool(
+                templates, source, nonspeech, gating_on, routing_on
+            )
+        return pools[key]
 
     rng = random.Random(seed)
     num_written = 0
     num_metadata = 0
+    num_nonspeech = 0
+    num_nonspeech_unmatched = 0
+    source_counts: Dict[str, int] = {}
 
     # Ensure output path ends with .jsonl.gz
     output_path_obj = Path(output_path)
@@ -400,8 +536,22 @@ def generate(
     with gzip.open(output_path, "wt", encoding="utf-8") as out_f:
         for metadata in tqdm(iter_jsonl(metadata_path), desc="Processing metadata"):
             num_metadata += 1
+            source = row_source(metadata) if gating_on else None
+            nonspeech = routing_on and is_nonspeech_row(metadata, target_field)
+            if source:
+                source_counts[source] = source_counts.get(source, 0) + 1
+            if nonspeech:
+                num_nonspeech += 1
+
+            candidates = pool_for(source, nonspeech)
+            if not candidates:
+                # No template states the convention this row needs; fall back to
+                # the ungated pool rather than dropping the row silently.
+                num_nonspeech_unmatched += nonspeech
+                candidates = pool_for(source, False) or list(templates)
+
             chosen_templates = select_templates(
-                templates=templates,
+                templates=candidates,
                 mode=mode,
                 num_templates_per_entry=num_templates_per_entry,
                 rng=rng,
@@ -420,6 +570,23 @@ def generate(
     print(f"Loaded templates: {len(templates)}")
     print(f"Processed metadata entries: {num_metadata}")
     print(f"Wrote QA pairs: {num_written}")
+    if routing_on:
+        pool_size = len([t for t in templates if t.get(NONSPEECH_FLAG)])
+        print(f"Non-speech routing: on ({pool_size} templates state the convention)")
+        print(f"  Rows with an empty transcript routed to them: {num_nonspeech}")
+        if num_nonspeech_unmatched:
+            print(f"  Empty rows with no matching template (used full pool): {num_nonspeech_unmatched}")
+    else:
+        print(f"Non-speech routing: off (no template sets '{NONSPEECH_FLAG}')")
+    if gating_on:
+        sizes = {
+            pred: len([t for t in templates if t.get("requires") == pred])
+            for pred in sorted(SOURCE_PREDICATES)
+        }
+        print(f"Source gating: on (gated templates per source: {sizes})")
+        print(f"  Rows per source: {dict(sorted(source_counts.items()))}")
+    else:
+        print("Source gating: off (no template declares a 'requires' predicate)")
     print(f"Output: {output_path}")
 
 
@@ -445,6 +612,31 @@ def parse_args() -> argparse.Namespace:
         help="How many templates to sample per metadata entry in random_sample / weighted_sample mode.",
     )
     parser.add_argument("--seed", type=int, default=42, help="Random seed")
+    parser.add_argument(
+        "--target-field",
+        default="text",
+        help="Metadata field holding the transcript; scanned to detect non-speech rows.",
+    )
+    parser.add_argument(
+        "--source-gating",
+        default="auto",
+        choices=["auto", "on", "off"],
+        help=(
+            "Offer a template declaring a 'requires' predicate (podcast, youtube, "
+            "audiobook) only to rows whose id carries the matching GigaSpeech "
+            "prefix. 'auto' enables it when some template declares one."
+        ),
+    )
+    parser.add_argument(
+        "--nonspeech-routing",
+        default="auto",
+        choices=["auto", "on", "off"],
+        help=(
+            "Route rows whose transcript target is empty to templates flagged "
+            "'nonspeech_ok', which state what to return for a clip with no "
+            "speech. 'auto' enables it when some template sets the flag."
+        ),
+    )
     return parser.parse_args()
 
 
@@ -457,4 +649,7 @@ if __name__ == "__main__":
         mode=args.mode,
         num_templates_per_entry=args.num_templates_per_entry,
         seed=args.seed,
+        target_field=args.target_field,
+        source_gating=args.source_gating,
+        nonspeech_routing=args.nonspeech_routing,
     )
