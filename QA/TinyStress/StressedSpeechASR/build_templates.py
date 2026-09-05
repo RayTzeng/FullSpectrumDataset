@@ -305,8 +305,8 @@ pair("main/constrained", "implicit", MAIN, 0.65,
      "Transcribe verbatim, preserving punctuation and capitalization, and mark the stressed words. Output the transcript only.",
      "Listen to the clip and transcribe verbatim, preserving punctuation and capitalization, and marking the stressed words. Output the transcript only.")
 pair("main/constrained", "implicit", MAIN, 0.70,
-     "Just the marked transcript, please - no preamble, no notes.",
-     "Give it a listen and send back just the marked transcript - no preamble, no notes.")
+     "Just the stress-marked transcript, please - no preamble, no notes.",
+     "Give it a listen and send back just the stress-marked transcript - no preamble, no notes.")
 
 # ==================================================================== MAIN / CASUAL
 pair("main/casual", "explicit", MAIN, 0.85,

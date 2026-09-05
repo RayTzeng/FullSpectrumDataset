@@ -172,8 +172,8 @@
 {"question": "Listen, then give me one line: the transcript with the emphasis marked. Nothing else.", "answer": "text", "weight": 0.65}
 {"question": "Transcribe verbatim, preserving punctuation and capitalization, and mark the stressed words. Output the transcript only.", "answer": "text", "weight": 0.65}
 {"question": "Listen to the clip and transcribe verbatim, preserving punctuation and capitalization, and marking the stressed words. Output the transcript only.", "answer": "text", "weight": 0.6}
-{"question": "Just the marked transcript, please - no preamble, no notes.", "answer": "text", "weight": 0.7}
-{"question": "Give it a listen and send back just the marked transcript - no preamble, no notes.", "answer": "text", "weight": 0.65}
+{"question": "Just the stress-marked transcript, please - no preamble, no notes.", "answer": "text", "weight": 0.7}
+{"question": "Give it a listen and send back just the stress-marked transcript - no preamble, no notes.", "answer": "text", "weight": 0.65}
 {"question": "Just transcribe it and star the stressed words (**like this**).", "answer": "text", "weight": 0.85}
 {"question": "Give it a listen and just transcribe it, starring the stressed words (**like this**).", "answer": "text", "weight": 0.8}
 {"question": "What'd they say, and which words did they emphasize? Transcript with ** on the stressed ones, please.", "answer": "text", "weight": 0.7}
