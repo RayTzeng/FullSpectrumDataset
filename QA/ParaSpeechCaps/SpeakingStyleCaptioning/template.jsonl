@@ -1,150 +1,214 @@
-{"template_id": "paraspeechcaps_style_caption_direct_001", "question": "Provide a speaking style caption for this speech clip.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_002", "question": "Write a speaking style caption for this audio.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_003", "question": "Give me a caption describing how this person is speaking.", "answer": "caption", "weight": 0.92}
-{"template_id": "paraspeechcaps_style_caption_direct_004", "question": "Describe the speaker's speaking style in caption form.", "answer": "caption", "weight": 0.84}
-{"template_id": "paraspeechcaps_style_caption_direct_005", "question": "Generate a caption for this clip that describes the speaker's voice and delivery.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_006", "question": "Caption this speech clip in terms of speaking style.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_007", "question": "Provide a caption describing the speaker's voice, delivery, and accent.", "answer": "caption", "weight": 0.9}
-{"template_id": "paraspeechcaps_style_caption_direct_008", "question": "Write a caption that describes how the speaker sounds.", "answer": "caption", "weight": 0.92}
-{"template_id": "paraspeechcaps_style_caption_direct_009", "question": "Describe this speech recording with a speaking style caption.", "answer": "caption", "weight": 0.92}
-{"template_id": "paraspeechcaps_style_caption_direct_010", "question": "Give a speaking style description of this speaker.", "answer": "caption", "weight": 0.92}
-{"template_id": "paraspeechcaps_style_caption_direct_011", "question": "Produce a caption describing the speaker's vocal style.", "answer": "caption", "weight": 0.9}
-{"template_id": "paraspeechcaps_style_caption_direct_012", "question": "Write a caption for this recording focusing on the speaker's speaking style.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_013", "question": "Generate a caption describing the speaker's voice, pace, and recording conditions.", "answer": "caption", "weight": 0.88}
-{"template_id": "paraspeechcaps_style_caption_direct_014", "question": "Provide a short caption describing the overall speaking style in this clip.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_015", "question": "Help me annotate the speaking style of this clip with a caption.", "answer": "caption", "weight": 0.77}
-{"template_id": "paraspeechcaps_style_caption_direct_016", "question": "Please give a caption for the speaking style in this audio sample.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_wh_001", "question": "What does this speaker sound like?", "answer": "caption", "weight": 0.99}
-{"template_id": "paraspeechcaps_style_caption_wh_002", "question": "How would you describe the way this person is speaking?", "answer": "caption", "weight": 0.97}
-{"template_id": "paraspeechcaps_style_caption_wh_003", "question": "Can you describe the speaker's speaking style in this clip?", "answer": "caption", "weight": 0.96}
-{"template_id": "paraspeechcaps_style_caption_wh_004", "question": "Could you write a caption describing the speaker's voice and delivery?", "answer": "caption", "weight": 0.95}
-{"template_id": "paraspeechcaps_style_caption_wh_005", "question": "What kind of speaking style is heard in this recording?", "answer": "caption", "weight": 0.94}
-{"template_id": "paraspeechcaps_style_caption_wh_006", "question": "How would you caption this speaker's vocal style?", "answer": "caption", "weight": 0.91}
-{"template_id": "paraspeechcaps_style_caption_wh_007", "question": "Can you provide a speaking style caption for this utterance?", "answer": "caption", "weight": 0.92}
-{"template_id": "paraspeechcaps_style_caption_wh_008", "question": "Could you describe this speaker's voice, accent, and speaking manner?", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_wh_009", "question": "What is a good speaking style caption for this speech clip?", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_wh_010", "question": "How would you describe the speaker's voice, delivery, accent, and recording conditions?", "answer": "caption", "weight": 0.95}
-{"template_id": "paraspeechcaps_style_caption_wh_011", "question": "Can you tell me how this speaker sounds overall?", "answer": "caption", "weight": 0.95}
-{"template_id": "paraspeechcaps_style_caption_wh_012", "question": "Could you describe the speaking style and vocal characteristics in this clip?", "answer": "caption", "weight": 0.91}
-{"template_id": "paraspeechcaps_style_caption_wh_013", "question": "What would you write as a caption for this person's speaking style?", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_wh_014", "question": "How should this speaker be described in terms of voice and delivery?", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_wh_015", "question": "Can you caption the speaking style of this recording?", "answer": "caption", "weight": 0.96}
-{"template_id": "paraspeechcaps_style_caption_wh_016", "question": "Could you help me describe how the speaker sounds in this audio?", "answer": "caption", "weight": 0.96}
-{"template_id": "paraspeechcaps_style_caption_wh_017", "question": "What does the speaker's delivery sound like in this clip?", "answer": "caption", "weight": 0.94}
-{"template_id": "paraspeechcaps_style_caption_wh_018", "question": "How would you annotate the speaker's style, accent, and recording conditions?", "answer": "caption", "weight": 0.76}
-{"template_id": "paraspeechcaps_style_caption_instr_001", "question": "Listen to this clip and write a speaking style caption.", "answer": "caption", "weight": 0.78}
-{"template_id": "paraspeechcaps_style_caption_instr_002", "question": "Please listen carefully and respond with a caption describing the speaker's speaking style.", "answer": "caption", "weight": 0.79}
-{"template_id": "paraspeechcaps_style_caption_instr_003", "question": "Based on this recording, output just the speaking style caption with no extra explanation.", "answer": "caption", "weight": 0.79}
-{"template_id": "paraspeechcaps_style_caption_instr_004", "question": "Return a caption describing the speaker's voice, delivery, and accent.", "answer": "caption", "weight": 0.76}
-{"template_id": "paraspeechcaps_style_caption_instr_005", "question": "Write the speaking style caption only. Do not add any commentary.", "answer": "caption", "weight": 0.68}
-{"template_id": "paraspeechcaps_style_caption_instr_006", "question": "Describe this speaker's speaking style and give only the caption as your response.", "answer": "caption", "weight": 0.74}
-{"template_id": "paraspeechcaps_style_caption_instr_007", "question": "Listen to the speech clip carefully. Provide only a speaking style caption for it.", "answer": "caption", "weight": 0.78}
-{"template_id": "paraspeechcaps_style_caption_instr_008", "question": "Please generate a speaking style caption that describes the speaker's voice and delivery. Reply with the caption only.", "answer": "caption", "weight": 0.7}
-{"template_id": "paraspeechcaps_style_caption_instr_009", "question": "Based on the audio, write a caption describing the speaker's overall vocal style. Output only the caption text.", "answer": "caption", "weight": 0.72}
-{"template_id": "paraspeechcaps_style_caption_instr_010", "question": "Listen to this recording carefully and produce only a caption describing the speaker's voice, delivery, accent, and recording conditions.", "answer": "caption", "weight": 0.77}
-{"template_id": "paraspeechcaps_style_caption_instr_011", "question": "Please provide a speaking style caption for this clip, and return nothing except the caption itself.", "answer": "caption", "weight": 0.74}
-{"template_id": "paraspeechcaps_style_caption_instr_012", "question": "Generate a caption for this speech sample that focuses on how the speaker sounds. Do not include any explanation.", "answer": "caption", "weight": 0.69}
-{"template_id": "paraspeechcaps_style_caption_instr_013", "question": "Write a speaking style caption for this audio clip. Your response should contain only the caption.", "answer": "caption", "weight": 0.75}
-{"template_id": "paraspeechcaps_style_caption_instr_014", "question": "Listen carefully to this clip. Can you please generate a speaking style caption that describes the speaker's voice, delivery, accent, and recording conditions?", "answer": "caption", "weight": 0.78}
-{"template_id": "paraspeechcaps_style_caption_instr_015", "question": "Help! I want to know how you would annotate the speaking style for this clip. Please answer with only the caption.", "answer": "caption", "weight": 0.4}
-{"template_id": "paraspeechcaps_style_caption_instr_016", "question": "Please describe how the speaker sounds in this recording and return only the resulting caption.", "answer": "caption", "weight": 0.74}
-{"template_id": "paraspeechcaps_style_caption_casual_001", "question": "What does this person sound like in this clip?", "answer": "caption", "weight": 0.83}
-{"template_id": "paraspeechcaps_style_caption_casual_002", "question": "Can you give me a speaking style caption for this one?", "answer": "caption", "weight": 0.78}
-{"template_id": "paraspeechcaps_style_caption_casual_003", "question": "How would you describe this speaker's vibe and delivery?", "answer": "caption", "weight": 0.66}
-{"template_id": "paraspeechcaps_style_caption_casual_004", "question": "Give me a quick caption for how this speaker sounds.", "answer": "caption", "weight": 0.74}
-{"template_id": "paraspeechcaps_style_caption_casual_005", "question": "Can you describe this voice for me?", "answer": "caption", "weight": 0.82}
-{"template_id": "paraspeechcaps_style_caption_casual_006", "question": "What kind of voice and speaking style do you hear here?", "answer": "caption", "weight": 0.82}
-{"template_id": "paraspeechcaps_style_caption_casual_007", "question": "Write a caption for this speaker's style.", "answer": "caption", "weight": 0.82}
-{"template_id": "paraspeechcaps_style_caption_casual_008", "question": "How would you label the speaking style in this clip?", "answer": "caption", "weight": 0.75}
-{"template_id": "paraspeechcaps_style_caption_formal_001", "question": "Could you please provide a caption describing the speaker's speaking style in this recording?", "answer": "caption", "weight": 0.87}
-{"template_id": "paraspeechcaps_style_caption_formal_002", "question": "Please describe the speaker's voice, delivery, accent, and recording conditions in the form of a caption.", "answer": "caption", "weight": 0.83}
-{"template_id": "paraspeechcaps_style_caption_formal_003", "question": "Would you please generate a speaking style caption for this audio clip?", "answer": "caption", "weight": 0.85}
-{"template_id": "paraspeechcaps_style_caption_formal_004", "question": "Kindly provide a caption characterizing the speaker's vocal style and delivery.", "answer": "caption", "weight": 0.82}
-{"template_id": "paraspeechcaps_style_caption_formal_005", "question": "Please listen to the recording and produce a caption describing the speaker's overall speaking style.", "answer": "caption", "weight": 0.85}
-{"template_id": "paraspeechcaps_style_caption_formal_006", "question": "Could you describe how the speaker sounds, including notable aspects of voice, delivery, accent, and environment?", "answer": "caption", "weight": 0.84}
-{"template_id": "paraspeechcaps_style_caption_formal_007", "question": "Please generate a descriptive caption for this speech sample, focusing on the speaker's vocal and speaking characteristics.", "answer": "caption", "weight": 0.79}
-{"template_id": "paraspeechcaps_style_caption_formal_008", "question": "After listening to this clip, please provide a speaking style caption that summarizes how the speaker sounds.", "answer": "caption", "weight": 0.76}
-{"template_id": "paraspeechcaps_style_caption_hint_001", "question": "Describe the speaker's voice, pace, accent, and recording conditions in a single caption.", "answer": "caption", "weight": 0.69}
-{"template_id": "paraspeechcaps_style_caption_hint_002", "question": "Write a caption covering the speaker's vocal quality, speaking manner, and environment.", "answer": "caption", "weight": 0.74}
-{"template_id": "paraspeechcaps_style_caption_hint_003", "question": "Describe this clip in terms of voice, delivery, accent, and background conditions.", "answer": "caption", "weight": 0.74}
-{"template_id": "paraspeechcaps_style_caption_hint_004", "question": "Provide a caption that captures how the speaker sounds, including delivery and recording environment.", "answer": "caption", "weight": 0.74}
-{"template_id": "paraspeechcaps_style_caption_direct_017", "question": "Provide a caption describing the speaking style in this clip.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_018", "question": "Write a description of this speaker's speaking style.", "answer": "caption", "weight": 0.92}
-{"template_id": "paraspeechcaps_style_caption_direct_019", "question": "Generate a speaking-style description for this audio sample.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_020", "question": "Describe the speaker's voice and speaking manner in this recording.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_021", "question": "Create a caption for this clip that captures how the speaker sounds.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_022", "question": "Write a caption describing the voice and delivery in this speech clip.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_023", "question": "Describe this speaker's vocal style in one caption.", "answer": "caption", "weight": 0.9}
-{"template_id": "paraspeechcaps_style_caption_direct_024", "question": "Produce a caption that characterizes the speaker's speaking style.", "answer": "caption", "weight": 0.92}
-{"template_id": "paraspeechcaps_style_caption_direct_025", "question": "Write a speaking-style description for this recording.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_026", "question": "Generate a caption describing how the speech sounds in this clip.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_027", "question": "Describe the overall vocal delivery of the speaker in this audio.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_028", "question": "Provide a descriptive caption for this speaker's voice and speaking style.", "answer": "caption", "weight": 0.92}
-{"template_id": "paraspeechcaps_style_caption_direct_029", "question": "Write a caption that captures the way this speaker talks.", "answer": "caption", "weight": 0.92}
-{"template_id": "paraspeechcaps_style_caption_direct_030", "question": "Describe this speech clip with a caption focused on speaking style.", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_direct_031", "question": "Generate a vocal-style caption for this speech recording.", "answer": "caption", "weight": 0.92}
-{"template_id": "paraspeechcaps_style_caption_wh_019", "question": "What does the speaker sound like in this recording?", "answer": "caption", "weight": 0.94}
-{"template_id": "paraspeechcaps_style_caption_wh_020", "question": "How would you describe this speaker's voice and delivery?", "answer": "caption", "weight": 0.97}
-{"template_id": "paraspeechcaps_style_caption_wh_021", "question": "Can you write a caption for this speaker's speaking style?", "answer": "caption", "weight": 0.95}
-{"template_id": "paraspeechcaps_style_caption_wh_022", "question": "Could you describe how this person sounds while speaking?", "answer": "caption", "weight": 0.95}
-{"template_id": "paraspeechcaps_style_caption_wh_023", "question": "What kind of vocal style does this speaker have?", "answer": "caption", "weight": 0.91}
-{"template_id": "paraspeechcaps_style_caption_wh_024", "question": "How would you caption the overall speaking manner in this clip?", "answer": "caption", "weight": 0.94}
-{"template_id": "paraspeechcaps_style_caption_wh_025", "question": "Can you describe the speaker's voice, pace, and delivery here?", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_wh_026", "question": "Could you provide a caption for how the speaker sounds in this audio?", "answer": "caption", "weight": 0.96}
-{"template_id": "paraspeechcaps_style_caption_wh_027", "question": "What would you say about this speaker's speaking style?", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_wh_028", "question": "How would you describe the vocal character of this speech clip?", "answer": "caption", "weight": 0.92}
-{"template_id": "paraspeechcaps_style_caption_wh_029", "question": "Can you characterize the speaker's style, accent, and environment in a caption?", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_wh_030", "question": "Could you annotate how this speaker sounds?", "answer": "caption", "weight": 0.8}
-{"template_id": "paraspeechcaps_style_caption_wh_031", "question": "What sort of speaking style is this speaker using?", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_wh_032", "question": "How should this clip be captioned in terms of speaking style?", "answer": "caption", "weight": 0.93}
-{"template_id": "paraspeechcaps_style_caption_wh_033", "question": "Can you tell me what this speaker sounds like in caption form?", "answer": "caption", "weight": 0.87}
-{"template_id": "paraspeechcaps_style_caption_instr_017", "question": "Listen to the audio and return only a speaking style caption.", "answer": "caption", "weight": 0.72}
-{"template_id": "paraspeechcaps_style_caption_instr_018", "question": "Write only the caption that describes how the speaker sounds.", "answer": "caption", "weight": 0.74}
-{"template_id": "paraspeechcaps_style_caption_instr_019", "question": "Provide a speaking style caption for this clip and nothing else.", "answer": "caption", "weight": 0.79}
-{"template_id": "paraspeechcaps_style_caption_instr_020", "question": "Based on this speech sample, output only the descriptive caption.", "answer": "caption", "weight": 0.66}
-{"template_id": "paraspeechcaps_style_caption_instr_021", "question": "Listen carefully and write just the caption describing the speaker's voice and delivery.", "answer": "caption", "weight": 0.78}
-{"template_id": "paraspeechcaps_style_caption_instr_022", "question": "Return only a caption for the speaking style in this recording, with no extra text.", "answer": "caption", "weight": 0.79}
-{"template_id": "paraspeechcaps_style_caption_instr_023", "question": "Describe the speaker's vocal style in a single caption and do not add explanation.", "answer": "caption", "weight": 0.73}
-{"template_id": "paraspeechcaps_style_caption_instr_024", "question": "Generate only the speaking-style caption for this audio clip.", "answer": "caption", "weight": 0.79}
-{"template_id": "paraspeechcaps_style_caption_instr_025", "question": "Please respond with nothing except a caption describing the speaker's speaking style.", "answer": "caption", "weight": 0.73}
-{"template_id": "paraspeechcaps_style_caption_instr_026", "question": "Produce a caption describing the speaker's voice, delivery, accent, and environment. Output only the caption.", "answer": "caption", "weight": 0.72}
-{"template_id": "paraspeechcaps_style_caption_casual_009", "question": "How does this speaker sound to you?", "answer": "caption", "weight": 0.82}
-{"template_id": "paraspeechcaps_style_caption_casual_010", "question": "Can you do a speaking-style caption for this clip?", "answer": "caption", "weight": 0.73}
-{"template_id": "paraspeechcaps_style_caption_casual_011", "question": "Give me a caption for this person's voice.", "answer": "caption", "weight": 0.82}
-{"template_id": "paraspeechcaps_style_caption_casual_012", "question": "What's the speaker's style like here?", "answer": "caption", "weight": 0.78}
-{"template_id": "paraspeechcaps_style_caption_casual_013", "question": "Can you describe how this person talks?", "answer": "caption", "weight": 0.84}
-{"template_id": "paraspeechcaps_style_caption_formal_009", "question": "Could you please write a caption describing the speaker's vocal style in this clip?", "answer": "caption", "weight": 0.85}
-{"template_id": "paraspeechcaps_style_caption_formal_010", "question": "Would you please provide a speaking style caption for this recording?", "answer": "caption", "weight": 0.85}
-{"template_id": "paraspeechcaps_style_caption_formal_011", "question": "Kindly describe the speaker's voice and delivery in the form of a caption.", "answer": "caption", "weight": 0.84}
-{"template_id": "paraspeechcaps_style_caption_formal_012", "question": "Please provide a descriptive caption summarizing how the speaker sounds in this audio.", "answer": "caption", "weight": 0.75}
-{"template_id": "paraspeechcaps_style_caption_formal_013", "question": "Could you kindly generate a caption describing the speaker's speaking style and recording conditions?", "answer": "caption", "weight": 0.84}
-{"template_id": "paraspeechcaps_style_caption_help_005", "question": "Can you help me write a caption for how this speaker sounds?", "answer": "caption", "weight": 0.9}
-{"template_id": "paraspeechcaps_style_caption_help_006", "question": "I need help describing this speaker's speaking style.", "answer": "caption", "weight": 0.88}
-{"template_id": "paraspeechcaps_style_caption_help_007", "question": "Could you help me annotate the speaking style in this clip?", "answer": "caption", "weight": 0.76}
-{"template_id": "paraspeechcaps_style_caption_help_008", "question": "Can you help me come up with a speaking style caption for this audio?", "answer": "caption", "weight": 0.91}
-{"template_id": "paraspeechcaps_style_caption_help_009", "question": "I want to describe this speaker properly. Can you help?", "answer": "caption", "weight": 0.9}
-{"template_id": "paraspeechcaps_style_caption_help_010", "question": "Could you help me write down how this person sounds while speaking?", "answer": "caption", "weight": 0.9}
-{"template_id": "paraspeechcaps_style_caption_help_011", "question": "Can you help me describe the speaker's voice and delivery in this recording?", "answer": "caption", "weight": 0.91}
-{"template_id": "paraspeechcaps_style_caption_help_012", "question": "I need a caption that captures this speaker's style. Can you help me write one?", "answer": "caption", "weight": 0.9}
-{"template_id": "paraspeechcaps_style_caption_help_013", "question": "Could you help me label the speaking style of this utterance?", "answer": "caption", "weight": 0.79}
-{"template_id": "paraspeechcaps_style_caption_help_014", "question": "I need help with a speaking-style description for this clip.", "answer": "caption", "weight": 0.89}
-{"template_id": "paraspeechcaps_style_caption_help_015", "question": "Can you help me describe what this speaker sounds like?", "answer": "caption", "weight": 0.9}
-{"template_id": "paraspeechcaps_style_caption_help_016", "question": "Would you help me generate a caption for this speaker's vocal style?", "answer": "caption", "weight": 0.86}
-{"template_id": "paraspeechcaps_style_caption_help_017", "question": "I am trying to annotate this recording. Can you help me write the speaking style caption?", "answer": "caption", "weight": 0.76}
-{"template_id": "paraspeechcaps_style_caption_help_018", "question": "Could you help me describe this clip in terms of speaking style?", "answer": "caption", "weight": 0.9}
-{"template_id": "paraspeechcaps_style_caption_help_019", "question": "Please help me come up with a caption describing the speaker's voice, delivery, and environment.", "answer": "caption", "weight": 0.86}
-{"template_id": "paraspeechcaps_style_caption_workflow_001", "question": "I am currently working on annotating speech clips for speaking style. Please write a caption describing how this speaker sounds.", "answer": "caption", "weight": 0.58}
-{"template_id": "paraspeechcaps_style_caption_workflow_002", "question": "I am working on a dataset of speech recordings and need a speaking style caption for this clip.", "answer": "caption", "weight": 0.47}
-{"template_id": "paraspeechcaps_style_caption_workflow_003", "question": "I am currently labeling audio samples for speaking style. Please provide a caption for this recording.", "answer": "caption", "weight": 0.51}
-{"template_id": "paraspeechcaps_style_caption_workflow_004", "question": "You are tasked with writing a speaking style caption for this speech sample.", "answer": "caption", "weight": 0.45}
-{"template_id": "paraspeechcaps_style_caption_workflow_005", "question": "You are tasked with annotating how the speaker sounds in this clip. Provide the result as a caption.", "answer": "caption", "weight": 0.49}
-{"template_id": "paraspeechcaps_style_caption_workflow_006", "question": "I am preparing metadata for a speech dataset and need a caption describing the speaker's voice and delivery in this audio.", "answer": "caption", "weight": 0.47}
-{"template_id": "paraspeechcaps_style_caption_workflow_007", "question": "I am currently building a corpus of speaking style descriptions. Please generate a caption for this recording.", "answer": "caption", "weight": 0.47}
-{"template_id": "paraspeechcaps_style_caption_workflow_008", "question": "You are helping with speech-style annotation for an audio collection. Write a caption describing this speaker.", "answer": "caption", "weight": 0.43}
-{"template_id": "paraspeechcaps_style_caption_workflow_009", "question": "I am documenting the characteristics of this speech clip for a dataset. Please provide a speaking style caption.", "answer": "caption", "weight": 0.46}
-{"template_id": "paraspeechcaps_style_caption_workflow_010", "question": "You are tasked with producing a descriptive caption for this clip that captures the speaker's speaking style.", "answer": "caption", "weight": 0.46}
-{"template_id": "paraspeechcaps_style_caption_workflow_011", "question": "I am currently curating speech annotations and need a caption describing the speaker's vocal style in this clip.", "answer": "caption", "weight": 0.42}
-{"template_id": "paraspeechcaps_style_caption_workflow_012", "question": "You are working on speaking-style annotation for this audio sample. Write the appropriate caption.", "answer": "caption", "weight": 0.44}
-{"template_id": "paraspeechcaps_style_caption_workflow_013", "question": "I am putting together descriptive metadata for speech recordings. Please caption how this speaker sounds.", "answer": "caption", "weight": 0.46}
-{"template_id": "paraspeechcaps_style_caption_workflow_014", "question": "You are tasked with creating a speaking style description for this recording. Return it as a caption.", "answer": "caption", "weight": 0.49}
-{"template_id": "paraspeechcaps_style_caption_workflow_015", "question": "I am currently reviewing speech clips for style annotation. Please write a caption for this one.", "answer": "caption", "weight": 0.37}
+{"template_id": "psc_style_caption_direct_001", "question": "Describe how this person is speaking.", "answer": "' '.join(caption.split())", "weight": 0.97}
+{"template_id": "psc_style_caption_direct_002", "question": "Listen to this clip and describe how this person is speaking.", "answer": "' '.join(caption.split())", "weight": 0.94}
+{"template_id": "psc_style_caption_direct_003", "question": "Write a caption describing the speaker's voice and delivery.", "answer": "' '.join(caption.split())", "weight": 0.95}
+{"template_id": "psc_style_caption_direct_004", "question": "Listen to the audio, then write a caption describing the speaker's voice and delivery.", "answer": "' '.join(caption.split())", "weight": 0.92}
+{"template_id": "psc_style_caption_direct_005", "question": "Describe the speaker's voice and speaking style.", "answer": "' '.join(caption.split())", "weight": 0.96}
+{"template_id": "psc_style_caption_direct_006", "question": "After listening to this recording, describe the speaker's voice and speaking style.", "answer": "' '.join(caption.split())", "weight": 0.93}
+{"template_id": "psc_style_caption_direct_007", "question": "Give me a description of this speaker's vocal style.", "answer": "' '.join(caption.split())", "weight": 0.9}
+{"template_id": "psc_style_caption_direct_008", "question": "Listen to this recording and give me a description of the speaker's vocal style.", "answer": "' '.join(caption.split())", "weight": 0.87}
+{"template_id": "psc_style_caption_direct_009", "question": "Caption this clip in terms of speaking style rather than content.", "answer": "' '.join(caption.split())", "weight": 0.72}
+{"template_id": "psc_style_caption_direct_010", "question": "Listen to this clip and caption it in terms of speaking style rather than content.", "answer": "' '.join(caption.split())", "weight": 0.69}
+{"template_id": "psc_style_caption_direct_011", "question": "Describe the delivery in this recording: the voice, the pace, and the setting it was recorded in.", "answer": "' '.join(caption.split())", "weight": 0.78}
+{"template_id": "psc_style_caption_direct_012", "question": "Listen to this recording and describe the delivery: the voice, the pace, and the setting it was recorded in.", "answer": "' '.join(caption.split())", "weight": 0.75}
+{"template_id": "psc_style_caption_direct_013", "question": "Describe the speaker's tone, pitch and pace.", "answer": "' '.join(caption.split())", "weight": 0.88}
+{"template_id": "psc_style_caption_direct_014", "question": "Listen to the audio and describe the speaker's tone, pitch and pace.", "answer": "' '.join(caption.split())", "weight": 0.85}
+{"template_id": "psc_style_caption_direct_015", "question": "Write a paralinguistic description of this speech sample.", "answer": "' '.join(caption.split())", "weight": 0.42}
+{"template_id": "psc_style_caption_direct_016", "question": "Listen to this speech sample and write a paralinguistic description of it.", "answer": "' '.join(caption.split())", "weight": 0.39}
+{"template_id": "psc_style_caption_direct_017", "question": "Describe the speaking style you hear in this recording.", "answer": "' '.join(caption.split())", "weight": 0.92}
+{"template_id": "psc_style_caption_direct_018", "question": "Listen to this recording and describe the speaking style you hear.", "answer": "' '.join(caption.split())", "weight": 0.89}
+{"template_id": "psc_style_caption_direct_019", "question": "Give a speaking-style caption for this speech clip.", "answer": "' '.join(caption.split())", "weight": 0.8}
+{"template_id": "psc_style_caption_direct_020", "question": "Listen to this speech clip and give a speaking-style caption for it.", "answer": "' '.join(caption.split())", "weight": 0.77}
+{"template_id": "psc_style_caption_direct_021", "question": "Describe this speaker's voice: its pitch, its texture, and how quickly they talk.", "answer": "' '.join(caption.split())", "weight": 0.76}
+{"template_id": "psc_style_caption_direct_022", "question": "Listen to the clip and describe the speaker's voice: its pitch, its texture, and how quickly they talk.", "answer": "' '.join(caption.split())", "weight": 0.73}
+{"template_id": "psc_style_caption_direct_023", "question": "Characterize the speaker's delivery in this recording.", "answer": "' '.join(caption.split())", "weight": 0.74}
+{"template_id": "psc_style_caption_direct_024", "question": "Listen to this recording and characterize the speaker's delivery.", "answer": "' '.join(caption.split())", "weight": 0.71}
+{"template_id": "psc_style_caption_direct_025", "question": "Produce a speaking-style caption for this audio.", "answer": "' '.join(caption.split())", "weight": 0.79}
+{"template_id": "psc_style_caption_direct_026", "question": "Listen to this audio and produce a speaking-style caption for it.", "answer": "' '.join(caption.split())", "weight": 0.76}
+{"template_id": "psc_style_caption_direct_027", "question": "Describe how this speech sounds, including the environment it was recorded in.", "answer": "' '.join(caption.split())", "weight": 0.85}
+{"template_id": "psc_style_caption_direct_028", "question": "Listen to the audio and describe how the speech sounds, including the environment it was recorded in.", "answer": "' '.join(caption.split())", "weight": 0.82}
+{"template_id": "psc_style_caption_direct_029", "question": "Describe the manner of speaking in this clip.", "answer": "' '.join(caption.split())", "weight": 0.83}
+{"template_id": "psc_style_caption_direct_030", "question": "Listen to this clip and describe the manner of speaking.", "answer": "' '.join(caption.split())", "weight": 0.8}
+{"template_id": "psc_style_caption_direct_031", "question": "Describe the voice quality and delivery of the person talking here.", "answer": "' '.join(caption.split())", "weight": 0.81}
+{"template_id": "psc_style_caption_direct_032", "question": "Listen to this audio and describe the voice quality and delivery of the person talking.", "answer": "' '.join(caption.split())", "weight": 0.78}
+{"template_id": "psc_style_caption_direct_033", "question": "Write a short description of how this person speaks, not of what they say.", "answer": "' '.join(caption.split())", "weight": 0.77}
+{"template_id": "psc_style_caption_direct_034", "question": "Listen to this clip and write a short description of how the person speaks, not of what they say.", "answer": "' '.join(caption.split())", "weight": 0.74}
+{"template_id": "psc_style_caption_direct_035", "question": "Describe the speaker's voice and how they deliver their words.", "answer": "' '.join(caption.split())", "weight": 0.93}
+{"template_id": "psc_style_caption_direct_036", "question": "Listen to this recording, then describe the speaker's voice and how they deliver their words.", "answer": "' '.join(caption.split())", "weight": 0.9}
+{"template_id": "psc_style_caption_direct_037", "question": "Put this speaker's voice and delivery into a written description.", "answer": "' '.join(caption.split())", "weight": 0.7}
+{"template_id": "psc_style_caption_direct_038", "question": "Listen to this audio and put the speaker's voice and delivery into a written description.", "answer": "' '.join(caption.split())", "weight": 0.67}
+{"template_id": "psc_style_caption_direct_039", "question": "Describe the sound of this speaker's voice and the way they speak.", "answer": "' '.join(caption.split())", "weight": 0.89}
+{"template_id": "psc_style_caption_direct_040", "question": "Listen to the recording and describe the sound of the speaker's voice and the way they speak.", "answer": "' '.join(caption.split())", "weight": 0.86}
+{"template_id": "psc_style_caption_wh_001", "question": "How does this person sound?", "answer": "' '.join(caption.split())", "weight": 0.94}
+{"template_id": "psc_style_caption_wh_002", "question": "Listen to this clip. How does this person sound?", "answer": "' '.join(caption.split())", "weight": 0.91}
+{"template_id": "psc_style_caption_wh_003", "question": "How would you describe the speaker's voice and delivery?", "answer": "' '.join(caption.split())", "weight": 0.95}
+{"template_id": "psc_style_caption_wh_004", "question": "Listen to the audio. How would you describe the speaker's voice and delivery?", "answer": "' '.join(caption.split())", "weight": 0.92}
+{"template_id": "psc_style_caption_wh_005", "question": "What does this speaker's voice sound like?", "answer": "' '.join(caption.split())", "weight": 0.92}
+{"template_id": "psc_style_caption_wh_006", "question": "Listen to this recording. What does the speaker's voice sound like?", "answer": "' '.join(caption.split())", "weight": 0.89}
+{"template_id": "psc_style_caption_wh_007", "question": "What is the speaking style in this clip?", "answer": "' '.join(caption.split())", "weight": 0.86}
+{"template_id": "psc_style_caption_wh_008", "question": "Listen to this clip. What is the speaking style?", "answer": "' '.join(caption.split())", "weight": 0.83}
+{"template_id": "psc_style_caption_wh_009", "question": "How is this person speaking — pitch, pace, tone?", "answer": "' '.join(caption.split())", "weight": 0.84}
+{"template_id": "psc_style_caption_wh_010", "question": "Listen to the audio. How is this person speaking — pitch, pace, tone?", "answer": "' '.join(caption.split())", "weight": 0.81}
+{"template_id": "psc_style_caption_wh_011", "question": "What can you say about the way this speech is delivered?", "answer": "' '.join(caption.split())", "weight": 0.79}
+{"template_id": "psc_style_caption_wh_012", "question": "Listen to this recording. What can you say about the way the speech is delivered?", "answer": "' '.join(caption.split())", "weight": 0.76}
+{"template_id": "psc_style_caption_wh_013", "question": "How would you characterize the speaker's tone and pace here?", "answer": "' '.join(caption.split())", "weight": 0.78}
+{"template_id": "psc_style_caption_wh_014", "question": "Listen to this audio. How would you characterize the speaker's tone and pace?", "answer": "' '.join(caption.split())", "weight": 0.75}
+{"template_id": "psc_style_caption_wh_015", "question": "What kind of voice does this speaker have, and how do they deliver their words?", "answer": "' '.join(caption.split())", "weight": 0.82}
+{"template_id": "psc_style_caption_wh_016", "question": "Listen to the clip. What kind of voice does the speaker have, and how do they deliver their words?", "answer": "' '.join(caption.split())", "weight": 0.79}
+{"template_id": "psc_style_caption_wh_017", "question": "How does the speaker come across in this recording?", "answer": "' '.join(caption.split())", "weight": 0.73}
+{"template_id": "psc_style_caption_wh_018", "question": "Listen to this recording. How does the speaker come across?", "answer": "' '.join(caption.split())", "weight": 0.7}
+{"template_id": "psc_style_caption_wh_019", "question": "What are the vocal characteristics of this speaker?", "answer": "' '.join(caption.split())", "weight": 0.68}
+{"template_id": "psc_style_caption_wh_020", "question": "Listen to the audio. What are the vocal characteristics of this speaker?", "answer": "' '.join(caption.split())", "weight": 0.65}
+{"template_id": "psc_style_caption_wh_021", "question": "How does this recording sound in terms of the voice and the setting?", "answer": "' '.join(caption.split())", "weight": 0.66}
+{"template_id": "psc_style_caption_wh_022", "question": "Listen to this recording. How does it sound in terms of the voice and the setting?", "answer": "' '.join(caption.split())", "weight": 0.63}
+{"template_id": "psc_style_caption_wh_023", "question": "What stands out about the way this person talks?", "answer": "' '.join(caption.split())", "weight": 0.75}
+{"template_id": "psc_style_caption_wh_024", "question": "Listen to this clip. What stands out about the way this person talks?", "answer": "' '.join(caption.split())", "weight": 0.72}
+{"template_id": "psc_style_caption_wh_025", "question": "How fast and how clearly does this person speak, and what does their voice sound like?", "answer": "' '.join(caption.split())", "weight": 0.71}
+{"template_id": "psc_style_caption_wh_026", "question": "Listen to the audio. How fast and how clearly does this person speak, and what does their voice sound like?", "answer": "' '.join(caption.split())", "weight": 0.68}
+{"template_id": "psc_style_caption_wh_027", "question": "How would you describe this clip's speaking style to someone who cannot hear it?", "answer": "' '.join(caption.split())", "weight": 0.62}
+{"template_id": "psc_style_caption_wh_028", "question": "Listen to this clip. How would you describe its speaking style to someone who cannot hear it?", "answer": "' '.join(caption.split())", "weight": 0.59}
+{"template_id": "psc_style_caption_wh_029", "question": "What is the speaker's manner of delivery here?", "answer": "' '.join(caption.split())", "weight": 0.69}
+{"template_id": "psc_style_caption_wh_030", "question": "Listen to this recording. What is the speaker's manner of delivery?", "answer": "' '.join(caption.split())", "weight": 0.66}
+{"template_id": "psc_style_caption_wh_031", "question": "What does the voice sound like, and what is the recording environment like?", "answer": "' '.join(caption.split())", "weight": 0.72}
+{"template_id": "psc_style_caption_wh_032", "question": "Listen to this audio. What does the voice sound like, and what is the recording environment like?", "answer": "' '.join(caption.split())", "weight": 0.69}
+{"template_id": "psc_style_caption_wh_033", "question": "How would you sum up this speaker's voice and delivery?", "answer": "' '.join(caption.split())", "weight": 0.8}
+{"template_id": "psc_style_caption_wh_034", "question": "Listen to the clip. How would you sum up the speaker's voice and delivery?", "answer": "' '.join(caption.split())", "weight": 0.77}
+{"template_id": "psc_style_caption_canyou_001", "question": "Can you describe how this person is speaking?", "answer": "' '.join(caption.split())", "weight": 0.88}
+{"template_id": "psc_style_caption_canyou_002", "question": "Can you listen to this clip and describe how the person is speaking?", "answer": "' '.join(caption.split())", "weight": 0.85}
+{"template_id": "psc_style_caption_canyou_003", "question": "Could you write a caption describing the speaker's voice?", "answer": "' '.join(caption.split())", "weight": 0.82}
+{"template_id": "psc_style_caption_canyou_004", "question": "Could you listen to this audio and write a caption describing the speaker's voice?", "answer": "' '.join(caption.split())", "weight": 0.79}
+{"template_id": "psc_style_caption_canyou_005", "question": "Can you tell me what this speaker's delivery sounds like?", "answer": "' '.join(caption.split())", "weight": 0.8}
+{"template_id": "psc_style_caption_canyou_006", "question": "Can you listen to this recording and tell me what the speaker's delivery sounds like?", "answer": "' '.join(caption.split())", "weight": 0.77}
+{"template_id": "psc_style_caption_canyou_007", "question": "Are you able to characterize the speaking style in this recording?", "answer": "' '.join(caption.split())", "weight": 0.66}
+{"template_id": "psc_style_caption_canyou_008", "question": "Are you able to listen to this recording and characterize the speaking style?", "answer": "' '.join(caption.split())", "weight": 0.63}
+{"template_id": "psc_style_caption_canyou_009", "question": "Can you give me a description of the voice and the pace here?", "answer": "' '.join(caption.split())", "weight": 0.76}
+{"template_id": "psc_style_caption_canyou_010", "question": "Can you listen to this clip and give me a description of the voice and the pace?", "answer": "' '.join(caption.split())", "weight": 0.73}
+{"template_id": "psc_style_caption_canyou_011", "question": "Could you describe the speaker's tone and vocal quality for me?", "answer": "' '.join(caption.split())", "weight": 0.78}
+{"template_id": "psc_style_caption_canyou_012", "question": "Could you listen to the audio and describe the speaker's tone and vocal quality for me?", "answer": "' '.join(caption.split())", "weight": 0.75}
+{"template_id": "psc_style_caption_canyou_013", "question": "Can you help me describe how this speaker sounds?", "answer": "' '.join(caption.split())", "weight": 0.74}
+{"template_id": "psc_style_caption_canyou_014", "question": "Can you listen to this clip and help me describe how the speaker sounds?", "answer": "' '.join(caption.split())", "weight": 0.71}
+{"template_id": "psc_style_caption_canyou_015", "question": "I need help describing this speaker's voice — can you do it?", "answer": "' '.join(caption.split())", "weight": 0.64}
+{"template_id": "psc_style_caption_canyou_016", "question": "I need help describing this speaker's voice — can you listen and do it?", "answer": "' '.join(caption.split())", "weight": 0.61}
+{"template_id": "psc_style_caption_canyou_017", "question": "Would you be able to caption the speaking style of this clip?", "answer": "' '.join(caption.split())", "weight": 0.62}
+{"template_id": "psc_style_caption_canyou_018", "question": "Would you be able to listen to this clip and caption its speaking style?", "answer": "' '.join(caption.split())", "weight": 0.59}
+{"template_id": "psc_style_caption_canyou_019", "question": "Can you put this speaker's delivery into words?", "answer": "' '.join(caption.split())", "weight": 0.7}
+{"template_id": "psc_style_caption_canyou_020", "question": "Can you listen to this recording and put the speaker's delivery into words?", "answer": "' '.join(caption.split())", "weight": 0.67}
+{"template_id": "psc_style_caption_canyou_021", "question": "Could you describe the way this person talks?", "answer": "' '.join(caption.split())", "weight": 0.79}
+{"template_id": "psc_style_caption_canyou_022", "question": "Could you listen to this audio and describe the way this person talks?", "answer": "' '.join(caption.split())", "weight": 0.76}
+{"template_id": "psc_style_caption_canyou_023", "question": "Can you describe the speaker's voice along with the recording environment?", "answer": "' '.join(caption.split())", "weight": 0.68}
+{"template_id": "psc_style_caption_canyou_024", "question": "Can you listen to this clip and describe the speaker's voice along with the recording environment?", "answer": "' '.join(caption.split())", "weight": 0.65}
+{"template_id": "psc_style_caption_polite_001", "question": "Please describe the speaker's voice and delivery.", "answer": "' '.join(caption.split())", "weight": 0.75}
+{"template_id": "psc_style_caption_polite_002", "question": "Please listen to this recording and describe the speaker's voice and delivery.", "answer": "' '.join(caption.split())", "weight": 0.72}
+{"template_id": "psc_style_caption_polite_003", "question": "Would you please write a caption describing how this person speaks?", "answer": "' '.join(caption.split())", "weight": 0.62}
+{"template_id": "psc_style_caption_polite_004", "question": "Would you please listen to this clip and write a caption describing how the person speaks?", "answer": "' '.join(caption.split())", "weight": 0.59}
+{"template_id": "psc_style_caption_polite_005", "question": "I would appreciate a description of this speaker's vocal style.", "answer": "' '.join(caption.split())", "weight": 0.58}
+{"template_id": "psc_style_caption_polite_006", "question": "I would appreciate it if you listened to this clip and described the speaker's vocal style.", "answer": "' '.join(caption.split())", "weight": 0.55}
+{"template_id": "psc_style_caption_polite_007", "question": "If you don't mind, describe the speaking style in this recording.", "answer": "' '.join(caption.split())", "weight": 0.56}
+{"template_id": "psc_style_caption_polite_008", "question": "If you don't mind, listen to this recording and describe the speaking style.", "answer": "' '.join(caption.split())", "weight": 0.53}
+{"template_id": "psc_style_caption_polite_009", "question": "Kindly describe how the speaker sounds in this clip.", "answer": "' '.join(caption.split())", "weight": 0.52}
+{"template_id": "psc_style_caption_polite_010", "question": "Kindly listen to this clip and describe how the speaker sounds.", "answer": "' '.join(caption.split())", "weight": 0.49}
+{"template_id": "psc_style_caption_polite_011", "question": "Please give a short description of the voice, the pace and the setting.", "answer": "' '.join(caption.split())", "weight": 0.6}
+{"template_id": "psc_style_caption_polite_012", "question": "Please listen to the audio and give a short description of the voice, the pace and the setting.", "answer": "' '.join(caption.split())", "weight": 0.57}
+{"template_id": "psc_style_caption_polite_013", "question": "I would be grateful for a description of this speaker's delivery.", "answer": "' '.join(caption.split())", "weight": 0.5}
+{"template_id": "psc_style_caption_polite_014", "question": "I would be grateful if you listened to this audio and described the speaker's delivery.", "answer": "' '.join(caption.split())", "weight": 0.47}
+{"template_id": "psc_style_caption_polite_015", "question": "Please characterize the speaking style of this recording.", "answer": "' '.join(caption.split())", "weight": 0.64}
+{"template_id": "psc_style_caption_polite_016", "question": "Please listen to this recording and characterize its speaking style.", "answer": "' '.join(caption.split())", "weight": 0.61}
+{"template_id": "psc_style_caption_polite_017", "question": "Could I trouble you for a caption describing how this person sounds?", "answer": "' '.join(caption.split())", "weight": 0.46}
+{"template_id": "psc_style_caption_polite_018", "question": "Could I trouble you to listen to this clip and caption how the person sounds?", "answer": "' '.join(caption.split())", "weight": 0.43}
+{"template_id": "psc_style_caption_workflow_001", "question": "I'm building a voice search index. Describe how this speaker sounds.", "answer": "' '.join(caption.split())", "weight": 0.56}
+{"template_id": "psc_style_caption_workflow_002", "question": "I'm building a voice search index. Listen to this clip and describe how the speaker sounds.", "answer": "' '.join(caption.split())", "weight": 0.53}
+{"template_id": "psc_style_caption_workflow_003", "question": "For a dataset of speaking styles, describe the voice and delivery in this clip.", "answer": "' '.join(caption.split())", "weight": 0.54}
+{"template_id": "psc_style_caption_workflow_004", "question": "For a dataset of speaking styles, listen to this clip and describe the voice and delivery.", "answer": "' '.join(caption.split())", "weight": 0.51}
+{"template_id": "psc_style_caption_workflow_005", "question": "I'm casting a voice actor. Describe this person's voice and delivery.", "answer": "' '.join(caption.split())", "weight": 0.58}
+{"template_id": "psc_style_caption_workflow_006", "question": "I'm casting a voice actor. Listen to this sample and describe the person's voice and delivery.", "answer": "' '.join(caption.split())", "weight": 0.55}
+{"template_id": "psc_style_caption_workflow_007", "question": "We label recordings by speaking style. Write the style description for this one.", "answer": "' '.join(caption.split())", "weight": 0.5}
+{"template_id": "psc_style_caption_workflow_008", "question": "We label recordings by speaking style. Listen to this one and write its style description.", "answer": "' '.join(caption.split())", "weight": 0.47}
+{"template_id": "psc_style_caption_workflow_009", "question": "I'm writing show notes and need a line about how the speaker sounds. Describe it.", "answer": "' '.join(caption.split())", "weight": 0.48}
+{"template_id": "psc_style_caption_workflow_010", "question": "I'm writing show notes and need a line about how the speaker sounds. Listen to this and describe it.", "answer": "' '.join(caption.split())", "weight": 0.45}
+{"template_id": "psc_style_caption_workflow_011", "question": "For an accessibility caption, describe the speaker's voice and manner in this clip.", "answer": "' '.join(caption.split())", "weight": 0.46}
+{"template_id": "psc_style_caption_workflow_012", "question": "For an accessibility caption, listen to this clip and describe the speaker's voice and manner.", "answer": "' '.join(caption.split())", "weight": 0.43}
+{"template_id": "psc_style_caption_workflow_013", "question": "I'm picking a reference clip for a text-to-speech voice. Describe the speaking style of this one.", "answer": "' '.join(caption.split())", "weight": 0.52}
+{"template_id": "psc_style_caption_workflow_014", "question": "I'm picking a reference clip for a text-to-speech voice. Listen to this one and describe its speaking style.", "answer": "' '.join(caption.split())", "weight": 0.49}
+{"template_id": "psc_style_caption_workflow_015", "question": "Our review log records voice characteristics per recording. Describe this recording's.", "answer": "' '.join(caption.split())", "weight": 0.4}
+{"template_id": "psc_style_caption_workflow_016", "question": "Our review log records voice characteristics per recording. Listen to this one and describe its voice.", "answer": "' '.join(caption.split())", "weight": 0.37}
+{"template_id": "psc_style_caption_workflow_017", "question": "I'm sorting interview clips by delivery. How does this one sound?", "answer": "' '.join(caption.split())", "weight": 0.44}
+{"template_id": "psc_style_caption_workflow_018", "question": "I'm sorting interview clips by delivery. Listen to this one — how does it sound?", "answer": "' '.join(caption.split())", "weight": 0.41}
+{"template_id": "psc_style_caption_workflow_019", "question": "For a speech corpus data card, describe this sample's voice and recording conditions.", "answer": "' '.join(caption.split())", "weight": 0.38}
+{"template_id": "psc_style_caption_workflow_020", "question": "For a speech corpus data card, listen to this sample and describe its voice and recording conditions.", "answer": "' '.join(caption.split())", "weight": 0.35}
+{"template_id": "psc_style_caption_format_001", "question": "Describe the speaker's voice and delivery. Give the description only, with no preamble.", "answer": "' '.join(caption.split())", "weight": 0.64}
+{"template_id": "psc_style_caption_format_002", "question": "Listen to the audio and describe the speaker's voice and delivery. Give the description only, with no preamble.", "answer": "' '.join(caption.split())", "weight": 0.61}
+{"template_id": "psc_style_caption_format_003", "question": "Describe how this person speaks. Plain prose, no bullet points.", "answer": "' '.join(caption.split())", "weight": 0.6}
+{"template_id": "psc_style_caption_format_004", "question": "Listen to this clip and describe how the person speaks. Plain prose, no bullet points.", "answer": "' '.join(caption.split())", "weight": 0.57}
+{"template_id": "psc_style_caption_format_005", "question": "Write the speaking-style description as flowing prose rather than a list of tags.", "answer": "' '.join(caption.split())", "weight": 0.55}
+{"template_id": "psc_style_caption_format_006", "question": "Listen to this recording and write its speaking-style description as flowing prose rather than a list of tags.", "answer": "' '.join(caption.split())", "weight": 0.52}
+{"template_id": "psc_style_caption_format_007", "question": "Describe the speaker's delivery in a short paragraph.", "answer": "' '.join(caption.split())", "weight": 0.62}
+{"template_id": "psc_style_caption_format_008", "question": "Listen to this recording and describe the speaker's delivery in a short paragraph.", "answer": "' '.join(caption.split())", "weight": 0.59}
+{"template_id": "psc_style_caption_format_009", "question": "Describe the voice and delivery in this clip. Don't transcribe the words.", "answer": "' '.join(caption.split())", "weight": 0.58}
+{"template_id": "psc_style_caption_format_010", "question": "Listen to this clip and describe the voice and delivery. Don't transcribe the words.", "answer": "' '.join(caption.split())", "weight": 0.55}
+{"template_id": "psc_style_caption_format_011", "question": "Give a style description of this speech. Skip the transcript.", "answer": "' '.join(caption.split())", "weight": 0.53}
+{"template_id": "psc_style_caption_format_012", "question": "Listen to this speech and give a style description. Skip the transcript.", "answer": "' '.join(caption.split())", "weight": 0.5}
+{"template_id": "psc_style_caption_format_013", "question": "Describe how this speaker sounds. Keep it to the description itself, without explaining your reasoning.", "answer": "' '.join(caption.split())", "weight": 0.47}
+{"template_id": "psc_style_caption_format_014", "question": "Listen to this audio and describe how the speaker sounds, keeping it to the description itself without explaining your reasoning.", "answer": "' '.join(caption.split())", "weight": 0.44}
+{"template_id": "psc_style_caption_casual_001", "question": "What's this person's voice like?", "answer": "' '.join(caption.split())", "weight": 0.9}
+{"template_id": "psc_style_caption_casual_002", "question": "Have a listen — what's this person's voice like?", "answer": "' '.join(caption.split())", "weight": 0.87}
+{"template_id": "psc_style_caption_casual_003", "question": "How do they sound?", "answer": "' '.join(caption.split())", "weight": 0.86}
+{"template_id": "psc_style_caption_casual_004", "question": "Listen to this. How do they sound?", "answer": "' '.join(caption.split())", "weight": 0.83}
+{"template_id": "psc_style_caption_casual_005", "question": "Just describe how they sound.", "answer": "' '.join(caption.split())", "weight": 0.82}
+{"template_id": "psc_style_caption_casual_006", "question": "Just listen and describe how they sound.", "answer": "' '.join(caption.split())", "weight": 0.79}
+{"template_id": "psc_style_caption_casual_007", "question": "What's their delivery like here?", "answer": "' '.join(caption.split())", "weight": 0.76}
+{"template_id": "psc_style_caption_casual_008", "question": "Listen to this one. What's their delivery like?", "answer": "' '.join(caption.split())", "weight": 0.73}
+{"template_id": "psc_style_caption_casual_009", "question": "Tell me how this one sounds.", "answer": "' '.join(caption.split())", "weight": 0.8}
+{"template_id": "psc_style_caption_casual_010", "question": "Listen to this one and tell me how it sounds.", "answer": "' '.join(caption.split())", "weight": 0.77}
+{"template_id": "psc_style_caption_casual_011", "question": "Describe the voice for me.", "answer": "' '.join(caption.split())", "weight": 0.84}
+{"template_id": "psc_style_caption_casual_012", "question": "Listen to this and describe the voice for me.", "answer": "' '.join(caption.split())", "weight": 0.81}
+{"template_id": "psc_style_caption_case_001", "question": "Describe the speaker's voice and delivery, and write the description in all lowercase.", "answer": "' '.join(caption.split()).lower()", "weight": 0.16}
+{"template_id": "psc_style_caption_case_002", "question": "Listen to this clip and describe the speaker's voice and delivery, writing the description in all lowercase.", "answer": "' '.join(caption.split()).lower()", "weight": 0.13}
+{"template_id": "psc_style_caption_case_003", "question": "Describe how this person sounds. Put the description in ALL CAPS.", "answer": "' '.join(caption.split()).upper()", "weight": 0.12}
+{"template_id": "psc_style_caption_case_004", "question": "Listen to the audio and describe how this person sounds, putting the description in ALL CAPS.", "answer": "' '.join(caption.split()).upper()", "weight": 0.09}
+{"template_id": "psc_style_caption_aspect_001", "question": "Describe how this person speaks, and include their accent.", "answer": "' '.join(caption.split())", "weight": 0.7, "requires": "accent"}
+{"template_id": "psc_style_caption_aspect_002", "question": "Listen to this clip and describe how the person speaks, including their accent.", "answer": "' '.join(caption.split())", "weight": 0.67, "requires": "accent"}
+{"template_id": "psc_style_caption_aspect_003", "question": "What does this speaker sound like, and what accent do they have?", "answer": "' '.join(caption.split())", "weight": 0.66, "requires": "accent"}
+{"template_id": "psc_style_caption_aspect_004", "question": "Listen to the audio. What does the speaker sound like, and what accent do they have?", "answer": "' '.join(caption.split())", "weight": 0.63, "requires": "accent"}
+{"template_id": "psc_style_caption_aspect_005", "question": "Describe the speaker's delivery, including the emotion in their voice.", "answer": "' '.join(caption.split())", "weight": 0.64, "requires": "emotional"}
+{"template_id": "psc_style_caption_aspect_006", "question": "Listen to this recording and describe the speaker's delivery, including the emotion in their voice.", "answer": "' '.join(caption.split())", "weight": 0.61, "requires": "emotional"}
+{"template_id": "psc_style_caption_aspect_007", "question": "How does this person sound, and what mood comes through in their delivery?", "answer": "' '.join(caption.split())", "weight": 0.6, "requires": "emotional"}
+{"template_id": "psc_style_caption_aspect_008", "question": "Listen to this clip. How does the person sound, and what mood comes through in their delivery?", "answer": "' '.join(caption.split())", "weight": 0.57, "requires": "emotional"}
+{"template_id": "psc_style_caption_aspect_009", "question": "Describe this speaker's voice, including its texture.", "answer": "' '.join(caption.split())", "weight": 0.58, "requires": "voice_quality"}
+{"template_id": "psc_style_caption_aspect_010", "question": "Listen to the audio and describe the speaker's voice, including its texture.", "answer": "' '.join(caption.split())", "weight": 0.55, "requires": "voice_quality"}
+{"template_id": "psc_style_caption_aspect_011", "question": "Describe the speaking style here, and say something about the quality of the voice itself.", "answer": "' '.join(caption.split())", "weight": 0.5, "requires": "voice_quality"}
+{"template_id": "psc_style_caption_aspect_012", "question": "Listen to this recording, describe the speaking style, and say something about the quality of the voice itself.", "answer": "' '.join(caption.split())", "weight": 0.47, "requires": "voice_quality"}
+{"template_id": "psc_style_caption_aspect_013", "question": "Describe how this person is speaking, including how loudly they speak.", "answer": "' '.join(caption.split())", "weight": 0.56, "requires": "volume_marked"}
+{"template_id": "psc_style_caption_aspect_014", "question": "Listen to this clip and describe how the person is speaking, including how loudly they speak.", "answer": "' '.join(caption.split())", "weight": 0.53, "requires": "volume_marked"}
+{"template_id": "psc_style_caption_aspect_015", "question": "Describe the speaker's voice and delivery, and note the volume they're speaking at.", "answer": "' '.join(caption.split())", "weight": 0.48, "requires": "volume_marked"}
+{"template_id": "psc_style_caption_aspect_016", "question": "Listen to the audio and describe the speaker's voice and delivery, noting the volume they're speaking at.", "answer": "' '.join(caption.split())", "weight": 0.45, "requires": "volume_marked"}
+{"template_id": "psc_style_caption_length_001", "question": "Describe the speaker's voice and delivery in a single sentence.", "answer": "' '.join(caption.split())", "weight": 0.66, "requires": "one_sentence"}
+{"template_id": "psc_style_caption_length_002", "question": "Listen to this clip and describe the speaker's voice and delivery in a single sentence.", "answer": "' '.join(caption.split())", "weight": 0.63, "requires": "one_sentence"}
+{"template_id": "psc_style_caption_length_003", "question": "In one sentence, how does this person sound?", "answer": "' '.join(caption.split())", "weight": 0.62, "requires": "one_sentence"}
+{"template_id": "psc_style_caption_length_004", "question": "Listen to this recording. In one sentence, how does this person sound?", "answer": "' '.join(caption.split())", "weight": 0.59, "requires": "one_sentence"}
+{"template_id": "psc_style_caption_length_005", "question": "Describe how this person speaks, in a couple of sentences.", "answer": "' '.join(caption.split())", "weight": 0.64, "requires": "multi_sentence"}
+{"template_id": "psc_style_caption_length_006", "question": "Listen to this audio and describe how the person speaks, in a couple of sentences.", "answer": "' '.join(caption.split())", "weight": 0.61, "requires": "multi_sentence"}
+{"template_id": "psc_style_caption_length_007", "question": "Give a two- or three-sentence description of the speaker's voice and delivery.", "answer": "' '.join(caption.split())", "weight": 0.55, "requires": "multi_sentence"}
+{"template_id": "psc_style_caption_length_008", "question": "Listen to this clip and give a two- or three-sentence description of the speaker's voice and delivery.", "answer": "' '.join(caption.split())", "weight": 0.52, "requires": "multi_sentence"}
+{"template_id": "psc_style_caption_mcq_001", "question": "Which of these two descriptions matches this speaker's voice and delivery?\n{options_block(options, 'lines')}", "answer": "option_of(options, gold_option)", "weight": 0.62, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 2, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_002", "question": "Listen to this clip. Which of these two descriptions matches the speaker's voice and delivery?\n{options_block(options, 'lines')}", "answer": "option_of(options, gold_option)", "weight": 0.59, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 2, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_003", "question": "Two candidate descriptions of this speaker: {options_block(options, 'inline')} Which one is right?", "answer": "gold_option", "weight": 0.58, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 2, "style": "inline"}}}
+{"template_id": "psc_style_caption_mcq_004", "question": "Listen to this clip. Two candidate descriptions of the speaker: {options_block(options, 'inline')} Which one is right?", "answer": "gold_option", "weight": 0.55, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 2, "style": "inline"}}}
+{"template_id": "psc_style_caption_mcq_005", "question": "One of these two describes how this person sounds. Which one? Answer with the letter.\n{options_block(options, 'lines')}", "answer": "letter_of(options, gold_option)", "weight": 0.56, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 2, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_006", "question": "Listen to the audio. One of these two describes how the person sounds. Which one? Answer with the letter.\n{options_block(options, 'lines')}", "answer": "letter_of(options, gold_option)", "weight": 0.53, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 2, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_007", "question": "Here are two speaking-style captions. Which belongs to this recording?\n{options_block(options, 'lines')}", "answer": "option_of(options, gold_option)", "weight": 0.54, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 2, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_008", "question": "Listen to this recording. Here are two speaking-style captions — which belongs to it?\n{options_block(options, 'lines')}", "answer": "option_of(options, gold_option)", "weight": 0.51, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 2, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_009", "question": "Which numbered description fits this speaker? {options_block(options, 'number')}", "answer": "option_of(options, gold_option, 'number')", "weight": 0.5, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 2, "style": "number"}}}
+{"template_id": "psc_style_caption_mcq_010", "question": "Listen to this clip. Which numbered description fits the speaker? {options_block(options, 'number')}", "answer": "option_of(options, gold_option, 'number')", "weight": 0.47, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 2, "style": "number"}}}
+{"template_id": "psc_style_caption_mcq_011", "question": "Which of these descriptions matches how this person is speaking?\n{options_block(options, 'lines')}", "answer": "option_of(options, gold_option)", "weight": 0.55, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 3, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_012", "question": "Listen to this clip. Which of these descriptions matches how the person is speaking?\n{options_block(options, 'lines')}", "answer": "option_of(options, gold_option)", "weight": 0.52, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 3, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_013", "question": "Only one of these describes the speaker in this audio. Which one?\n{options_block(options, 'lines')}", "answer": "letter_of(options, gold_option)", "weight": 0.52, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 3, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_014", "question": "Listen to this audio. Only one of these describes the speaker — which one?\n{options_block(options, 'lines')}", "answer": "letter_of(options, gold_option)", "weight": 0.49, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 3, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_015", "question": "Select the speaking-style description for this recording: {options_block(options, 'number')}", "answer": "option_of(options, gold_option, 'number')", "weight": 0.47, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 3, "style": "number"}}}
+{"template_id": "psc_style_caption_mcq_016", "question": "Listen to this recording and select its speaking-style description: {options_block(options, 'number')}", "answer": "option_of(options, gold_option, 'number')", "weight": 0.44, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 3, "style": "number"}}}
+{"template_id": "psc_style_caption_mcq_017", "question": "From the options below, which one describes this speaker's voice? Give the full description.\n{options_block(options, 'lines')}", "answer": "gold_option", "weight": 0.44, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 3, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_018", "question": "Listen to the audio. From the options below, which describes the speaker's voice? Give the full description.\n{options_block(options, 'lines')}", "answer": "gold_option", "weight": 0.41, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 3, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_019", "question": "Pick the description that fits this speaker's voice and delivery.\n{options_block(options, 'lines')}", "answer": "option_of(options, gold_option)", "weight": 0.4, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 4, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_020", "question": "Listen to the audio and pick the description that fits the speaker's voice and delivery.\n{options_block(options, 'lines')}", "answer": "option_of(options, gold_option)", "weight": 0.37, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 4, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_021", "question": "Choose the caption that describes how this clip sounds. Answer with the letter only.\n{options_block(options, 'lines')}", "answer": "letter_of(options, gold_option)", "weight": 0.36, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 4, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_022", "question": "Listen to this clip and choose the caption that describes how it sounds. Answer with the letter only.\n{options_block(options, 'lines')}", "answer": "letter_of(options, gold_option)", "weight": 0.33, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 4, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_023", "question": "Match this recording to one of these speaking-style descriptions.\n{options_block(options, 'lines')}", "answer": "option_of(options, gold_option)", "weight": 0.33, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 4, "style": "lines"}}}
+{"template_id": "psc_style_caption_mcq_024", "question": "Listen to this recording and match it to one of these speaking-style descriptions.\n{options_block(options, 'lines')}", "answer": "option_of(options, gold_option)", "weight": 0.3, "sampling_config": {"opts": {"type": "mcq_options", "n_options": 4, "style": "lines"}}}
