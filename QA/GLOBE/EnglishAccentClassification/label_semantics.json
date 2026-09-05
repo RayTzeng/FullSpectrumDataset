@@ -67,6 +67,22 @@
     "kind": "prose",
     "certainty": "plausible"
    },
+   "homeland_pick": {
+    "kind": "prose",
+    "certainty": "certain"
+   },
+   "homeland_choices": {
+    "kind": "prose",
+    "certainty": "certain"
+   },
+   "locale_pick": {
+    "kind": "prose",
+    "certainty": "plausible"
+   },
+   "locale_choices": {
+    "kind": "prose",
+    "certainty": "plausible"
+   },
    "contrast": {
     "kind": "prose",
     "certainty": "plausible"
@@ -120,7 +136,11 @@
    "media": "American film, television and news broadcasting",
    "media_why": "united states english is the variety most widely used in globally distributed English media",
    "confusable_label": "Canadian English",
-   "confusable_choices": "Canadian English, Scottish English, or Singaporean English"
+   "confusable_choices": "Canadian English, Scottish English, or Singaporean English",
+   "homeland_pick": "the United States",
+   "homeland_choices": "the United States, New Zealand, or Malaysia",
+   "locale_pick": "American conventions",
+   "locale_choices": "American conventions, Indian conventions, or New Zealand conventions"
   },
   "canadian english": {
    "region": "North America",
@@ -144,7 +164,11 @@
    "media": "Canadian broadcasting, and North American productions generally",
    "media_why": "canadian english is close enough to united states english to pass in most North American media",
    "confusable_label": "American English",
-   "confusable_choices": "Welsh English, American English, or Hong Kong English"
+   "confusable_choices": "Welsh English, American English, or Hong Kong English",
+   "homeland_pick": "Canada",
+   "homeland_choices": "Singapore, Canada, or Wales",
+   "locale_pick": "Canadian conventions",
+   "locale_choices": "Singaporean conventions, Canadian conventions, or Philippine conventions"
   },
   "england english": {
    "region": "the British Isles",
@@ -168,7 +192,11 @@
    "media": "British drama, BBC broadcasting and period productions",
    "media_why": "england english is the variety most associated with British film and broadcasting",
    "confusable_label": "Australian English",
-   "confusable_choices": "Australian English, Philippine English, or Hong Kong English"
+   "confusable_choices": "Australian English, Philippine English, or Hong Kong English",
+   "homeland_pick": "England",
+   "homeland_choices": "the Philippines, Hong Kong, or England",
+   "locale_pick": "British conventions",
+   "locale_choices": "Philippine conventions, Caribbean conventions, or British conventions"
   },
   "scottish english": {
    "region": "the British Isles",
@@ -191,7 +219,11 @@
    "media": "Scottish broadcasting and film set in Scotland",
    "media_why": "scottish english is strongly identified with Scottish productions",
    "confusable_label": "Northern Irish English",
-   "confusable_choices": "Malaysian English, Northern Irish English, or Caribbean English"
+   "confusable_choices": "Malaysian English, Northern Irish English, or Caribbean English",
+   "homeland_pick": "Scotland",
+   "homeland_choices": "Scotland, Hong Kong, or Australia",
+   "locale_pick": "British conventions",
+   "locale_choices": "British conventions, Australian conventions, or Hong Kong conventions"
   },
   "welsh english": {
    "region": "the British Isles",
@@ -214,7 +246,11 @@
    "media": "Welsh broadcasting and film set in Wales",
    "media_why": "welsh english is strongly identified with Welsh productions",
    "confusable_label": "English English",
-   "confusable_choices": "Singaporean English, Philippine English, or English English"
+   "confusable_choices": "Singaporean English, Philippine English, or English English",
+   "homeland_pick": "Wales",
+   "homeland_choices": "Canada, Wales, or southern Africa",
+   "locale_pick": "British conventions",
+   "locale_choices": "Malaysian conventions, British conventions, or American conventions"
   },
   "irish english": {
    "region": "the British Isles",
@@ -238,7 +274,11 @@
    "media": "Irish broadcasting and film set in Ireland",
    "media_why": "irish english is strongly identified with Irish productions",
    "confusable_label": "Northern Irish English",
-   "confusable_choices": "Northern Irish English, South Asian English, or Australian English"
+   "confusable_choices": "Northern Irish English, South Asian English, or Australian English",
+   "homeland_pick": "the Republic of Ireland",
+   "homeland_choices": "Malaysia, New Zealand, or the Republic of Ireland",
+   "locale_pick": "Irish conventions",
+   "locale_choices": "Irish conventions, Singaporean conventions, or Australian conventions"
   },
   "northern irish": {
    "region": "the British Isles",
@@ -261,7 +301,11 @@
    "media": "Northern Irish broadcasting and film set in Belfast and Ulster",
    "media_why": "northern irish is strongly identified with productions set in Northern Ireland",
    "confusable_label": "Scottish English",
-   "confusable_choices": "German-accented English, Scottish English, or Malaysian English"
+   "confusable_choices": "German-accented English, Scottish English, or Malaysian English",
+   "homeland_pick": "Northern Ireland",
+   "homeland_choices": "Northern Ireland, Singapore, or the United States",
+   "locale_pick": "British conventions",
+   "locale_choices": "Indian conventions, South African conventions, or British conventions"
   },
   "australian english": {
    "region": "Oceania",
@@ -285,7 +329,11 @@
    "media": "Australian broadcasting, film and drama",
    "media_why": "australian english is strongly identified with Australian productions",
    "confusable_label": "New Zealand English",
-   "confusable_choices": "Canadian English, Hong Kong English, or New Zealand English"
+   "confusable_choices": "Canadian English, Hong Kong English, or New Zealand English",
+   "homeland_pick": "Australia",
+   "homeland_choices": "England, Australia, or Hong Kong",
+   "locale_pick": "Australian conventions",
+   "locale_choices": "Caribbean conventions, Australian conventions, or Indian conventions"
   },
   "new zealand english": {
    "region": "Oceania",
@@ -309,7 +357,11 @@
    "media": "New Zealand broadcasting and film shot in New Zealand",
    "media_why": "new zealand english is strongly identified with New Zealand productions",
    "confusable_label": "Australian English",
-   "confusable_choices": "Australian English, Welsh English, or Philippine English"
+   "confusable_choices": "Australian English, Welsh English, or Philippine English",
+   "homeland_pick": "New Zealand",
+   "homeland_choices": "Wales, the Philippines, or New Zealand",
+   "locale_pick": "New Zealand conventions",
+   "locale_choices": "Indian conventions, Philippine conventions, or New Zealand conventions"
   },
   "india and south asia (india, pakistan, sri lanka)": {
    "region": "South Asia",
@@ -333,7 +385,11 @@
    "media": "Indian broadcasting, and South Asian film in English",
    "media_why": "South Asian English is the everyday register of a large English-language media industry",
    "confusable_label": "Singaporean English",
-   "confusable_choices": "Scottish English, Singaporean English, or Caribbean English"
+   "confusable_choices": "Scottish English, Singaporean English, or Caribbean English",
+   "homeland_pick": "South Asia",
+   "homeland_choices": "South Asia, Scotland, or the Caribbean",
+   "locale_pick": "Indian conventions",
+   "locale_choices": "Indian conventions, Canadian conventions, or Irish conventions"
   },
   "filipino": {
    "region": "Southeast Asia",
@@ -357,7 +413,11 @@
    "media": "Philippine broadcasting and English-language media in the Philippines",
    "media_why": "Philippine English is a normal register of Philippine broadcast media",
    "confusable_label": "American English",
-   "confusable_choices": "American English, Welsh English, or southern African English"
+   "confusable_choices": "American English, Welsh English, or southern African English",
+   "homeland_pick": "the Philippines",
+   "homeland_choices": "Germany, the Philippines, or England",
+   "locale_pick": "Philippine conventions",
+   "locale_choices": "New Zealand conventions, Philippine conventions, or Malaysian conventions"
   },
   "singaporean english": {
    "region": "Southeast Asia",
@@ -381,7 +441,11 @@
    "media": "Singaporean broadcasting and English-language media in Singapore",
    "media_why": "Singaporean English is the standard register of Singapore's English media",
    "confusable_label": "Malaysian English",
-   "confusable_choices": "Malaysian English, Northern Irish English, or German-accented English"
+   "confusable_choices": "Malaysian English, Northern Irish English, or German-accented English",
+   "homeland_pick": "Singapore",
+   "homeland_choices": "Canada, Northern Ireland, or Singapore",
+   "locale_pick": "Singaporean conventions",
+   "locale_choices": "American conventions, Irish conventions, or Singaporean conventions"
   },
   "malaysian english": {
    "region": "Southeast Asia",
@@ -405,7 +469,11 @@
    "media": "Malaysian broadcasting and English-language media in Malaysia",
    "media_why": "Malaysian English is a standard register of Malaysia's English media",
    "confusable_label": "Singaporean English",
-   "confusable_choices": "Welsh English, Singaporean English, or American English"
+   "confusable_choices": "Welsh English, Singaporean English, or American English",
+   "homeland_pick": "Malaysia",
+   "homeland_choices": "Malaysia, Wales, or the United States",
+   "locale_pick": "Malaysian conventions",
+   "locale_choices": "Malaysian conventions, Canadian conventions, or Caribbean conventions"
   },
   "hong kong english": {
    "region": "East Asia",
@@ -428,7 +496,11 @@
    "media": "Hong Kong broadcasting and English-language media in Hong Kong",
    "media_why": "Hong Kong English is the register of Hong Kong's English-language press and broadcasting",
    "confusable_label": "Singaporean English",
-   "confusable_choices": "Irish English, Canadian English, or Singaporean English"
+   "confusable_choices": "Irish English, Canadian English, or Singaporean English",
+   "homeland_pick": "Hong Kong",
+   "homeland_choices": "Australia, Hong Kong, or the Caribbean",
+   "locale_pick": "Hong Kong conventions",
+   "locale_choices": "South African conventions, Hong Kong conventions, or Canadian conventions"
   },
   "southern african (south africa, zimbabwe, namibia)": {
    "region": "Africa",
@@ -452,7 +524,11 @@
    "media": "South African broadcasting and film shot in southern Africa",
    "media_why": "southern African English is strongly identified with productions from the region",
    "confusable_label": "New Zealand English",
-   "confusable_choices": "Philippine English, English English, or New Zealand English"
+   "confusable_choices": "Philippine English, English English, or New Zealand English",
+   "homeland_pick": "southern Africa",
+   "homeland_choices": "Singapore, Scotland, or southern Africa",
+   "locale_pick": "South African conventions",
+   "locale_choices": "Australian conventions, Philippine conventions, or South African conventions"
   },
   "west indies and bermuda (bahamas, bermuda, jamaica, trinidad)": {
    "region": "the Caribbean",
@@ -476,7 +552,11 @@
    "media": "Caribbean broadcasting, and music and film from the region",
    "media_why": "Caribbean English is closely identified with the region's music and film",
    "confusable_label": "English English",
-   "confusable_choices": "English English, Hong Kong English, or Canadian English"
+   "confusable_choices": "English English, Hong Kong English, or Canadian English",
+   "homeland_pick": "the Caribbean",
+   "homeland_choices": "the Caribbean, Malaysia, or Germany",
+   "locale_pick": "Caribbean conventions",
+   "locale_choices": "Caribbean conventions, Indian conventions, or Singaporean conventions"
   },
   "german english": {
    "region": "continental Europe",
@@ -501,7 +581,11 @@
    "media": "international broadcasting and European media using English as a shared language",
    "media_why": "German-accented English is most often heard in international rather than domestic English-language settings",
    "confusable_label": "Dutch English",
-   "confusable_choices": "Dutch English, Irish English, or Malaysian English"
+   "confusable_choices": "Dutch English, Irish English, or Malaysian English",
+   "homeland_pick": "Germany",
+   "homeland_choices": "New Zealand, Germany, or the Philippines",
+   "locale_pick": "no single English locale",
+   "locale_choices": "Hong Kong conventions, no single English locale, or Irish conventions"
   }
  }
 }

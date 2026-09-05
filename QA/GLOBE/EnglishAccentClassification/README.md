@@ -59,7 +59,7 @@ and lands the split at 299,177 clips.
 
 ## Templates
 
-`stage1_template.jsonl` - 209 templates asking for the label itself. The answer is
+`stage1_template.jsonl` - 248 templates asking for the label itself. The answer is
 always the label exactly as stored; departures are limited to casing and JSON
 wrappers, each announced in the question.
 
@@ -73,15 +73,25 @@ Free-standing `pretty_label` answers were dropped as well - `united states engli
 and `American English` are two names for one thing, not two formats, so no natural
 question wording reliably selects one.
 
-`stage2_template.jsonl` - 167 templates asking what the label means, all answered
+`stage2_template.jsonl` - 201 templates asking what the label means, all answered
 from `label_semantics.json`. Context answers name the accent before explaining
 ("This is Australian English. English carried to Australia by ..."), so the answer
-stands on its own. Fourteen of the 22 analogical templates present a candidate set
-from the `confusable_choices` slot, because "which accent is this confused with?"
-is otherwise a question about an inventory the asker never showed; the correct
-option's position is varied by hand across the 17 labels. Family shares: category 22%, environmental 16%,
-activity 14%, context 14%, functional 14% (the five guide-sheet families, 79%
-of the file), plus analogical/comparative 13% and occasion/production-fit 8%.
+stands on its own. Multiple choice was deliberately doubled: the Stage-1 `mcq`
+family is 78 of 248 templates (31%, above the skill's 17-22% guidance, by request),
+and 68 of the 201 Stage-2 templates present a choice set. Together they put a choice
+set in front of the model on **29% of generated rows**.
+
+Stage-2 choice sets come from four authored slots - `confusable_choices`,
+`homeland_choices`, `locale_choices` and the closed slots' own vocabularies -
+because "which accent is this confused with?" is otherwise a question about an
+inventory the asker never showed. The correct option's position is varied by hand
+across the 17 labels. There are **no hand-lettered option blocks**: assigning
+`(A)`/`(B)` by hand welds a class to a position, which is why the Stage-2 choice
+sets are inline rather than letter-marked, and Stage-1 leaves lettering to
+`options_block`, whose shuffle keeps letters near-uniform (A 27% / B 26% / C 23% /
+D 19% over generated rows, the tail reflecting 5- and 6-option templates). Family shares: category 23%, environmental 18%,
+activity 15%, context 11%, functional 11% (the five guide-sheet families, 79%
+of the file), plus analogical/comparative 15% and occasion/production-fit 6%.
 
 ### The wider candidate pool
 
