@@ -1,320 +1,314 @@
-{"question": "Transcribe this audio with punctuation.", "answer": "text", "weight": 0.67}
-{"question": "Write the punctuated transcript.", "answer": "text", "weight": 0.7}
-{"question": "Provide the transcript with proper punctuation.", "answer": "text", "weight": 0.38}
-{"question": "Return the spoken words with punctuation.", "answer": "text", "weight": 0.3}
-{"question": "Produce a punctuated transcription.", "answer": "text", "weight": 0.6}
-{"question": "Transcribe this utterance as written text.", "answer": "text", "weight": 0.81}
-{"question": "Give the transcript in normal written form.", "answer": "text", "weight": 0.57}
-{"question": "Write out what is said, including punctuation.", "answer": "text", "weight": 0.48}
-{"question": "Generate the transcript with punctuation restored.", "answer": "text", "weight": 0.18}
-{"question": "Output the speech as punctuated text.", "answer": "text", "weight": 0.28}
-{"question": "Can you transcribe this with punctuation?", "answer": "text", "weight": 0.79}
-{"question": "Can you write this audio out with proper punctuation?", "answer": "text", "weight": 0.66}
-{"question": "Could you transcribe this clip with punctuation included?", "answer": "text", "weight": 0.77}
-{"question": "Could you write the spoken content as a punctuated transcript?", "answer": "text", "weight": 0.85}
-{"question": "Please transcribe this recording with proper punctuation.", "answer": "text", "weight": 0.56}
-{"question": "Please write the utterance in standard written form.", "answer": "text", "weight": 0.52}
-{"question": "Would you transcribe this audio and include punctuation?", "answer": "text", "weight": 0.64}
-{"question": "Would you please provide the punctuated transcript?", "answer": "text", "weight": 0.87}
-{"question": "Can you turn this recording into punctuated text?", "answer": "text", "weight": 0.91}
-{"question": "Could you give me the transcript with normal punctuation?", "answer": "text", "weight": 0.73}
-{"question": "What is being said in this recording?", "answer": "text", "weight": 0.93}
-{"question": "What does the speaker say in this clip?", "answer": "text", "weight": 0.95}
-{"question": "What is the full transcript of this audio?", "answer": "text", "weight": 0.93}
-{"question": "What is the punctuated transcript of this utterance?", "answer": "text", "weight": 0.44}
-{"question": "What exactly is said here? Return it with punctuation.", "answer": "text", "weight": 0.64}
-{"question": "What are the spoken words in this clip, written with punctuation?", "answer": "text", "weight": 0.77}
-{"question": "What is said in this recording, as standard written text?", "answer": "text", "weight": 0.83}
-{"question": "What is the complete written transcript of this audio?", "answer": "text", "weight": 0.96}
-{"question": "What does this speech segment say? Include punctuation.", "answer": "text", "weight": 0.68}
-{"question": "What is the speaker saying? Write it with proper punctuation.", "answer": "text", "weight": 0.66}
-{"question": "How would this utterance be transcribed with punctuation?", "answer": "text", "weight": 0.45}
-{"question": "How should this clip be written as a punctuated transcript?", "answer": "text", "weight": 0.42}
-{"question": "How would you write the spoken content of this recording?", "answer": "text", "weight": 0.43}
-{"question": "How should the speech in this audio appear in written form?", "answer": "text", "weight": 0.43}
-{"question": "How would this recording be transcribed as normal written text?", "answer": "text", "weight": 0.47}
-{"question": "How would you render this utterance with punctuation restored?", "answer": "text", "weight": 0.2}
-{"question": "How should this spoken passage be written with punctuation?", "answer": "text", "weight": 0.38}
-{"question": "How would you transcribe the words spoken in this clip?", "answer": "text", "weight": 0.56}
-{"question": "How should the transcript of this audio be written?", "answer": "text", "weight": 0.36}
-{"question": "How would this speech be written out clearly and with punctuation?", "answer": "text", "weight": 0.35}
-{"question": "Listen to the audio and transcribe it with proper punctuation.", "answer": "text", "weight": 0.61}
-{"question": "Listen to this recording and write the spoken content with punctuation.", "answer": "text", "weight": 0.57}
-{"question": "Listen carefully and provide the full punctuated transcript.", "answer": "text", "weight": 0.77}
-{"question": "Please listen to the clip and transcribe the speech in written form.", "answer": "text", "weight": 0.79}
-{"question": "Listen to this utterance and return the transcript with punctuation marks.", "answer": "text", "weight": 0.54}
-{"question": "Based on this audio, provide a properly punctuated transcription.", "answer": "text", "weight": 0.67}
-{"question": "Based on the recording, write exactly what is said with punctuation.", "answer": "text", "weight": 0.4}
-{"question": "From this clip, produce the complete transcript with punctuation.", "answer": "text", "weight": 0.53}
-{"question": "Using the audio, write out the utterance as standard written text.", "answer": "text", "weight": 0.5}
-{"question": "From this recording, generate the punctuated transcript.", "answer": "text", "weight": 0.69}
-{"question": "Transcribe the speech in this clip using normal punctuation and capitalization.", "answer": "text", "weight": 0.48}
-{"question": "Write the contents of this recording as a readable transcript with punctuation.", "answer": "text", "weight": 0.42}
-{"question": "Please convert the spoken audio into a properly punctuated transcript.", "answer": "text", "weight": 0.8}
-{"question": "Return a transcription of this utterance with standard punctuation and casing.", "answer": "text", "weight": 0.08}
-{"question": "Provide the spoken content of this audio as well-formed written text.", "answer": "text", "weight": 0.47}
-{"question": "Render the speech in this recording as a punctuated transcript.", "answer": "text", "weight": 0.26}
-{"question": "Create a written transcript for this clip, preserving punctuation.", "answer": "text", "weight": 0.35}
-{"question": "Produce the full transcription of this audio with punctuation restored.", "answer": "text", "weight": 0.31}
-{"question": "Write the spoken passage from this recording in standard written English.", "answer": "text", "weight": 0.67}
-{"question": "Generate a complete transcript of the utterance with proper punctuation.", "answer": "text", "weight": 0.14}
-{"question": "Can you write down what is said here in standard written form?", "answer": "text", "weight": 0.79}
-{"question": "Can you provide a clean transcript of this audio with punctuation?", "answer": "text", "weight": 0.76}
-{"question": "Could you write out the speech from this clip with proper punctuation?", "answer": "text", "weight": 0.68}
-{"question": "Could you return the exact transcript in punctuated form?", "answer": "text", "weight": 0.85}
-{"question": "Please provide a complete transcription of this recording, including punctuation.", "answer": "text", "weight": 0.52}
-{"question": "Please write the speech from this clip as a properly punctuated transcript.", "answer": "text", "weight": 0.81}
-{"question": "Would you mind transcribing this utterance with punctuation restored?", "answer": "text", "weight": 0.57}
-{"question": "Would you please write out the spoken words in standard written form?", "answer": "text", "weight": 0.72}
-{"question": "Can you give me the full transcript of this clip with proper punctuation?", "answer": "text", "weight": 0.66}
-{"question": "Could you transcribe this audio so that it reads like normal written text?", "answer": "text", "weight": 0.72}
-{"question": "What is the speaker saying in this audio? Please include punctuation.", "answer": "text", "weight": 0.68}
-{"question": "What does this recording say when written out as proper text?", "answer": "text", "weight": 0.93}
-{"question": "What is the exact transcript of this utterance in punctuated form?", "answer": "text", "weight": 0.4}
-{"question": "What words are spoken in this clip? Return them as written text.", "answer": "text", "weight": 0.83}
-{"question": "What is said here if you transcribe it with normal punctuation and casing?", "answer": "text", "weight": 0.33}
-{"question": "What is the spoken content of this recording, written properly?", "answer": "text", "weight": 0.87}
-{"question": "What would the correctly punctuated transcript of this audio be?", "answer": "text", "weight": 0.34}
-{"question": "What is the full written version of the speech in this clip?", "answer": "text", "weight": 0.95}
-{"question": "What does the utterance sound like in standard written transcription?", "answer": "text", "weight": 0.22}
-{"question": "What is being said here, transcribed as readable text with punctuation?", "answer": "text", "weight": 0.36}
-{"question": "How would you transcribe this speech clip using proper punctuation and capitalization?", "answer": "text", "weight": 0.18}
-{"question": "How should the spoken words in this recording be written as a transcript?", "answer": "text", "weight": 0.51}
-{"question": "How would this utterance appear when transcribed as normal written text?", "answer": "text", "weight": 0.44}
-{"question": "How would you write this clip out as a properly punctuated sentence or passage?", "answer": "text", "weight": 0.39}
-{"question": "How should this audio be transcribed so that punctuation is included?", "answer": "text", "weight": 0.31}
-{"question": "How would the speech in this clip be rendered in standard written form?", "answer": "text", "weight": 0.34}
-{"question": "How should the transcript look if punctuation is restored correctly?", "answer": "text", "weight": 0.24}
-{"question": "How would you convert this spoken recording into punctuated text?", "answer": "text", "weight": 0.49}
-{"question": "How should the spoken content here be transcribed for readable output?", "answer": "text", "weight": 0.4}
-{"question": "How would this recording be written down as a proper transcript?", "answer": "text", "weight": 0.51}
-{"question": "Please listen to the recording and provide the exact transcript with punctuation marks restored.", "answer": "text", "weight": 0.49}
-{"question": "After listening to this clip, write the full spoken content as standard written text with punctuation.", "answer": "text", "weight": 0.41}
-{"question": "Transcribe this audio segment verbatim and present it with normal punctuation and capitalization.", "answer": "text", "weight": 0.36}
-{"question": "Write exactly what is spoken in this recording, formatted as a properly punctuated transcript.", "answer": "text", "weight": 0.69}
-{"question": "Provide the complete spoken transcript for this utterance, making sure punctuation is included.", "answer": "text", "weight": 0.39}
-{"question": "Return the contents of this recording as a faithful written transcript with proper punctuation.", "answer": "text", "weight": 0.16}
-{"question": "Please produce a transcription of the speech in this clip that reads like normal written text.", "answer": "text", "weight": 0.59}
-{"question": "From the audio provided, generate the exact transcript and include appropriate punctuation.", "answer": "text", "weight": 0.46}
-{"question": "Listen to this speech sample and write out everything said as a correctly punctuated transcript.", "answer": "text", "weight": 0.84}
-{"question": "What is the full spoken content of this audio clip? Please return it as properly punctuated written text.", "answer": "text", "weight": 0.87}
-{"question": "Transcribe this audio.", "answer": "text", "weight": 0.84}
-{"question": "Transcribe this clip.", "answer": "text", "weight": 0.83}
-{"question": "Transcribe this recording.", "answer": "text", "weight": 0.81}
-{"question": "Write the transcript.", "answer": "text", "weight": 0.62}
-{"question": "Provide the transcript.", "answer": "text", "weight": 0.58}
-{"question": "Return the transcript.", "answer": "text", "weight": 0.36}
-{"question": "Generate the transcript.", "answer": "text", "weight": 0.28}
-{"question": "Write out what is said.", "answer": "text", "weight": 0.72}
-{"question": "Write down the speech in this clip.", "answer": "text", "weight": 0.73}
-{"question": "Produce the transcription.", "answer": "text", "weight": 0.44}
-{"question": "Can you transcribe this audio?", "answer": "text", "weight": 0.97}
-{"question": "Can you write out what is being said?", "answer": "text", "weight": 0.96}
-{"question": "Could you transcribe this clip?", "answer": "text", "weight": 0.95}
-{"question": "Could you write down the utterance?", "answer": "text", "weight": 0.89}
-{"question": "Please transcribe this recording.", "answer": "text", "weight": 0.82}
-{"question": "Please write out the spoken content.", "answer": "text", "weight": 0.76}
-{"question": "Would you transcribe this audio sample?", "answer": "text", "weight": 0.84}
-{"question": "Would you write the transcript for this clip?", "answer": "text", "weight": 0.86}
-{"question": "Can you tell me what is being said here?", "answer": "text", "weight": 0.92}
-{"question": "Could you provide the transcript of this audio?", "answer": "text", "weight": 0.91}
-{"question": "What is being said in this recording?", "answer": "text", "weight": 0.93}
-{"question": "What does the speaker say in this clip?", "answer": "text", "weight": 0.95}
-{"question": "What is the full transcript of this audio?", "answer": "text", "weight": 0.93}
-{"question": "What exactly is said here?", "answer": "text", "weight": 0.84}
-{"question": "What are the spoken words in this clip?", "answer": "text", "weight": 0.95}
-{"question": "What is said in this utterance?", "answer": "text", "weight": 0.9}
-{"question": "What is the speaker saying?", "answer": "text", "weight": 0.94}
-{"question": "What is the spoken content of this recording?", "answer": "text", "weight": 0.87}
-{"question": "What do we hear in terms of speech here?", "answer": "text", "weight": 0.18}
-{"question": "What is the transcript for this clip?", "answer": "text", "weight": 0.97}
-{"question": "How would you transcribe this audio?", "answer": "text", "weight": 0.55}
-{"question": "How should this utterance be written out?", "answer": "text", "weight": 0.46}
-{"question": "How would this recording be written as text?", "answer": "text", "weight": 0.49}
-{"question": "How should the speech in this clip be transcribed?", "answer": "text", "weight": 0.56}
-{"question": "How would you write the spoken content of this audio?", "answer": "text", "weight": 0.44}
-{"question": "How should this recording appear in written form?", "answer": "text", "weight": 0.42}
-{"question": "How would you render this utterance as text?", "answer": "text", "weight": 0.46}
-{"question": "How should the words in this clip be written down?", "answer": "text", "weight": 0.51}
-{"question": "How would this speech be transcribed?", "answer": "text", "weight": 0.55}
-{"question": "How would you convert this recording into text?", "answer": "text", "weight": 0.49}
-{"question": "Listen to the audio and transcribe it.", "answer": "text", "weight": 0.87}
-{"question": "Listen to this clip and write what is said.", "answer": "text", "weight": 0.83}
-{"question": "Listen carefully and provide the transcript.", "answer": "text", "weight": 0.77}
-{"question": "Listen to the recording and write out the speech.", "answer": "text", "weight": 0.85}
-{"question": "Based on this audio, provide the transcript.", "answer": "text", "weight": 0.67}
-{"question": "Based on the recording, write what is said.", "answer": "text", "weight": 0.64}
-{"question": "From this clip, generate the transcription.", "answer": "text", "weight": 0.71}
-{"question": "Using the audio, write the spoken content as text.", "answer": "text", "weight": 0.54}
-{"question": "From this recording, produce the transcript.", "answer": "text", "weight": 0.69}
-{"question": "After listening, write out the utterance.", "answer": "text", "weight": 0.74}
-{"question": "Transcribe the speech in this clip.", "answer": "text", "weight": 0.86}
-{"question": "Write the contents of this recording as text.", "answer": "text", "weight": 0.67}
-{"question": "Convert this spoken audio into text.", "answer": "text", "weight": 0.52}
-{"question": "Return a transcription of this utterance.", "answer": "text", "weight": 0.46}
-{"question": "Provide the spoken content of this audio as text.", "answer": "text", "weight": 0.56}
-{"question": "Render the speech in this recording as a transcript.", "answer": "text", "weight": 0.26}
-{"question": "Create a written transcript for this clip.", "answer": "text", "weight": 0.53}
-{"question": "Produce the full transcription of this audio.", "answer": "text", "weight": 0.57}
-{"question": "Write the spoken passage from this recording.", "answer": "text", "weight": 0.67}
-{"question": "Generate a complete transcript of the utterance.", "answer": "text", "weight": 0.4}
-{"question": "Can you write down what is said here?", "answer": "text", "weight": 0.96}
-{"question": "Can you provide a clean transcript of this audio?", "answer": "text", "weight": 0.94}
-{"question": "Could you write out the speech from this clip?", "answer": "text", "weight": 0.94}
-{"question": "Could you return the exact transcript?", "answer": "text", "weight": 0.85}
-{"question": "Please provide a complete transcription of this recording.", "answer": "text", "weight": 0.76}
-{"question": "Please write the speech from this clip as text.", "answer": "text", "weight": 0.79}
-{"question": "Would you mind transcribing this utterance?", "answer": "text", "weight": 0.83}
-{"question": "Would you please write out the spoken words?", "answer": "text", "weight": 0.89}
-{"question": "Can you give me the full transcript of this clip?", "answer": "text", "weight": 0.92}
-{"question": "Could you transcribe this audio for me?", "answer": "text", "weight": 0.99}
-{"question": "What is the speaker saying in this audio?", "answer": "text", "weight": 0.94}
-{"question": "What does this recording say when written out?", "answer": "text", "weight": 0.93}
-{"question": "What is the exact transcript of this utterance?", "answer": "text", "weight": 0.86}
-{"question": "What words are spoken in this clip?", "answer": "text", "weight": 0.85}
-{"question": "What is the spoken content of this recording, written out?", "answer": "text", "weight": 0.87}
-{"question": "What would the transcript of this audio be?", "answer": "text", "weight": 0.86}
-{"question": "What is the full written version of the speech in this clip?", "answer": "text", "weight": 0.95}
-{"question": "What does the utterance sound like when transcribed?", "answer": "text", "weight": 0.67}
-{"question": "What is being said here, written as text?", "answer": "text", "weight": 0.94}
-{"question": "What is the complete transcription of this segment?", "answer": "text", "weight": 0.93}
-{"question": "How would you transcribe this speech clip?", "answer": "text", "weight": 0.56}
-{"question": "How should the spoken words in this recording be written?", "answer": "text", "weight": 0.49}
-{"question": "How would this utterance appear when transcribed?", "answer": "text", "weight": 0.51}
-{"question": "How would you write this clip out as text?", "answer": "text", "weight": 0.51}
-{"question": "How should this audio be transcribed?", "answer": "text", "weight": 0.55}
-{"question": "How would the speech in this clip be rendered in writing?", "answer": "text", "weight": 0.51}
-{"question": "How should the transcript look for this recording?", "answer": "text", "weight": 0.28}
-{"question": "How would you convert this spoken recording into written text?", "answer": "text", "weight": 0.49}
-{"question": "How should the spoken content here be transcribed?", "answer": "text", "weight": 0.49}
-{"question": "How would this recording be written down?", "answer": "text", "weight": 0.49}
-{"question": "Please listen to the recording and provide the exact transcript.", "answer": "text", "weight": 0.75}
-{"question": "After listening to this clip, write the full spoken content as text.", "answer": "text", "weight": 0.69}
-{"question": "Transcribe this audio segment verbatim.", "answer": "text", "weight": 0.74}
-{"question": "Write exactly what is spoken in this recording.", "answer": "text", "weight": 0.67}
-{"question": "Provide the complete spoken transcript for this utterance.", "answer": "text", "weight": 0.57}
-{"question": "Return the contents of this recording as a faithful transcript.", "answer": "text", "weight": 0.42}
-{"question": "Please produce a transcription of the speech in this clip.", "answer": "text", "weight": 0.81}
-{"question": "From the audio provided, generate the exact transcript.", "answer": "text", "weight": 0.64}
-{"question": "Listen to this speech sample and write out everything said.", "answer": "text", "weight": 0.82}
-{"question": "What is the full spoken content of this audio clip?", "answer": "text", "weight": 0.89}
-{"question": "What'd they say here?", "answer": "text", "weight": 0.94}
-{"question": "Can you jot down what's being said?", "answer": "text", "weight": 0.95}
-{"question": "Write down what this person is saying real quick.", "answer": "text", "weight": 0.77}
-{"question": "What's being said in this clip?", "answer": "text", "weight": 0.95}
-{"question": "Can you type out what you hear?", "answer": "text", "weight": 0.95}
-{"question": "What are they saying here?", "answer": "text", "weight": 0.94}
-{"question": "Mind writing out the speech in this audio?", "answer": "text", "weight": 0.92}
-{"question": "Can you put this audio into words?", "answer": "text", "weight": 0.95}
-{"question": "Write out whatever's being said here.", "answer": "text", "weight": 0.72}
-{"question": "What's the speaker saying in this one?", "answer": "text", "weight": 0.94}
-{"question": "Can you tell me what this clip says?", "answer": "text", "weight": 0.93}
-{"question": "Just transcribe this for me.", "answer": "text", "weight": 0.99}
-{"question": "Can you write down the words from this recording?", "answer": "text", "weight": 0.95}
-{"question": "What's said in this recording?", "answer": "text", "weight": 0.93}
-{"question": "Type up the speech from this clip.", "answer": "text", "weight": 0.83}
-{"question": "Please provide a transcription of this audio recording.", "answer": "text", "weight": 0.79}
-{"question": "Could you please transcribe the speech contained in this clip?", "answer": "text", "weight": 0.89}
-{"question": "Would you kindly provide the transcript for this recording?", "answer": "text", "weight": 0.81}
-{"question": "Please write out the spoken content of this audio sample.", "answer": "text", "weight": 0.72}
-{"question": "Could you provide the full transcript of this utterance?", "answer": "text", "weight": 0.84}
-{"question": "Would you please transcribe this recording verbatim?", "answer": "text", "weight": 0.82}
-{"question": "Please produce a complete transcription of the speech in this clip.", "answer": "text", "weight": 0.78}
-{"question": "I would appreciate it if you could transcribe this audio segment.", "answer": "text", "weight": 0.81}
-{"question": "Kindly provide the spoken content of this recording in text form.", "answer": "text", "weight": 0.65}
-{"question": "Please render the speech in this clip as a written transcript.", "answer": "text", "weight": 0.81}
-{"question": "Could you please write out exactly what is said in this recording?", "answer": "text", "weight": 0.86}
-{"question": "Would you be so kind as to provide the transcript of this audio?", "answer": "text", "weight": 0.8}
-{"question": "Please convert the spoken content of this clip into text.", "answer": "text", "weight": 0.73}
-{"question": "Could you furnish a faithful transcription of this utterance?", "answer": "text", "weight": 0.8}
-{"question": "Please provide the exact transcript of the speech contained in this recording.", "answer": "text", "weight": 0.67}
-{"question": "Listen to the audio and transcribe this clip.", "answer": "text", "weight": 0.88}
-{"question": "Please listen to the recording and write the transcript.", "answer": "text", "weight": 0.81}
-{"question": "Listen to this audio and provide the transcript.", "answer": "text", "weight": 0.84}
-{"question": "After listening to the clip, return the transcript.", "answer": "text", "weight": 0.77}
-{"question": "Listen to the audio and generate the transcript.", "answer": "text", "weight": 0.84}
-{"question": "Please listen to this recording and write out what is said.", "answer": "text", "weight": 0.83}
-{"question": "Listen to the speech in this clip and write down the words.", "answer": "text", "weight": 0.87}
-{"question": "After listening to the audio, produce the transcription.", "answer": "text", "weight": 0.76}
-{"question": "Can you listen to this audio and transcribe it?", "answer": "text", "weight": 0.97}
-{"question": "Could you listen to this clip and write down the utterance?", "answer": "text", "weight": 0.9}
-{"question": "Please listen to this recording and transcribe it for me.", "answer": "text", "weight": 0.89}
-{"question": "Would you listen to this audio sample and write the transcript?", "answer": "text", "weight": 0.81}
-{"question": "Can you listen to the audio and tell me what is being said here?", "answer": "text", "weight": 0.92}
-{"question": "Could you listen to this recording and provide the transcript?", "answer": "text", "weight": 0.9}
-{"question": "What is being said in this recording? Please listen and transcribe it.", "answer": "text", "weight": 0.95}
-{"question": "What does the speaker say in this clip? Listen to the audio and write it out.", "answer": "text", "weight": 0.93}
-{"question": "What is the full transcript of this audio? Please listen carefully.", "answer": "text", "weight": 0.86}
-{"question": "What exactly is said here? Listen to the clip and return the transcript.", "answer": "text", "weight": 0.85}
-{"question": "How would you transcribe this audio after listening to it?", "answer": "text", "weight": 0.55}
-{"question": "How should this utterance be written out after listening to the recording?", "answer": "text", "weight": 0.45}
-{"question": "Listen to the recording and write out the speech as text.", "answer": "text", "weight": 0.85}
-{"question": "Based on this audio, listen carefully and provide the transcript.", "answer": "text", "weight": 0.6}
-{"question": "From this clip, listen and generate the transcription.", "answer": "text", "weight": 0.68}
-{"question": "Using the audio, listen and write the spoken content as text.", "answer": "text", "weight": 0.51}
-{"question": "After listening, provide the spoken content of this audio as text.", "answer": "text", "weight": 0.68}
-{"question": "Please listen to the recording and provide a complete transcription.", "answer": "text", "weight": 0.78}
-{"question": "Would you mind listening to this utterance and transcribing it?", "answer": "text", "weight": 0.83}
-{"question": "Could you please listen to the clip and write out the spoken words?", "answer": "text", "weight": 0.96}
-{"question": "Just listen to this and transcribe it for me.", "answer": "text", "weight": 0.99}
-{"question": "Please listen to this audio recording and provide the exact transcript.", "answer": "text", "weight": 0.75}
-{"question":"I am preparing meeting notes. Can you transcribe this audio into clean written text?","answer":"text","weight":0.95}
-{"question":"I am documenting an interview and need the spoken content written out clearly. Can you transcribe this clip?","answer":"text","weight":0.92}
-{"question":"I am working on a report and need a readable transcript of this recording. Can you write it out?","answer":"text","weight":0.90}
-{"question":"I am reviewing a voice memo for my records. Please transcribe what is said in this audio.","answer":"text","weight":0.88}
-{"question":"I am organizing call records and need this recording turned into written text. Can you transcribe it?","answer":"text","weight":0.86}
-{"question":"I am preparing documentation and need the exact spoken content from this clip in written form.","answer":"text","weight":0.82}
-{"question":"I am compiling notes from recorded discussions. Please write out what is said in this audio.","answer":"text","weight":0.89}
-{"question":"I am turning spoken material into written documentation. Can you transcribe this recording?","answer":"text","weight":0.78}
-{"question":"I am processing recorded remarks and need them in normal written form. What is said here?","answer":"text","weight":0.74}
-{"question":"I am creating a written record of this conversation. Please transcribe the audio.","answer":"text","weight":0.90}
-{"question":"I am working on a transcript for archival purposes. Can you write out the speech in this clip?","answer":"text","weight":0.68}
-{"question":"I am preparing written materials from audio recordings. Please convert this speech into text.","answer":"text","weight":0.73}
-{"question":"I am summarizing a recorded discussion and first need the full transcript. Can you provide it?","answer":"text","weight":0.94}
-{"question":"I am editing content from a recorded talk. Please write down exactly what is said here.","answer":"text","weight":0.84}
-{"question":"I am converting recorded speech into a written draft. Can you transcribe this utterance?","answer":"text","weight":0.80}
-{"question":"I am working on a case where I need the spoken words from this clip written out accurately.","answer":"text","weight":0.65}
-{"question":"I am producing a text version of this recording for review. What does the speaker say?","answer":"text","weight":0.72}
-{"question":"I am preparing materials based on this audio and need the spoken content transcribed.","answer":"text","weight":0.76}
-{"question":"I am making a clean written record from this voice recording. Can you provide the transcript?","answer":"text","weight":0.87}
-{"question":"I am handling audio-to-text documentation. Please transcribe the speech in this recording.","answer":"text","weight":0.58}
-{"question":"You are helping me turn recorded speech into written notes. Please transcribe this clip.","answer":"text","weight":0.70}
-{"question":"You are assisting with documentation, and I need this audio rendered as written text.","answer":"text","weight":0.48}
-{"question":"You are tasked with preparing a readable transcript from this recording. What is being said?","answer":"text","weight":0.44}
-{"question":"You are helping convert a spoken utterance into a final written version. Can you transcribe this?","answer":"text","weight":0.50}
-{"question":"You are assisting with recordkeeping. Please write out the contents of this audio clip.","answer":"text","weight":0.42}
-{"question":"You are supporting a workflow that requires speech-to-text conversion. Please transcribe this recording.","answer":"text","weight":0.30}
-{"question":"For my documentation workflow, I need this spoken clip written out as text. Can you do that?","answer":"text","weight":0.55}
-{"question":"As part of preparing written records, please transcribe the speech in this audio.","answer":"text","weight":0.67}
-{"question":"For a transcription workflow I am running, I need the exact words from this clip in written form.","answer":"text","weight":0.46}
-{"question":"In the workflow I am working on, this recording needs to be turned into clear written text. What does it say?","answer":"text","weight":0.52}
-{"question":"I need your help transcribing this audio into written text.","answer":"text","weight":0.93}
-{"question":"Can you help me write out what is being said in this recording?","answer":"text","weight":0.95}
-{"question":"I need help getting the transcript for this clip.","answer":"text","weight":0.90}
-{"question":"Could you help me turn this speech into text?","answer":"text","weight":0.89}
-{"question":"I need your help with this recording. What is the speaker saying?","answer":"text","weight":0.92}
-{"question":"Can you help me transcribe the spoken content of this audio?","answer":"text","weight":0.91}
-{"question":"I need help writing down exactly what is said in this clip.","answer":"text","weight":0.88}
-{"question":"Would you help me transcribe this utterance?","answer":"text","weight":0.78}
-{"question":"I need your help producing a clean transcript of this recording.","answer":"text","weight":0.86}
-{"question":"Could you help me figure out what is being said here and write it out?","answer":"text","weight":0.90}
-{"question":"Please help me convert this audio into written text.","answer":"text","weight":0.89}
-{"question":"I need help with the transcript for this speech sample.","answer":"text","weight":0.84}
-{"question":"Can you help me capture the spoken words from this recording in text form?","answer":"text","weight":0.83}
-{"question":"I need your help writing out this audio clip as a transcript.","answer":"text","weight":0.85}
-{"question":"Could you help me transcribe this recording accurately?","answer":"text","weight":0.90}
-{"question":"Please help me by writing down the speech in this clip.","answer":"text","weight":0.82}
-{"question":"I need help obtaining the full written version of what is said here.","answer":"text","weight":0.76}
-{"question":"Can you help me with an audio transcription for this utterance?","answer":"text","weight":0.68}
-{"question":"I need your help turning this spoken recording into readable text.","answer":"text","weight":0.84}
-{"question":"Would you help me write out what the speaker says in this audio?","answer":"text","weight":0.79}
-{"question":"Please help me transcribe this clip for my notes.","answer":"text","weight":0.94}
-{"question":"I could use your help transcribing the words spoken in this recording.","answer":"text","weight":0.87}
-{"question":"Can you help me generate the transcript of this audio segment?","answer":"text","weight":0.80}
-{"question":"I need help writing down the contents of this recording.","answer":"text","weight":0.86}
-{"question":"Could you help me produce the exact transcript of this utterance?","answer":"text","weight":0.82}
-{"question":"Please help me understand what is said here by transcribing the audio.","answer":"text","weight":0.88}
-{"question":"I need your help with speech-to-text for this clip. Can you transcribe it?","answer":"text","weight":0.56}
-{"question":"Can you help me create a written transcript from this audio recording?","answer":"text","weight":0.85}
-{"question":"I need help turning this utterance into a written transcript.","answer":"text","weight":0.81}
-{"question":"Would you please help me write out everything said in this clip?","answer":"text","weight":0.83}
+{"question": "Transcribe this recording.", "answer": "text.strip()", "weight": 0.96, "family": "direct_command"}
+{"question": "Listen to this recording and transcribe it.", "answer": "text.strip()", "weight": 0.92, "family": "direct_command"}
+{"question": "Transcribe this clip.", "answer": "text.strip()", "weight": 0.95, "family": "direct_command"}
+{"question": "Listen to the clip, then transcribe it.", "answer": "text.strip()", "weight": 0.9, "family": "direct_command"}
+{"question": "Write the transcript.", "answer": "text.strip()", "weight": 0.93, "family": "direct_command"}
+{"question": "Listen to the audio and write the transcript.", "answer": "text.strip()", "weight": 0.9, "family": "direct_command"}
+{"question": "Give me the transcript of this clip.", "answer": "text.strip()", "weight": 0.94, "family": "direct_command"}
+{"question": "Listen to this clip and give me its transcript.", "answer": "text.strip()", "weight": 0.88, "family": "direct_command"}
+{"question": "Write out what is said here.", "answer": "text.strip()", "weight": 0.91, "family": "direct_command"}
+{"question": "Listen and write out what is said here.", "answer": "text.strip()", "weight": 0.88, "family": "direct_command"}
+{"question": "Write down the words spoken in this audio.", "answer": "text.strip()", "weight": 0.89, "family": "direct_command"}
+{"question": "Listen to the audio and write down the words spoken.", "answer": "text.strip()", "weight": 0.86, "family": "direct_command"}
+{"question": "Type out what the speaker says.", "answer": "text.strip()", "weight": 0.86, "family": "direct_command"}
+{"question": "Listen to the speaker and type out what they say.", "answer": "text.strip()", "weight": 0.83, "family": "direct_command"}
+{"question": "Turn this speech into text.", "answer": "text.strip()", "weight": 0.86, "family": "direct_command"}
+{"question": "Listen to this and turn the speech into text.", "answer": "text.strip()", "weight": 0.82, "family": "direct_command"}
+{"question": "Transcribe the sentence in this recording.", "answer": "text.strip()", "weight": 0.9, "family": "direct_command"}
+{"question": "Listen to the recording and transcribe the sentence.", "answer": "text.strip()", "weight": 0.87, "family": "direct_command"}
+{"question": "Put this utterance into writing.", "answer": "text.strip()", "weight": 0.74, "family": "direct_command"}
+{"question": "After listening to the utterance, put it into writing.", "answer": "text.strip()", "weight": 0.7, "family": "direct_command"}
+{"question": "Give me the text of this recording.", "answer": "text.strip()", "weight": 0.88, "family": "direct_command"}
+{"question": "Listen through the recording and give me its text.", "answer": "text.strip()", "weight": 0.84, "family": "direct_command"}
+{"question": "Transcribe the audio.", "answer": "text.strip()", "weight": 0.95, "family": "direct_command"}
+{"question": "Listen to the audio and transcribe it.", "answer": "text.strip()", "weight": 0.91, "family": "direct_command"}
+{"question": "Write down this sentence.", "answer": "text.strip()", "weight": 0.84, "family": "direct_command"}
+{"question": "Listen to this and write the sentence down.", "answer": "text.strip()", "weight": 0.82, "family": "direct_command"}
+{"question": "Convert this recording to text.", "answer": "text.strip()", "weight": 0.85, "family": "direct_command"}
+{"question": "Listen to the recording, then convert it to text.", "answer": "text.strip()", "weight": 0.8, "family": "direct_command"}
+{"question": "Transcribe the speech in this file.", "answer": "text.strip()", "weight": 0.83, "family": "direct_command"}
+{"question": "Play the file, listen, and transcribe the speech.", "answer": "text.strip()", "weight": 0.76, "family": "direct_command"}
+{"question": "Produce a transcript for this audio.", "answer": "text.strip()", "weight": 0.8, "family": "direct_command"}
+{"question": "Listen to this audio and produce a transcript.", "answer": "text.strip()", "weight": 0.78, "family": "direct_command"}
+{"question": "Set down in text what this speaker said.", "answer": "text.strip()", "weight": 0.58, "family": "direct_command"}
+{"question": "Listen to this speaker and set down in text what they said.", "answer": "text.strip()", "weight": 0.55, "family": "direct_command"}
+{"question": "Transcribe what you hear.", "answer": "text.strip()", "weight": 0.88, "family": "direct_command"}
+{"question": "Listen carefully and transcribe what you hear.", "answer": "text.strip()", "weight": 0.86, "family": "direct_command"}
+{"question": "Write the spoken sentence as text.", "answer": "text.strip()", "weight": 0.82, "family": "direct_command"}
+{"question": "Listen, then write the spoken sentence as text.", "answer": "text.strip()", "weight": 0.79, "family": "direct_command"}
+{"question": "Transcribe this short utterance.", "answer": "text.strip()", "weight": 0.84, "family": "direct_command"}
+{"question": "Listen to this short utterance and transcribe it.", "answer": "text.strip()", "weight": 0.81, "family": "direct_command"}
+{"question": "Give me a transcription of this audio.", "answer": "text.strip()", "weight": 0.87, "family": "direct_command"}
+{"question": "After listening to this audio, give me a transcription.", "answer": "text.strip()", "weight": 0.82, "family": "direct_command"}
+{"question": "Take down what the speaker says.", "answer": "text.strip()", "weight": 0.78, "family": "direct_command"}
+{"question": "Listen to the speaker and take down what they say.", "answer": "text.strip()", "weight": 0.75, "family": "direct_command"}
+{"question": "Transcribe the recording word for word.", "answer": "text.strip()", "weight": 0.85, "family": "direct_command"}
+{"question": "Listen to the recording and transcribe it word for word.", "answer": "text.strip()", "weight": 0.82, "family": "direct_command"}
+{"question": "Write this out as text.", "answer": "text.strip()", "weight": 0.83, "family": "direct_command"}
+{"question": "Listen to it and write it out as text.", "answer": "text.strip()", "weight": 0.8, "family": "direct_command"}
+{"question": "Do speech-to-text on this clip.", "answer": "text.strip()", "weight": 0.72, "family": "direct_command"}
+{"question": "Listen to the clip and do speech-to-text on it.", "answer": "text.strip()", "weight": 0.68, "family": "direct_command"}
+{"question": "Get me the words from this audio.", "answer": "text.strip()", "weight": 0.79, "family": "direct_command"}
+{"question": "Listen to this audio and get me the words.", "answer": "text.strip()", "weight": 0.76, "family": "direct_command"}
+{"question": "Transcribe the read sentence in this audio.", "answer": "text.strip()", "weight": 0.76, "family": "direct_command"}
+{"question": "Listen to this audio and transcribe the sentence that is read.", "answer": "text.strip()", "weight": 0.73, "family": "direct_command"}
+{"question": "Get this recording into text form.", "answer": "text.strip()", "weight": 0.74, "family": "direct_command"}
+{"question": "Listen through and get this recording into text form.", "answer": "text.strip()", "weight": 0.7, "family": "direct_command"}
+{"question": "What is being said in this recording?", "answer": "text.strip()", "weight": 0.95, "family": "wh_question"}
+{"question": "Listen to this recording. What is being said?", "answer": "text.strip()", "weight": 0.91, "family": "wh_question"}
+{"question": "What does the speaker say?", "answer": "text.strip()", "weight": 0.94, "family": "wh_question"}
+{"question": "Listen to the speaker. What do they say?", "answer": "text.strip()", "weight": 0.9, "family": "wh_question"}
+{"question": "What are the exact words in this clip?", "answer": "text.strip()", "weight": 0.88, "family": "wh_question"}
+{"question": "Listen to the clip and tell me the exact words.", "answer": "text.strip()", "weight": 0.85, "family": "wh_question"}
+{"question": "What sentence is spoken here?", "answer": "text.strip()", "weight": 0.9, "family": "wh_question"}
+{"question": "Listen to this and tell me what sentence is spoken.", "answer": "text.strip()", "weight": 0.86, "family": "wh_question"}
+{"question": "What did they say?", "answer": "text.strip()", "weight": 0.92, "family": "wh_question"}
+{"question": "Have a listen. What did they say?", "answer": "text.strip()", "weight": 0.88, "family": "wh_question"}
+{"question": "What is the transcript of this audio?", "answer": "text.strip()", "weight": 0.87, "family": "wh_question"}
+{"question": "Listen to the audio. What is its transcript?", "answer": "text.strip()", "weight": 0.83, "family": "wh_question"}
+{"question": "How would you transcribe this recording?", "answer": "text.strip()", "weight": 0.84, "family": "wh_question"}
+{"question": "How would you transcribe this recording after listening to it?", "answer": "text.strip()", "weight": 0.78, "family": "wh_question"}
+{"question": "What text corresponds to this speech?", "answer": "text.strip()", "weight": 0.66, "family": "wh_question"}
+{"question": "Listen to this speech and tell me what text corresponds to it.", "answer": "text.strip()", "weight": 0.62, "family": "wh_question"}
+{"question": "Which sentence does the speaker read here?", "answer": "text.strip()", "weight": 0.8, "family": "wh_question"}
+{"question": "Listen and tell me which sentence the speaker reads.", "answer": "text.strip()", "weight": 0.78, "family": "wh_question"}
+{"question": "What was spoken in this file?", "answer": "text.strip()", "weight": 0.79, "family": "wh_question"}
+{"question": "Listen to the file and tell me what was spoken.", "answer": "text.strip()", "weight": 0.76, "family": "wh_question"}
+{"question": "What is the speaker saying?", "answer": "text.strip()", "weight": 0.92, "family": "wh_question"}
+{"question": "Listen closely. What is the speaker saying?", "answer": "text.strip()", "weight": 0.88, "family": "wh_question"}
+{"question": "What's the sentence in this audio?", "answer": "text.strip()", "weight": 0.88, "family": "wh_question"}
+{"question": "Listen to this audio. What's the sentence?", "answer": "text.strip()", "weight": 0.85, "family": "wh_question"}
+{"question": "What would the transcript of this clip look like?", "answer": "text.strip()", "weight": 0.7, "family": "wh_question"}
+{"question": "After listening to this clip, what would its transcript look like?", "answer": "text.strip()", "weight": 0.66, "family": "wh_question"}
+{"question": "What English sentence is spoken in this recording?", "answer": "text.strip()", "weight": 0.78, "family": "wh_question"}
+{"question": "Listen to the recording and tell me what English sentence is spoken.", "answer": "text.strip()", "weight": 0.75, "family": "wh_question"}
+{"question": "How does this utterance read in text?", "answer": "text.strip()", "weight": 0.62, "family": "wh_question"}
+{"question": "Listen to the utterance. How does it read in text?", "answer": "text.strip()", "weight": 0.58, "family": "wh_question"}
+{"question": "What are the words being spoken?", "answer": "text.strip()", "weight": 0.86, "family": "wh_question"}
+{"question": "Listen and tell me what words are being spoken.", "answer": "text.strip()", "weight": 0.83, "family": "wh_question"}
+{"question": "What line does the speaker read out?", "answer": "text.strip()", "weight": 0.72, "family": "wh_question"}
+{"question": "Listen to the speaker and tell me what line they read out.", "answer": "text.strip()", "weight": 0.7, "family": "wh_question"}
+{"question": "What's the wording here?", "answer": "text.strip()", "weight": 0.68, "family": "wh_question"}
+{"question": "Listen to this and tell me the wording.", "answer": "text.strip()", "weight": 0.64, "family": "wh_question"}
+{"question": "What does this recording say?", "answer": "text.strip()", "weight": 0.89, "family": "wh_question"}
+{"question": "Listen to this recording and tell me what it says.", "answer": "text.strip()", "weight": 0.86, "family": "wh_question"}
+{"question": "What does this person say in the recording?", "answer": "text.strip()", "weight": 0.85, "family": "wh_question"}
+{"question": "Listen to the recording. What does this person say?", "answer": "text.strip()", "weight": 0.82, "family": "wh_question"}
+{"question": "Which words are spoken in this clip?", "answer": "text.strip()", "weight": 0.8, "family": "wh_question"}
+{"question": "Listen to the clip and tell me which words are spoken.", "answer": "text.strip()", "weight": 0.77, "family": "wh_question"}
+{"question": "Can you transcribe this?", "answer": "text.strip()", "weight": 0.93, "family": "can_you"}
+{"question": "Can you listen to this and transcribe it?", "answer": "text.strip()", "weight": 0.88, "family": "can_you"}
+{"question": "Could you write down what's said here?", "answer": "text.strip()", "weight": 0.86, "family": "can_you"}
+{"question": "Could you listen and write down what's said here?", "answer": "text.strip()", "weight": 0.83, "family": "can_you"}
+{"question": "Can you tell me what is said in this clip?", "answer": "text.strip()", "weight": 0.85, "family": "can_you"}
+{"question": "Can you give this clip a listen and tell me what is said?", "answer": "text.strip()", "weight": 0.8, "family": "can_you"}
+{"question": "Are you able to transcribe this recording?", "answer": "text.strip()", "weight": 0.74, "family": "can_you"}
+{"question": "Are you able to listen to this recording and transcribe it?", "answer": "text.strip()", "weight": 0.7, "family": "can_you"}
+{"question": "Could you give me the transcript?", "answer": "text.strip()", "weight": 0.87, "family": "can_you"}
+{"question": "Could you listen to the audio and give me the transcript?", "answer": "text.strip()", "weight": 0.83, "family": "can_you"}
+{"question": "Can you turn this audio into text for me?", "answer": "text.strip()", "weight": 0.82, "family": "can_you"}
+{"question": "Can you listen to this audio and turn it into text for me?", "answer": "text.strip()", "weight": 0.78, "family": "can_you"}
+{"question": "I need help transcribing this. Can you do it?", "answer": "text.strip()", "weight": 0.76, "family": "can_you"}
+{"question": "I need help with this recording. Can you listen and transcribe it?", "answer": "text.strip()", "weight": 0.72, "family": "can_you"}
+{"question": "Would you be able to write out this utterance?", "answer": "text.strip()", "weight": 0.7, "family": "can_you"}
+{"question": "Would you be able to listen to this utterance and write it out?", "answer": "text.strip()", "weight": 0.66, "family": "can_you"}
+{"question": "Can you catch what the speaker says here?", "answer": "text.strip()", "weight": 0.75, "family": "can_you"}
+{"question": "Can you listen closely and catch what the speaker says?", "answer": "text.strip()", "weight": 0.72, "family": "can_you"}
+{"question": "Any chance you can transcribe this clip?", "answer": "text.strip()", "weight": 0.72, "family": "can_you"}
+{"question": "Any chance you could listen to this clip and transcribe it?", "answer": "text.strip()", "weight": 0.68, "family": "can_you"}
+{"question": "Can you help me get the words from this audio?", "answer": "text.strip()", "weight": 0.78, "family": "can_you"}
+{"question": "Can you listen to this audio and help me get the words?", "answer": "text.strip()", "weight": 0.74, "family": "can_you"}
+{"question": "Could you type up what this speaker says?", "answer": "text.strip()", "weight": 0.74, "family": "can_you"}
+{"question": "Could you listen to this speaker and type up what they say?", "answer": "text.strip()", "weight": 0.7, "family": "can_you"}
+{"question": "Do you think you could transcribe this recording?", "answer": "text.strip()", "weight": 0.66, "family": "can_you"}
+{"question": "Do you think you could listen to this recording and transcribe it?", "answer": "text.strip()", "weight": 0.62, "family": "can_you"}
+{"question": "Please transcribe this recording.", "answer": "text.strip()", "weight": 0.9, "family": "polite"}
+{"question": "Please listen to this recording and transcribe it.", "answer": "text.strip()", "weight": 0.86, "family": "polite"}
+{"question": "Would you please write out what is said here?", "answer": "text.strip()", "weight": 0.72, "family": "polite"}
+{"question": "Would you please listen and write out what is said?", "answer": "text.strip()", "weight": 0.68, "family": "polite"}
+{"question": "I would appreciate a transcript of this clip.", "answer": "text.strip()", "weight": 0.62, "family": "polite"}
+{"question": "I would appreciate it if you listened to this clip and transcribed it.", "answer": "text.strip()", "weight": 0.56, "family": "polite"}
+{"question": "Kindly provide the transcript for this audio.", "answer": "text.strip()", "weight": 0.58, "family": "polite"}
+{"question": "Kindly listen to this audio and provide the transcript.", "answer": "text.strip()", "weight": 0.54, "family": "polite"}
+{"question": "If you don't mind, please transcribe this utterance.", "answer": "text.strip()", "weight": 0.64, "family": "polite"}
+{"question": "If you don't mind, please listen to this utterance and transcribe it.", "answer": "text.strip()", "weight": 0.6, "family": "polite"}
+{"question": "Please give me the words spoken in this file.", "answer": "text.strip()", "weight": 0.74, "family": "polite"}
+{"question": "Please listen to the file and give me the words spoken.", "answer": "text.strip()", "weight": 0.7, "family": "polite"}
+{"question": "Thanks in advance. Please transcribe this.", "answer": "text.strip()", "weight": 0.68, "family": "polite"}
+{"question": "Thanks in advance. Please listen to this and transcribe it.", "answer": "text.strip()", "weight": 0.64, "family": "polite"}
+{"question": "May I have the transcript of this recording?", "answer": "text.strip()", "weight": 0.66, "family": "polite"}
+{"question": "May I have the transcript after you listen to this recording?", "answer": "text.strip()", "weight": 0.6, "family": "polite"}
+{"question": "Please write down, word for word, what the speaker says.", "answer": "text.strip()", "weight": 0.76, "family": "polite"}
+{"question": "Please listen and write down, word for word, what the speaker says.", "answer": "text.strip()", "weight": 0.72, "family": "polite"}
+{"question": "I'm building an ASR benchmark for accented English. Transcribe this recording.", "answer": "text.strip()", "weight": 0.52, "family": "workflow"}
+{"question": "I'm building an ASR benchmark for accented English. Listen to this recording and transcribe it.", "answer": "text.strip()", "weight": 0.48, "family": "workflow"}
+{"question": "For my dataset of read sentences, I need the text of this clip. Transcribe it.", "answer": "text.strip()", "weight": 0.48, "family": "workflow"}
+{"question": "For my dataset of read sentences, listen to this clip and transcribe it.", "answer": "text.strip()", "weight": 0.44, "family": "workflow"}
+{"question": "I'm checking how well our recognizer handles non-native English. Give me the reference transcript for this audio.", "answer": "text.strip()", "weight": 0.44, "family": "workflow"}
+{"question": "I'm checking how well our recognizer handles non-native English. Listen to this audio and give me the reference transcript.", "answer": "text.strip()", "weight": 0.4, "family": "workflow"}
+{"question": "We're indexing a speech corpus. Provide the transcript for this utterance.", "answer": "text.strip()", "weight": 0.46, "family": "workflow"}
+{"question": "We're indexing a speech corpus. Listen to this utterance and provide its transcript.", "answer": "text.strip()", "weight": 0.42, "family": "workflow"}
+{"question": "I'm preparing subtitles for these clips. Write out this one.", "answer": "text.strip()", "weight": 0.5, "family": "workflow"}
+{"question": "I'm preparing subtitles for these clips. Listen to this one and write it out.", "answer": "text.strip()", "weight": 0.46, "family": "workflow"}
+{"question": "I'm evaluating transcription accuracy on accented speech. Transcribe this recording so I can compare.", "answer": "text.strip()", "weight": 0.42, "family": "workflow"}
+{"question": "I'm evaluating transcription accuracy on accented speech. Listen to this recording and transcribe it so I can compare.", "answer": "text.strip()", "weight": 0.38, "family": "workflow"}
+{"question": "This clip is part of a read-speech corpus. Give me the sentence that was read.", "answer": "text.strip()", "weight": 0.48, "family": "workflow"}
+{"question": "This clip is part of a read-speech corpus. Listen and give me the sentence that was read.", "answer": "text.strip()", "weight": 0.44, "family": "workflow"}
+{"question": "I'm collecting text-audio pairs for training. Transcribe this audio.", "answer": "text.strip()", "weight": 0.46, "family": "workflow"}
+{"question": "I'm collecting text-audio pairs for training. Listen to this audio and transcribe it.", "answer": "text.strip()", "weight": 0.42, "family": "workflow"}
+{"question": "My notes are missing the line for this recording. Transcribe it for me.", "answer": "text.strip()", "weight": 0.54, "family": "workflow"}
+{"question": "My notes are missing the line for this recording. Listen and transcribe it for me.", "answer": "text.strip()", "weight": 0.5, "family": "workflow"}
+{"question": "I'm doing a QC pass on our transcripts. Transcribe this clip from scratch.", "answer": "text.strip()", "weight": 0.44, "family": "workflow"}
+{"question": "I'm doing a QC pass on our transcripts. Listen to this clip and transcribe it from scratch.", "answer": "text.strip()", "weight": 0.4, "family": "workflow"}
+{"question": "For a speech-search index, I need this recording as text.", "answer": "text.strip()", "weight": 0.42, "family": "workflow"}
+{"question": "For a speech-search index, listen to this recording and give me it as text.", "answer": "text.strip()", "weight": 0.36, "family": "workflow"}
+{"question": "I'm aligning audio to text for a pronunciation study, and I need this recording's transcript.", "answer": "text.strip()", "weight": 0.38, "family": "workflow"}
+{"question": "I'm aligning audio to text for a pronunciation study. Listen to this recording and give me its transcript.", "answer": "text.strip()", "weight": 0.34, "family": "workflow"}
+{"question": "I'm building a pronunciation-practice app and need the transcript of this learner's recording. Write out the sentence they read.", "answer": "text.strip()", "weight": 0.4, "family": "call_workflow"}
+{"question": "I'm building a pronunciation-practice app. Listen to this learner's recording and write out the sentence they read.", "answer": "text.strip()", "weight": 0.36, "family": "call_workflow"}
+{"question": "For a language-learning tool, I need the text of what this student read aloud. Transcribe it.", "answer": "text.strip()", "weight": 0.38, "family": "call_workflow"}
+{"question": "For a language-learning tool, listen to what this student read aloud and transcribe it.", "answer": "text.strip()", "weight": 0.34, "family": "call_workflow"}
+{"question": "I'm captioning a learner's speaking exercise. Transcribe the recording.", "answer": "text.strip()", "weight": 0.36, "family": "call_workflow"}
+{"question": "I'm captioning a learner's speaking exercise. Listen to the recording and transcribe it.", "answer": "text.strip()", "weight": 0.32, "family": "call_workflow"}
+{"question": "A student submitted this recording for a speaking assignment. Write down the sentence they read.", "answer": "text.strip()", "weight": 0.34, "family": "call_workflow"}
+{"question": "A student submitted this recording for a speaking assignment. Listen to it and write down the sentence they read.", "answer": "text.strip()", "weight": 0.3, "family": "call_workflow"}
+{"question": "This is a practice recording from an English class. Give me its transcript.", "answer": "text.strip()", "weight": 0.38, "family": "call_workflow"}
+{"question": "This is a practice recording from an English class. Listen to it and give me its transcript.", "answer": "text.strip()", "weight": 0.34, "family": "call_workflow"}
+{"question": "Transcribe this and return only the transcript, nothing else.", "answer": "text.strip()", "weight": 0.66, "family": "output_format"}
+{"question": "Listen to this, then return only the transcript, nothing else.", "answer": "text.strip()", "weight": 0.62, "family": "output_format"}
+{"question": "Give me the transcript on a single line.", "answer": "text.strip()", "weight": 0.62, "family": "output_format"}
+{"question": "Listen to the audio and give me the transcript on a single line.", "answer": "text.strip()", "weight": 0.58, "family": "output_format"}
+{"question": "Write the transcription with no extra commentary.", "answer": "text.strip()", "weight": 0.6, "family": "output_format"}
+{"question": "Listen and write the transcription with no extra commentary.", "answer": "text.strip()", "weight": 0.56, "family": "output_format"}
+{"question": "Return just the sentence that was spoken, no preamble.", "answer": "text.strip()", "weight": 0.64, "family": "output_format"}
+{"question": "Listen to this and return just the sentence that was spoken, no preamble.", "answer": "text.strip()", "weight": 0.6, "family": "output_format"}
+{"question": "Transcribe this. Plain text only.", "answer": "text.strip()", "weight": 0.62, "family": "output_format"}
+{"question": "Listen to this and transcribe it. Plain text only.", "answer": "text.strip()", "weight": 0.58, "family": "output_format"}
+{"question": "Output the transcript and nothing more.", "answer": "text.strip()", "weight": 0.58, "family": "output_format"}
+{"question": "Listen to the recording and output the transcript and nothing more.", "answer": "text.strip()", "weight": 0.54, "family": "output_format"}
+{"question": "Just give me the sentence, no explanation.", "answer": "text.strip()", "weight": 0.68, "family": "output_format"}
+{"question": "Listen and just give me the sentence, no explanation.", "answer": "text.strip()", "weight": 0.64, "family": "output_format"}
+{"question": "Provide the transcript as one line of plain text.", "answer": "text.strip()", "weight": 0.56, "family": "output_format"}
+{"question": "After listening, provide the transcript as one line of plain text.", "answer": "text.strip()", "weight": 0.52, "family": "output_format"}
+{"question": "Transcribe this clip and give the answer as a single sentence, nothing else.", "answer": "text.strip()", "weight": 0.58, "family": "output_format"}
+{"question": "Listen to this clip and give the answer as a single sentence, nothing else.", "answer": "text.strip()", "weight": 0.54, "family": "output_format"}
+{"question": "Just transcribe it.", "answer": "text.strip()", "weight": 0.88, "family": "casual"}
+{"question": "Give it a listen and just transcribe it.", "answer": "text.strip()", "weight": 0.84, "family": "casual"}
+{"question": "What'd they say?", "answer": "text.strip()", "weight": 0.86, "family": "casual"}
+{"question": "Listen to this. What'd they say?", "answer": "text.strip()", "weight": 0.82, "family": "casual"}
+{"question": "Quick transcript, please.", "answer": "text.strip()", "weight": 0.78, "family": "casual"}
+{"question": "Quick listen, then a transcript, please.", "answer": "text.strip()", "weight": 0.72, "family": "casual"}
+{"question": "Write it down for me.", "answer": "text.strip()", "weight": 0.8, "family": "casual"}
+{"question": "Listen and write it down for me.", "answer": "text.strip()", "weight": 0.77, "family": "casual"}
+{"question": "Transcribe, please.", "answer": "text.strip()", "weight": 0.84, "family": "casual"}
+{"question": "Listen, then transcribe, please.", "answer": "text.strip()", "weight": 0.79, "family": "casual"}
+{"question": "What's said on this recording?", "answer": "text.strip()", "weight": 0.82, "family": "casual"}
+{"question": "Listen. What's said on this recording?", "answer": "text.strip()", "weight": 0.78, "family": "casual"}
+{"question": "Type it out.", "answer": "text.strip()", "weight": 0.79, "family": "casual"}
+{"question": "Listen to it and type it out.", "answer": "text.strip()", "weight": 0.76, "family": "casual"}
+{"question": "Need the words here.", "answer": "text.strip()", "weight": 0.7, "family": "casual"}
+{"question": "Listen and give me the words here.", "answer": "text.strip()", "weight": 0.67, "family": "casual"}
+{"question": "Just write out what they said.", "answer": "text.strip()", "weight": 0.85, "family": "casual"}
+{"question": "Listen and just write out what they said.", "answer": "text.strip()", "weight": 0.81, "family": "casual"}
+{"question": "Give me the text, quick.", "answer": "text.strip()", "weight": 0.74, "family": "casual"}
+{"question": "Have a listen and give me the text, quick.", "answer": "text.strip()", "weight": 0.7, "family": "casual"}
+{"question": "What are they reading here?", "answer": "text.strip()", "weight": 0.76, "family": "casual"}
+{"question": "Listen. What are they reading here?", "answer": "text.strip()", "weight": 0.73, "family": "casual"}
+{"question": "This speaker is a non-native English speaker. Transcribe what they say.", "answer": "text.strip()", "weight": 0.68, "family": "accent_generic"}
+{"question": "This speaker is a non-native English speaker. Listen and transcribe what they say.", "answer": "text.strip()", "weight": 0.64, "family": "accent_generic"}
+{"question": "The English here is accented. Write out the sentence anyway.", "answer": "text.strip()", "weight": 0.62, "family": "accent_generic"}
+{"question": "The English here is accented. Listen and write out the sentence anyway.", "answer": "text.strip()", "weight": 0.58, "family": "accent_generic"}
+{"question": "This is accented English speech. Give me the transcript.", "answer": "text.strip()", "weight": 0.66, "family": "accent_generic"}
+{"question": "This is accented English speech. Listen to it and give me the transcript.", "answer": "text.strip()", "weight": 0.62, "family": "accent_generic"}
+{"question": "The speaker has a noticeable accent. Transcribe the recording accurately.", "answer": "text.strip()", "weight": 0.6, "family": "accent_generic"}
+{"question": "The speaker has a noticeable accent. Listen carefully and transcribe the recording accurately.", "answer": "text.strip()", "weight": 0.56, "family": "accent_generic"}
+{"question": "This is non-native English. Give me the sentence in standard spelling.", "answer": "text.strip()", "weight": 0.52, "family": "accent_generic"}
+{"question": "This is non-native English. Listen and give me the sentence in standard spelling.", "answer": "text.strip()", "weight": 0.48, "family": "accent_generic"}
+{"question": "This recording is from a second-language English speaker. Transcribe it.", "answer": "text.strip()", "weight": 0.58, "family": "accent_generic"}
+{"question": "This recording is from a second-language English speaker. Listen and transcribe it.", "answer": "text.strip()", "weight": 0.54, "family": "accent_generic"}
+{"question": "The accent is strong here. Do your best and transcribe the utterance.", "answer": "text.strip()", "weight": 0.56, "family": "accent_generic"}
+{"question": "The accent is strong here. Listen closely and transcribe the utterance.", "answer": "text.strip()", "weight": 0.53, "family": "accent_generic"}
+{"question": "This speaker learned English as a second language. Write down what they read.", "answer": "text.strip()", "weight": 0.54, "family": "accent_generic"}
+{"question": "This speaker learned English as a second language. Listen and write down what they read.", "answer": "text.strip()", "weight": 0.5, "family": "accent_generic"}
+{"question": "Transcribe this accented recording word for word.", "answer": "text.strip()", "weight": 0.64, "family": "accent_generic"}
+{"question": "Listen to this accented recording and transcribe it word for word.", "answer": "text.strip()", "weight": 0.6, "family": "accent_generic"}
+{"question": "Even with the accent, what sentence is being read here?", "answer": "text.strip()", "weight": 0.62, "family": "accent_generic"}
+{"question": "Listen past the accent. What sentence is being read here?", "answer": "text.strip()", "weight": 0.56, "family": "accent_generic"}
+{"question": "I know the pronunciation is non-native. Just give me the words.", "answer": "text.strip()", "weight": 0.58, "family": "accent_generic"}
+{"question": "I know the pronunciation is non-native. Listen and just give me the words.", "answer": "text.strip()", "weight": 0.54, "family": "accent_generic"}
+{"question": "This audio has a non-native accent, but the sentence is ordinary English. Transcribe it.", "answer": "text.strip()", "weight": 0.5, "family": "accent_generic"}
+{"question": "This audio has a non-native accent, but the sentence is ordinary English. Listen and transcribe it.", "answer": "text.strip()", "weight": 0.46, "family": "accent_generic"}
+{"question": "The speaker's first language is {l1}. Transcribe their English.", "answer": "text.strip()", "weight": 0.52, "family": "l1_param"}
+{"question": "The speaker's first language is {l1}. Listen and transcribe their English.", "answer": "text.strip()", "weight": 0.48, "family": "l1_param"}
+{"question": "This is a {l1} speaker reading English. Write out the sentence.", "answer": "text.strip()", "weight": 0.5, "family": "l1_param"}
+{"question": "This is a {l1} speaker reading English. Listen and write out the sentence.", "answer": "text.strip()", "weight": 0.46, "family": "l1_param"}
+{"question": "A native {l1} speaker recorded this English sentence. Give me the transcript.", "answer": "text.strip()", "weight": 0.46, "family": "l1_param"}
+{"question": "A native {l1} speaker recorded this English sentence. Listen to it and give me the transcript.", "answer": "text.strip()", "weight": 0.42, "family": "l1_param"}
+{"question": "This recording is English spoken by a {l1} speaker. Transcribe it.", "answer": "text.strip()", "weight": 0.5, "family": "l1_param"}
+{"question": "This recording is English spoken by a {l1} speaker. Listen and transcribe it.", "answer": "text.strip()", "weight": 0.46, "family": "l1_param"}
+{"question": "{l1}-accented English. Transcribe the utterance.", "answer": "text.strip()", "weight": 0.44, "family": "l1_param"}
+{"question": "{l1}-accented English. Listen and transcribe the utterance.", "answer": "text.strip()", "weight": 0.4, "family": "l1_param"}
+{"question": "The speaker here is a {l1} native learning English. What sentence do they read?", "answer": "text.strip()", "weight": 0.42, "family": "l1_param"}
+{"question": "The speaker here is a {l1} native learning English. Listen. What sentence do they read?", "answer": "text.strip()", "weight": 0.38, "family": "l1_param"}
+{"question": "I'm studying how {l1} speakers pronounce English, and I need this recording's reference text. Transcribe it.", "answer": "text.strip()", "weight": 0.36, "family": "l1_param"}
+{"question": "I'm studying how {l1} speakers pronounce English. Listen to this recording and give me its reference text.", "answer": "text.strip()", "weight": 0.32, "family": "l1_param"}
+{"question": "This clip comes from our {l1}-L1 subset. Provide the transcript.", "answer": "text.strip()", "weight": 0.32, "family": "l1_param"}
+{"question": "This clip comes from our {l1}-L1 subset. Listen to it and provide the transcript.", "answer": "text.strip()", "weight": 0.28, "family": "l1_param"}
+{"question": "Speaker L1: {l1}. Transcribe the English audio.", "answer": "text.strip()", "weight": 0.24, "family": "l1_param"}
+{"question": "Speaker L1: {l1}. Listen to the English audio and transcribe it.", "answer": "text.strip()", "weight": 0.2, "family": "l1_param"}
+{"question": "Can you transcribe this English sentence read by a {l1} speaker?", "answer": "text.strip()", "weight": 0.48, "family": "l1_param"}
+{"question": "Can you listen to this English sentence read by a {l1} speaker and transcribe it?", "answer": "text.strip()", "weight": 0.44, "family": "l1_param"}
+{"question": "For our {l1}-accent evaluation set, write out what is said in this clip.", "answer": "text.strip()", "weight": 0.34, "family": "l1_param"}
+{"question": "For our {l1}-accent evaluation set, listen to this clip and write out what is said.", "answer": "text.strip()", "weight": 0.3, "family": "l1_param"}
+{"question": "The person speaking is from a {l1}-speaking background. Write down their English sentence.", "answer": "text.strip()", "weight": 0.4, "family": "l1_param"}
+{"question": "The person speaking is from a {l1}-speaking background. Listen and write down their English sentence.", "answer": "text.strip()", "weight": 0.36, "family": "l1_param"}
+{"question": "Transcribe this recording with punctuation and capitalization.", "answer": "text.strip()", "weight": 0.62, "family": "punctuation_explicit"}
+{"question": "Listen to this recording and transcribe it with punctuation and capitalization.", "answer": "text.strip()", "weight": 0.58, "family": "punctuation_explicit"}
+{"question": "Write the transcript, keeping normal sentence punctuation.", "answer": "text.strip()", "weight": 0.58, "family": "punctuation_explicit"}
+{"question": "Listen to the audio and write the transcript, keeping normal sentence punctuation.", "answer": "text.strip()", "weight": 0.54, "family": "punctuation_explicit"}
+{"question": "Transcribe this and punctuate it as a proper sentence.", "answer": "text.strip()", "weight": 0.56, "family": "punctuation_explicit"}
+{"question": "Listen to this, then transcribe and punctuate it as a proper sentence.", "answer": "text.strip()", "weight": 0.52, "family": "punctuation_explicit"}
+{"question": "I need the transcript formatted as written English, with a capital letter at the start and punctuation where it belongs.", "answer": "text.strip()", "weight": 0.4, "family": "punctuation_explicit"}
+{"question": "Listen to this and give me the transcript as written English, with a capital letter at the start and punctuation where it belongs.", "answer": "text.strip()", "weight": 0.36, "family": "punctuation_explicit"}
+{"question": "Transcribe the utterance as a properly punctuated sentence.", "answer": "text.strip()", "weight": 0.54, "family": "punctuation_explicit"}
+{"question": "Listen to the utterance and transcribe it as a properly punctuated sentence.", "answer": "text.strip()", "weight": 0.5, "family": "punctuation_explicit"}
+{"question": "Give me a clean, punctuated transcript of this clip.", "answer": "text.strip()", "weight": 0.6, "family": "punctuation_explicit"}
+{"question": "Listen to this clip and give me a clean, punctuated transcript.", "answer": "text.strip()", "weight": 0.56, "family": "punctuation_explicit"}
+{"question": "Transcribe this. Use standard capitalization and punctuation.", "answer": "text.strip()", "weight": 0.58, "family": "punctuation_explicit"}
+{"question": "Listen and transcribe this. Use standard capitalization and punctuation.", "answer": "text.strip()", "weight": 0.54, "family": "punctuation_explicit"}
+{"question": "What is said here? Write it as a punctuated sentence.", "answer": "text.strip()", "weight": 0.56, "family": "punctuation_explicit"}
+{"question": "Listen. What is said here? Write it as a punctuated sentence.", "answer": "text.strip()", "weight": 0.52, "family": "punctuation_explicit"}
+{"question": "Please transcribe this recording and don't drop the punctuation.", "answer": "text.strip()", "weight": 0.52, "family": "punctuation_explicit"}
+{"question": "Please listen to this recording and transcribe it without dropping the punctuation.", "answer": "text.strip()", "weight": 0.48, "family": "punctuation_explicit"}
+{"question": "Provide the transcription with sentence case and punctuation intact.", "answer": "text.strip()", "weight": 0.38, "family": "punctuation_explicit"}
+{"question": "After listening, provide the transcription with sentence case and punctuation intact.", "answer": "text.strip()", "weight": 0.34, "family": "punctuation_explicit"}
+{"question": "Transcribe the audio into a well-formed written sentence.", "answer": "text.strip()", "weight": 0.5, "family": "punctuation_explicit"}
+{"question": "Listen to the audio and transcribe it into a well-formed written sentence.", "answer": "text.strip()", "weight": 0.46, "family": "punctuation_explicit"}
+{"question": "Give me the text as it would appear in writing, punctuation and all.", "answer": "text.strip()", "weight": 0.48, "family": "punctuation_explicit"}
+{"question": "Listen and give me the text as it would appear in writing, punctuation and all.", "answer": "text.strip()", "weight": 0.44, "family": "punctuation_explicit"}
+{"question": "Transcribe this clip and keep it capitalized and punctuated like normal text.", "answer": "text.strip()", "weight": 0.46, "family": "punctuation_explicit"}
+{"question": "Listen to this clip and transcribe it, capitalized and punctuated like normal text.", "answer": "text.strip()", "weight": 0.42, "family": "punctuation_explicit"}
+{"question": "I want the transcript to read like a written sentence, not a bare string of words. Transcribe it.", "answer": "text.strip()", "weight": 0.42, "family": "punctuation_explicit"}
+{"question": "Listen to this and give me a transcript that reads like a written sentence, not a bare string of words.", "answer": "text.strip()", "weight": 0.38, "family": "punctuation_explicit"}
+{"question": "Punctuate as you transcribe this recording.", "answer": "text.strip()", "weight": 0.5, "family": "punctuation_explicit"}
+{"question": "Listen to this recording and punctuate as you transcribe.", "answer": "text.strip()", "weight": 0.46, "family": "punctuation_explicit"}
+{"question": "Give me the sentence with correct capitalization and a closing period.", "answer": "text.strip()", "weight": 0.5, "requires": "period_final", "family": "punctuation_explicit"}
+{"question": "Listen to this and give me the sentence with correct capitalization and a closing period.", "answer": "text.strip()", "weight": 0.46, "requires": "period_final", "family": "punctuation_explicit"}
+{"question": "Transcribe this and end the sentence with its period.", "answer": "text.strip()", "weight": 0.44, "requires": "period_final", "family": "punctuation_explicit"}
+{"question": "Listen, transcribe this, and end the sentence with its period.", "answer": "text.strip()", "weight": 0.4, "requires": "period_final", "family": "punctuation_explicit"}
+{"question": "Write out what is said, including the commas.", "answer": "text.strip()", "weight": 0.46, "requires": "has_comma", "family": "punctuation_explicit"}
+{"question": "Listen and write out what is said, including the commas.", "answer": "text.strip()", "weight": 0.42, "requires": "has_comma", "family": "punctuation_explicit"}
+{"question": "Write down the sentence with its commas and closing period.", "answer": "text.strip()", "weight": 0.42, "requires": "comma_and_period", "family": "punctuation_explicit"}
+{"question": "Listen to the recording and write down the sentence with its commas and closing period.", "answer": "text.strip()", "weight": 0.38, "requires": "comma_and_period", "family": "punctuation_explicit"}
+{"question": "Transcribe this recording and put the transcript in all capital letters.", "answer": "text.strip().upper()", "weight": 0.16, "family": "format_variant"}
+{"question": "Listen to this recording and give me the transcript in all capital letters.", "answer": "text.strip().upper()", "weight": 0.14, "family": "format_variant"}
+{"question": "Give me the transcript in all caps.", "answer": "text.strip().upper()", "weight": 0.15, "family": "format_variant"}
+{"question": "Listen to the audio and give me the transcript in all caps.", "answer": "text.strip().upper()", "weight": 0.13, "family": "format_variant"}
+{"question": "Transcribe this and write the whole transcript in lowercase.", "answer": "text.strip().lower()", "weight": 0.16, "family": "format_variant"}
+{"question": "Listen to this and write the whole transcript in lowercase.", "answer": "text.strip().lower()", "weight": 0.14, "family": "format_variant"}
+{"question": "Write out what is said, all in lower case.", "answer": "text.strip().lower()", "weight": 0.14, "family": "format_variant"}
+{"question": "Listen and write out what is said, all in lower case.", "answer": "text.strip().lower()", "weight": 0.12, "family": "format_variant"}
+{"question": "Transcribe this clip and format the transcript in title case.", "answer": "text.strip().title()", "weight": 0.11, "family": "format_variant"}
+{"question": "Listen to this clip and format the transcript in title case.", "answer": "text.strip().title()", "weight": 0.09, "family": "format_variant"}
+{"question": "Transcribe this and collapse any repeated spacing into single spaces.", "answer": "' '.join(text.split())", "weight": 0.12, "family": "format_variant"}
+{"question": "Listen to this and transcribe it, collapsing any repeated spacing into single spaces.", "answer": "' '.join(text.split())", "weight": 0.1, "family": "format_variant"}
